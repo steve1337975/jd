@@ -1,30 +1,31 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country LT — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1073741824; download=1073741824; total=1435592818688; expire=1823283159
+# subscription-userinfo: upload=2147483648; download=2147483648; total=1435592818688; expire=1823284289
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/11/2026 19:32:39
-# servers-count: 21
+# generated-at: 10/11/2026 19:51:29
+# servers-count: 22
 
-ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info# By EbraSha 🩸
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?&type=ws&headerType=none&host=vms.lifetime09.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9LT-10
-vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.21:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 🌃
-vless://c387a6c8-5c79-4019-bb4e-fa39d53374d6@li.zainet.tech:443?security=reality&encryption=none&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=li.zainet.tech&sid=7b3e8a2f9c1d4e6a# By EbraSha 🧲
-ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ@195.238.126.20:9086#LT   SHADOWSOCKS-TCP-NTLS - Melbikomas UAB  195.238.126.20
-ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068# By EbraSha 💻
-vless://71b91642-93ed-4923-8cab-877e19bfc2d6@cloud.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 🧨
+vless://d448490d-4ee6-442f-80e1-5e1c186c4ce1@94.176.234.161:443?security=reality&encryption=none&pbk=UpI0XKNUsMJ24XawPQ8g7br1faEsO7BOvmIIGg9Wrm8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=dbb2ef1c7c# By EbraSha 🌪️
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.51:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 🦂
+vless://c387a6c8-5c79-4019-bb4e-fa39d53374d6@li.zainet.tech:443?security=reality&encryption=none&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&headerType=&type=tcp&flow=xtls-rprx-vision&sni=li.zainet.tech&sid=7b3e8a2f9c1d4e6a# By EbraSha 📶
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.21:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 📛
 vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?mode=auto&amp;path=%2Fpabloping%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=u1.pabloping.cloud&amp;type=xhttp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%BCCW-1
-vless://c387a6c8-5c79-4019-bb4e-fa39d53374d6@li.zainet.tech:3443?mode=packet-up&path=/service/publikationen/download&security=reality&encryption=none&extra={"xmux":{"cMaxReuseTimes":8,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"headers":{},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&host=li.zainet.tech&type=xhttp&sni=li.zainet.tech&sid=7b3e8a2f9c1d4e6a# By EbraSha 🚧
+vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?mode=auto&amp;path=%2Fpabloping%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=u1.pabloping.cloud&amp;type=xhttp# By EbraSha 🌍
+vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir# By EbraSha 🔐
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@auth.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=711ad7f475c35e5e# By EbraSha ⛓️
+vmess://eyJhZGQiOiI4NS4yMDYuMTY1LjM2IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIOKcqCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?&type=ws&headerType=none&host=vms.lifetime09.workers.dev&path=%2F# By EbraSha ⛓️
 vless://d448490d-4ee6-442f-80e1-5e1c186c4ce1@94.176.234.161:443?security=reality&encryption=none&pbk=UpI0XKNUsMJ24XawPQ8g7br1faEsO7BOvmIIGg9Wrm8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=dbb2ef1c7c#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9LT-5
-vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@80.209.238.60:443?encryption=none&security=reality&sni=b58e68t.lt1.h1clayd.click&fp=random&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&sid=2301ac8aee8bf6d4&type=tcp# By EbraSha ⚙️
-vless://d448490d-4ee6-442f-80e1-5e1c186c4ce1@94.176.234.161:443?security=reality&encryption=none&pbk=UpI0XKNUsMJ24XawPQ8g7br1faEsO7BOvmIIGg9Wrm8&headerType=&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=dbb2ef1c7c# By EbraSha ♦️
-vless://71b91642-93ed-4923-8cab-877e19bfc2d6@103.139.51.51:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.figmafound.org&sid=711ad7f475c35e5e# By EbraSha ⛓️
-vmess://eyJhZGQiOiI4NS4yMDYuMTY1LjM2IiwiYWlkIjo2NCwiaG9zdCI6IiIsImlkIjoiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfqbgiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 🌍
-vless://42e0d02c-b75c-4b9d-bc15-773aa3cbe6bc@88.216.67.230:2052?mode=auto&amp;path=%2Fpabloping%23TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;security=none&amp;encryption=none&amp;host=u1.pabloping.cloud&amp;type=xhttp# By EbraSha ⌨️
-vless://71b91642-93ed-4923-8cab-877e19bfc2d6@auth.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=auth.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 🦅
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?&type=ws&headerType=none&host=vms.lifetime09.workers.dev&path=%2F# By EbraSha 📛
-vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627# By EbraSha ✨
-vless://359b9ad3-0009-4655-8872-d0ab566751d3@45.81.58.159:2096?path=%2Fws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=newgen14.hozheen.ir&fp=chrome&type=ws&allowInsecure=0&sni=e832b8629fff3263.hozheen.ir# By EbraSha 🦇
-ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039# By EbraSha 🚧
+vless://c387a6c8-5c79-4019-bb4e-fa39d53374d6@li.zainet.tech:3443?mode=packet-up&path=/service/publikationen/download&security=reality&encryption=none&extra={"xmux":{"cMaxReuseTimes":8,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"headers":{},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&pbk=F5fFt0rWebsWQBjRX8sHDkYqoZF2ElQ2uFpB5MpEyXY&host=li.zainet.tech&type=xhttp&sni=li.zainet.tech&sid=7b3e8a2f9c1d4e6a# By EbraSha 🧨
+ss://14b59caf-a196-4ec2-8c70-c7b388062f5b@89.116.250.135:443?path=%2Frdfgtws&security=tls&encryption=none&insecure=0&host=vangoghhh.info&type=ws&allowInsecure=0&sni=vangoghhh.info# By EbraSha 👑
+vless://f90b7d43-69e2-4b46-a672-8029bc6796a2@80.209.238.60:443?encryption=none&security=reality&sni=b58e68t.lt1.h1clayd.click&fp=random&pbk=MbRONgV8ADD5B_aKDBv15LAW2a8QZok5bkkZexRRVAs&sid=2301ac8aee8bf6d4&type=tcp# By EbraSha 🔋
+ss://YWVzLTI1Ni1jZmI6bXdnUmc5aFJxM2I0UW53Yg==@195.238.126.20:9068# By EbraSha 🧿
+ss://YWVzLTI1Ni1jZmI6MzdaNFRGQ1loZnhjcGM5UQ@195.238.126.20:9086#LT   SHADOWSOCKS-TCP-NTLS - Melbikomas UAB  195.238.126.20
+ss://YWVzLTI1Ni1jZmI6cVlFTjVIWDRKS2VWQ2RFQw==@195.238.126.84:9039# By EbraSha 🦈
+vless://71b91642-93ed-4923-8cab-877e19bfc2d6@cloud.figmafound.org:443?security=reality&encryption=none&pbk=H5CXI4RvEWW0TFPvFrnF1iX-05Y57ZYMMngjmkMfv24&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloud.figmafound.org&sid=711ad7f475c35e5e# By EbraSha 👑
+vless://790910c3-9a97-4375-998a-fcc36b0a2902@88.119.165.131:443?security=reality&encryption=none&pbk=_AIb5QbjYK6iJBx6UpDqVBoFyUA_nkiHrj7gZrASDwc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=repo1.maven.org&sid=bbfe4bd7d5dd0627# By EbraSha ⚔️
+vmess://ewogICAgImFkZCI6ICI4NS4yMDYuMTY1LjM2IiwKICAgICJhaWQiOiA2NCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiYmE0OWFiMDUtNzhmOC00YjBiLTk0MDAtMTgyNmNjMmQzZjc1IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ex8J+HuUxULTg1LjIwNi4xNjUuMzYtMDgzOCIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@89.116.180.30:8880?&type=ws&headerType=none&host=vms.lifetime09.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9LT-10
+trojan://humanity@195.181.244.216:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome# By EbraSha 🪬
