@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country KR #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=2147483648; download=8589934592; total=1435592818688; expire=1823284289
+# subscription-userinfo: upload=1073741824; download=2147483648; total=1435592818688; expire=1823296874
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/11/2026 19:51:29
-# servers-count: 3
+# generated-at: 10/11/2026 23:21:14
+# servers-count: 4
 
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания
+vless://cb2abff3-5fe6-4b5a-aa19-5739deb285b6@34.22.111.30:443?security=reality&pbk=M0QKczb2MzOH45qDViIAbb9LPrVVyCp880D4HlwIKnA&sid=8685f8b4d9f4f51e&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F&fp=ios#🇰🇷 Южная Корея
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?flow=xtls-rprx-vision&fp=chrome&host=%2F%3Fjoin_telegram%40marambashi_marambashi_marambashi_marambashi&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇰🇷 Южная Корея
 ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA@211.178.105.134:6123#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания
