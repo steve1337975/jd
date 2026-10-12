@@ -1,10 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN WHITE #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=3221225472; total=1435592818688; expire=1823357919
+# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823359661
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 16:18:39
-# servers-count: 1
+# generated-at: 10/12/2026 16:47:41
+# servers-count: 10
 
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&sid=5ee019e02e6ed99a&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA--TELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇵🇱 Польша
+vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@rwyisq.edge-assets.ru:443?encryption=none&type=xhttp&path=%2Fapi%2Fv1%2Fvjycfvml%2Fsync%2F&host=rwyisq.edge-assets.ru&mode=packet-up&extra=%7B%22mode%22%3A%22packet-up%22%2C%22uplinkHTTPMethod%22%3A%22PUT%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22uplinkDataPlacement%22%3A%22body%22%7D&security=tls&sni=rwyisq.edge-assets.ru&alpn=h2%2Chttp%2F1.1&fp=qq#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%7C%20%5B%2ACIDR%5D
+vless://6e58f644-bc22-4dae-824a-4c3a760dc7a1@91.215.41.42:443?alpn=h2%2Chttp%2F1.1&encryption=none&extra=null&fp=ios&host=rwyisq.edge-assets.ru&mode=packet-up&path=%2Fapi%2Fv1%2Fvjycfvml%2Fsync%2F&security=tls&sni=rwyisq.edge-assets.ru&type=xhttp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2331
+vless://6d2bddc8-605e-4c7d-b69d-a7462b736c21@95.129.236.149:443?alpn=http%2F1.1&encryption=none&fp=firefox&path=%2Fgateway%2Fv1%2Fws%2F74c4d5e82a8e50ccf09fc628c17dc9be&security=tls&sni=d.nehtar.ru&type=ws#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://a58f5798-69ef-40c7-a038-cae3a0ed031a@45.11.26.99:443?encryption=none&fp=firefox&mode=auto&path=/&pbk=KlybaLW0-grtjEATyTVFIYoWIaoW-Duxi4lcM54_t2U&security=reality&sni=ads.x5.ru&type=xhttp#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇷🇺 Россия
+vless://53b0a30f-74ec-46f2-8cef-cd7d55372e1a@185.229.9.79:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lIgF8B3ICGAQ6ExbRe9YDu8ZD1Ozzqu7-YO7hfuXfRw&security=reality&sid=cc8069f6c2cbcb32&sni=api.ok.ru&spx=%2F&type=raw#AetrisVPN White list ┃ ✅ SNI: api.ok.ru ┃ 🇩🇪 Германия
+vless://6b96f8ca-7501-4962-a2cf-c6e1b472a7f3@87.242.94.66:7452?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&security=reality&sid=190c27ae5f2e4d2c&sni=passport.yandex.ru&spx=%2F&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2343
+vless://a5893c8b-28a2-4947-9a1c-708db25506c3@185.229.9.176:46018?type=grpc&security=reality&encryption=none&sni=ligastavok.ru&fp=firefox&pbk=een4U3X5mnY1gH2swiakXS9BJ8P4omf8Qp_s8sTp_3Y&sid=68ae5e7c11f80af5&headerType=none&mode=gun#AetrisVPN White list ┃ ✅ SNI: ligastavok.ru ┃ 🇷🇺 Россия
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAM@MIGAVPNPRO&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇵🇱 Польша
+vless://c5b5ef33-819e-4972-9a5a-4ad91f38507f@185.229.9.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=fsyvGBPzzwpnSA0UnJML_cDqviNSEdj9zktpC1EeFhY&security=reality&sid=743541f932fa3959&sni=yandex.ru&type=raw#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%E2%80%94%20%2320
