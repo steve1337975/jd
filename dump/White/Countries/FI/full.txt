@@ -1,13 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country FI — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=3221225472; download=8589934592; total=1435592818688; expire=1823308418
+# subscription-userinfo: upload=9663676416; download=9663676416; total=1435592818688; expire=1823334456
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 02:33:38
-# servers-count: 4
+# generated-at: 10/12/2026 09:47:36
+# servers-count: 6
 
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.139:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
+vless://fd1d80da-3b27-457a-810b-2b28a309edc1@95.85.251.93:8443?security=reality&encryption=none&pbk=my0kaAJFk3-xpoZNZ0i-a8SsX7Y9fUP8bHsQILUK6hk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&sid=18a1ed60#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇬🇧 Великобритания
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия
-vless://8bd04756-3beb-4348-82c9-d35453df50ce@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия
-vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇫🇮 Финляндия
 vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&encryption=none&sni=www.google.com&fp=chrome&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sid=d368b94e275ab080&type=tcp&headerType=none&path=/#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://8bd04756-3beb-4348-82c9-d35453df50ce@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия
