@@ -58,7 +58,7 @@ namespace NChecker.classes
             string headerName = $"VPN {filterType.ToString().ToUpper()} — Full";
             SubscriptionHeaderData headerData = new(headerName, servers.Length);
 
-            string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', servers.Select(s => s.Url));
+            string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', servers.Select(s => s.GetExportUrl()));
             await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
         }
 
@@ -77,7 +77,7 @@ namespace NChecker.classes
 
                 SubscriptionHeaderData headerData = new($"VPN {protocolName.ToUpper()} — Full", protocolServers.Length);
 
-                string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', protocolServers.Select(s => s.Url));
+                string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', protocolServers.Select(s => s.GetExportUrl()));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
                 await WritePartiallyAsync(path, $"VPN {protocolName.ToUpper()}", protocolServers, settings.MaxLinesPerFile);
@@ -98,7 +98,7 @@ namespace NChecker.classes
 
                 SubscriptionHeaderData headerData = new($"VPN Country {countryCode} — Full", countryServers.Length);
 
-                string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', countryServers.Select(s => s.Url));
+                string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', countryServers.Select(s => s.GetExportUrl()));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
                 await WritePartiallyAsync(path, $"VPN Country {countryCode}", countryServers, settings.MaxLinesPerFile);
@@ -136,7 +136,7 @@ namespace NChecker.classes
 
                 for (int j = 0; j < serversInThisFile; j++)
                 {
-                    stringBuilder.AppendLine(servers[startIndex + j].Url);
+                    stringBuilder.AppendLine(servers[startIndex + j].GetExportUrl());
                 }
 
                 string fileName = $"part_{i + 1}.txt";

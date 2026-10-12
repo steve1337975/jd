@@ -12,17 +12,28 @@ namespace NChecker.models
     internal class ServerData
     {
         internal static string[] testUrls = { "http://cloudflare.com", "http://gstatic.com" };
-
-        // Все свойства имеют дефолтные безопасные значения на случай ошибок парсинга
-        internal string Url { get; private set; } = string.Empty;
+        // Сырые и распарсенные данные сервера
+         string Url { get;  set; } = string.Empty;
         internal string Protocol { get; private set; } = "unknown";
         internal string Address { get; private set; } = "unknown";
         internal int Port { get; private set; } = 0;
-        internal string Name { get; private set; } = "Unnamed";
-        internal string CountryCode { get; private set; } = "UNK";
-        internal long TcpPing { get; private set; } = -1;
-        internal bool IsAlive { get; private set; }
+
+        // Оригинальное имя из подписки (какое было изначально)
+        internal string OriginalName { get; private set; } = "Unnamed";
+
+        // Текущее имя (которое пойдет на экспорт)
+        internal string Name { get; set; } = "Unnamed";
+
+        // Параметры запроса (всё, что шло после '?' в vless/ss/trojan)
+        // Пригодится, если настройки потребуют сохранить параметры сети (security, sni и т.д.)
+        internal Dictionary<string, string> QueryParameters { get; private set; } = new();
+
+        // Сетевые свойства (заполняются в App)
+        internal string CountryCode { get; set; } = "UNK";
+        internal long TcpPing { get; set; } = -1;
+        internal bool IsAlive { get; set; }
         internal SubscriptionData Subscription { get; set; }
+
         internal ServerData(string row)
         {
             if (string.IsNullOrWhiteSpace(row)) return;
@@ -41,11 +52,10 @@ namespace NChecker.models
                          row.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase) ||
                          row.StartsWith("shadowsocks://", StringComparison.OrdinalIgnoreCase))
                 {
-                    ParseStandardVpnUri(row);
+                    ParseStandardUri(row);
                 }
                 else
                 {
-
                     ParseGenericFallback(row);
                 }
             }
@@ -54,8 +64,6 @@ namespace NChecker.models
                 Protocol = "broken";
             }
         }
-
-        #region Приватные методы безопасного парсинга строк
 
         private void ParseVmess(string row)
         {
@@ -72,49 +80,56 @@ namespace NChecker.models
             if (jsonModel != null)
             {
                 Address = jsonModel.Address ?? "unknown";
-
-                // Используем Convert.ToInt32, так как в JSON порт может прилететь и строкой "443", и числом 443
                 Port = Convert.ToInt32(jsonModel.Port ?? 0);
 
-                Name = !string.IsNullOrEmpty(jsonModel.Remarks)
-                    ? HttpUtility.UrlDecode(jsonModel.Remarks)
+                string parsedName = !string.IsNullOrEmpty(jsonModel.Remarks)
+                    ? HttpUtility.UrlDecode(jsonModel.Remarks).Trim()
                     : "Unnamed VMess";
+
+                OriginalName = parsedName;
+                Name = parsedName;
             }
         }
 
-        private void ParseStandardVpnUri(string row)
+        private void ParseStandardUri(string row)
         {
             int schemeBounds = row.IndexOf("://");
             if (schemeBounds == -1) return;
 
             Protocol = row.Substring(0, schemeBounds).ToLower();
-
-            // Извлекаем имя сервера (всё, что после знака '#')
             string mainPart = row.Substring(schemeBounds + 3);
+
+            // 1. Вытаскиваем оригинальное имя сервера (после '#')
             int hashIndex = mainPart.IndexOf('#');
             if (hashIndex != -1)
             {
                 string rawName = mainPart.Substring(hashIndex + 1);
-                Name = HttpUtility.UrlDecode(rawName).Trim();
-                mainPart = mainPart.Substring(0, hashIndex); // Отрезаем имя от сетевой части
+                string parsedName = HttpUtility.UrlDecode(rawName).Trim();
+
+                OriginalName = parsedName;
+                Name = parsedName;
+
+                mainPart = mainPart.Substring(0, hashIndex);
             }
 
-            // Извлекаем параметры запроса (всё, что после знака '?')
+            // 2. Вытаскиваем параметры запроса (после '?')
             int queryIndex = mainPart.IndexOf('?');
             if (queryIndex != -1)
             {
+                string queryString = mainPart.Substring(queryIndex + 1);
+                ParseQueryString(queryString);
+
                 mainPart = mainPart.Substring(0, queryIndex);
             }
 
-            // Отсекаем userInfo (токен или base64 авторизацию перед знаком '@')
+            // 3. Отсекаем userInfo (токен/пароль до '@')
             int atIndex = mainPart.LastIndexOf('@');
             string connectionPart = atIndex != -1 ? mainPart.Substring(atIndex + 1) : mainPart;
 
-            // Вытаскиваем IP/Хост и Порт
+            // 4. Парсим адрес и порт
             int portIndex = connectionPart.LastIndexOf(':');
             if (portIndex != -1)
             {
-                // Очищаем от квадратных скобок на случай IPv6 адресов: [2001:db8::1]
                 Address = connectionPart.Substring(0, portIndex).Trim('[', ']');
                 if (int.TryParse(connectionPart.Substring(portIndex + 1), out int parsedPort))
                 {
@@ -138,77 +153,73 @@ namespace NChecker.models
             }
         }
 
-        #endregion
-
-        #region Асинхронные тесты
-
-        async internal Task TestCountry(DatabaseReader a1)
+        private void ParseQueryString(string queryString)
         {
+            if (string.IsNullOrEmpty(queryString)) return;
+
+            // Бьем строку параметров на пары key=value
+            string[] pairs = queryString.Split('&');
+            foreach (string pair in pairs)
+            {
+                string[] kv = pair.Split('=');
+                if (kv.Length == 2)
+                {
+                    string key = HttpUtility.UrlDecode(kv[0]).ToLower().Trim();
+                    string value = HttpUtility.UrlDecode(kv[1]).Trim();
+                    QueryParameters[key] = value;
+                }
+            }
+        }
+
+        internal string GetExportUrl()
+        {
+            if (Protocol == "broken" || string.IsNullOrEmpty(Url)) return Url;
+
             try
             {
-                if (Address == "unknown" || Port == 0 || Protocol == "broken") return;
-
-                if (!IPAddress.TryParse(Address, out IPAddress? ip))
+                // Для VMess пересобираем Base64 JSON, чтобы обновить поле 'ps' (remarks)
+                if (Protocol.Equals("vmess", StringComparison.OrdinalIgnoreCase))
                 {
-                    using var cts = new CancellationTokenSource(800);
-                    IPAddress[] addresses = await Dns.GetHostAddressesAsync(Address, cts.Token);
+                    int schemeBounds = Url.IndexOf("://");
+                    if (schemeBounds == -1) return Url;
 
-                    ip = addresses.FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork)
-                         ?? addresses.FirstOrDefault();
+                    string base64Part = Url.Substring(schemeBounds + 3).Trim();
+                    int mod4 = base64Part.Length % 4;
+                    if (mod4 > 0) base64Part += new string('=', 4 - mod4);
+
+                    byte[] bytes = Convert.FromBase64String(base64Part);
+                    string jsonString = Encoding.UTF8.GetString(bytes);
+
+                    var jsonModel = JsonConvert.DeserializeObject<VmessJsonModel>(jsonString);
+                    if (jsonModel != null)
+                    {
+                        jsonModel.Remarks = Name; // Подставляем переименованное имя
+
+                        string updatedJson = JsonConvert.SerializeObject(jsonModel, Formatting.None);
+                        string updatedBase64 = Convert.ToBase64String(Encoding.UTF8.GetBytes(updatedJson));
+
+                        return "vmess://" + updatedBase64;
+                    }
+                    return Url;
                 }
 
-                if (ip == null) return;
-
-                var response = a1.Country(ip);
-                CountryCode = response.Country.IsoCode ?? "UNK";
+                // Для VLESS, Shadowsocks и Trojan просто отрезаем старое имя после '#' и приклеиваем новое
+                int hashIndex = Url.IndexOf('#');
+                if (hashIndex != -1)
+                {
+                    string urlWithoutName = Url.Substring(0, hashIndex);
+                    // Имя кодируем обратно через UrlEncode, так как в ссылках спецсимволы и пробелы недопустимы
+                    return $"{urlWithoutName}#{HttpUtility.UrlEncode(Name)}";
+                }
+                else
+                {
+                    return $"{Url}#{HttpUtility.UrlEncode(Name)}";
+                }
             }
             catch
             {
-                CountryCode = "UNK";
+                return Url; // В случае любой непредвиденной ошибки возвращаем исходную строку
             }
         }
-
-        async internal Task TestTcpPing(SettingsData a1)
-        {
-            IsAlive = false;
-            TcpPing = -1;
-
-            // Быстрый отсев заведомо сломанных строк
-            if (Address == "unknown" || Port == 0 || Protocol == "broken") return;
-
-            try
-            {
-                using TcpClient client = new TcpClient();
-                client.LingerState = new LingerOption(true, 0);
-
-                Stopwatch stopwatch = Stopwatch.StartNew();
-
-                // Ограничиваем максимальный таймаут до разумных 3 секунд для облачных серверов
-                int timeoutSeconds = Math.Min(a1.Timeout, 3);
-                using var cts = new CancellationTokenSource(TimeSpan.FromSeconds(timeoutSeconds));
-
-                // .NET при отмене токена разорвет системный сокет и освободит ресурсы
-                await client.ConnectAsync(Address, Port, cts.Token);
-                stopwatch.Stop();
-
-                if (client.Connected)
-                {
-                    TcpPing = stopwatch.ElapsedMilliseconds;
-                    IsAlive = true;
-
-                    // На GitHub Actions лог каждой строки не пишем, чтобы не тормозить I/O консоли
-                    if (a1.Logging && Environment.GetEnvironmentVariable("GITHUB_ACTIONS") != "true")
-                        Console.WriteLine($"[TCP +] {Address}:{Port} / {TcpPing} ms");
-
-                    return;
-                }
-            }
-            catch { }
-
-            if (a1.Logging && Environment.GetEnvironmentVariable("GITHUB_ACTIONS") != "true")
-                Console.WriteLine($"[TCP -] {Address}:{Port}");
-        }
-
-        #endregion
     }
 }
