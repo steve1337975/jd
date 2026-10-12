@@ -1,92 +1,108 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country TW — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823379496
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 19:26:58
-# servers-count: 83
+# generated-at: 10/12/2026 22:18:16
+# servers-count: 99
 
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.135.193-3622
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy0yMyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-1346
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidjJyYXlOcGx1cy0tdjJyYXlOcGx1cy0tdjJyYXlOcGx1cyIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMTgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.135.193-3603
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sni=buylite.music.apple.com&sid=6c6c7c97#%5BOpenRay%5D%20%F0%9F%8C%90XX-2419
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&sni=buylite.music.apple.com&type=tcp&headerType=none&host=3696b38bsg.murphyweb.sbs&path=%2F&fp=qq#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwicG9ydCI6IjM1MDM0Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy00In0=
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-10
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=safari&type=tcp&sni=addons.mozilla.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1152
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#
-ss://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org# By EbraSha 📟
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.31-3283
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiLyIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctOCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwicG9ydCI6IjM1MDM0IiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy0xIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls# By EbraSha 🌪️
-vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlbyIsInBvcnQiOiI1MjMwMCIsInBzIjoiQnkgRWJyYVNoYSDwn4OPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none# By EbraSha 🦂
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMjQiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIiwidmNuIjoiIiwicGNzIjoiIn0=
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls# By EbraSha 🪐
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls# By EbraSha 🦈
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org# By EbraSha 🦈
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJyYXciLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy0xNSIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoidjJyYXlucGx1cy0tdjJyYXlucGx1cy0tdjJyYXlucGx1cyIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMjkiLCJzbmkiOiJ2MnJheW5wbHVzLS12MnJheW5wbHVzLS12MnJheW5wbHVzIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1341
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsIm5ldCI6InRjcCIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMiIsInRscyI6IiIsInR5cGUiOiJ2bWVzcyIsInYiOiIyIn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377# By EbraSha 🕷️
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiL3ZsL3hRaE5lN3JMcmRNMGVtWmxhVzVMTXNOd2NvSWduVCIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMzAiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org# By EbraSha 🖥️
-vmess://eyJ2IjoiMiIsInBzIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgNUM3Q0E5IiwiYWRkIjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJwb3J0IjoiNTIzMDAiLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvdmlkZW8iLCJ0bHMiOiIiLCJob3N0IjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=safari&type=tcp&sni=addons.mozilla.org# By EbraSha 📼
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuYW1lIjoiVFcg8J+HufCfh7wgfCBAUmF5ZGlrYWx4IHwgODI2NTI3IiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOjM1MDM0LCJwcyI6IkJ5IEVicmFTaGEg8J+TgCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInZjbiI6IiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-3408
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls# By EbraSha 🚧
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-3328
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls# By EbraSha 🦂
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMTkiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOjM1MDM0LCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-3625
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=safari&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none# By EbraSha 🧲
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org# By EbraSha 📶
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls# By EbraSha 🦾
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-3214
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6MCwiaG9zdCI6InYycmF5bnBsdXMtLXYycmF5bnBsdXMtLXYycmF5bnBsdXMiLCJpZCI6Ijk1OWE4Y2FmLTRjZWEtNDNkMC1hNTQ4LTM2MjhlN2RkZmFmYyIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMzUwMzQiLCJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTEzIiwic25pIjoidjJyYXlucGx1cy0tdjJyYXlucGx1cy0tdjJyYXlucGx1cyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwibmV0IjoicmF3IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMjAiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1877
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy0zIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlbyIsInBvcnQiOiI1MjMwMCIsInBzIjoiQnkgRWJyYVNoYSDwn4yAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&type=raw&packetEncoding=xudp&sni=buylite.music.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=6c6c7c97&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4#%5BOpenRay%5D%20%F0%9F%8C%90XX-2482
-vmess://eyJ2IjoiMiIsInBzIjoiVFcgXHVkODNjXHVkZGY5XHVkODNjXHVkZGZjIFx1MjUwNyBWTUVTUy1UQ1AtTlRMUyAtIFNjbG91ZCBQdGUgTHRkIFx1MjUwNyAxNjUuMTU0LjE5NS4zOCIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzQsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUifQ
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?type=tcp&security=reality&sni=addons.mozilla.org&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#TW   VLESS-TCP-RLT - Data Communication Business Group  118.167.248.243
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.128.151-3350
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.128.151-3564
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 689
-vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiQnkgRWJyYVNoYSDwn4yMIiwic2N5IjoiYXV0byIsInNuaSI6Im1kay5tZG1la2psbC5iZXN0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls# By EbraSha ✨
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 206
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJbT3BlblJheV0g8J+HufCfh7xUVy0xMSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiQnkgRWJyYVNoYSDwn5qsIiwic2N5IjoiYXV0byIsInNuaSI6Im1kay5tZG1la2psbC5iZXN0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls# By EbraSha ⚔️
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 804
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMjgiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 127
-vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZTU3MTQ4NC00MTY2LTQ2OTktOGY1OC1iMzRhMTgyMzY5MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8iLCJwb3J0IjoiNTIzMDAiLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-3452
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls# By EbraSha 🔮
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJob3N0IjoidjJyYXlucGx1cy0tdjJyYXlucGx1cy0tdjJyYXlucGx1cyIsImlkIjoiOTU5YThjYWYtNGNlYS00M2QwLWE1NDgtMzYyOGU3ZGRmYWZjIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIzNTAzNCIsInBzIjoiW09wZW5SYXldIPCfh7nwn4e8VFctMTYiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2N5IjoiYXV0byIsImFscG4iOiIiLCJmcCI6IiJ9
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=random&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-796
+vmess://eyJwcyI6IvCfh7nwn4e8IFRhaXdhbiwgVGFveXVhbiB8IFtCTF0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+ss://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org#By+EbraSha+%f0%9f%a6%be
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=firefox&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-1079
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#By+EbraSha+%f0%9f%93%80
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.130-3452
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#By+EbraSha+%e2%99%a3%ef%b8%8f
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 951
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?&security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&fp=chrome&sni=buylite.music.apple.com&type=tcp&headerType=none&host=buylite.music.apple.com&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-2091
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTE3IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%5b%f0%9f%87%b9%f0%9f%87%bc%5d+%5bvl-re-ra%5d+%5b261013-005409.654%5d
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJwb3J0IjoiNTIzMDAifQ==
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#By+EbraSha+%f0%9f%8e%9b%ef%b8%8f
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjozNTAzNH0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.152.229-3214
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTEwIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTE5IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#By+EbraSha+%f0%9f%96%a5%ef%b8%8f
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTciLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJwb3J0IjoiNTIzMDAifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#
+vmess://eyJwcyI6IvCfh7nwn4e8IFRhaXdhbiwgVGFveXVhbiB8IFtCTF0iLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#By+EbraSha+%f0%9f%8c%83
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-220.128.128.151-3564
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTQiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.152.229-3328
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pmj77iPIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjozNTAzNH0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTMiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTE1IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?security=reality&sni=addons.mozilla.org&type=tcp&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#%5bOpenRay%5d+%f0%9f%87%b9%f0%9f%87%bcTW-21
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTIzIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+ss://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#By+EbraSha+%f0%9f%a7%a8
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTEyIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTE0IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+SoyIsImFkZCI6ImhpLm5vcnRoY2x1c3Rlci5pbmZvIiwicG9ydCI6IjUyMzAwIn0=
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-220.128.135.193-3603
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTI5IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&sni=buylite.music.apple.com&type=tcp&headerType=none&host=3696b38bsg.murphyweb.sbs&path=%2F&fp=firefox#%f0%9f%87%ad%f0%9f%87%b0+Hong+Kong%2c+Hong+Kong+%7c+%5bBL%5d
+vmess://eyJwcyI6Ilvwn4e58J+HvF0gW3ZtLW5vLXJhXSBbMjYxMDEzLTAxMDAzMy4xNDFdIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls#
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#By+EbraSha+%f0%9f%94%a5
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?type=tcp&security=reality&sni=addons.mozilla.org&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#TW+++VLESS-TCP-RLT+-+Data+Communication+Business+Group++118.167.248.243
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#By+EbraSha+%f0%9f%9a%ac
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@23.146.248.149:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=android#%f0%9f%87%ac%f0%9f%87%a7+United+Kingdom%2c+London+%7c+%5bBL%5d
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MkCIsImFkZCI6ImhpLm5vcnRoY2x1c3Rlci5pbmZvIiwicG9ydCI6IjUyMzAwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTI4IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&amp;encryption=none&amp;pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&amp;headerType=none&amp;type=tcp&amp;sni=addons.mozilla.org#By+EbraSha+%f0%9f%aa%90
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg==@61.216.165.233:2377#By+EbraSha+%e2%9a%a1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.31-3283
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#%5bOpenRay%5d+%f0%9f%8c%90XX-1265
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.130-3408
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#By+EbraSha+%f0%9f%a9%b8
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=chrome&type=tcp&sni=addons.mozilla.org#%f0%9f%87%b9%f0%9f%87%bc%5bopenproxylist.com%5d+vless-TW
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=safari&type=tcp&sni=addons.mozilla.org#By+EbraSha+%f0%9f%a6%88
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#By+EbraSha+%f0%9f%94%90
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#
+vmess://eyJwcyI6Ilvwn4e58J+HvF0gW3ZtLW5vLXJhXSBbMjYxMDEzLTAxMDAzMy4xNzZdIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.130-3406
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTIiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoibWRrLm1kbWVramxsLmJlc3QiLCJwb3J0IjoiODAifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-220.128.135.193-3622
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#By+EbraSha+%f0%9f%8c%91
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.co.ua:8443?security=tls#
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp# By EbraSha 🌑
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-3671
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.80.130-3406
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?&security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&fp=chrome&sni=buylite.music.apple.com&type=tcp&headerType=none&host=3696b38bsg.murphyweb.sbs&path=%2F# By EbraSha 🛰️
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.dp.ua:8443?security=tls#⚡ b2n.ir/v2ray-configs | 103
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls# By EbraSha 🤖
-vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&encryption=none&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=buylite.music.apple.com&sid=6c6c7c97&fp=ios#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%2C%20Hong%20Kong%20%7C%20%5BBL%5D
-vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZTU3MTQ4NC00MTY2LTQ2OTktOGY1OC1iMzRhMTgyMzY5MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8iLCJwb3J0IjoiNTIzMDAiLCJwcyI6IkJ5IEVicmFTaGEg8J+TsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls# By EbraSha 🚧
+vmess://eyJwcyI6IlRXIPCfh7nwn4e8IOKUhyBWTUVTUy1UQ1AtTlRMUyAtIFNjbG91ZCBQdGUgTHRkIOKUhyAxNjUuMTU0LjE5NS4zOCIsImFkZCI6IjE2NS4xNTQuMTk1LjM4IiwicG9ydCI6MzUwMzR9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-220.128.128.151-3350
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=random&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-738
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&security=reality&sni=addons.mozilla.org&type=tcp#By+EbraSha+%f0%9f%9b%9c
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-1269
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.if.ua:8443?security=tls#
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#By+EbraSha+%f0%9f%93%bc
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+UkCIsImFkZCI6ImhpLm5vcnRoY2x1c3Rlci5pbmZvIiwicG9ydCI6IjUyMzAwIn0=
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTEiLCJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsInBvcnQiOiIzNTAzNCJ9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.130-3625
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.248.243:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%87%b9%f0%9f%87%bcTW-9
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTE4IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjozNTAzNH0=
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@23.146.248.149:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=qq#%f0%9f%87%ac%f0%9f%87%a7+United+Kingdom%2c+London+%7c+%5bBL%5d
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=safari&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#By+EbraSha+%f0%9f%92%a3
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTIyIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kiev.ua:8443?security=tls#By+EbraSha+%f0%9f%8c%aa%ef%b8%8f
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#
+vmess://eyJwcyI6Ilvwn4e58J+HvF0gW3ZtLW5vLXJhXSBbMjYxMDEzLTAxMDA1NS4yNTZdIiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?security=reality&encryption=none&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&headerType=none&fp=safari&type=tcp&sni=addons.mozilla.org#%5bOpenRay%5d+%f0%9f%8c%90XX-1085
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pmm77iPIiwiYWRkIjoibWRrLm1kbWVramxsLmJlc3QiLCJwb3J0IjoiODAifQ==
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+Vtu+4jyIsImFkZCI6Im1kay5tZG1la2psbC5iZXN0IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4e58J+HvFRXLTI3IiwiYWRkIjoiMTY1LjE1NC4xOTUuMzgiLCJwb3J0IjoiMzUwMzQifQ==
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?security=reality&encryption=none&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=buylite.music.apple.com&sid=6c6c7c97#%f0%9f%87%ad%f0%9f%87%b0%5bopenproxylist.com%5d+vless-HK
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nvyIsImFkZCI6ImhpLm5vcnRoY2x1c3Rlci5pbmZvIiwicG9ydCI6IjUyMzAwIn0=
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#By+EbraSha+%f0%9f%9a%a8
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sni=addons.mozilla.org#%5bOpenRay%5d+%f0%9f%8c%90XX-1764
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls#
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls#%f0%9f%87%b9%f0%9f%87%bcTW-60.250.80.130-3671

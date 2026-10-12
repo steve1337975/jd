@@ -1,22 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country VN — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823379496
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 19:26:58
-# servers-count: 13
+# generated-at: 10/12/2026 22:18:16
+# servers-count: 14
 
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-9
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-56
-vmess://eyJhZGQiOiIxMDMuMTY2LjE4My4yMjYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5G+Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-11
-vmess://eyJhZGQiOiIxMDMuNTYuMTYwLjE4NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIOKaoSIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
-vmess://ewogICAgImFkZCI6ICIxMDMuMTY2LjE4My4yMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi90YW5kdW5nMjg4LmNsaWNrIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hu/Cfh7NWTi0xMDMuMTY2LjE4My4yMjYtMDM0NyIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImRsLmtndm4uZ2FyZW5hbm93LmNvbSIKfQ==
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none# By EbraSha 🖥️
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-36
-vmess://eyJhZGQiOiIxMDMuNzUuMTg2LjE1MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfjJAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5SMIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome# By EbraSha 📱
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?encryption=none&security=tls&type=tcp&host=e79dbcd4s783.gogocs.xyz&sni=u695098ue79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-28
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F# By EbraSha 🦈
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nqCIsImFkZCI6IjEwMy41Ni4xNjAuMTg0IiwicG9ydCI6ODB9
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#By+EbraSha+%f0%9f%95%b9%ef%b8%8f
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s785.ccgfw.online:443?encryption=none&type=tcp&fp=firefox&host=e79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision&security=tls&sni=u695098ue79dbcd4s783.gogocs.xyz&alpn=h2%2Chttp%2F1.1#%5bOpenRay%5d+%f0%9f%8c%90XX-513
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+bnCIsImFkZCI6IjEwMy4xNjYuMTgzLjIyNiIsInBvcnQiOjgwfQ==
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-11
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+noCIsImFkZCI6IjEwMy44Mi4yNS4xMDYiLCJwb3J0Ijo4MH0=
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#By+EbraSha+%f0%9f%8c%80
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s785.ccgfw.online:443?encryption=none&type=tcp&fp=firefox&host=e79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision&security=tls&sni=u695098ue79dbcd4s783.gogocs.xyz&alpn=h2%2Chttp%2F1.1#By+EbraSha+%f0%9f%9a%ac
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#By+EbraSha+%f0%9f%aa%96
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-54
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?encryption=none&security=tls&type=tcp&host=e79dbcd4s783.gogocs.xyz&sni=u695098ue79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-27
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-35
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwiYWRkIjoiMTAzLjc1LjE4Ni4xNTMiLCJwb3J0Ijo4MH0=
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-9

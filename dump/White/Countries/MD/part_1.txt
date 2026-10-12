@@ -1,11 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country MD #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823379496
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 19:26:58
-# servers-count: 2
+# generated-at: 10/12/2026 22:18:16
+# servers-count: 4
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&serviceName=hub.v1.SyncService&mode=gun#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&type=grpc&serviceName=app.v1.PushService&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=md2.univesalsrv.com&fp=chrome&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&serviceName=hub.v1.SyncService&mode=gun#%f0%9f%87%b2%f0%9f%87%a9+%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&type=grpc&serviceName=app.v1.PushService&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%f0%9f%87%b2%f0%9f%87%a9+%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#%f0%9f%87%b2%f0%9f%87%a9+%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&fp=chrome&type=grpc&serviceName=app.v1.PushService&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#%f0%9f%87%b2%f0%9f%87%a9+%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d0%b0
