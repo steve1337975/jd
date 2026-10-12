@@ -1,12 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country BY — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1073741824; download=1073741824; total=1435592818688; expire=1823283159
+# subscription-userinfo: upload=2147483648; download=6442450944; total=1435592818688; expire=1823334456
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/11/2026 19:32:39
-# servers-count: 3
+# generated-at: 10/12/2026 09:47:36
+# servers-count: 1
 
-vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club# By EbraSha 🦈
-vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-56
-vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=%2F%3Ftelegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-43
+vless://5b5e4cbf-2366-499a-8327-0cd9918c687d@189.74.124.83:443?security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&host=/@Net2ray&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=console.surfweb.club# By EbraSha 🌍

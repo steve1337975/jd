@@ -1,12 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country NL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1073741824; download=1073741824; total=1435592818688; expire=1823283159
+# subscription-userinfo: upload=0; download=8589934592; total=1435592818688; expire=1823334456
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/11/2026 19:32:39
-# servers-count: 3
+# generated-at: 10/12/2026 09:47:36
+# servers-count: 1
 
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?flow=xtls-rprx-vision&fp=chrome&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&security=reality&sid=00353c&sni=apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&sid=00353c&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇫🇷 Франция
 vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
