@@ -24,7 +24,7 @@
         void SetTimestamp(DateTime a1) => timestamp = ((DateTimeOffset)a1.ToUniversalTime()).ToUnixTimeSeconds();
         internal string GetHeaderString()
         {
-            return $"# subscription-userinfo: upload={uploadBytes}; download={downloadBytes}; total={totalBytes}; expire={timestamp}";
+            return $"# subscription-userinfo: upload={uploadBytes};download={downloadBytes};total={totalBytes};expire={timestamp}";
         }
     }
 }

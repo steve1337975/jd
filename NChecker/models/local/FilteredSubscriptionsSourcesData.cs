@@ -5,6 +5,7 @@
     {
         public string SubscriptionType { get; set; } = SubscriptionFilterType.Black.ToString();
         public string Url { get; set; } = string.Empty;
+        public bool Enabled { get; set; } = true;
         internal SubscriptionFilterType GetFilter()
         {
             return (SubscriptionFilterType)Enum.Parse(typeof(SubscriptionFilterType), SubscriptionType);

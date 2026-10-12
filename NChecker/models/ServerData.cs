@@ -146,13 +146,10 @@ namespace NChecker.models
         {
             try
             {
-                // Защита: если адрес не распарсился, выходим
                 if (Address == "unknown" || Port == 0 || Protocol == "broken") return;
 
                 if (!IPAddress.TryParse(Address, out IPAddress? ip))
                 {
-                    // На GitHub Actions жестко зажимаем таймаут DNS-запроса до 800мс.
-                    // Без этого битые домены будут намертво вешать потоки проверки!
                     using var cts = new CancellationTokenSource(800);
                     IPAddress[] addresses = await Dns.GetHostAddressesAsync(Address, cts.Token);
 
