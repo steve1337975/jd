@@ -134,9 +134,11 @@ namespace NChecker
 
             ServerData[] black = finalAliveServers
                 .Where(x => x.Subscription.FilterType == SubscriptionFilterType.Black)
+                .OrderBy(x => x.TcpPing)
                 .ToArray();
             ServerData[] white = finalAliveServers
                 .Where(x => x.Subscription.FilterType == SubscriptionFilterType.White)
+                .OrderBy(x => x.TcpPing)
                 .ToArray();
             await exporterManager.ExportBlack(settings, black);
             await exporterManager.ExportWhite(settings, white);

@@ -20,16 +20,16 @@ namespace NChecker.models
         internal int Port { get; private set; } = 0;
         internal string Name { get; private set; } = "Unnamed";
         internal string CountryCode { get; private set; } = "UNK";
-        internal long TcpPing { get; set; } = -1;
+        internal long TcpPing { get; private set; } = -1;
+        internal bool IsAlive { get; private set; }
         internal SubscriptionData Subscription { get; set; }
-        internal bool IsAlive { get; set; }
         internal ServerData(string row)
         {
             if (string.IsNullOrWhiteSpace(row)) return;
 
             row = row.Trim();
             Url = row;
-            
+
             try
             {
                 if (row.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))

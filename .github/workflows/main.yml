@@ -17,7 +17,7 @@ permissions:
 
 concurrency:
   group: vpn-checker
-  cancel-in-progress: true # ѕерезапускаем, если прилетел новый пуш
+  cancel-in-progress: true
 
 jobs:
   check:
@@ -33,7 +33,6 @@ jobs:
         with:
           dotnet-version: "6.0.x"
 
-      # «апускаем чекер в один поток на всю базу
       - name: Run NChecker
         run: dotnet run --project ./NChecker/NChecker.csproj --configuration Release
 
