@@ -1,10 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country IE — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=3221225472; download=7516192768; total=1435592818688; expire=1823296874
+# subscription-userinfo: upload=4294967296; download=9663676416; total=1435592818688; expire=1823308418
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/11/2026 23:21:14
-# servers-count: 1
+# generated-at: 10/12/2026 02:33:38
+# servers-count: 5
 
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?security=reality&type=tcp&packetEncoding=none&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&sid=ce6767c3f1&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇬🇧 Великобритания
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&sni=vk.com&packetEncoding=none&encryption=none#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇬🇧 Великобритания
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&sni=vk.com&packetEncoding=none#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇬🇧 Великобритания
+vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?security=reality&type=tcp&sni=vk.com&fp=chrome&flow=xtls-rprx-vision&sid=ce6767c3f1&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇬🇧 Великобритания
 vless://7f86f371-5a85-48be-babc-7af1ae7ffb75@198.55.102.59:4443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=9gYnZLxZAPxIKzu9e-cOLBpbCn9p9og9gBodOCh5HB8&sid=ce6767c3f1&sni=vk.com&encryption=none#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇬🇧 Великобритания
