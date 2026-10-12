@@ -1,12 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country SC #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=4294967296; download=7516192768; total=1435592818688; expire=1823357919
+# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 16:18:39
-# servers-count: 3
+# generated-at: 10/12/2026 19:26:58
+# servers-count: 2
 
-vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@45.12.63.165:8443?path=%2Fxhttp&security=reality&encryption=none&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&fp=firefox&type=xhttp&sni=cdn-de.cahmes.space&sid=35cd2022241da999#🇸🇨 SC
 vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@hk3n.wxgqlfx.vip:35193?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&sid=e8daed2d&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
 vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193?security=reality&type=tcp&sni=www.apple.com&fp=firefox&flow=xtls-rprx-vision&sid=e8daed2d&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&encryption=none#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇫🇷 Франция
