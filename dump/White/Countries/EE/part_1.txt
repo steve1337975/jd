@@ -1,16 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country EE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823444600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 19:26:58
-# servers-count: 7
+# generated-at: 10/13/2026 16:23:20
+# servers-count: 6
 
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F&encryption=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&sni=max.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@ee-1-1.unturned-rust-dead.lol:443?type=grpc&security=reality&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&sni=ee-1-1.unturned-rust-dead.lol&serviceName=ee-grpc#🇪🇪 Эстония
-vless://f219800f-9c62-46c9-b518-df996f754b61@38.180.216.110:20861?type=tcp&headerType=none&security=reality&encryption=mlkem768x25519plus.native.0rtt.2k0jZl0aQn__-3TwASbL-_6TwzW1EX3eijpGTcPOCAY&sni=amd.com&fp=firefox&pbk=5d3R0LwRP61nCvkcSy7j3byPLnC7U3fucNyec4UHRyc&sid=2759&spx=%2FVCWT2tXIF7CnS6V&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&sni=max.ru&encryption=none#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f
+vless://f219800f-9c62-46c9-b518-df996f754b61@38.180.216.110:20861?type=tcp&headerType=none&security=reality&encryption=mlkem768x25519plus.native.0rtt.2k0jZl0aQn__-3TwASbL-_6TwzW1EX3eijpGTcPOCAY&sni=amd.com&fp=firefox&pbk=5d3R0LwRP61nCvkcSy7j3byPLnC7U3fucNyec4UHRyc&sid=2759&spx=%2FVCWT2tXIF7CnS6V&flow=xtls-rprx-vision#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+amd.com+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F&encryption=none#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%aa%f0%9f%87%aa+%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d1%8f

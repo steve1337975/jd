@@ -1,325 +1,401 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country JP #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=274877906944; expire=1823369218
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823444600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/12/2026 19:26:58
-# servers-count: 316
+# generated-at: 10/13/2026 16:23:20
+# servers-count: 392
 
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-496
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🕷️
-trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls# By EbraSha 🌃
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome# By EbraSha 🌐
-vmess://eyJhZGQiOiJ0eW8yLmF1c3RyYWxpYWNhcmVncm91cC5zaXRlIiwiYWlkIjoiMCIsImlkIjoiYWVjOGU1ZTMtYmI4MS00YjIyLTg4MDItMGI4OGM1NDk5N2IzIiwibmV0IjoidGNwIiwicG9ydCI6IjEwMDAxIiwicHMiOiJCeSBFYnJhU2hhIPCflIwiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6MCwiaG9zdCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOjM2MDExLCJwcyI6IkJ5IEVicmFTaGEg8J+MgyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOmZhbHNlLCJ0eXBlIjpudWxsLCJ2IjoyfQ==
-trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome# By EbraSha 🧬
-trojan://UX82473651@43.207.198.39:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fancy-javelin.rooster465.autos# By EbraSha 🧊
-vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=&fp=chrome&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&sid=8d66106f&spx=/HesarWeb#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-162
-trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&peer=comic-poodle.rooster465.autos&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  54.249.36.167
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6MCwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNjAxMSwicHMiOiJCeSBFYnJhU2hhIPCfpoIiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?type=tcp&security=reality&sni=github.com&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-30
-trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#⚡ b2n.ir/v2ray-configs | 312
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-221
-vless://9ee57d03-dcf5-488b-aff7-305301879353@31.77.29.47:443?security=reality&encryption=none&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=0&sni=stable-python.rooster465.autos# By EbraSha ⛓️
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?allowInsecure=0&sni=equipped-stingray.rooster465.autos# By EbraSha ✨
-trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-467
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🌐
-vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0# By EbraSha ⚔️
-trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?allowInsecure=1&sni=www.alibaba.com&type=ws&host=www.alibaba.com&path=/# By EbraSha 💣
-trojan://UX82473651@54.238.153.132:443?security=tls&sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-31
-vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCfpr4iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNDAuODMuNTcuMjAiLCJhaWQiOiIwIiwiaG9zdCI6InNnLjExMTYwMzIxLmRlNS5uZXQiLCJpZCI6IjFmMDFlMzg5LWZiY2ItNDk0Yy1lNDZhLTIxMGVjMzYzMjljMiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTMxMTgiLCJwcyI6IkJ5IEVicmFTaGEg8J+OryIsInNjeSI6ImF1dG8iLCJzbmkiOiJzZy4xMTE2MDMyMS5kZTUubmV0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1SlAtMTA3IiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MCwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoiYXV0byIsInNuaSI6IiIsImFscG4iOiJodHRwLzEuMSIsImZwIjoiY2hyb21lIn0=
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoidXM0LmF1c3RyYWxpYWNhcmVncm91cC5zaXRlIiwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjM4MDEiLCJwcyI6IkJ5IEVicmFTaGEg8J+bsO+4jyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none# By EbraSha 🎯
-trojan://UX82473651@13.230.139.12:443?sni=brief-glider.rooster465.autos&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-246
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome# By EbraSha 📟
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzhmY2VkMC04OTg3LTQ1MDQtYjhjZi0xNWFjYTljYmI4MmU=@gw.lydwan.com:35601# By EbraSha 🧩
-trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-9
-vmess://eyJ2IjoiMiIsInBzIjoi5pyq55+lNjMiLCJhZGQiOiIyMTAuMTM4LjM3LjUzIiwicG9ydCI6IjQ0MyIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiRHJCS2cxNmVHZjNGWmxNMy52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsInRscyI6InRscyIsInNuaSI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInRlc3RfbmFtZSI6IjYzIn0=
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDEyLTE0NTEyMi45NTddIn0K
-trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-70
-trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome# By EbraSha 📀
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-35
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#⚡ b2n.ir/v2ray-configs | 410
-trojan://UX82473651@52.192.45.137:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-112
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🔌
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOjgwLCJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTE2MCIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0=
-vless://440f986b-9469-4d80-adf0-01ba37af73c5@japro02.xyy123.bid:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=6d962e8d8a0dce&sni=shop.business.amazon.com&spx=/293K8gMuY1vKKRg&type=tcp# By EbraSha 🚀
-trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  18.183.167.216
-vmess://eyJhZGQiOiJjYzI4LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzI4LmdvaW5nc2lkZS5zaXRlIiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6Ijg5OTgiLCJwcyI6IkJ5IEVicmFTaGEg8J+qkCIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?type=grpc&security=reality&sni=ads.x5.ru&fp=firefox&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad#GB   VLESS-GRPC-RLT  31.76.91.138
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InJhdyIsInBhdGgiOiIvIiwicG9ydCI6IjM2MDExIiwicHMiOiJCeSBFYnJhU2hhIPCfg48iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d@47.74.3.200:443?security=reality&encryption=none&pbk=kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk&host=www.logitech.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.logitech.com&sid=ab3b914f0c9d9de5#⚡ b2n.ir/v2ray-configs | 81
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 🔥
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos# By EbraSha 🧨
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#⚡ b2n.ir/v2ray-configs | 508
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1SlAtMTczIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCIsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwiaG9zdCI6ImpwMDEuYTBhLnh5eiJ9
-trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-1412
-trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-280
-ss://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&amp;encryption=none&amp;pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tesla.com&amp;sid=034885e346fd30# By EbraSha 👾
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDE0NEEyIiwiYWRkIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIxYWJlNDlkZWRiNmU0ZjY1YTBmMGE1ZWE3OWRkZWZhZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwidGxzIjoidGxzIn0=
-trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&type=tcp&fp=chrome# By EbraSha 👾
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNDAxIiwicHMiOiJCeSBFYnJhU2hhIOKMqO+4jyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1867
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha 🧊
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?&security=tls&fp=chrome&sni=x.m-90.xyz&type=ws&headerType=none&host=x.m-90.xyz&path=t.me%2FTEAMNETGRATISCOL#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-214
-trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=normal-macaque.rooster465.autos# By EbraSha 🚨
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@129.225.175.227:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-155
-vmess://eyJhZGQiOiJxZGl5c2x5LWcwNS5qcDA2LWp6LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwiYWlkIjoiMSIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3IiwibmV0IjoidGNwIiwicG9ydCI6IjI4Nzg3IiwicHMiOiJCeSBFYnJhU2hhIPCfjJAiLCJzY3kiOiJhdXRvIiwic25pIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?encryption=none&type=ws&path=/vless/&packetEncoding=xudp# By EbraSha 🛸
-vless://fdc48be3-a615-41ac-8bd1-ed844c931048@216.23.122.125:443?&security=tls&fp=chrome&sni=edgetunnel-4uw.pages.dev&type=ws&headerType=none&host=edgetunnel-4uw.pages.dev&path=/# By EbraSha ♠️
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM2MDExIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBCNzI1MEEiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://UX82473651@54.238.153.132:443?type=tcp&security=tls&sni=obliging-louse.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-92
-trojan://UX82473651@52.192.217.187:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=evolving-platypus.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-114
-trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-196
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNDUyODVGIiwiYWRkIjoiY2MyOC5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNjMjguZ29pbmdzaWRlLnNpdGUiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@129.225.175.227:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz# By EbraSha 🧩
-trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&allowInsecure=0&type=tcp# By EbraSha 🔐
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t14.qifei.app:443?security=reality&type=tcp&sni=www.amazon.com&fp=chrome&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&encryption=none# By EbraSha ♦️
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🌌
-trojan://UX82473651@18.176.52.171:443?security=tls&sni=legible-ram.rooster465.autos# By EbraSha 🌍
-trojan://UX82473651@43.207.89.91:443?type=tcp&security=tls&sni=organic-caribou.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-108
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-98
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&sni=github.com#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-243
-vless://7b102311-43fd-4e8f-877e-8090623c101d@proxyip.jp.cmliussss.net:443?&security=tls&fp=chrome&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=/#%5BOpenRay%5D%20%F0%9F%8C%90XX-2270
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@161.33.29.51:443?&security=tls&fp=chrome&sni=asia.csmaster.site&type=ws&headerType=none&host=asia.csmaster.site&path=%2F# By EbraSha 👑
-trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 🗿
-trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🧊
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?security=reality&type=tcp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-216
-trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos# By EbraSha 🪐
-trojan://UX82473651@43.207.89.91:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=organic-caribou.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-131
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-48
-trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-984
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-95
-vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&sid=8d66106f&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-144
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#
-trojan://CF68213490@free-hare.rooster465.autos:443?security=tls#⚡ b2n.ir/v2ray-configs | 729
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&fp=chrome&path=/#%5BOpenRay%5D%20%F0%9F%8C%90XX-167
-trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=0&sni=warm-krill.rooster465.autos# By EbraSha 🧊
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-236
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&allowInsecure=1&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%5BOpenRay%5D%20%F0%9F%8C%90XX-2480
-trojan://UX82473651@normal-macaque.rooster465.autos:443?allowInsecure=1&sni=normal-macaque.rooster465.autos#Join+Telegram:@Farah_VPN
-vless://980df025-74b9-4853-93e8-fb813006d7e5@203.137.165.164:57554?path=/@Marisa_kristi&security=tls&encryption=none&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&type=ws&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&ech=cloudflare-ech.com#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-142
-vmess://eyJhZGQiOiJVY0tuaVhqZmQySk9LQm14LnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJVY0tuaVhqZmQySk9LQm14LnYuM2Rucy52aXAiLCJpZCI6IjFhYmU0OWRlZGI2ZTRmNjVhMGYwYTVlYTc5ZGRlZmFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn4yAIiwic2N5IjoiYXV0byIsInNuaSI6IlVjS25pWGpmZDJKT0tCbXgudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1615
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos# By EbraSha 🛜
-vmess://eyJhZGQiOiIxNzIuMTA0Ljc4Ljk4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI5MjcwOTRkMy1kNjc4LTQ3NjMtODU5MS1lMjQwZDBiY2FlODciLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2hhdCIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCflJAiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImFpZCI6MCwiaG9zdCI6IjE3Mi4xMTEuMTQ2LjY0IiwiaWQiOiIwNWI4Yzc4My03ZjU5LTQ3ZjktOTkyMy0wNmE0NjU2NzlmNmEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MvIiwicG9ydCI6IjgwIiwicHMiOiJbT3BlblJheV0g8J+Hr/Cfh7VKUC0yMzAiLCJzbmkiOiIxNzIuMTExLjE0Ni42NCIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&sid=8d66106f#[🇯🇵] [vl-re-ra] [261012-144939.612]
-trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1417
-trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1987
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-152.175.36.18-3412
-trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1000
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-263
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos# By EbraSha 🎛️
-trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-21
-trojan://UX82473651@43.207.198.39:443?sni=fancy-javelin.rooster465.autos&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-56
-trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls# By EbraSha 🧿
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos# By EbraSha 🧿
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws# By EbraSha 🛡️
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sni=www.cloudflare.com&sid=091e1c5db8451757#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-179
-trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&peer=stable-python.rooster465.autos&security=tls#US   TROJAN-TCP-TLS - AMAZON-02  13.193.213.184
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443# By EbraSha ♠️
-vless://ac76a374-7447-4dab-bfa9-b7f83a7a7946@152.69.192.144:20802?&type=tcp&headerType=none&path=%2F#🇯🇵 Япония
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?security=tls&sni=concrete-aardvark.rooster465.autos# By EbraSha 🕷️
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNDAxIiwicHMiOiJCeSBFYnJhU2hhIPCfp6oiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?type=tcp&security=tls&sni=lazeno.vip&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-41
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&peer=assuring-skink.rooster465.autos&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  176.34.5.100
-trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos&fp=chrome# By EbraSha 🦈
-trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-199
-trojan://UX82473651@warm-krill.rooster465.autos:443?type=tcp&security=tls&sni=warm-krill.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1221
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-205
-trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-168
-vless://ab2a5cc0-11d1-4bc4-a9d4-b5654ad18dc4@154.31.112.237:26418?&security=tls&fp=chrome&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws&headerType=&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi# By EbraSha 🖥️
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-195
-trojan://UX82473651@43.207.198.39:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fancy-javelin.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-122
-vless://a853e120-3570-462b-aec1-e8f3d4f92d24@178.239.117.24:443?security=tls&type=ws&path=%2F&host=asia.csmaster.site&sni=asia.csmaster.site&fp=chrome&encryption=none# By EbraSha 🌌
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0# By EbraSha 🪖
-vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@jumpernode.online:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=5ea30fc4&fp=chrome&sni=yp.amazon.com&type=tcp&headerType=none&host=jumpernode.online&path=%2F# By EbraSha 📟
-trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&peer=live-stallion.rooster465.autos&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  3.112.188.176
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfjJBYWC00NSIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjIwNDAxIiwidHlwZSI6Im5vbmUiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsImFpZCI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsImhvc3QiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsInRscyI6IiJ9
-trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&peer=warm-krill.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-127
-vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCflbfvuI8iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-219
-vless://23af32ca-bea1-4a5e-bebb-04d1b1b633bc@japro02.xyy123.bid:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=6d962e8d8a0dce&fp=chrome&sni=p-nt-www-amazon-com-kalias.amazon.com&type=tcp&headerType=none&host=p-nt-www-amazon-com-kalias.amazon.com&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-2024
-vmess://eyJhZGQiOiJKM056MHpBMHIxM0FvVmhILnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJKM056MHpBMHIxM0FvVmhILnYuM2Rucy52aXAiLCJpZCI6IjFhYmU0OWRlZGI2ZTRmNjVhMGYwYTVlYTc5ZGRlZmFkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6aFIiwic2N5IjoiYXV0byIsInNuaSI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?security=reality&encryption=none&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&host=v2rayNplus--v2rayNplus--v2rayNplus--&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.sony.com&sid=03653bc03be10c97#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-83
-trojan://CF68213490@free-hare.rooster465.autos:443?security=tls# By EbraSha 🔐
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4886
-trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=1&sni=legible-ram.rooster465.autos# By EbraSha 🎯
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls# By EbraSha 🌃
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&alpn=http%2F1.1&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-224
-trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos# By EbraSha 📀
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-27
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none# By EbraSha 🚨
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1118
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjIwNDAxIiwicHMiOiJCeSBFYnJhU2hhIPCfkb4iLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://UX82473651@stable-python.rooster465.autos:443?type=tcp&security=tls&sni=stable-python.rooster465.autos&fp=chrome# By EbraSha 💣
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-253
-vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCfkLoiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-867
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJOb25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTI1MiJ9
-vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-94
-trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos# By EbraSha 📟
-trojan://UX82473651@13.231.247.130:443?allowInsecure=0&fp=chrome&security=tls&sni=concrete-aardvark.rooster465.autos&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-232
-vmess://eyJhZGQiOiIxNDAuMjM4LjU1Ljg0IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBFNkQ0NEQiLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgODY3RkMzIiwiYWRkIjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJwb3J0IjozNjAxMSwiYWlkIjowLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiIiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#
-trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos# By EbraSha 👑
-trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2361
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?type=tcp&security=tls&sni=optimal-penguin.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-203
-trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos# By EbraSha 💣
-vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?flow=xtls-rprx-vision&headertype=none&path=%2F%2B&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&security=reality&sid=034885e346fd30&sni=www.tesla.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-217
-trojan://ND91608427@sincere-gelding.rooster465.autos:443?security=tls# By EbraSha 🕷️
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&sni=github.com# By EbraSha 🦂
-trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-1335
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F%2B#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-15
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2278
-ss://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&amp;encryption=none&amp;pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sid=8d66106f# By EbraSha ⛓️
-trojan://UX82473651@evident-ant.rooster465.autos:443?allowInsecure=0&sni=evident-ant.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-555
-trojan://CF68213490@smashing-fawn.rooster465.autos:443?security=tls# By EbraSha ♣️
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-1070
-trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#🇯🇵[openproxylist.com] trojan-JP
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&security=reality&sni=jp3.nztvpn.com&fp=firefox&flow=xtls-rprx-vision&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287#JP   VLESS-TCP-RLT - Leaseweb Japan K.K.  142.91.108.25
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-399
-trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%8C%90XX-1055
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#🏳[openproxylist.com] trojan-
-vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&sni=www.tesla.com&sid=034885e346fd30#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-254
-trojan://UX82473651@43.207.89.91:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-109
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?&security=tls&fp=chrome&sni=x.m-90.xyz&type=ws&headerType=none&host=x.m-90.xyz&path=t.me%2FTEAMNETGRATISCOL# By EbraSha ⚔️
-vmess://eyJhZGQiOiIxNTYuMjMxLjExNi4xNTYiLCJhaWQiOjAsImhvc3QiOiJpbWFnZXMtbmEuc3NsLWltYWdlcy1hbWF6b24uY29tIiwiaWQiOiI5ZWJlY2Y1ZS1iMTYwLTQzYmQtODA2ZS01NGNkOTk0ZmM0YzMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaW1hZ2UiLCJwb3J0IjoiODA4MCIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgMzQ3N0IyIiwic25pIjoiaW1hZ2VzLW5hLnNzbC1pbWFnZXMtYW1hem9uLmNvbSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRUYwOUE2IiwiYWRkIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInBvcnQiOiIyODc4NyIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3IiwiYWlkIjoiMSIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoidGxzIiwic25pIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCJ9
-trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🚬
-trojan://UX82473651@54.249.36.167:443?type=tcp&security=tls&sni=comic-poodle.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-183
-vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-268
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sni=www.cloudflare.com&sid=091e1c5db8451757#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-227
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos# By EbraSha 🪖
-trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&peer=internal-krill.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-2668
-trojan://UX82473651@54.250.237.143:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=accurate-frog.rooster465.autos# By EbraSha 🧲
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?sni=evolving-platypus.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🚀
-trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-36
-vless://7b102311-43fd-4e8f-877e-8090623c101d@64.204.49.68:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=%2Ffp%3Dfirefox# By EbraSha 🥷
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=0&sni=allowed-poodle.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1151
-trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=0&sni=legible-ram.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1553
-vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiMTcyLjExMS4xNDYuNjQiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDEyLTE0NTE0MS41NzVdIn0K
-vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCfp78iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://UX82473651@18.183.212.83:443?sni=normal-macaque.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🌌
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?type=tcp&security=tls&sni=concrete-aardvark.rooster465.autos# By EbraSha ⚔️
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 🔋
-vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@38.207.130.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=5ea30fc4&sni=yp.amazon.com&type=tcp# By EbraSha 🦅
-trojan://UX82473651@54.65.177.190:443?sni=winning-marten.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-271
-vmess://eyJhZGQiOiJrbmVOYUtIZVNYblpIMjU5LnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJrbmVOYUtIZVNYblpIMjU5LnYuM2Rucy52aXAiLCJpZCI6Ijg4ODg4ODg4LTg4ODgtODg4OC04ODg4LTg4ODg4ODg4ODg4OCIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCflIwiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoia25lTmFLSGVTWG5aSDI1OS52LjNkbnMudmlwIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#
-trojan://UX82473651@live-stallion.rooster465.autos:443?allowInsecure=0&sni=live-stallion.rooster465.autos# By EbraSha 👑
-vmess://eyJhZGQiOiJ0eW8yLmF1c3RyYWxpYWNhcmVncm91cC5zaXRlIiwiYWlkIjoiMCIsImlkIjoiYWVjOGU1ZTMtYmI4MS00YjIyLTg4MDItMGI4OGM1NDk5N2IzIiwibmV0IjoidGNwIiwicG9ydCI6IjEwMDAxIiwicHMiOiJCeSBFYnJhU2hhIPCflIsiLCJzY3kiOiJhdXRvIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-603
-trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls# By EbraSha ⚙️
-trojan://UX82473651@43.207.89.91:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=organic-caribou.rooster465.autos#Join+Telegram:@Farah_VPN
-vmess://eyJhZGQiOiJVY0tuaVhqZmQySk9LQm14LnYuM2Rucy52aXAiLCJhaWQiOiIwIiwiaG9zdCI6IlVjS25pWGpmZDJKT0tCbXgudi4zZG5zLnZpcCIsImlkIjoiMWFiZTQ5ZGVkYjZlNGY2NWEwZjBhNWVhNzlkZGVmYWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCfpr4iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=0&type=tcp# By EbraSha 🌐
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#🏳[openproxylist.com] trojan-
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#Join+Telegram:@Farah_VPN
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1228
-trojan://NQ26071394@one-dove.rooster465.autos:443?security=tls# By EbraSha 👑
-trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 💣
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1SlAtNjIiLCJhZGQiOiIxNjguMTM4LjQzLjc1IiwicG9ydCI6ODAsImlkIjoiMTFjMzYyN2YtMzFlOC00Njk1LWRmYmQtMzQwNzZlMmYxZjVkIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwicGF0aCI6Ii9jY3R2MTMubTN1OCJ9
-trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-266
-trojan://UX82473651@evident-ant.rooster465.autos:443?type=tcp&security=tls&sni=evident-ant.rooster465.autos&fp=chrome# By EbraSha ⚔️
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoianAwMS5hMGEueHl6IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6SWIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-trojan://UX82473651@54.250.237.143:443?type=tcp&security=tls&sni=accurate-frog.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-161
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM2MDExIiwicHMiOiJCeSBFYnJhU2hhIPCfqbgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=1&sni=warm-krill.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-719
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1959
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#⚡ b2n.ir/v2ray-configs | 932
-vmess://eyJhZGQiOiJxZGl5c2x5LWcwNS5qcDA2LWp6LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwiYWlkIjoiMSIsImlkIjoiMmNlMDA1YjQtZTU3YS0zNjcwLWJlODgtNjBlZWViMDc4YmI3IiwibmV0IjoidGNwIiwicG9ydCI6IjI4Nzg3IiwicHMiOiJCeSBFYnJhU2hhIPCfmqwiLCJzY3kiOiJhdXRvIiwic25pIjoicWRpeXNseS1nMDUuanAwNi1qei12bTAuZW50cnkuZnIwNTI4LmFydCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://UX82473651@13.193.213.184:443?sni=stable-python.rooster465.autos&allowInsecure=0# By EbraSha 🚬
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-1953
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM2MDExIiwicHMiOiJCeSBFYnJhU2hhIPCfmqciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-trojan://UX82473651@amazed-mako.rooster465.autos:443?allowInsecure=1&sni=amazed-mako.rooster465.autos# By EbraSha 📱
-trojan://UX82473651@13.230.91.226:443?security=tls&sni=musical-terrier.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-118
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@64.110.97.200:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-247
-trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-2685
-trojan://UX82473651@176.34.5.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=assuring-skink.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-29
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🕷️
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&packetEncoding=none&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%5BOpenRay%5D%20%F0%9F%8C%90XX-2724
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?type=tcp&security=tls&sni=evolving-platypus.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2107
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&peer=accurate-frog.rooster465.autos&security=tls#JP   TROJAN-TCP-TLS - AMAZON-02  54.250.237.143
-trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-169
-trojan://UX82473651@internal-krill.rooster465.autos:443?sni=internal-krill.rooster465.autos&peer=internal-krill.rooster465.autos&security=tls# By EbraSha 🌃
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp3.nztvpn.com&fp=edge&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-215
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-918
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6/wn4e1SlAtMTYzIiwiYWRkIjoiMTAzLjEyNy4yNDMuNjYiLCJwb3J0IjoiNTQyOTEiLCJ0eXBlIjoibm9uZSIsImlkIjoiYzU4NTZlMGItNWNhNi00OWJmLTg1MjUtZDAyYWY5YzM3Y2Y1IiwiYWlkIjoiMCIsIm5ldCI6Imh0dHAiLCJwYXRoIjoiL0FCQ0RFIiwiaG9zdCI6IiIsInRscyI6IiJ9
-trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos# By EbraSha ♠️
-trojan://UX82473651@warm-krill.rooster465.autos:443?type=tcp&security=tls&sni=warm-krill.rooster465.autos# By EbraSha 🛸
-trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&allowInsecure=0# By EbraSha 🧿
-vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJpZCI6ImFlYzhlNWUzLWJiODEtNGIyMi04ODAyLTBiODhjNTQ5OTdiMyIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjM2MDExIiwicHMiOiJCeSBFYnJhU2hhIOKame+4jyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://UX82473651@54.249.55.154:443?type=tcp&security=tls&sni=prime-corgi.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-43
-trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-150
-trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&sni=stable-python.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1697
-trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-140
-trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome# By EbraSha ⚔️
-vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@jumpernode.online:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=5ea30fc4&fp=chrome&sni=yp.amazon.com&type=tcp&headerType=none&host=jumpernode.online&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-151
-trojan://0400697c-b581-4575-9d2f-0bbd4659312d@jp005.421421.xyz:20230?security=tls&sni=www.alibaba.com&type=ws&path=/&Host=www.alibaba.com#[openproxylist.com]
-trojan://UX82473651@54.238.153.132:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-208
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?security=tls&type=ws&path=%2Ft.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz&packetEncoding=xudp&sni=x.m-90.xyz&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-23
-trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-2225
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgQUJGREM3IiwiYWRkIjoib3IuNTIxMTY2Lnh5eiIsInBvcnQiOiIyMDgzIiwiaWQiOiJhYzI1MTIzNy01NzZmLTQwYzgtYTU0My01NTQ5NjBjOTU4YjEiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6InRscyIsInNuaSI6Im9yLjUyMTE2Ni54eXoiLCJwYXRoIjoiL29yMyJ9
-trojan://UX82473651@13.230.76.132:443?sni=equipped-stingray.rooster465.autos&type=tcp&fp=chrome# By EbraSha ♠️
-vless://d5fbd83b-7346-4ad9-94c0-76293724824d@54.178.110.17:4443?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-154
-trojan://UX82473651@54.238.153.132:443?allowInsecure=0&fp=chrome&security=tls&sni=obliging-louse.rooster465.autos&type=tcp# By EbraSha 👑
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-152.175.36.33-3458
-trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos# By EbraSha 🎯
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@43.207.166.104:443#⚡ b2n.ir/v2ray-configs | 992
-trojan://UX82473651@internal-krill.rooster465.autos:443?allowInsecure=1&sni=internal-krill.rooster465.autos# By EbraSha 🌌
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?&security=reality&flow=xtls-rprx-vision&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=&host=www.cloudflare.com&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-69
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-152.175.38.178-3485
-trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-1185
-vmess://ewogICAgImFkZCI6ICJrbmVOYUtIZVNYblpIMjU5LnYuM2Rucy52aXAiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJrbmVOYUtIZVNYblpIMjU5LnYuM2Rucy52aXAiLAogICAgImlkIjogIjg4ODg4ODg4LTg4ODgtODg4OC04ODg4LTg4ODg4ODg4ODg4OCIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi93cy12bWVzcyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ev8J+HtUpQLTQzLjE2NS4xNzQuNzYtMDUzNSIsCiAgICAidGxzIjogInRscyIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImtuZU5hS0hlU1huWkgyNTkudi4zZG5zLnZpcCIKfQ==
-trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos# By EbraSha 🧠
-trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-194
-vmess://eyJhZGQiOiJ3MTIubHVvbGkuZGUiLCJhaWQiOiIwIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoidzEyLmx1b2xpLmRlIiwiaWQiOiI0MmE5OTY0NC1iOTBiLTM2MjctODgwOS1hMmQ2YzQwNzhiNTkiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdjJ3cyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+TgCIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3MTIubHVvbGkuZGUiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&allowInsecure=0# By EbraSha ⌨️
-vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgREExRThGIiwiYWRkIjoidzEyLmx1b2xpLmRlIiwicG9ydCI6IjQ0MyIsImlkIjoiNDJhOTk2NDQtYjkwYi0zNjI3LTg4MDktYTJkNmM0MDc4YjU5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJ0bHMiOiJ0bHMiLCJmcCI6ImNocm9tZSIsInNuaSI6IncxMi5sdW9saS5kZSIsInBhdGgiOiIvdjJ3cyIsImhvc3QiOiJ3MTIubHVvbGkuZGUifQ==
-trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-124
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-106
-trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173# By EbraSha ⛓️
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1222
-trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos# By EbraSha 🗿
-trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-432
-vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2Ffp# By EbraSha ✨
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp3.nztvpn.com&fp=ios&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-74
-vless://e4cd263b-c5c7-4410-bf61-8893179ec429@jumpernode.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=6d962e8d8a0dce&sni=amazon.com&spx=%2F915TScVSG1NVQKZ&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-87
-trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🚨
-trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🖥️
-trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&headerType=none# By EbraSha 🛜
+trojan://UX82473651@legible-ram.rooster465.autos:443?security=tls&sni=legible-ram.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-215
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?security=tls&sni=promoted-rattler.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-2109
+trojan://UX82473651@13.230.91.226:443?sni=musical-terrier.rooster465.autos&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-241
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?allowInsecure=0&sni=equipped-stingray.rooster465.autos#By+EbraSha+%f0%9f%97%bf
+vless://45b4cd4c-3bd3-4838-b61e-031f75551dd5@203.137.165.164:57554?&security=tls&fp=chrome&packet-encoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&type=ws&headerType=none&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-9
+trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#By+EbraSha+%e2%9a%99%ef%b8%8f
+ss://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#By+EbraSha+%f0%9f%9a%80
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=1&type=tcp#By+EbraSha+%f0%9f%92%8e
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTc4IiwiYWRkIjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJwb3J0IjoyMDQwMX0=
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:12683?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-282
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-934
+trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?type=tcp&security=tls&sni=lazeno.vip&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-42
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos#By+EbraSha+%f0%9f%a4%96
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-192
+trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-90
+trojan://CF68213490@brief-warthog.rooster465.autos:443?security=tls#JP
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-184
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-1193
+trojan://UX82473651@warm-krill.rooster465.autos:443?sni=warm-krill.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-2507
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MkCIsImFkZCI6IjE3Mi4xMDUuMjM5LjI0MSIsInBvcnQiOjQ0M30=
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@207.148.97.59:443?flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=googleapis.com&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-179
+ss://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&amp;encryption=none&amp;pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp3.nztvpn.com&amp;sid=ea36c03d86f91287#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@3.112.188.176:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-217
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoidzEyLmx1b2xpLmRlIiwicG9ydCI6IjQ0MyJ9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+miCIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjM2MDExIn0=
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp#By+EbraSha+%f0%9f%90%89
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#By+EbraSha+%f0%9f%97%bf
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3e%3e%40V2rayNG3%3a%3aJP
+vless://05453546-201f-4e8d-97ae-fd70da0e951f@jpga01.jumpernode.site:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AgTktefiMM58y7f-KFgEtmVti_YJbd0GPSkxNeJ0RH4&sid=c8e49965&sni=amzn.com#By+EbraSha+%e2%9a%a1
+trojan://UX82473651@obliging-louse.rooster465.autos:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-435
+trojan://7076b233-c844-4bb0-a7e1-cf8f1fa824e9@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-159
+trojan://UX82473651@52.192.217.187:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=evolving-platypus.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1375
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TtiIsImFkZCI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMifQ==
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTI5NSIsImFkZCI6IjE3Mi4xMTEuMTQ2LjY0IiwicG9ydCI6ODB9
+trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#By+EbraSha+%f0%9f%9b%a1%ef%b8%8f
+trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#
+trojan://UX82473651@54.238.153.132:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=obliging-louse.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&allowInsecure=1&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#By+EbraSha+%f0%9f%8c%91
+trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-290
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#By+EbraSha+%f0%9f%a7%a0
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&amp;encryption=none&amp;pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=091e1c5db8451757#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@43.207.89.91:443?type=tcp&security=tls&sni=organic-caribou.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-115
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos#By+EbraSha+%f0%9f%9b%a1%ef%b8%8f
+trojan://UX82473651@live-stallion.rooster465.autos:443?allowInsecure=1&sni=live-stallion.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-982
+trojan://Trojan%4082164024@jp.tronsg.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#By+EbraSha+%f0%9f%93%bc
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1258
+trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?sni=lazeno.vip&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-239
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nrCIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjM2MDExIn0=
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#By+EbraSha+%f0%9f%a7%bf
+trojan://UX82473651@176.34.5.100:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=assuring-skink.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-29
+vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&host=/?telegram--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-11
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?sni=fancy-javelin.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1053
+trojan://UX82473651@18.176.52.171:443?sni=legible-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-291
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&sni=www.tesla.com&sid=034885e346fd30#%5b%f0%9f%87%af%f0%9f%87%b5%5d+%5bvl-re-ra%5d+%5b261013-143308.597%5d
+trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-137
+vless://440f986b-9469-4d80-adf0-01ba37af73c5@jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=6d962e8d8a0dce&fp=chrome&sni=shop.business.amazon.com&type=tcp&headerType=none&host=shop.business.amazon.com&path=%2F#By+EbraSha+%f0%9f%9b%b0%ef%b8%8f
+trojan://UX82473651@43.207.89.91:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-116
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443?security=reality&type=tcp&packetEncoding=none&sni=www.amazon.com&fp=ios&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-268
+trojan://UX82473651@52.192.45.137:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos#By+EbraSha+%f0%9f%8c%83
+trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos&fp=chrome#By+EbraSha+%f0%9f%8c%80
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?allowInsecure=1&sni=optimal-penguin.rooster465.autos#By+EbraSha+%f0%9f%a7%bf
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@54.238.153.132:443?security=tls&sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-31
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?type=tcp&security=tls&sni=optimal-penguin.rooster465.autos#By+EbraSha+%f0%9f%94%90
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTQzIiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOjgwfQ==
+trojan://UX82473651@13.230.76.132:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-91
+trojan://UX82473651@54.249.55.154:443?security=tls&sni=prime-corgi.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-33
+trojan://UX82473651@54.199.66.128:443?security=tls&sni=integral-rodent.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-207
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+SoyIsImFkZCI6IjIxMC4xMzguMzcuNTMiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TmyIsImFkZCI6Im9yLjUyMTE2Ni54eXoiLCJwb3J0IjoiMjA4MyJ9
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-219
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoib3IuNTIxMTY2Lnh5eiIsInBvcnQiOiIyMDgzIn0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJwb3J0IjoiMjM4MDEifQ==
+trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%96%a5%ef%b8%8f
+trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#By+EbraSha+%f0%9f%92%a3
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTcyLjExMS4xNDYuNjQiLCJwb3J0Ijo4MH0=
+trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=0&sni=warm-krill.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1910
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTQ5MCIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjIwNDAxIn0=
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&alpn=http%2F1.1&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&fp=firefox#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-242
+trojan://UX82473651@assuring-skink.rooster465.autos:443?sni=assuring-skink.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-95
+trojan://2ab72d48-de25-4ae7-aefe-722b3384245d@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-172
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?allowInsecure=1&insecure=1&security=tls&sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&headerType=none#By+EbraSha+%f0%9f%90%ba
+trojan://UX82473651@43.207.198.39:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=fancy-javelin.rooster465.autos#By+EbraSha+%f0%9f%95%b6%ef%b8%8f
+trojan://UX82473651@brief-glider.rooster465.autos:443?type=tcp&security=tls&sni=brief-glider.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-748
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#By+EbraSha+%f0%9f%96%a5%ef%b8%8f
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.204.49.68:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=%2Ffp%3Dfirefox#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-45
+trojan://UX82473651@amazed-mako.rooster465.autos:443?allowInsecure=1&sni=amazed-mako.rooster465.autos#By+EbraSha+%e2%99%a6%ef%b8%8f
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTQwLjIzOC41NS44NCIsInBvcnQiOiIyMDgzIn0=
+trojan://UX82473651@54.249.55.154:443?type=tcp&security=tls&sni=prime-corgi.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-44
+trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-37
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+boe+4jyIsImFkZCI6Im9yLjUyMTE2Ni54eXoiLCJwb3J0IjoiMjA4MyJ9
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&type=raw&sni=jp3.nztvpn.com&fp=firefox&flow=xtls-rprx-vision&sid=ea36c03d86f91287&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-174
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@stable-python.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=stable-python.rooster465.autos#By+EbraSha+%f0%9f%83%8f
+trojan://CF68213490@funny-hawk.rooster465.autos:443?security=tls#JP
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+Om++4jyIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6MzYwMTF9
+trojan://7076b233-c844-4bb0-a7e1-cf8f1fa824e9@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-245
+trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-228
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1775
+trojan://UX82473651@integral-rodent.rooster465.autos:443?security=tls&sni=integral-rodent.rooster465.autos#By+EbraSha+%e2%9c%a8
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&peer=organic-caribou.rooster465.autos&security=tls#JP+++TROJAN-TCP-TLS+-+AMAZON-02++43.207.89.91
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
 trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#
-trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos# By EbraSha 🚀
-trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=0&fp=chrome&security=tls&sni=accurate-frog.rooster465.autos&type=tcp# By EbraSha ⚡
-vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiYWlkIjowLCJob3N0IjoianAwMS5hMGEueHl6IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwb3J0IjoiODAiLCJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTI2NSIsInNuaSI6ImpwMDEuYTBhLnh5eiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-trojan://UX82473651@internal-krill.rooster465.autos:443?allowInsecure=0&sni=internal-krill.rooster465.autos# By EbraSha 🦂
-vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCfmqciLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?type=tcp&security=tls&sni=equipped-stingray.rooster465.autos&fp=chrome# By EbraSha 🌀
-trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-2951
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls# By EbraSha 🎛️
-trojan://UX82473651@internal-krill.rooster465.autos:443?type=tcp&security=tls&sni=internal-krill.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-700
-vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&sni=www.tesla.com&sid=034885e346fd30#[🇯🇵] [vl-re-ra] [261012-144922.812]
-trojan://UX82473651@18.183.167.216:443?sni=amazed-mako.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🔐
-trojan://UX82473651@54.249.55.154:443?security=tls&sni=prime-corgi.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-32
-vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@38.207.130.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=5ea30fc4&sni=yp.amazon.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-242
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#⚡ b2n.ir/v2ray-configs | 15
-trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-244
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?allowInsecure=1&sni=equipped-stingray.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-383
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos# By EbraSha 📟
-trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&type=tcp&fp=chrome# By EbraSha 📛
-trojan://UX82473651@winning-marten.rooster465.autos:443?sni=winning-marten.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha 🚀
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.ivano-frankivsk.ua:2053?security=tls#⚡ b2n.ir/v2ray-configs | 77
-trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos# By EbraSha 📛
-trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🚧
-vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-178
-trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%8C%90XX-162
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg%3D%3D@84.247.155.196:80#%3E%3E%40V2rayNG3%3A%3AJP
-trojan://UX82473651@43.207.198.39:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-157
-trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#⚡ b2n.ir/v2ray-configs | 532
+trojan://UX82473651@54.199.66.128:443?sni=integral-rodent.rooster465.autos&allowInsecure=0#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-50
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-255
+trojan://UX82473651@52.194.251.232:443?sni=optimal-penguin.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-163
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-2248
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&type=raw&sni=jp3.nztvpn.com&fp=firefox&flow=xtls-rprx-vision&sid=ea36c03d86f91287&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&encryption=none#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-243
+trojan://Trojan%4082164024@jp.tronsg.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?sni=45.32.52.173&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-222
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-58
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp#By+EbraSha+%e2%99%a0%ef%b8%8f
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=0&sni=allowed-poodle.rooster465.autos#By+EbraSha+%f0%9f%a5%b7
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&sni=normal-macaque.rooster465.autos#By+EbraSha+%f0%9f%9a%a7
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&peer=normal-macaque.rooster465.autos&security=tls#By+EbraSha+%f0%9f%a4%96
+trojan://UX82473651@13.193.213.184:443?sni=stable-python.rooster465.autos&allowInsecure=0#By+EbraSha+%f0%9f%93%9f
+vless://7b102311-43fd-4e8f-877e-8090623c101d@64.204.49.68:443?&security=tls&fp=chrome&packet-encoding=xudp&sni=vp10.pages.dev&type=ws&headerType=none&host=vp10.pages.dev&path=%2Ffp%3Dfirefox#By+EbraSha+%f0%9f%8c%8c
+trojan://UX82473651@fancy-javelin.rooster465.autos:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%8c%90XX-918
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&peer=amazed-mako.rooster465.autos&security=tls#By+EbraSha+%f0%9f%94%8b
+trojan://4a5afc6d-36db-4991-9c49-7eb0ed751a39@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-98
+trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-619
+vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@38.207.130.15:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=5ea30fc4&sni=yp.amazon.com&type=tcp#By+EbraSha+%f0%9f%95%b7%ef%b8%8f
+ss://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&amp;encryption=none&amp;pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.tesla.com&amp;sid=034885e346fd30#By+EbraSha+%f0%9f%a5%b7
+ss://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?security=reality&amp;encryption=none&amp;pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.cloudflare.com&amp;sid=091e1c5db8451757#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%92%a3
+trojan://UX82473651@13.231.247.130:443?allowInsecure=0&fp=chrome&security=tls&sni=concrete-aardvark.rooster465.autos&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-251
+trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos#By+EbraSha+%f0%9f%93%b1
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjEwLjEzOC4zNy41MyIsInBvcnQiOiI0NDMifQ==
+trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://CF68213490@in-oriole.rooster465.autos:443?security=tls#%f0%9f%87%af%f0%9f%87%b5JP-54.95.30.87-5525
+ss://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&amp;encryption=none&amp;pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp3.nztvpn.com&amp;sid=ea36c03d86f91287#By+EbraSha+%e2%99%a3%ef%b8%8f
+trojan://UX82473651@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#By+EbraSha+%e2%99%a3%ef%b8%8f
+trojan://UX82473651@54.238.153.132:443?allowInsecure=0&fp=chrome&security=tls&sni=obliging-louse.rooster465.autos&type=tcp#By+EbraSha+%e2%9a%94%ef%b8%8f
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.ru&amp;sid=c226283c4de5b1ad#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%a6%88
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-196
+trojan://UX82473651@43.207.198.39:443?sni=fancy-javelin.rooster465.autos&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-59
+trojan://UX82473651@prime-corgi.rooster465.autos:443?security=tls&sni=prime-corgi.rooster465.autos#By+EbraSha+%f0%9f%9b%b8
+trojan://c8b9c7ca-c022-4ee4-9690-2d615c784b14@45.76.218.34:32676?sni=lazeno.vip&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-213
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=1&type=tcp#By+EbraSha+%f0%9f%95%b9%ef%b8%8f
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-105
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TtiIsImFkZCI6IjE3Mi4xMDQuNzguOTgiLCJwb3J0Ijo0NDN9
+trojan://CF68213490@free-hare.rooster465.autos:443?security=tls#By+EbraSha+%f0%9f%a7%bf
+trojan://UX82473651@integral-rodent.rooster465.autos:443?sni=integral-rodent.rooster465.autos&allowInsecure=0&type=tcp#By+EbraSha+%f0%9f%a7%a8
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@tyo-a-02.auuas.com:1891?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.npmjs.com&fp=random&pbk=O7lEfntqflgUugTLJmJNv8qw9Qe0tagUlyDwS3yY4Uo&sid=8378f267&type=tcp&headerType=none#By+EbraSha+%f0%9f%8e%af
+trojan://UX82473651@54.238.153.132:443?type=tcp&security=tls&sni=obliging-louse.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-99
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-1556
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=warm-krill.rooster465.autos#By+EbraSha+%f0%9f%9b%b8
+trojan://UX82473651@brief-glider.rooster465.autos:443?sni=brief-glider.rooster465.autos&type=tcp&fp=chrome#By+EbraSha+%f0%9f%90%ba
+ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.ru&amp;sid=c226283c4de5b1ad#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://e26a229d-e8f2-4ff9-8c7d-58a9d83ee437@45.32.52.173:8886?allowInsecure=1&sni=45.32.52.173#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-88
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1546
+trojan://UX82473651@54.238.153.132:443?type=tcp&security=tls&sni=obliging-louse.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-17
+trojan://UX82473651@live-stallion.rooster465.autos:443?security=tls&sni=live-stallion.rooster465.autos#%f0%9f%87%af%f0%9f%87%b5%5bopenproxylist.com%5d+trojan-JP
+vless://440f986b-9469-4d80-adf0-01ba37af73c5@japro02.xyy123.bid:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=6d962e8d8a0dce&sni=shop.business.amazon.com&spx=/293K8gMuY1vKKRg&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-2387
+vless://440f986b-9469-4d80-adf0-01ba37af73c5@japro02.xyy123.bid:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=6d962e8d8a0dce&fp=chrome&sni=shop.business.amazon.com&type=tcp&headerType=none&host=japro02.xyy123.bid&path=%2F#By+EbraSha+%f0%9f%a7%ac
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&type=tcp&headerType=none#By+EbraSha+%f0%9f%a7%8a
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1422
+trojan://UX82473651@54.199.66.128:443?sni=integral-rodent.rooster465.autos&fp=chrome&type=tcp&path=/#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-49
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pmj77iPIiwiYWRkIjoia1FvdjdVS2FEa25YYjhhMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyJ9
+trojan://UX82473651@amazed-mako.rooster465.autos:443?type=tcp&security=tls&sni=amazed-mako.rooster465.autos#By+EbraSha+%f0%9f%a7%a8
+trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#By+EbraSha+%f0%9f%a5%b7
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&sni=github.com#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-263
+trojan://CF68213490@adapting-giraffe.rooster465.autos:443?security=tls#%f0%9f%87%af%f0%9f%87%b5JP-18.181.201.164-5514
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTExOCIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MH0=
+trojan://AE62539071@firm-krill.rooster465.autos:443?security=tls#%f0%9f%87%af%f0%9f%87%b5JP-3.112.232.101-5438
+trojan://UX82473651@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-1358
+trojan://UX82473651@43.206.225.188:443?sni=warm-krill.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-1
+trojan://UX82473651@54.250.237.143:443?sni=accurate-frog.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-82
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+qrCIsImFkZCI6IjIxMi4xMzUuMjExLjI0MiIsInBvcnQiOiI0NDMifQ==
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+bnCIsImFkZCI6IjdncXQ0LWcwMS5qcDA0LTM3NzEtdm0wLmVudHJ5LmZyMDMwN2EuYXJ0IiwicG9ydCI6IjQ0NCJ9
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#By+EbraSha+%e2%8c%a8%ef%b8%8f
+trojan://UX82473651@warm-krill.rooster465.autos:443?allowInsecure=1&sni=warm-krill.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-660
+vless://d5fbd83b-7346-4ad9-94c0-76293724824d@54.178.110.17:4443?security=tls&type=ws&path=/@Marisa_kristi&host=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&packetEncoding=xudp&sni=sxyyvihkektlx4rjxsdj.pkc73phpweu4rbxbatm444.workers.dev&fp=chrome&encryption=none#By+EbraSha+%e2%9a%a1
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#By+EbraSha+%f0%9f%a6%82
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sni=www.cloudflare.com&sid=091e1c5db8451757#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-193
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odessa.ua:2053?security=tls#
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-2273
+vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@jumpernode.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=5ea30fc4&sni=yp.amazon.com&spx=%2FAwUIJraIBsXlslv&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-270
+trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls#By+EbraSha+%f0%9f%94%a5
+vless://23af32ca-bea1-4a5e-bebb-04d1b1b633bc@jumpernode.site:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=6d962e8d8a0dce&fp=chrome&sni=p-nt-www-amazon-com-kalias.amazon.com&type=tcp&headerType=none&host=p-nt-www-amazon-com-kalias.amazon.com&path=%2F#By+EbraSha+%f0%9f%aa%90
+trojan://UX82473651@13.114.99.222:443?type=tcp&security=tls&sni=allowed-poodle.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-182
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%a7%ac
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.231.221.179:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-10
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&fp=chrome&type=tcp&path=/#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-53
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=amazed-mako.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1869
+vless://13f54942-55cb-4e5d-b1d2-b7055734c8c7@156.246.95.192:443?security=reality&encryption=none&pbk=WtAGKgh7C_csai9mKklVDthySL4LXRvelDV84AqaQHc&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=download.docker.com&sid=3728faf75705728f#By+EbraSha+%f0%9f%8e%9b%ef%b8%8f
+vless://05dd8b4c-c202-406a-a550-31c0b92ba312@akga01.xyy123.bid:443?type=tcp&security=reality&sni=buckeye-retail-website.amazon.com&pbk=AgTktefiMM58y7f-KFgEtmVti_YJbd0GPSkxNeJ0RH4&sid=56cd2f720d&fp=chrome#By+EbraSha+%f0%9f%aa%96
+trojan://UX82473651@assuring-skink.rooster465.autos:443?security=tls&sni=assuring-skink.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MkCIsImFkZCI6IjE0MC44My41Ny4yMCIsInBvcnQiOiIxMzExOCJ9
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTM1IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCJ9
+trojan://UX82473651@winning-marten.rooster465.autos:443?security=tls&sni=winning-marten.rooster465.autos#By+EbraSha+%f0%9f%a7%a9
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls#
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@45.142.127.24:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com&fp=ios#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-60
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#By+EbraSha+%f0%9f%8c%83
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?sni=concrete-aardvark.rooster465.autos&type=tcp&fp=chrome#By+EbraSha+%f0%9f%aa%96
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&sni=www.tesla.com&sid=034885e346fd30#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-178
+trojan://UX82473651@54.249.55.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=prime-corgi.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-203
+trojan://UX82473651@43.207.198.39:443?type=tcp&security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-197
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nvyIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjIwNDAxIn0=
+trojan://UX82473651@live-stallion.rooster465.autos:443?type=tcp&security=tls&sni=live-stallion.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-936
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-223
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos#%f0%9f%87%af%f0%9f%87%b5%5bopenproxylist.com%5d+trojan-JP
+trojan://UX82473651@176.34.5.100:443?type=tcp&security=tls&sni=assuring-skink.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-195
+trojan://UX82473651@brief-glider.rooster465.autos:443?type=tcp&security=tls&sni=brief-glider.rooster465.autos#By+EbraSha+%f0%9f%93%b1
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?security=tls&sni=allowed-poodle.rooster465.autos#By+EbraSha+%f0%9f%8c%83
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-536
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%8c%90XX-2301
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+XvyIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjIzODAxIn0=
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-1344
+trojan://UX82473651@organic-caribou.rooster465.autos:443?type=tcp&security=tls&sni=organic-caribou.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-2028
+trojan://UX82473651@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-483
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp#By+EbraSha+%f0%9f%a7%a0
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=1&sni=allowed-poodle.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1858
+trojan://4a5afc6d-36db-4991-9c49-7eb0ed751a39@45.76.218.34:32676?type=tcp&security=tls&fp=chrome&sni=lazeno.vip#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-12
+trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-2528
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-277
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?&security=reality&flow=xtls-rprx-vision&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=&host=www.cloudflare.com&path=%2F#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-72
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&peer=obliging-louse.rooster465.autos&security=tls#JP+++TROJAN-TCP-TLS+-+AMAZON-02++54.238.153.132
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&security=reality&sni=jp3.nztvpn.com&fp=firefox&flow=xtls-rprx-vision&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287#JP+++VLESS-TCP-RLT+-+Leaseweb+Japan+K.K.++142.91.108.25
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-16
+trojan://UX82473651@54.238.153.132:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=obliging-louse.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://Trojan%4082164024@jp.tronsg.com:443?security=tls#JP+++TROJAN-TCP-TLS+-+AS-VULTR++108.61.186.37
+vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690?security=reality&encryption=none&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=034885e346fd30#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-68
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+SjiIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6MjA0MDF9
+trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#By+EbraSha+%e2%9a%99%ef%b8%8f
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-402
+trojan://UX82473651@18.176.52.171:443?security=tls&sni=legible-ram.rooster465.autos#By+EbraSha+%e2%9b%93%ef%b8%8f
+vless://ce7beb9a-5dc1-47b3-b3ff-94521430c446@jumpernode.online:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=5ea30fc4&fp=chrome&sni=yp.amazon.com&type=tcp&headerType=none&host=jumpernode.online&path=%2F#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-162
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@54.250.237.143:443?security=tls&sni=accurate-frog.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-73
+vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=&fp=chrome&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&sid=8d66106f&spx=/HesarWeb#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-176
+trojan://UX82473651@54.249.55.154:443?sni=prime-corgi.rooster465.autos&path=%2f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-147
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&allowInsecure=0#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-39
+trojan://UX82473651@43.206.225.188:443?sni=warm-krill.rooster465.autos&allowInsecure=1&type=tcp#By+EbraSha+%f0%9f%90%89
+trojan://UX82473651@54.250.237.143:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=accurate-frog.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-183
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoia1FvdjdVS2FEa25YYjhhMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyJ9
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1381
+trojan://UX82473651@amazed-mako.rooster465.autos:443?security=tls&sni=amazed-mako.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1050
+trojan://UX82473651@organic-caribou.rooster465.autos:443?security=tls&sni=organic-caribou.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#JP+++VLESS-TCP-RLT+-+BrainStorm+Network%2c+Inc++103.75.118.228
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-2516
+vless://16a5e4f6-246f-406d-9787-1b5686a97cbc@107.191.53.86:4798?&security=tls&fp=chrome&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws&headerType=&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi#By+EbraSha+%f0%9f%a6%87
+trojan://UX82473651@43.207.89.91:443?allowInsecure=1&sni=organic-caribou.rooster465.autos#By+EbraSha+%f0%9f%a9%b8
+trojan://CF68213490@rested-osprey.rooster465.autos:443?security=tls#
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#%f0%9f%87%af%f0%9f%87%b5%5bopenproxylist.com%5d+trojan-JP
+trojan://UX82473651@organic-caribou.rooster465.autos:443?sni=organic-caribou.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1642
+vless://7fdb95f9-c758-486c-865a-7c1219823670@203.137.165.164:57554?&security=tls&fp=chrome&packet-encoding=xudp&sni=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&type=ws&headerType=none&host=3tmj2egtm-fno.49bnithzk8vphybv36d1z1xkzfvogt2m6.workers.dev&path=%2F%40Marisa_kristi#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-265
+trojan://UX82473651@54.65.177.190:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=winning-marten.rooster465.autos#By+EbraSha+%f0%9f%a6%82
+vless://ab2a5cc0-11d1-4bc4-a9d4-b5654ad18dc4@154.31.112.237:26418?&security=tls&fp=chrome&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws&headerType=&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-287
+trojan://UX82473651@176.34.5.100:443?sni=assuring-skink.rooster465.autos&fp=chrome&type=tcp&path=/#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-150
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&amp;encryption=none&amp;pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=jp3.nztvpn.com&amp;sid=ea36c03d86f91287#%f0%9f%87%af%f0%9f%87%b5%5bopenproxylist.com%5d+vless-JP
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&packetEncoding=none&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%5bOpenRay%5d+%f0%9f%8c%90XX-2560
+trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#By+EbraSha+%f0%9f%96%a5%ef%b8%8f
+vless://16a5e4f6-246f-406d-9787-1b5686a97cbc@107.191.53.86:4798?&security=tls&fp=chrome&sni=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&type=ws&headerType=&host=jln31qtswdkut5.60kohcognywybguuq3ouc818oofnxfvn35daott.workers.dev&path=%2F%40Marisa_kristi#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-84
+vless://0985e268-5c1c-4141-9d96-139f8046c47c@203.137.165.164:57554?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-253
+trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-61
+trojan://UX82473651@normal-macaque.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=normal-macaque.rooster465.autos#By+EbraSha+%f0%9f%95%b9%ef%b8%8f
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MgyIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjIwNDAxIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMjM4NiIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjM2MDExIn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#By+EbraSha+%f0%9f%91%91
+trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos#By+EbraSha+%f0%9f%aa%96
+trojan://UX82473651@amazed-mako.rooster465.autos:443?allowInsecure=0&sni=amazed-mako.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-2707
+trojan://UX82473651@legible-ram.rooster465.autos:443?sni=legible-ram.rooster465.autos&type=tcp&fp=chrome#By+EbraSha+%e2%8c%a8%ef%b8%8f
+trojan://UX82473651@stable-python.rooster465.autos:443?type=tcp&security=tls&sni=stable-python.rooster465.autos&fp=chrome#By+EbraSha+%e2%9a%a1
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+puCIsImFkZCI6IjguMjA5LjI1Mi4zNSIsInBvcnQiOjQ0M30=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTI3IiwiYWRkIjoiMTY4LjEzOC40My43NSIsInBvcnQiOiI4MCJ9
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%8c%90XX-2430
+trojan://UX82473651@54.249.36.167:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=comic-poodle.rooster465.autos#By+EbraSha+%f0%9f%a7%bf
+trojan://UX82473651@musical-terrier.rooster465.autos:443?sni=musical-terrier.rooster465.autos&allowInsecure=0&type=tcp#By+EbraSha+%f0%9f%9b%b0%ef%b8%8f
+trojan://UX82473651@concrete-aardvark.rooster465.autos:443?type=tcp&security=tls&sni=concrete-aardvark.rooster465.autos#By+EbraSha+%f0%9f%93%80
+trojan://UX82473651@54.238.153.132:443?sni=obliging-louse.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-188
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%9b%b8
+trojan://CF68213490@smooth-hornet.rooster465.autos:443?security=tls#By+EbraSha+%f0%9f%9b%b8
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?type=tcp&security=tls&sni=promoted-rattler.rooster465.autos#By+EbraSha+%f0%9f%8c%aa%ef%b8%8f
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-2835
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@13.115.139.162:443?&security=tls&fp=chrome&sni=x.m-90.xyz&type=ws&headerType=none&host=x.m-90.xyz&path=t.me%2FTEAMNETGRATISCOL#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-234
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TtiIsImFkZCI6InR5bzIuYXVzdHJhbGlhY2FyZWdyb3VwLnNpdGUiLCJwb3J0IjoiMTAwMDEifQ==
+vless://23af32ca-bea1-4a5e-bebb-04d1b1b633bc@japro02.xyy123.bid:443?&security=reality&flow=xtls-rprx-vision&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&sid=6d962e8d8a0dce&fp=chrome&sni=p-nt-www-amazon-com-kalias.amazon.com&type=tcp&headerType=none&host=p-nt-www-amazon-com-kalias.amazon.com&path=%2F#%5bOpenRay%5d+%f0%9f%8c%90XX-1920
+trojan://UX82473651@accurate-frog.rooster465.autos:443?allowInsecure=1&sni=accurate-frog.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-359
+trojan://UX82473651@52.192.217.187:443?sni=evolving-platypus.rooster465.autos&fp=chrome&type=tcp&path=/#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-225
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+boe+4jyIsImFkZCI6IjEwMy4xMjcuMjQzLjY2IiwicG9ydCI6IjU0MjkxIn0=
+trojan://UX82473651@evolving-platypus.rooster465.autos:443?type=tcp&security=tls&sni=evolving-platypus.rooster465.autos#By+EbraSha+%f0%9f%9a%ac
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?sni=equipped-stingray.rooster465.autos&peer=equipped-stingray.rooster465.autos&security=tls#By+EbraSha+%f0%9f%9b%b0%ef%b8%8f
+trojan://UX82473651@evident-ant.rooster465.autos:443?sni=evident-ant.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%e2%9a%a1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kherson.ua:2053?security=tls#%f0%9f%87%af%f0%9f%87%b5JP-152.175.36.141-3336
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&peer=optimal-penguin.rooster465.autos&security=tls#By+EbraSha+%f0%9f%a7%ac
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-639
+trojan://UX82473651@54.238.153.132:443?allowInsecure=0&fp=chrome&security=tls&sni=obliging-louse.rooster465.autos&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-22
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-204
+trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-8
+trojan://UX82473651@stable-python.rooster465.autos:443?sni=stable-python.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%e2%99%a6%ef%b8%8f
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-208
+trojan://UX82473651@comic-poodle.rooster465.autos:443?security=tls&sni=comic-poodle.rooster465.autos#By+EbraSha+%f0%9f%9a%ac
+trojan://UX82473651@stable-python.rooster465.autos:443?security=tls&sni=stable-python.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@comic-poodle.rooster465.autos:443?allowInsecure=1&sni=comic-poodle.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@13.114.99.222:443?sni=allowed-poodle.rooster465.autos&allowInsecure=1#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-52
+trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos&fp=chrome&allowInsecure=1&type=tcp&headerType=none#By+EbraSha+%f0%9f%94%8b
+trojan://UX82473651@promoted-rattler.rooster465.autos:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-2161
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@160.16.139.182:443?security=reality&flow=xtls-rprx-vision&sni=www.amazon.com&type=tcp&fp=chrome&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-272
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obliging-louse.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+ss://a16a3336-c9ab-489f-9b85-c973f5e2cfa4@137.220.221.179:443?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&security=reality&encryption=none&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&fp=chrome&type=grpc&serviceName=grpc&sni=ads.x5.ru&sid=c226283c4de5b1ad#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#By+EbraSha+%e2%9c%a8
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?type=tcp&headerType=none&security=reality&encryption=none&sni=jp3.nztvpn.com&fp=firefox&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&sid=ea36c03d86f91287&flow=xtls-rprx-vision#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-113
+vless://f8681dba-d368-4bab-a3c2-a8dc712ba368@142.91.106.31:43000?security=reality&encryption=none&pbk=onJvbzSx_vZUyycafvPuhsiSQsr9tw4zotyVMSWCvm4&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&flow=xtls-rprx-vision&sid=8d66106f#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@129.225.175.227:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#By+EbraSha+%f0%9f%8c%83
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws#By+EbraSha+%f0%9f%a7%b2
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+buCIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6IjM2MDExIn0=
+trojan://UX82473651@54.238.153.132:443?allowInsecure=1&sni=obliging-louse.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-216
+trojan://UX82473651@brief-glider.rooster465.autos:443?security=tls&sni=brief-glider.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://CF68213490@in-oriole.rooster465.autos:443?security=tls#
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@129.225.175.227:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5bOpenRay%5d+%f0%9f%87%ba%f0%9f%87%b8US-2453
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?sni=optimal-penguin.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%93%9f
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&sni=equipped-stingray.rooster465.autos#By+EbraSha+%f0%9f%9a%a7
+vless://980df025-74b9-4853-93e8-fb813006d7e5@203.137.165.164:57554?path=/@Marisa_kristi&security=tls&encryption=none&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&type=ws&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&ech=cloudflare-ech.com#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-152
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+noCIsImFkZCI6ImcwMy5qcDAyLWUzLXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwicG9ydCI6IjExNzc1In0=
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MgCIsImFkZCI6ImhoejRxeHMtZzA0LmpwMDMtajctdm0wLmVudHJ5LmZyMDUyOC5hcnQiLCJwb3J0IjoiMjE1ODQifQ==
+trojan://UX82473651@13.230.91.226:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=musical-terrier.rooster465.autos#By+EbraSha+%f0%9f%92%bb
+trojan://UX82473651@warm-krill.rooster465.autos:443?security=tls&sni=warm-krill.rooster465.autos#By+EbraSha+%f0%9f%a7%a0
+trojan://UX82473651@normal-macaque.rooster465.autos:443?sni=normal-macaque.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1412
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@64.110.97.200:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=firefox&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#By+EbraSha+%e2%9c%a8
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTEyNSIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0IjoiODAifQ==
+trojan://UX82473651@accurate-frog.rooster465.autos:443?sni=accurate-frog.rooster465.autos#By+EbraSha+%f0%9f%95%b6%ef%b8%8f
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls#
+trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-210
+trojan://UX82473651@allowed-poodle.rooster465.autos:443?allowInsecure=0&sni=allowed-poodle.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1080
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+apyIsImFkZCI6Im9yLjUyMTE2Ni54eXoiLCJwb3J0IjoiMjA4MyJ9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MgyIsImFkZCI6IncxMi5sdW9saS5kZSIsInBvcnQiOiI0NDMifQ==
+trojan://UX82473651@evident-ant.rooster465.autos:443?allowInsecure=0&sni=evident-ant.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-507
+trojan://UX82473651@3.112.29.244:443?sni=evident-ant.rooster465.autos&allowInsecure=0#By+EbraSha+%f0%9f%92%8e
+trojan://UX82473651@prime-corgi.rooster465.autos:443?allowInsecure=1&sni=prime-corgi.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TgCIsImFkZCI6Imd6MS5wb2x5bWFya2V0LnBhcnR5IiwicG9ydCI6MzYwMTF9
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@live-stallion.rooster465.autos:443?sni=live-stallion.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%8c%90XX-1748
+trojan://UX82473651@52.192.45.137:443?sni=promoted-rattler.rooster465.autos&allowInsecure=0&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-26
+trojan://UX82473651@normal-macaque.rooster465.autos:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=normal-macaque.rooster465.autos#By+EbraSha+%f0%9f%a6%87
+trojan://UX82473651@13.231.247.130:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=concrete-aardvark.rooster465.autos#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-202
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MjCIsImFkZCI6Im9yLjUyMTE2Ni54eXoiLCJwb3J0IjoiMjA4MyJ9
+vless://e4cd263b-c5c7-4410-bf61-8893179ec429@jumpernode.online:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=sDKrtAJk2VP_w1w7cFi2O86RdlvQ2E2An5xsRdJlgGE&security=reality&sid=6d962e8d8a0dce&sni=amazon.com&spx=%2F915TScVSG1NVQKZ&type=tcp#By+EbraSha+%e2%9a%94%ef%b8%8f
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+trojan://UX82473651@13.230.91.226:443?type=tcp&security=tls&sni=musical-terrier.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-70
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4ev8J+HtUpQLTE1OCIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0IjoiODAifQ==
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YzhmY2VkMC04OTg3LTQ1MDQtYjhjZi0xNWFjYTljYmI4MmU@gw.lydwan.com:35601#By+EbraSha+%e2%9a%a1
+trojan://UX82473651@equipped-stingray.rooster465.autos:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=equipped-stingray.rooster465.autos#By+EbraSha+%f0%9f%a4%96
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-274
+trojan://UX82473651@amazed-mako.rooster465.autos:443?sni=amazed-mako.rooster465.autos&allowInsecure=0&type=tcp#By+EbraSha+%f0%9f%9a%a7
+trojan://UX82473651@obliging-louse.rooster465.autos:443?sni=obliging-louse.rooster465.autos&fp=chrome&type=tcp&path=%2f#By+EbraSha+%f0%9f%a6%88
+vless://d90087c3-54f5-4283-a13f-615260c8b0c7@207.148.97.59:443?flow=xtls-rprx-vision&fp=chrome&pbk=hTweFDvbSucrGERtiiwDfoqD3vo_Z9cuaqboff3FTXQ&security=reality&sni=googleapis.com&type=tcp#By+EbraSha+%f0%9f%9b%b0%ef%b8%8f
+trojan://UX82473651@13.230.139.12:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=brief-glider.rooster465.autos#By+EbraSha+%f0%9f%8c%aa%ef%b8%8f
+trojan://UX82473651@winning-marten.rooster465.autos:443?allowInsecure=1&sni=winning-marten.rooster465.autos#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+Mqu+4jyIsImFkZCI6ImpwLnZwbi50YWlhaXNlLmNuIiwicG9ydCI6IjQ0MyJ9
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#By+EbraSha+%e2%99%a3%ef%b8%8f
+trojan://UX82473651@evident-ant.rooster465.autos:443?type=tcp&security=tls&sni=evident-ant.rooster465.autos&fp=chrome#By+EbraSha+%e2%9a%94%ef%b8%8f
+trojan://UX82473651@52.194.251.232:443?sni=optimal-penguin.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-224
+vless://05dd8b4c-c202-406a-a550-31c0b92ba312@akga01.xyy123.bid:443?type=tcp&security=reality&sni=buckeye-retail-website.amazon.com&pbk=AgTktefiMM58y7f-KFgEtmVti_YJbd0GPSkxNeJ0RH4&sid=56cd2f720d&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-85
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sony.com&alpn=http%2F1.1&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&type=tcp&fp=firefox#By+EbraSha+%f0%9f%96%a5%ef%b8%8f
+trojan://UX82473651@accurate-frog.rooster465.autos:443?security=tls&sni=accurate-frog.rooster465.autos#By+EbraSha+%f0%9f%92%bb
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#JP+++SHADOWSOCKS-TCP-NTLS+-+Contabo+Asia+Private+Limited++84.247.155.196
+trojan://UX82473651@54.249.36.167:443?sni=comic-poodle.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-134
+trojan://UX82473651@legible-ram.rooster465.autos:443?type=tcp&security=tls&sni=legible-ram.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-1370
+trojan://UX82473651@prime-corgi.rooster465.autos:443?sni=prime-corgi.rooster465.autos&fp=chrome&type=tcp&path=%2f#By+EbraSha+%f0%9f%9a%80
+trojan://UX82473651@18.183.212.83:443?type=tcp&security=tls&sni=normal-macaque.rooster465.autos&fp=chrome#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-76
+vless://9ee57d03-dcf5-488b-aff7-305301879353@31.77.29.47:443?security=reality&pbk=ZrHDiON568oDDRIl0XXBL5kBK5bNnkadKFzt6UYIoUs&fp=firefox&type=raw&flow=xtls-rprx-vision&sni=jp-akn-1.movietop24.site&sid=ee2fb8a902f1fa2b&encryption=none#By+EbraSha+%f0%9f%a5%b7
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-167
+trojan://UX82473651@3.112.188.176:443?sni=live-stallion.rooster465.autos&allowInsecure=1&type=tcp#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-140
+trojan://UX82473651@43.207.89.91:443?sni=organic-caribou.rooster465.autos&fp=chrome&type=tcp&path=/#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-278
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sni=www.cloudflare.com&sid=091e1c5db8451757#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-246
+trojan://UX82473651@legible-ram.rooster465.autos:443?allowInsecure=0&sni=legible-ram.rooster465.autos#By+EbraSha+%e2%99%a6%ef%b8%8f
+ss://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&amp;fp=firefox&amp;type=grpc&amp;serviceName=grpc&amp;sni=ads.x5.ru&amp;sid=c226283c4de5b1ad#By+EbraSha+%f0%9f%9b%b8
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMzY2IiwiYWRkIjoiZ3oxLnBvbHltYXJrZXQucGFydHkiLCJwb3J0IjozNjAxMX0=
+vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159?type=tcp&security=reality&sni=www.cloudflare.com&flow=xtls-rprx-vision&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757#JP+++VLESS-TCP-RLT+-+DMIT++154.31.114.248
+trojan://UX82473651@43.207.198.39:443?security=tls&sni=fancy-javelin.rooster465.autos&fp=chrome&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-169
+vless://489f1717-d3c7-4940-ad68-bdbdbab857f4@35.78.243.103:443?encryption=none&security=tls&sni=x.m-90.xyz&fp=chrome&type=ws&path=t.me%2FTEAMNETGRATISCOL&host=x.m-90.xyz#%5bOpenRay%5d+%f0%9f%87%af%f0%9f%87%b5JP-258
+trojan://UX82473651@amazed-mako.rooster465.autos:443?allowInsecure=1&sni=amazed-mako.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-2359
+trojan://UX82473651@optimal-penguin.rooster465.autos:443?security=tls&sni=optimal-penguin.rooster465.autos#%5bOpenRay%5d+%f0%9f%8c%90XX-1164
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+MgCIsImFkZCI6ImtRb3Y3VUthRGtuWGI4YTMudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMifQ==
