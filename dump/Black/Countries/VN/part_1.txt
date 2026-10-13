@@ -1,23 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country VN #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823391439
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823416107
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 01:37:19
-# servers-count: 14
+# generated-at: 10/13/2026 08:28:27
+# servers-count: 9
 
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s785.ccgfw.online:443?encryption=none&type=tcp&fp=firefox&host=e79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision&security=tls&sni=u695098ue79dbcd4s783.gogocs.xyz&alpn=h2%2Chttp%2F1.1#By+EbraSha+%f0%9f%9a%ac
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?encryption=none&security=tls&type=tcp&host=e79dbcd4s783.gogocs.xyz&sni=u695098ue79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-27
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+bnCIsImFkZCI6IjEwMy4xNjYuMTgzLjIyNiIsInBvcnQiOjgwfQ==
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#By+EbraSha+%f0%9f%8c%80
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-11
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+QiSIsImFkZCI6IjEwMy43NS4xODYuMTUzIiwicG9ydCI6ODB9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+miCIsImFkZCI6IjEwMy41Ni4xNjAuMTg0IiwicG9ydCI6ODB9
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-54
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwiYWRkIjoiMTAzLjc1LjE4Ni4xNTMiLCJwb3J0Ijo4MH0=
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+noCIsImFkZCI6IjEwMy44Mi4yNS4xMDYiLCJwb3J0Ijo4MH0=
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s785.ccgfw.online:443?encryption=none&type=tcp&fp=firefox&host=e79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision&security=tls&sni=u695098ue79dbcd4s783.gogocs.xyz&alpn=h2%2Chttp%2F1.1#%5bOpenRay%5d+%f0%9f%8c%90XX-513
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nqCIsImFkZCI6IjEwMy41Ni4xNjAuMTg0IiwicG9ydCI6ODB9
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-35
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#By+EbraSha+%f0%9f%95%b9%ef%b8%8f
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#By+EbraSha+%f0%9f%aa%96
-vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+UriIsImFkZCI6IjEwMy44Mi4yNS4xMDYiLCJwb3J0Ijo4MH0=
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@s785.ccgfw.online:443?encryption=none&type=tcp&fp=firefox&host=e79dbcd4s783.gogocs.xyz&flow=xtls-rprx-vision&security=tls&sni=u695098ue79dbcd4s783.gogocs.xyz&alpn=h2%2Chttp%2F1.1#By+EbraSha+%f0%9f%83%8f
+vless://30e52776-55ac-3cb4-8d36-e2910f07e2c3@160.25.74.91:443?&security=tls&flow=xtls-rprx-vision&fp=chrome&sni=u695098ue79dbcd4s783.gogocs.xyz&type=tcp&headerType=none&path=%2F#By+EbraSha+%e2%9a%a1
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%5bOpenRay%5d+%f0%9f%87%bb%f0%9f%87%b3VN-11
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#By+EbraSha+%e2%99%a6%ef%b8%8f
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+SoyIsImFkZCI6IjEwMy4xNjYuMTgzLjIyNiIsInBvcnQiOjgwfQ==

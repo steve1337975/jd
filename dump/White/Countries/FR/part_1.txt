@@ -1,11 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country FR #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823391439
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823416107
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 01:37:19
-# servers-count: 2
+# generated-at: 10/13/2026 08:28:27
+# servers-count: 4
 
-vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+passport.yandex.ru+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=metrika.yandex.ru&fp=firefox&sid=dcb858da#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+metrika.yandex.ru+%e2%94%83+%f0%9f%87%ab%f0%9f%87%b7+%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+metrika.yandex.ru+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+metrika.yandex.ru+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
+vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=/3f9d322afd1602c&type=grpc#%f0%9f%87%ab%f0%9f%87%b7+%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d1%8f
