@@ -1,11 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country UZ — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823450490
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823452600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 18:01:30
-# servers-count: 2
+# generated-at: 10/13/2026 18:36:40
+# servers-count: 3
 
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com# By EbraSha ✨
-vmess://eyJhZGQiOiIzNy4xMTAuMjA5LjIyOCIsImFpZCI6MCwiaG9zdCI6InNhemdhci5zZXJ2ZWlyYy5jb20iLCJpZCI6ImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCflK4iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://ewogICAgImFkZCI6ICIzNy4xMTAuMjA5LjIyOCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogInNhemdhci5zZXJ2ZWlyYy5jb20iLAogICAgImlkIjogImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi8iLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e68J+Hv1VaLTM3LjExMC4yMDkuMjI4LTA5NzUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@157.22.128.7:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com# By EbraSha 🎯
+vmess://eyJhZGQiOiIzNy4xMTAuMjA5LjIyOCIsImFpZCI6MCwiaG9zdCI6InNhemdhci5zZXJ2ZWlyYy5jb20iLCJpZCI6ImVjYmE1YjMzLWY3NjgtNGQ4YS1iMDA0LWIyOWU4ZTVjNjc2ZiIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfkrsiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
