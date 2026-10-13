@@ -6,6 +6,8 @@ namespace NChecker.models
 {
     internal class ServerData
     {
+        internal static readonly string[] SupportedProtocols = { "vmess", "vless", "ss", "shadowsocks", "trojan", "hysteria2", "hy2", "tuic", "wireguard" };
+
         internal string Url { get; private set; }
         internal string Protocol { get; private set; }
         internal string Address { get; private set; }
@@ -15,6 +17,7 @@ namespace NChecker.models
         internal long Delay { get; set; } = -1;
         internal bool IsAlive { get; set; }
         internal SubscriptionData Subscription { get; set; }
+
         internal ServerData(string row)
         {
             if (string.IsNullOrWhiteSpace(row)) return;
@@ -22,27 +25,17 @@ namespace NChecker.models
             row = row.Trim();
             Url = row;
 
-            try
+            if (row.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
             {
-                if (row.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
-                {
-                    ParseVmess(row);
-                }
-                else if (row.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
-                         row.StartsWith("ss://", StringComparison.OrdinalIgnoreCase) ||
-                         row.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase) ||
-                         row.StartsWith("shadowsocks://", StringComparison.OrdinalIgnoreCase))
-                {
-                    ParseStandardVpnUri(row);
-                }
-                else
-                {
-                    ParseGenericFallback(row);
-                }
+                ParseVmess(row);
             }
-            catch (Exception exc)
+            else if (SupportedProtocols.Any(p => row.StartsWith(p + "://", StringComparison.OrdinalIgnoreCase)))
             {
-                Protocol = "broken";
+                ParseStandardVpnUri(row);
+            }
+            else
+            {
+                ParseGenericFallback(row);
             }
         }
 
@@ -146,4 +139,5 @@ namespace NChecker.models
 
         #endregion
     }
+
 }

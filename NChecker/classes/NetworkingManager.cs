@@ -50,7 +50,11 @@ namespace NChecker.classes
                             subscriptionData.AddServer(serverData);
                             subscriptions.Add(subscriptionData);
                         }
-                        catch { }
+                        catch (Exception exc)
+                        {
+                            Console.WriteLine(line);
+                            Console.WriteLine(exc.ToString());
+                        }
                     }
 
                     if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionSourceData.Url);

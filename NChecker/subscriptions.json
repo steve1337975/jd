@@ -1,34 +1,100 @@
 [
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt"},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt"},
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt"},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/roosterkid/openproxylist/main/V2RAY_RAW.txt"},
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri"},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/Argh94/Proxy-List/main/All_Config.txt"},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/SoliSpirit/v2ray-configs/main/all_configs.txt"},
-
-	{"SubscriptionType":"White","Url":"https://raw.githack.com/zieng2/wl/main/vless_universal.txt"},
-	{"SubscriptionType":"White","Url":""},
-	{"SubscriptionType":"White","Url":""},
-
-	{"SubscriptionType":"Black","Url":"https://raw.githack.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt","Enabled": false},
-	
-	{"SubscriptionType":"Black","Url":""},
-	{"SubscriptionType":"Black","Url":""}
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/roosterkid/openproxylist/main/V2RAY_RAW.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/Argh94/Proxy-List/main/All_Config.txt",
+		"Enabled": true
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/SoliSpirit/v2ray-configs/main/all_configs.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":"https://raw.githack.com/zieng2/wl/main/vless_universal.txt"
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":""
+	},
+	{
+		"SubscriptionType":"White",
+		"Url":""
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
+		"Enabled": true
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":""
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":""
+	}
 ]

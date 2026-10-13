@@ -3,7 +3,7 @@
     internal static class Utils
     {
         static Random random = new Random();
-        internal static long RandomLong(long min, long max)=> random.NextInt64(min, max+1);
+        internal static long RandomLong(long min, long max) => random.NextInt64(min, max + 1);
         internal static int RandomInt(int min, int max) => random.Next(min, max + 1);
         internal static T Select<T>(T[] a1)
         {
