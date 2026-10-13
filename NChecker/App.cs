@@ -210,7 +210,7 @@ namespace NChecker
         private async Task ExecuteTcpPingTestAsync(ServerData server)
         {
             server.IsAlive = false;
-            server.TcpPing = -1;
+            server.Delay = -1;
 
             if (server.Address == "unknown" || server.Port == 0 || server.Protocol == "broken") return;
 
@@ -229,7 +229,7 @@ namespace NChecker
 
                 if (client.Connected)
                 {
-                    server.TcpPing = stopwatch.ElapsedMilliseconds;
+                    server.Delay = stopwatch.ElapsedMilliseconds;
                     server.IsAlive = true;
                     return;
                 }

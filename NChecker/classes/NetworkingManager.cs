@@ -54,7 +54,10 @@ namespace NChecker.classes
                             subscriptionData.AddServer(serverData);
                             subscriptions.Add(subscriptionData);
                         }
-                        catch { }
+                        catch (Exception exc)
+                        {
+                            Console.WriteLine(exc.ToString());
+                        }
                     }
 
                     if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionSourceData.Url);
@@ -95,7 +98,7 @@ namespace NChecker.classes
         async internal Task ExecuteTcpPingTestAsync(ServerData server, SettingsData settings)
         {
             server.IsAlive = false;
-            server.TcpPing = -1;
+            server.Delay = -1;
 
             if (server.Address == "unknown" || server.Port == 0 || server.Protocol == "broken") return;
 
@@ -113,7 +116,7 @@ namespace NChecker.classes
 
                 if (client.Connected)
                 {
-                    server.TcpPing = stopwatch.ElapsedMilliseconds;
+                    server.Delay = stopwatch.ElapsedMilliseconds;
                     server.IsAlive = true;
                     return;
                 }
