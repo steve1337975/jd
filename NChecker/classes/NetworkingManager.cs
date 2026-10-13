@@ -120,36 +120,6 @@ namespace NChecker.classes
             }
             catch { }
         }
-
-        async internal Task ExecuteHttpPingTestAsync(ServerData server, SettingsData settings)
-        {
-            server.IsAlive = false;
-            server.TcpPing = -1;
-
-            if (server.Address == "unknown" || server.Port == 0 || server.Protocol == "broken") return;
-
-            foreach (string testUrl in ServerData.testUrls)
-            {
-                try
-                {
-                    int timeoutSeconds = Math.Min(settings.Timeout, 3);
-                    using var cts = new CancellationTokenSource(TimeSpan.FromSeconds(timeoutSeconds));
-
-                    Stopwatch stopwatch = Stopwatch.StartNew();
-                    using HttpResponseMessage response = await _httpClient.GetAsync(testUrl, HttpCompletionOption.ResponseHeadersRead, cts.Token);
-                    stopwatch.Stop();
-
-                    if (response.IsSuccessStatusCode)
-                    {
-                        server.TcpPing = stopwatch.ElapsedMilliseconds;
-                        server.IsAlive = true;
-                        return;
-                    }
-                }
-                catch { }
-            }
-        }
-
         #endregion
     }
 }
