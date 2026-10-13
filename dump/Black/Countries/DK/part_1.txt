@@ -1,19 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country DK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823416107
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823444600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 08:28:27
-# servers-count: 10
+# generated-at: 10/13/2026 16:23:20
+# servers-count: 8
 
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?security=tls&type=ws&path=%2Fseason%2Fclassify%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5bOpenRay%5d+%f0%9f%87%a9%f0%9f%87%b0DK-4
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+buCIsImFkZCI6IjE5My4xODAuMjExLjE1NSIsInBvcnQiOiI0NDMifQ==
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MC4yMTEuMTU1IiwicG9ydCI6IjQ0MyJ9
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nsiIsImFkZCI6IjE5My4xODEuMjEyLjgxIiwicG9ydCI6IjQ0MyJ9
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MC4yMTEuMTU1IiwicG9ydCI6IjQ0MyJ9
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?security=tls&type=ws&path=%2Fseason%2Fclassify%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#By+EbraSha+%f0%9f%a7%b2
 vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MS4yMTIuODEiLCJwb3J0IjoiNDQzIn0=
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?security=tls&type=ws&path=%2Fseason%2Fclassify%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#By+EbraSha+%f0%9f%93%b1
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+nqSIsImFkZCI6IjE5My4xODEuMjEyLjgxIiwicG9ydCI6IjQ0MyJ9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+qliIsImFkZCI6IjE5My4xODAuMjExLjE1NSIsInBvcnQiOiI0NDMifQ==
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MC4yMTEuMTU1IiwicG9ydCI6IjQ0MyJ9
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MC4yMTEuMTU1IiwicG9ydCI6IjQ0MyJ9
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.148.30.11:443?security=tls&type=ws&path=%2Fseason%2Fclassify%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5bOpenRay%5d+%f0%9f%87%a9%f0%9f%87%b0DK-5
 vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTkzLjE4MS4yMTIuODEiLCJwb3J0IjoiNDQzIn0=
-vless://c658d81a-808d-45eb-8d5a-35a1fed4dab0@140.248.69.254:443?vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=play.google.com&mode=auto&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=fln-speeedest.global.ssl.fastly.net&allowInsecure=0#By+EbraSha+%f0%9f%91%be
-vless://c658d81a-808d-45eb-8d5a-35a1fed4dab0@140.248.69.254:443?vcn=play.google.com&pcs=cd6e838b9bfe31cab8b3d5c858b0d6223fe84ece236c1fdb281be93c302e1e6e&alpn=h2&fp=chrome&type=xhttp&sni=play.google.com&mode=auto&path=%2F%3Fed%3D2048&security=tls&encryption=none&insecure=0&host=fln-speeedest.global.ssl.fastly.net&allowInsecure=0#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3

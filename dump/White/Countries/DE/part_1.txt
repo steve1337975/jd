@@ -1,20 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country DE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823416107
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823444600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 08:28:27
-# servers-count: 11
+# generated-at: 10/13/2026 16:23:20
+# servers-count: 4
 
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+www.google.com+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE@51.195.126.38:8388#%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://fd1d80da-3b27-457a-810b-2b28a309edc1@195.123.6.19:8443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=EDXtIJRcxgBXd32fNHSWcd8GUarM3aZeYf_xDD5gSXY&sid=6a42dc3d&type=tcp&headerType=none#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+travel.yandex.ru+%e2%94%83+%f0%9f%87%ac%f0%9f%87%a7+%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+www.google.com+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=random&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+api-maps.yandex.ru+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?encryption=none&security=none&type=tcp#%f0%9f%87%b5%f0%9f%87%b1+%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b0
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?fp=qq&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+www.google.com+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://4af298c3-5c2d-4cf1-af68-5261e482c4e7@72.56.105.228:443?security=reality&encryption=none&pbk=iSo20v7O_zNHG6EmG4jGxfUkdqARzC8nFlB-JR4q4BA&headerType=none&fp=firefox&type=tcp&sni=max.ru&sid=1a0ec8752eeaf912#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+max.ru+%e2%94%83+%f0%9f%87%ac%f0%9f%87%a7+%d0%92%d0%b5%d0%bb%d0%b8%d0%ba%d0%be%d0%b1%d1%80%d0%b8%d1%82%d0%b0%d0%bd%d0%b8%d1%8f
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+www.google.com+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://3d1752a5-2832-4981-878d-f4aca87d6f86@64.188.119.73:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=zvLIiZsAqG2Uz9FEBPJ1q2P6lUmG4SBv-M7vlDuqEFo&sid=421880b82d&sni=ocd1.global-media-cache.com&encryption=none#%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
-vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?type=grpc&headerType=none&security=reality&encryption=none&sni=image.samsung.com&fp=chrome&pbk=bqV9CFadimhl6zgliRrOdx-XoJ0vioLqmwxU4tWjTgc&sid=8d1e96&spx=%2Fa503c6774f9b5b2&serviceName=grpc_common1&mode=gun#%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN+White+list+%e2%94%83+%e2%9c%85+SNI%3a+www.google.com+%e2%94%83+%f0%9f%87%a9%f0%9f%87%aa+%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d1%8f

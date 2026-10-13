@@ -1,59 +1,73 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country IN #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823416106
+# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823444600
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 08:28:26
-# servers-count: 50
+# generated-at: 10/13/2026 16:23:20
+# servers-count: 64
 
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pmm77iPIiwiYWRkIjoiY2MzNS5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4In0=
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTc0IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTQ5IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%93%80
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTQ0IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=tttyder.wsone.icu#By+EbraSha+%f0%9f%97%bf
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-3
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTExIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
-vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.217.249.70&fp=random&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&sid=99f735c4&type=tcp&headerType=none#By+EbraSha+%f0%9f%aa%96
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=tttyder.wsone.icu#By+EbraSha+%f0%9f%a6%88
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiY2MzNS5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4In0=
-trojan://M7v%25w11Se%2A@35.244.28.130:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=tttyder.wsone.icu#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-19
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6Ilvwn4eu8J+Hs10gW3ZtLW5vLXdzXSBbMjYxMDEzLTE0MzQwOC4wMTZdIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTEyIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTE1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU1IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6Ilvwn4et8J+HsF0gW3ZtLXRsLXdzXSBbMjYxMDEzLTE0MzYxMC4yOTRdIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODB9
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#By+EbraSha+%f0%9f%8c%8c
+vmess://eyJwcyI6Ilvwn4et8J+HsF0gW3ZtLXRsLXdzXSBbMjYxMDEzLTE0MzYxMC4zMzZdIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1#By+EbraSha+%e2%9a%a1
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#By+EbraSha+%f0%9f%9b%b0%ef%b8%8f
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%f0%9f%87%ae%f0%9f%87%b3IN-152.67.160.174-1566
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=1&insecure=1&type=tcp&security=tls&sni=tttyder.wsone.icu#%5bOpenRay%5d+%f0%9f%8c%90XX-1765
-vmess://eyJwcyI6Ilvwn4et8J+HsF0gW3ZtLXRsLXdzXSBbMjYxMDEzLTA2MTk0OS4xMDhdIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.217.249.70&fp=random&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&sid=99f735c4&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-67
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTYiLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0IjoiODAifQ==
+vmess://eyJwcyI6Ilvwn4eu8J+Hs10gW3ZtLW5vLXdzXSBbMjYxMDEzLTE0MzYwMS4xOTddIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
 vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6Ilvwn4et8J+HsF0gW3ZtLXRsLXdzXSBbMjYxMDEzLTA2MTk0OS4xNTJdIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-4
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#By+EbraSha+%f0%9f%8c%8d
-vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?security=reality&encryption=none&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.217.249.70&sid=99f735c4#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TtiIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwfQ==
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-5
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-410
+vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.217.249.70&fp=random&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&sid=99f735c4&type=tcp&headerType=none#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-68
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTUwIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=217.217.249.70&fp=random&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&sid=99f735c4&type=tcp&headerType=none#By+EbraSha+%f0%9f%95%b6%ef%b8%8f
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTciLCJhZGQiOiIxNTIuNjcuOC4yMDUiLCJwb3J0Ijo4MH0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiY2MzNS5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4In0=
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#IN+++SHADOWSOCKS-TCP-NTLS+-+Akamai+Connected+Cloud++172.105.39.124
-trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#By+EbraSha+%f0%9f%8e%af
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-50
-vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?security=reality&encryption=none&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=217.217.249.70&sid=99f735c4#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
-vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=%2f&allowInsecure=1#By+EbraSha+%e2%9a%94%ef%b8%8f
-trojan://Trojan@82164024@in.tronsg.com:443?security=tls&sni=in.tronsg.com#By+EbraSha+%f0%9f%94%ae
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=0&insecure=0&type=tcp&security=tls&sni=tttyder.wsone.icu#By+EbraSha+%f0%9f%a7%aa
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU4IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg4pqhIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-52
-vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+arCIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0IjoiODk5OCJ9
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTE0IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-45
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTc5IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+trojan://Trojan@82164024@in.tronsg.com:443?security=tls&sni=in.tronsg.com#By+EbraSha+%f0%9f%9a%ac
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+ltyIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0IjoiODk5OCJ9
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTc0IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-3
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTQ0IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?security=reality&encryption=none&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=217.217.249.70&sid=99f735c4#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU2IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTQ5IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTEzIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTIzIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTEyIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+TnyIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwfQ==
-vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#By+EbraSha+%f0%9f%94%90
-trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5bOpenRay%5d+%f0%9f%8c%90XX-422
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTIyIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#By+EbraSha+%f0%9f%93%bc
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d&sni=www.cloudflare.com#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-51
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?type=tcp&security=reality&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&sid=221873918e0bb74d#IN+++VLESS-TCP-RLT+-+OVH+SAS++148.113.5.44
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#By+EbraSha+%f0%9f%a6%87
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU5IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTY2IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODB9
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTM2IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?type=tcp&security=reality&sni=www.apple.com&fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sid=9980e0609b0d3891#IN+++VLESS-TCP-RLT+-+Contabo+Asia+Private+Limited++194.61.31.126
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODB9
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+UjCIsImFkZCI6ImNjMzUuZ29pbmdzaWRlLnNpdGUiLCJwb3J0IjoiODk5OCJ9
+vmess://eyJwcyI6IvCflKVKb2luIFRlbGVncmFtOkBGYXJhaF9WUE7wn5+jIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
 vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
-trojan://M7v%25w11Se%2A@tttyder.wsone.icu:443?allowInsecure=0&insecure=0&type=tcp&security=tls&sni=tttyder.wsone.icu#%5bOpenRay%5d+%f0%9f%8c%90XX-70
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTQ4IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
-vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU1IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6Ilvwn4eu8J+Hs10gW3ZtLW5vLXdzXSBbMjYxMDEzLTE0MzUzOS44MDJdIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#By+EbraSha+%f0%9f%9a%ac
+vless://47b83a67-f69d-4d15-9c63-73b7cd0f7d26@217.217.249.70:43000?security=reality&encryption=none&pbk=3gTzdNHyWfheX_IrYiMoraornFzYxPFU9EGirW1gfRk&host=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=217.217.249.70&sid=99f735c4#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTc1IiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIn0=
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTU4IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIn0=
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&encryption=none&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&headerType=&fp=chrome&type=tcp&sni=www.apple.com&sid=9980e0609b0d3891#%f0%9f%94%a5Join+Telegram%3a%40Farah_VPN%f0%9f%9f%a3
+vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=firefox&sid=9980e0609b0d3891&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-46
+vmess://eyJwcyI6IltPcGVuUmF5XSDwn4eu8J+Hs0lOLTMzIiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6ODB9
+vless://72ea5a91-ffcc-43d2-9297-5993c3abf186@148.113.5.44:443?security=reality&encryption=none&pbk=QLjTpkXRB453R9fXhJzKkc_q_gSm2MZrIOuxW4uW-mI&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=221873918e0bb74d#%5bOpenRay%5d+%f0%9f%87%ae%f0%9f%87%b3IN-53
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#By+EbraSha+%f0%9f%8c%8d
+vmess://eyJwcyI6IkJ5IEVicmFTaGEg8J+Om++4jyIsImFkZCI6IjIwLjIzNS4yMjAuMTg5IiwicG9ydCI6IjQ0MyJ9
