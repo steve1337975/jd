@@ -10,7 +10,6 @@ namespace NChecker.classes
 {
     internal class NetworkingManager
     {
-        // Одиночный HttpClient с настроенным SocketsHttpHandler для предотвращения утечки сокетов
         private readonly HttpClient _httpClient;
 
         internal NetworkingManager()
@@ -33,10 +32,7 @@ namespace NChecker.classes
                 if (string.IsNullOrEmpty(subscriptionSourceData.Url) || !subscriptionSourceData.Enabled) continue;
                 try
                 {
-                    // Используем общий настроенный HttpClient
                     string data = await _httpClient.GetStringAsync(subscriptionSourceData.Url);
-
-                    // Корректно бьем по любым символам переноса строки (\r\n или \n)
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
 
                     foreach (string line in lines)
@@ -73,7 +69,7 @@ namespace NChecker.classes
         {
             try
             {
-                if (server.Address == "unknown" || server.Port == 0 || server.Protocol == "broken") return;
+                if (string.IsNullOrEmpty(server.Address) || server.Port == 0 || server.Protocol == "broken") return;
 
                 if (!IPAddress.TryParse(server.Address, out IPAddress? ip))
                 {
@@ -100,7 +96,7 @@ namespace NChecker.classes
             server.IsAlive = false;
             server.Delay = -1;
 
-            if (server.Address == "unknown" || server.Port == 0 || server.Protocol == "broken") return;
+            if (string.IsNullOrEmpty(server.Address) || server.Port == 0 || server.Protocol == "broken") return;
 
             try
             {
@@ -123,6 +119,7 @@ namespace NChecker.classes
             }
             catch { }
         }
+
         #endregion
     }
 }

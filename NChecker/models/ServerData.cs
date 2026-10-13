@@ -56,7 +56,7 @@ namespace NChecker.models
             string base64Part = row.Substring(8).Trim();
 
             int hashIndex = base64Part.IndexOf('#');
-            string nameFromHash =null;
+            string nameFromHash = null;
 
             if (hashIndex != -1)
             {
