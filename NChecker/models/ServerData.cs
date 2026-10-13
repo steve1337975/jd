@@ -42,8 +42,6 @@ namespace NChecker.models
             }
             catch (Exception exc)
             {
-                Console.WriteLine(Url);
-                Console.WriteLine(exc.ToString());
                 Protocol = "broken";
             }
         }
