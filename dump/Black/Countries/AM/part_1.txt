@@ -1,16 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country AM #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0;download=0;total=274877906944;expire=1823449119
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823450490
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 17:38:39
-# servers-count: 7
+# generated-at: 10/13/2026 18:01:30
+# servers-count: 12
 
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-11
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a#US   VLESS-GRPC-RLT - Fast Geo Hosting S.r.l.  88.218.95.88
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headertype=none# By EbraSha 🐉
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&encryption=none&sni=yahoo.com&fp=chrome&alpn=http%252F1.1&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headerType=none&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-10
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-8
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&type=tcp%C2%ACe%3Dvolt____network&sni=yahoo.com&fp=chrome&sid=0e&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-6
 vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3398
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun# By EbraSha 🃏
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&headerType=none&path=/#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-14
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-8
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?type=tcp&security=reality&encryption=none&sni=yahoo.com&fp=chrome&alpn=http%252F1.1&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headerType=none&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-10
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?type=grpc&security=reality&sni=www.google.com&fp=chrome&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a#US   VLESS-GRPC-RLT - Fast Geo Hosting S.r.l.  88.218.95.88
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@88.218.95.88:443?encryption=none&security=reality&sni=www.google.com&fp=random&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&sid=43adea0ec9f97a0a&type=grpc&authority=&serviceName=grpc&mode=gun# By EbraSha ⚡
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-5
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=0e#🔥Join+Telegram:@Farah_VPN🟣
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headertype=none# By EbraSha 💎
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&sni=yahoo.com&allowInsecure=1&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&type=tcp&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-12
+vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&type=raw&security=reality&sni=yahoo.com&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&sid=0e&headertype=none#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-11
