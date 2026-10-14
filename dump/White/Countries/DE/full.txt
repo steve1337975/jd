@@ -1,18 +1,24 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country DE — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
+# subscription-userinfo: upload=1024; download=0; total=274877906944; expire=1823513117
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 10:32:24
-# servers-count: 9
+# generated-at: 10/14/2026 11:25:17
+# servers-count: 15
 
-vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=chrome&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#🇩🇪 Германия
-vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?fp=qq&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?type=grpc&headerType=none&security=reality&encryption=none&sni=image.samsung.com&fp=chrome&pbk=bqV9CFadimhl6zgliRrOdx-XoJ0vioLqmwxU4tWjTgc&sid=8d1e96&spx=%2Fa503c6774f9b5b2&serviceName=grpc_common1&mode=gun#🇩🇪 Германия
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=random&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&type=tcp&packetEncoding=none#🇬🇧 Великобритания
+vless://0de1d303-d7de-0001-8679-c4cb67e2e2cc@185.242.245.152:443?type=tcp&headerType=none&security=reality&encryption=none&sni=amd.com&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇩🇪 Германия
+vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?fp=qq&host=www.google.com&mode=auto&path=%2F&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&security=reality&sni=www.google.com&type=xhttp#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://838de912-398a-4c0e-9228-0fd44b0d1f8b@157.173.27.148:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=travel.yandex.ru&fp=chrome&pbk=KP-P4zenuMuYe3UxPCjDEVmgqI4GiRZ95UbsAfmL71g&sid=970098f31b96a3e8&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyWWRFNGxGT2lkNWE=@51.195.126.38:8388#🇩🇪 Германия
 vless://1a8ecc41-6e62-431b-8eca-87c2fa4dc286@edge10.cyrionflare.com:2052?encryption=none&security=none&type=tcp#🇩🇪 Германия
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?encryption=none&security=none&type=tcp#🇬🇧 Великобритания
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&authority=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=chrome&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
+vless://36b98b4a-fc76-4738-bd7d-274ca800c8fd@135.125.248.200:27250?type=grpc&headerType=none&security=reality&encryption=none&sni=image.samsung.com&fp=chrome&pbk=bqV9CFadimhl6zgliRrOdx-XoJ0vioLqmwxU4tWjTgc&sid=8d1e96&spx=%2Fa503c6774f9b5b2&serviceName=grpc_common1&mode=gun#🇩🇪 Германия
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#🇬🇧 Великобритания
+vless://b8df3f50-ffef-4c7e-9ef3-d5b156a47c02@144.31.238.115:2443?mode=gun&security=reality&encryption=none&pbk=rRg3JiP2006ldJYh2TDPAn7dtlXLcSHdgHgkGI_HZTE&fp=chrome&type=grpc&serviceName=grpc&sni=api-maps.yandex.ru&sid=ef567890#🇩🇪 Германия
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#🇵🇱 Польша
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.48.250.31:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053?security=none&type=tcp&packetEncoding=none#🇬🇧 Великобритания
