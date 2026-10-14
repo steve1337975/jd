@@ -1,11 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
-# profile-title: VPN Country HK — Full
+# profile-title: VPN White Country HK — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823542864
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823552901
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 19:41:04
-# servers-count: 2
+# generated-at: 10/14/2026 22:28:21
+# servers-count: 9
 
-vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#AetrisVPN White list ┃ ✅ SNI: www.icloud.com ┃ 🇨🇳 Китай
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&flow=xtls-rprx-vision&security=reality&sni=buylite.music.apple.com&fp=firefox&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: buylite.music.apple.com ┃ 🇺🇸 США
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@154.21.203.106:51279?type=tcp&headerType=none&security=reality&encryption=none&sni=www.tesla.com&fp=random&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20MIFA%20-%202498
+vless://9c2888cf-99f8-4c04-ac07-c033359ff975@103.41.7.43:2061?type=tcp&headerType=none&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=Ub1ffFeVtG2zd_t001wgmuhojSAxvaVwuo_pAapScBA&sid=c77f719b082817e4&path=%2F&host=www.apple.com&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20-%20MIFA%20-%203232
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?encryption=none&security=reality&type=tcp&sni=buylite.music.apple.com&flow=xtls-rprx-vision&fp=chrome&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97#AetrisVPN White list ┃ ✅ SNI: buylite.music.apple.com ┃ 🇸🇬 Сингапур
 vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?&security=reality&flow=xtls-rprx-vision&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&sid=b9&fp=chrome&sni=www.icloud.com&type=tcp&headerType=none&host=www.icloud.com&path=%2F#AetrisVPN White list ┃ ✅ SNI: www.icloud.com ┃ 🇩🇪 Германия
+vless://25b3faeb-89b0-4dff-b0a3-0e70997dc962@103.193.173.51:39485?security=reality&encryption=none&pbk=pzmFiyOtVaKJpJlXYC_hJcDw0hiPvPZ661uZn4NO0Xs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b9#AetrisVPN White list ┃ ✅ SNI: www.icloud.com ┃ 🇨🇳 Китай
+vless://5b01dc2d-6892-49b8-8289-3f73a32e00e4@3696b38bsg.murphyweb.sbs:32134?&security=reality&flow=xtls-rprx-vision&pbk=OdTELUjAUKO_qr-O-uihaAZJAhA8GyIWVI6CpozVCU4&sid=6c6c7c97&fp=chrome&sni=buylite.music.apple.com&type=tcp&headerType=none&host=buylite.music.apple.com&path=%2F#AetrisVPN White list ┃ ✅ SNI: buylite.music.apple.com ┃ 🇺🇸 США
+vless://9c2888cf-99f8-4c04-ac07-c033359ff975@103.41.7.43:2061?&security=reality&flow=xtls-rprx-vision&pbk=Ub1ffFeVtG2zd_t001wgmuhojSAxvaVwuo_pAapScBA&sid=c77f719b082817e4&fp=chrome&sni=www.apple.com&type=tcp&headerType=none&host=www.apple.com&path=%2F#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HrfCfh7AgSG9uZyBLb25nIC0gTUlGQSIsCiAgICAiYWRkIjogIjQ3LjI0Mi44MS45NCIsCiAgICAicG9ydCI6ICI1MjA4MCIsCiAgICAiaWQiOiAiZTQ3YjlmNzctNjBlNC00NzM4LThkNTMtNzcyYjYwMDJlMTQ2IiwKICAgICJhaWQiOiAiMCIsCiAgICAic2N5IjogImF1dG8iLAogICAgIm5ldCI6ICJ0Y3AiLAogICAgInR5cGUiOiAiaHR0cCIsCiAgICAiaG9zdCI6ICJ1Z2hybi5kaW5ndGFsay5jb20iLAogICAgInBhdGgiOiAiL1FRcXVuLTczNzgwNTQ0MyIsCiAgICAidGxzIjogIiIsCiAgICAic25pIjogIiIsCiAgICAiYWxwbiI6ICIiLAogICAgImZwIjogIiIsCiAgICAiaW5zZWN1cmUiOiAiMCIKfQ==
