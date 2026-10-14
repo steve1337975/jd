@@ -23,7 +23,6 @@ namespace NChecker.models
             stringBuilder.AppendLine(profileData.GetHeaderString());
             stringBuilder.AppendLine(userData.GetHeaderString());
             stringBuilder.AppendLine("# sort-order: " + sortOrder);
-
             stringBuilder.AppendLine("# generated-by: " + generatedBy);
             stringBuilder.AppendLine("# generated-at: " + generatedAt.ToString());
             stringBuilder.AppendLine("# servers-count: " + serversCount);

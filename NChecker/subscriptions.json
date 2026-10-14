@@ -77,22 +77,31 @@
 		"Url":"https://raw.githack.com/zieng2/wl/main/vless_universal.txt"
 	},
 	{
-		"SubscriptionType":"White",
-		"Url":""
-	},
-	{
-		"SubscriptionType":"White",
-		"Url":""
-	},
-	{
 		"SubscriptionType":"Black",
 		"Url":"https://raw.githack.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
 		"Enabled": true
 	},
 	{
 		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/Baarcuda/vpn-configs/master/top100.txt"
+	},
+	{
+		"SubscriptionType":"Black",
+		"Url":"https://raw.githack.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt"
+	},
+	{
+		"SubscriptionType":"White",
 		"Url":""
 	},
+	{
+		"SubscriptionType":"White",
+		"Url":""
+	},
+	
 	{
 		"SubscriptionType":"Black",
 		"Url":""
