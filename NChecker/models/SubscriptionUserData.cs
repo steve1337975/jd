@@ -18,6 +18,10 @@
             SetTotalBytes(a3);
             SetTimestamp(a4);
         }
+        long GetBytes(long a1, long a2, long a3, long a4)
+        {
+            return gb * a1 + mb * a2 + kb * a3 + a4;
+        }
         void SetUploadBytes(long a1) => uploadBytes = a1;
         void SetDownloadBytes(long a1) => downloadBytes = a1;
         void SetTotalBytes(long a1) => totalBytes = a1;
