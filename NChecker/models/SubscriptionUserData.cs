@@ -4,7 +4,6 @@
     {
         const long gb = 1000 * 1000 * 1000, mb = 1000 * 1000, kb = 1000, b = 1;
         // 1024 - 1000
-
         long uploadBytes, downloadBytes, totalBytes, timestamp;
         internal SubscriptionUserData() => Init(kb, 0, gb * 256, DateTime.UtcNow.AddYears(1));
         internal SubscriptionUserData(long a1, long a2, long a3, DateTime a4) => Init(a1, a2, a3, a4);
