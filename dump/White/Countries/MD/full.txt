@@ -1,11 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country MD — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1024; download=0; total=274877906944; expire=1823513117
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823514123
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 11:25:17
-# servers-count: 2
+# generated-at: 10/14/2026 11:42:03
+# servers-count: 3
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&fp=chrome&type=grpc&serviceName=stats.v2.PushService&sni=md3.univesalsrv.com&sid=9a72d40f1ff882b3#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?encryption=none&type=grpc&serviceName=app.v1.PushService&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sni=md5.univesalsrv.com&sid=aa9884f2982b7d3c#🇲🇩 Молдова
