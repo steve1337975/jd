@@ -1,14 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country JP #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
+# subscription-userinfo: upload=1024; download=0; total=274877906944; expire=1823513117
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 10:32:24
-# servers-count: 5
+# generated-at: 10/14/2026 11:25:17
+# servers-count: 7
 
-vless://74258422-dd39-4b95-8baf-ef8acbf9ff9e@pq.aws50.yydjc.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iosapps.itunes.apple.com&fp=ios&pbk=pR8CV43xvSgvzSXPVLCVomjw-yZvNyqU32kietO2pEc&sid=a6115a2c&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇯🇵 Япония
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Япония
-ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://74258422-dd39-4b95-8baf-ef8acbf9ff9e@pq.aws50.yydjc.top:443?type=tcp&headerType=none&security=reality&encryption=none&sni=iosapps.itunes.apple.com&fp=ios&pbk=pR8CV43xvSgvzSXPVLCVomjw-yZvNyqU32kietO2pEc&sid=a6115a2c&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: iosapps.itunes.apple.com ┃ 🇯🇵 Япония
 vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp#🇯🇵 Япония
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg==@84.247.155.196:443#🇯🇵 Япония
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
+vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇯🇵 Япония
+ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Япония
