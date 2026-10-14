@@ -1,12 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country FI #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823529801
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823542864
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 16:03:21
+# generated-at: 10/14/2026 19:41:04
 # servers-count: 3
 
-vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇫🇮 Финляндия
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
+vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇫🇮 Финляндия
