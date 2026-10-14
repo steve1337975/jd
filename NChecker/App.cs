@@ -3,6 +3,7 @@ using NChecker.classes;
 using NChecker.models;
 using System.Collections.Concurrent;
 using System.Diagnostics;
+using System.IO.Compression;
 using System.Threading.Channels;
 
 namespace NChecker
@@ -15,41 +16,24 @@ namespace NChecker
         private readonly SubcriptionsManager subscriptionsManager = new SubcriptionsManager();
         private readonly NetworkingManager networkingManager = new NetworkingManager();
         private readonly ExporterManager exporterManager = new ExporterManager();
-        private readonly DatabaseReader reader;
-
-        internal App()
-        {
-            reader = new DatabaseReader(new MemoryStream(Properties.Resources.GeoLite2_Country));
-        }
-
+        private DatabaseReader reader;
         async internal Task Start()
         {
+            await InitializeDatabaseAsync();
+
             bool isGitHub = Environment.GetEnvironmentVariable("GITHUB_ACTIONS") == "true";
-            string envChunk = Environment.GetEnvironmentVariable("GH_CHUNK") ?? "0";
-            string envTotal = Environment.GetEnvironmentVariable("GH_TOTAL_CHUNKS") ?? "1";
+            int currentChunk = int.Parse(Environment.GetEnvironmentVariable("GH_CHUNK") ?? "0");
+            int totalChunks = int.Parse(Environment.GetEnvironmentVariable("GH_TOTAL_CHUNKS") ?? "1");
 
-            int currentChunk = int.Parse(envChunk);
-            int totalChunks = int.Parse(envTotal);
+            int maxConcurrent = ConfigureThreadPool(isGitHub);
 
-            int baseThreads = settingsManager.Settings.MaxConcurrentChecks > 0
-                ? settingsManager.Settings.MaxConcurrentChecks
-                : 1500;
-
-            int maxConcurrent = isGitHub
-                ? Math.Max(baseThreads / 2, 50)
-                : baseThreads;
-
-            ThreadPool.SetMinThreads(maxConcurrent + 100, maxConcurrent + 100);
+            Console.WriteLine($"[Инициализация] Режим: {(isGitHub ? "GitHub Actions (Единый запуск)" : "Локальный ПК")}");
+            Console.WriteLine($"[Инициализация] Потоков выделено: {maxConcurrent}");
 
             var deadEndpoints = new ConcurrentDictionary<string, byte>();
             List<ServerData> finalAliveServers = new();
 
-            int totalDiscovered = 0;
-            int checkedCount = 0;
-
-            Console.WriteLine($"[Инициализация] Режим: {(isGitHub ? "GitHub Actions (Единый запуск)" : "Локальный ПК")}");
-            Console.WriteLine($"[Инициализация] Потоков выделено: {maxConcurrent} (исходя из базовых {baseThreads})");
-
+            var metrics = new ExecutionMetrics();
             var stopwatch = Stopwatch.StartNew();
 
             var channel = Channel.CreateBounded<ServerData>(new BoundedChannelOptions(50000)
@@ -59,12 +43,43 @@ namespace NChecker
                 SingleReader = false
             });
 
-            Task producerTask = Task.Run(async () =>
+            Task producerTask = StartProducer(channel.Writer, currentChunk, totalChunks, metrics);
+
+            Console.WriteLine("Запуск асинхронного конвейера проверки...");
+            await StartConsumer(channel.Reader, maxConcurrent, deadEndpoints, finalAliveServers, isGitHub, stopwatch, metrics);
+
+            await producerTask;
+            stopwatch.Stop();
+
+            Console.WriteLine($"\n[Финиш] Проверка завершена за: {stopwatch.Elapsed.TotalSeconds:F2} сек.");
+            Console.WriteLine($"Валидных серверов в этом инстансе: {finalAliveServers.Count}");
+
+            await ExportResults(finalAliveServers);
+        }
+
+        private int ConfigureThreadPool(bool isGitHub)
+        {
+            int baseThreads = settingsManager.Settings.MaxConcurrentChecks > 0
+                ? settingsManager.Settings.MaxConcurrentChecks
+                : 1500;
+
+            int maxConcurrent = isGitHub
+                ? Math.Max(baseThreads / 2, 50)
+                : baseThreads;
+
+            ThreadPool.SetMinThreads(maxConcurrent + 100, maxConcurrent + 100);
+            return maxConcurrent;
+        }
+
+        private Task StartProducer(ChannelWriter<ServerData> writer, int currentChunk, int totalChunks, ExecutionMetrics metrics)
+        {
+            return Task.Run(async () =>
             {
                 int globalServerIndex = 0;
+                int localTotalDiscovered = 0;
                 try
                 {
-                    SubscriptionData[] subArray = await networkingManager.ParseSubscriptions(settingsManager.Settings, subscriptionsManager.Sources);
+                    SubscriptionData[] subArray = await networkingManager.ParseSubscriptions(settingsManager.Settings, subscriptionsManager.GetSources());
 
                     List<ServerData> allParsed = new();
                     foreach (var subData in subArray)
@@ -76,8 +91,8 @@ namespace NChecker
                     {
                         if (globalServerIndex % totalChunks == currentChunk)
                         {
-                            Interlocked.Increment(ref totalDiscovered);
-                            await channel.Writer.WriteAsync(serverData);
+                            localTotalDiscovered++;
+                            await writer.WriteAsync(serverData);
                         }
                         globalServerIndex++;
                     }
@@ -88,14 +103,24 @@ namespace NChecker
                 }
                 finally
                 {
-                    channel.Writer.Complete();
+                    metrics.SetTotalDiscovered(localTotalDiscovered);
+                    writer.Complete();
                 }
             });
+        }
 
-            Console.WriteLine("Запуск асинхронного конвейера проверки...");
+        private async Task StartConsumer(
+            ChannelReader<ServerData> readerConnection,
+            int maxConcurrent,
+            ConcurrentDictionary<string, byte> deadEndpoints,
+            List<ServerData> finalAliveServers,
+            bool isGitHub,
+            Stopwatch stopwatch,
+            ExecutionMetrics metrics)
+        {
             var parallelOptions = new ParallelOptions { MaxDegreeOfParallelism = maxConcurrent };
 
-            await Parallel.ForEachAsync(channel.Reader.ReadAllAsync(), parallelOptions, async (server, cancellationToken) =>
+            await Parallel.ForEachAsync(readerConnection.ReadAllAsync(), parallelOptions, async (server, cancellationToken) =>
             {
                 string endpointKey = $"{server.Address}:{server.Port}";
 
@@ -124,25 +149,22 @@ namespace NChecker
                 }
                 finally
                 {
-                    int currentChecked = Interlocked.Increment(ref checkedCount);
+                    int currentChecked = metrics.IncrementCheckedCount();
 
                     if (settingsManager.Settings.Logging)
                     {
                         int logStep = isGitHub ? 1000 : 5000;
                         if (currentChecked % logStep == 0)
                         {
-                            Console.WriteLine($"[Прогресс] Проверено: {currentChecked} / ~{Volatile.Read(ref totalDiscovered)}... Время: {stopwatch.Elapsed.TotalSeconds:F0} сек.");
+                            Console.WriteLine($"[Прогресс] Проверено: {currentChecked} / ~{metrics.TotalDiscovered}... Время: {stopwatch.Elapsed.TotalSeconds:F0} сек.");
                         }
                     }
                 }
             });
+        }
 
-            await producerTask;
-            stopwatch.Stop();
-
-            Console.WriteLine($"\n[Финиш] Проверка завершена за: {stopwatch.Elapsed.TotalSeconds:F2} сек.");
-            Console.WriteLine($"Валидных серверов в этом инстансе: {finalAliveServers.Count}");
-
+        private async Task ExportResults(List<ServerData> finalAliveServers)
+        {
             if (settingsManager.Settings.ShuffleServers && finalAliveServers.Count > 0)
             {
                 Console.WriteLine("Перемешивание ФИНАЛЬНЫХ результатов для предотвращения кучности авторов...");
@@ -161,6 +183,46 @@ namespace NChecker
             await exporterManager.ExportWhite(settingsManager.Settings, white);
 
             Console.WriteLine("Экспорт успешно завершен!");
+        }
+
+        private async Task InitializeDatabaseAsync()
+        {
+            try
+            {
+                using var client = new HttpClient();
+                using var httpStream = await client.GetStreamAsync("https://raw.githack.com/wp-statistics/GeoLite2-Country/master/GeoLite2-Country.mmdb.gz");
+                using var decompressionStream = new GZipStream(httpStream, CompressionMode.Decompress);
+                using var memoryStream = new MemoryStream();
+
+                await decompressionStream.CopyToAsync(memoryStream);
+                memoryStream.Position = 0;
+
+                reader = new DatabaseReader(memoryStream);
+
+                Console.WriteLine("База GeoLite2 успешно загружена в память и готова к работе!");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine($"Критическая ошибка при обновлении базы GeoIP: {ex.Message}");
+            }
+        }
+
+        private class ExecutionMetrics
+        {
+            private int totalDiscovered;
+            private int checkedCount;
+
+            public int TotalDiscovered => Volatile.Read(ref totalDiscovered);
+
+            public void SetTotalDiscovered(int value)
+            {
+                Interlocked.Exchange(ref totalDiscovered, value);
+            }
+
+            public int IncrementCheckedCount()
+            {
+                return Interlocked.Increment(ref checkedCount);
+            }
         }
     }
 }

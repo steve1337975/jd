@@ -1,4 +1,4 @@
-﻿using NChecker.models.local;
+﻿using NChecker.models;
 using Newtonsoft.Json;
 
 namespace NChecker.classes

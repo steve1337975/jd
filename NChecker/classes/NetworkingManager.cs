@@ -1,6 +1,8 @@
 ﻿using MaxMind.GeoIP2;
+using MaxMind.GeoIP2.Exceptions;
+using MaxMind.GeoIP2.Responses;
 using NChecker.models;
-using NChecker.models.local;
+using Newtonsoft.Json;
 using Sayaka.Common;
 using System.Diagnostics;
 using System.Net;
@@ -23,11 +25,11 @@ namespace NChecker.classes
             _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
         }
 
-        async internal Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, FilteredSubscriptionsSourcesData[] a2)
+        async internal Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, SubscriptionSourceData[] a2)
         {
             List<SubscriptionData> subscriptions = new List<SubscriptionData>();
 
-            foreach (FilteredSubscriptionsSourcesData subscriptionSourceData in a2)
+            foreach (SubscriptionSourceData subscriptionSourceData in a2)
             {
                 if (string.IsNullOrEmpty(subscriptionSourceData.Url) || !subscriptionSourceData.Enabled) continue;
                 try
@@ -37,26 +39,28 @@ namespace NChecker.classes
 
                     foreach (string line in lines)
                     {
+                        string trimmedLine = line.Trim();
+                        if (trimmedLine.StartsWith("#")) continue;
                         try
                         {
-                            string trimmedLine = line.Trim();
-                            if (trimmedLine.StartsWith("#") || trimmedLine.Length < 10 || trimmedLine.Contains("::/")) continue;
-
-                            SubscriptionData subscriptionData = new SubscriptionData(subscriptionSourceData.Url, subscriptionSourceData.GetFilter());
-
                             ServerData serverData = new(trimmedLine);
+                            if (serverData.Address.Equals("0.0.0.0") || serverData.Address.Equals("127.0.0.1")) continue;
+
+                            SubscriptionData subscriptionData = new SubscriptionData(subscriptionSourceData.Url, subscriptionSourceData.FilterType);
                             serverData.Subscription = subscriptionData;
 
                             subscriptionData.AddServer(serverData);
+
                             subscriptions.Add(subscriptionData);
                         }
+                        catch (JsonReaderException exc) { }
                         catch (Exception exc)
                         {
+                            Console.WriteLine(subscriptionSourceData.Url);
                             Console.WriteLine(line);
                             Console.WriteLine(exc.ToString());
                         }
                     }
-
                     if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionSourceData.Url);
                 }
                 catch { }
@@ -68,27 +72,31 @@ namespace NChecker.classes
 
         async internal Task ExecuteCountryTestAsync(ServerData server, DatabaseReader reader)
         {
+            CountryResponse response = null;
             try
             {
-                if (string.IsNullOrEmpty(server.Address) || server.Port == 0 || server.Protocol == "broken") return;
-
-                if (!IPAddress.TryParse(server.Address, out IPAddress? ip))
+                if (string.IsNullOrEmpty(server.Address) || server.Port == 0) return;
+                try
                 {
-                    using var cts = new CancellationTokenSource(800);
-                    IPAddress[] addresses = await Dns.GetHostAddressesAsync(server.Address, cts.Token);
-
-                    ip = addresses.FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork)
-                         ?? addresses.FirstOrDefault();
+                    if (!IPAddress.TryParse(server.Address, out IPAddress? ip))
+                    {
+                        using var cts = new CancellationTokenSource(800);
+                        IPAddress[] addresses = await Dns.GetHostAddressesAsync(server.Address, cts.Token);
+                        ip = addresses.FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork)
+                             ?? addresses.FirstOrDefault();
+                    }
+                    if (ip == null) return;
+                    response = reader.Country(ip);
+                    server.SetCountry(response);
                 }
-
-                if (ip == null) return;
-
-                var response = reader.Country(ip);
-                server.CountryCode = response.Country.IsoCode ?? "UNK";
+                catch (SocketException) { }
+                catch (OperationCanceledException) { }
+                catch (AddressNotFoundException) { }
             }
-            catch
+            catch (Exception exc)
             {
-                server.CountryCode = "UNK";
+                Console.WriteLine(exc);
+                server.SetCountry(response);
             }
         }
 
@@ -97,7 +105,7 @@ namespace NChecker.classes
             server.IsAlive = false;
             server.Delay = -1;
 
-            if (string.IsNullOrEmpty(server.Address) || server.Port == 0 || server.Protocol == "broken") return;
+            if (string.IsNullOrEmpty(server.Address) || server.Port == 0) return;
 
             try
             {

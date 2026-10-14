@@ -61,6 +61,21 @@ namespace NChecker.Properties {
         }
         
         /// <summary>
+        ///   Ищет локализованную строку, похожую на [
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt&quot;,
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt&quot;,
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt&quot;,
+        ///&quot;https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt&quot;,
+        ///&quot;https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt&quot;,
+        ///&quot;https://raw.githack.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt [остаток строки не уместился]&quot;;.
+        /// </summary>
+        internal static string black {
+            get {
+                return ResourceManager.GetString("black", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Поиск локализованного ресурса типа System.Byte[].
         /// </summary>
         internal static byte[] GeoLite2_Country {
@@ -71,7 +86,15 @@ namespace NChecker.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на {&quot;Timeout&quot;:5,&quot;MaxConcurrentChecks&quot;:500,&quot;MaxLinesPerFile&quot;:250,&quot;ShuffleServers&quot;:true,&quot;Logging&quot;:true}.
+        ///   Ищет локализованную строку, похожую на {
+        ///	&quot;Timeout&quot;:5,
+        ///	&quot;MaxConcurrentChecks&quot;:500,
+        ///	&quot;MaxLinesPerFile&quot;:500,
+        ///	&quot;ShuffleServers&quot;:true,
+        ///	&quot;Logging&quot;:false,
+        ///	&quot;IsHttpPing&quot;:false,
+        ///	&quot;Renaming&quot;:false
+        ///}.
         /// </summary>
         internal static string settings {
             get {
@@ -81,16 +104,39 @@ namespace NChecker.Properties {
         
         /// <summary>
         ///   Ищет локализованную строку, похожую на [
-        ///	{&quot;SubscriptionType&quot;:&quot;Black&quot;,&quot;Url&quot;:&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt&quot;},
-        ///	{&quot;SubscriptionType&quot;:&quot;Black&quot;,&quot;Url&quot;:&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt&quot;},
-        ///	{&quot;SubscriptionType&quot;:&quot;Black&quot;,&quot;Url&quot;:&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt&quot;},
-        ///
-        ///	{&quot;SubscriptionType&quot;:&quot;Black&quot;,&quot;Url&quot;:&quot;https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt&quot;},
-        ///	{&quot;SubscriptionType&quot;:&quot;Black&quot;,&quot;Url&quot;:&quot; [остаток строки не уместился]&quot;;.
+        ///	{
+        ///		&quot;SubscriptionType&quot;:&quot;Black&quot;,
+        ///		&quot;Url&quot;:&quot;&quot;
+        ///	},
+        ///	{
+        ///		&quot;SubscriptionType&quot;:&quot;White&quot;,
+        ///		&quot;Url&quot;:&quot;&quot;
+        ///	},
+        ///	{
+        ///		&quot;SubscriptionType&quot;:&quot;Black&quot;,
+        ///		&quot;Url&quot;:&quot;&quot;
+        ///	}
+        ///]
+        ///.
         /// </summary>
         internal static string subscriptions {
             get {
                 return ResourceManager.GetString("subscriptions", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
+        ///https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt
+        ///https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
+        ///https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt
+        ///https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
+        ///https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt
+        ///https://raw.githack.com/zieng2/wl/main/vless [остаток строки не уместился]&quot;;.
+        /// </summary>
+        internal static string white {
+            get {
+                return ResourceManager.GetString("white", resourceCulture);
             }
         }
     }

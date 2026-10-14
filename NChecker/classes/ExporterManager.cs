@@ -1,5 +1,4 @@
 ﻿using NChecker.models;
-using NChecker.models.local;
 using System.Text;
 
 namespace NChecker.classes
@@ -86,7 +85,7 @@ namespace NChecker.classes
 
         async Task ExportByCountriesFull(SubscriptionFilterType filterType, ServerData[] servers, SettingsData settings)
         {
-            var countryGroups = servers.GroupBy(x => string.IsNullOrWhiteSpace(x.CountryCode) ? "UNKNOWN" : x.CountryCode.ToUpper());
+            var countryGroups = servers.GroupBy(x => x.GetCountryCode());
 
             foreach (var group in countryGroups)
             {

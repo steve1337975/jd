@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using MaxMind.GeoIP2.Responses;
+using Newtonsoft.Json;
 using System.Text;
 using System.Web;
 
@@ -6,39 +7,46 @@ namespace NChecker.models
 {
     internal class ServerData
     {
-        internal static readonly string[] SupportedProtocols = { "vmess", "vless", "ss", "shadowsocks", "trojan", "hysteria2", "hy2", "tuic", "wireguard" };
+        internal static readonly string[] SupportedProtocols = { "vmess", "vless", "ss", "shadowsocks", "ssr", "trojan", "hysteria2", "hy2", "tuic", "wireguard" };
+
 
         internal string Url { get; private set; }
         internal string Protocol { get; private set; }
         internal string Address { get; private set; }
         internal int Port { get; private set; }
         internal string Name { get; private set; }
-        internal string CountryCode { get; set; } = "UNK";
+        string m_countryCode = "UNK";
+        string m_country = "Unknown";
         internal long Delay { get; set; } = -1;
         internal bool IsAlive { get; set; }
         internal SubscriptionData Subscription { get; set; }
-
-        internal ServerData(string row)
+        internal ServerData(string a1)
         {
-            if (string.IsNullOrWhiteSpace(row)) return;
+            if (string.IsNullOrWhiteSpace(a1)) return;
 
-            row = row.Trim();
-            Url = row;
+            a1 = a1.Trim();
+            Url = a1;
 
-            if (row.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
+            if (a1.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
             {
-                ParseVmess(row);
+                ParseVmess(a1);
             }
-            else if (SupportedProtocols.Any(p => row.StartsWith(p + "://", StringComparison.OrdinalIgnoreCase)))
+            else if (SupportedProtocols.Any(p => a1.StartsWith(p + "://", StringComparison.OrdinalIgnoreCase)))
             {
-                ParseStandardVpnUri(row);
+                ParseStandardVpnUri(a1);
             }
             else
             {
-                ParseGenericFallback(row);
+                ParseGenericFallback(a1);
             }
         }
-
+        internal string GetCountryCode() => m_countryCode.ToUpper();
+        internal string GetCountry() => m_country;
+        internal void SetCountry(CountryResponse a1)
+        {
+            m_country = a1?.Country.Name ?? "Unknown";
+            m_countryCode = a1?.Country.IsoCode ?? "UNK";
+        }
         #region Приватные методы безопасного парсинга строк
 
         private void ParseVmess(string row)
@@ -139,5 +147,4 @@ namespace NChecker.models
 
         #endregion
     }
-
 }
