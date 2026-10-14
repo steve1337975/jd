@@ -87,11 +87,13 @@
 	},
 	{
 		"SubscriptionType":"Black",
-		"Url":"https://raw.githack.com/Baarcuda/vpn-configs/master/top100.txt"
+		"Url":"https://raw.githack.com/Baarcuda/vpn-configs/master/top100.txt",
+		"Enabled": false
 	},
 	{
 		"SubscriptionType":"Black",
-		"Url":"https://raw.githack.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt"
+		"Url":"https://raw.githack.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
+		"Enabled": false
 	},
 	{
 		"SubscriptionType":"White",
