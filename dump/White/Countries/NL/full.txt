@@ -1,16 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country NL — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823450490
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 18:01:30
-# servers-count: 7
+# generated-at: 10/14/2026 10:32:24
+# servers-count: 3
 
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=qq&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&sni=apple.com&sid=00353c#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&sid=00353c&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇫🇷 Франция
-vless://d7b4d5b3-2c2d-493c-9b83-f25e3f6771b2@nl.riotvpn.eu:8443?encryption=none&security=reality&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=e67fb918ed6b9ffb&sni=avatars.mds.yandex.net&fp=ios&type=grpc&serviceName=grpc-yandex#🇳🇱 Нидерланды
-vmess://eyJhZGQiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMTI4MWFjY2EtZjIxZC00NzVjLWJmMDQtZWNjYmVlN2Y4ZGYyIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLXdzIiwicG9ydCI6IjMzNzM2IiwicHMiOiIu8JallCDdgSDLlta08J+buOC8hMuWwrAuIHwgWypDSURSXSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ&security=reality&sid=00353c&sni=apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇺🇸 США
+vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@147.45.187.188:8443?mode=gun&security=reality&encryption=none&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&type=grpc&serviceName=grpc&sni=vedomosti.ru&sid=6ba85179e30d4fc2#🇳🇱 Нидерланды
 vless://a96ad3ea-4820-43d2-bbf3-27c6bf19d652@129.101.121.70:8443?security=reality&encryption=none&pbk=xX9ZxZRrF_EER9-8fOegxR97HV5KaMaftAD7eq10UXw&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=75dd7e79a7876314#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇩🇪 Германия
-vmess://eyJ2IjoiMiIsInBzIjoiLvCWpZQg3YEgy5bWtPCfm7jgvITLlsKwLiB8IFsqQ0lEUl0iLCJhZGQiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJwb3J0IjoiMzM3MzYiLCJpZCI6IjEyODFhY2NhLWYyMWQtNDc1Yy1iZjA0LWVjY2JlZTdmOGRmMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJubC0yYTk3MmM4MDUyLnNoYW1hbmFwcC5vbmxpbmUiLCJwYXRoIjoiL3ZtZXNzLXdzIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIwIn0=
+vless://ca990a85-cb33-44af-bb17-61b30b43d51e@72.56.85.221:443?security=reality&type=tcp&packetEncoding=xudp&sni=apple.com&fp=qq&flow=xtls-rprx-vision&sid=00353c&pbk=uTOxHZkQuw_YnO3GEIV0jDkVNOsOPQrTIPdRb2Rk8DQ#AetrisVPN White list ┃ ✅ SNI: apple.com ┃ 🇫🇷 Франция

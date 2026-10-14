@@ -1,12 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country LV — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823450490
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 18:01:30
-# servers-count: 3
+# generated-at: 10/14/2026 10:32:24
+# servers-count: 2
 
-vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sid=b28db60d77c50b4f&sni=yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия

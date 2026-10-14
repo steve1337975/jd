@@ -1,33 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country US — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823450490
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/13/2026 18:01:30
-# servers-count: 24
+# generated-at: 10/14/2026 10:32:24
+# servers-count: 16
 
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=b97e7d4582b6fa6e&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&encryption=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
+vless://fe0afb65-a43e-4493-81b9-6d9edd57f79c@144.31.78.35:443?encryption=none&type=xhttp&path=%2Fvideo%2Fdownload&host=evovpn.pro&mode=stream-up&security=reality&sni=www.yandex.ru&fp=edge&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?&security=reality&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&fp=firefox&sni=yandex.ru&type=tcp&headerType=none&host=yandex.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://fe0afb65-a43e-4493-81b9-6d9edd57f79c@144.31.78.35:443?encryption=none&type=xhttp&path=%2Fvideo%2Fdownload&host=evovpn.pro&mode=stream-up&security=reality&sni=www.yandex.ru&fp=edge&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=35cd899f8de04801&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@finkawwwbroy5.qcloud.surf:20324?type=raw&security=reality&flow=xtls-rprx-vision&fp=random&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?security=reality&type=tcp&packetEncoding=xudp&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=b97e7d4582b6fa6e&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&encryption=none#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://8bd04756-3beb-4348-82c9-d35453df50ce@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://f83ce3c4-07d9-4895-bd14-cb74abbcab37@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@finkawwwbroy5.qcloud.surf:20324?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&sid=a9391e22&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇬🇧 Великобритания
-vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇺🇸 США
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
