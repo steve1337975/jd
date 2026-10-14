@@ -1,14 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country AE — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823527843
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823529801
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 15:30:43
-# servers-count: 5
+# generated-at: 10/14/2026 16:03:21
+# servers-count: 4
 
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=chrome#AetrisVPN White list ┃ ✅ SNI: strm.yandex.net ┃ 🇦🇪 ОАЭ
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.26:2088?encryption=none&security=reality&sni=www.yandex.ru&fp=firefox&pbk=Eq3c19Y0WGB1APWMADQB-oxCvZFSVFAQxG5L6b8EkUg&sid=b1ad165f903c62fe&type=grpc&authority=&serviceName=astracat&mode=gun#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇬🇧 Великобритания
+vless://0de1d303-d7de-506f-8679-c4cb67e2e2cc@217.60.72.238:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&sni=amd.com&encryption=none#AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇦🇪 ОАЭ
 vless://c6e3c24c-ce20-4ad5-8c8c-68cb05890ea8@de-gdd-1.unturned-rust-dead.lol:443?encryption=none&security=reality&sni=de-gdd-1.unturned-rust-dead.lol&fp=random&pbk=aYz4_13W8gtAXGBrWeqJXtExahAJ9kUPDapqeyAlYCk&type=grpc&serviceName=gdd-grpc#🇦🇪 ОАЭ
-vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.37:443?encryption=none&security=reality&sni=www.yandex.ru&fp=chrome&pbk=5k0dtOSzmshCubdYeKppsUdHU4i2ghaB9uSJSzGjHW4&sid=6dbf4931096f9890&type=grpc&serviceName=astracat&mode=gun#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇳🇱 Нидерланды
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=firefox#AetrisVPN White list ┃ ✅ SNI: strm.yandex.net ┃ 🇦🇪 ОАЭ
-vless://8732f92b-ba85-48f7-92e4-ad029f1cd4e7@45.59.120.217:443?type=tcp&security=reality&sni=strm.yandex.net&pbk=mWxcYeYE-M3iE0RBjTzG88QI9kj2wivJDoIYDu_aG3w&sid=29c2dd1e3ef7c4d4&encryption=none&fp=safari#AetrisVPN White list ┃ ✅ SNI: strm.yandex.net ┃ 🇦🇪 ОАЭ
+vless://5413edfb-08d6-4fba-b51c-809c04feb127@31.59.210.25:2087?encryption=none&fp=&pbk=KDBhxT2YMtMjDEC9VdoDEISdCwxd6KFrSE8uyUaHcTY&security=reality&serviceName=astracat&sid=ed435c242097fd05&sni=www.yandex.ru&type=grpc#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
