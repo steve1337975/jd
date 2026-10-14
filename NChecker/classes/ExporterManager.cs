@@ -54,7 +54,7 @@ namespace NChecker.classes
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
 
-            string headerName = $"VPN {filterType.ToString().ToUpper()} — Full";
+            string headerName = $"VPN {filterType.ToString()} — Full";
             SubscriptionHeaderData headerData = new(headerName, servers.Length);
 
             string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', servers.Select(s => s.Url));
@@ -67,19 +67,19 @@ namespace NChecker.classes
 
             foreach (var group in protocolGroups)
             {
-                string protocolName = group.Key ?? "UNKNOWN";
+                string protocolName = group.Key.ToString();
                 ServerData[] protocolServers = group.ToArray();
 
                 // Складываем строго в подпапку "Protocols"
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Protocols", protocolName);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                SubscriptionHeaderData headerData = new($"VPN {protocolName.ToUpper()} — Full", protocolServers.Length);
+                SubscriptionHeaderData headerData = new($"VPN {filterType} {protocolName} — Full", protocolServers.Length);
 
                 string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', protocolServers.Select(s => s.Url));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
-                await WritePartiallyAsync(path, $"VPN {protocolName.ToUpper()}", protocolServers, settings.MaxLinesPerFile);
+                await WritePartiallyAsync(path, $"VPN {protocolName}", protocolServers, settings.MaxLinesPerFile);
             }
         }
 
@@ -95,7 +95,7 @@ namespace NChecker.classes
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Countries", countryCode);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                SubscriptionHeaderData headerData = new($"VPN Country {countryCode} — Full", countryServers.Length);
+                SubscriptionHeaderData headerData = new($"VPN {filterType} Country {countryCode} — Full", countryServers.Length);
 
                 string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', countryServers.Select(s => s.Url));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
@@ -111,7 +111,7 @@ namespace NChecker.classes
         async Task ExportFilterPartially(SubscriptionFilterType filterType, SettingsData settings, ServerData[] servers)
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
-            string baseHeaderName = $"VPN {filterType.ToString().ToUpper()}";
+            string baseHeaderName = $"VPN {filterType} {filterType.ToString().ToUpper()}";
 
             await WritePartiallyAsync(path, baseHeaderName, servers, settings.MaxLinesPerFile);
         }

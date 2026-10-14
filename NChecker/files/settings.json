@@ -1,9 +1,9 @@
 {
-	"Timeout":5,
-	"MaxConcurrentChecks":500,
-	"MaxLinesPerFile":500,
-	"ShuffleServers":true,
-	"Logging":false,
-	"IsHttpPing":false,
-	"Renaming":false
+	"Timeout": 5,
+	"MaxConcurrentChecks": 500,
+	"MaxLinesPerFile": 750,
+	"ShuffleServers": true,
+	"Logging": true,
+	"IsHttpPing": false,
+	"Renaming": false
 }

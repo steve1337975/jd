@@ -7,6 +7,7 @@ using Sayaka.Common;
 using System.Diagnostics;
 using System.Net;
 using System.Net.Sockets;
+using System.Text;
 
 namespace NChecker.classes
 {
@@ -18,25 +19,31 @@ namespace NChecker.classes
         {
             var handler = new SocketsHttpHandler
             {
-                PooledConnectionIdleTimeout = TimeSpan.FromSeconds(15),
+                PooledConnectionIdleTimeout = TimeSpan.FromSeconds(5),
                 ConnectTimeout = TimeSpan.FromSeconds(3)
             };
             _httpClient = new HttpClient(handler);
+            _httpClient.Timeout = TimeSpan.FromSeconds(10);
             _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
         }
 
         async internal Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, SubscriptionSourceData[] a2)
         {
             List<SubscriptionData> subscriptions = new List<SubscriptionData>();
-
             foreach (SubscriptionSourceData subscriptionSourceData in a2)
             {
                 if (string.IsNullOrEmpty(subscriptionSourceData.Url) || !subscriptionSourceData.Enabled) continue;
                 try
                 {
                     string data = await _httpClient.GetStringAsync(subscriptionSourceData.Url);
+                    try
+                    {
+                        data = Encoding.UTF8.GetString(Convert.FromBase64String(data));
+                    }
+                    catch (FormatException) { }
+                    SubscriptionData subscriptionData = new SubscriptionData(subscriptionSourceData.Url, subscriptionSourceData.FilterType);
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-
+              
                     foreach (string line in lines)
                     {
                         string trimmedLine = line.Trim();
@@ -44,26 +51,24 @@ namespace NChecker.classes
                         try
                         {
                             ServerData serverData = new(trimmedLine);
-                            if (serverData.Address.Equals("0.0.0.0") || serverData.Address.Equals("127.0.0.1")) continue;
-
-                            SubscriptionData subscriptionData = new SubscriptionData(subscriptionSourceData.Url, subscriptionSourceData.FilterType);
+                            if (serverData.Protocol == ServerProtocol.Unknown) continue;
                             serverData.Subscription = subscriptionData;
-
                             subscriptionData.AddServer(serverData);
-
-                            subscriptions.Add(subscriptionData);
                         }
-                        catch (JsonReaderException exc) { }
+                        catch (JsonReaderException) { }
+                        catch (NullReferenceException) { }
                         catch (Exception exc)
                         {
-                            Console.WriteLine(subscriptionSourceData.Url);
-                            Console.WriteLine(line);
-                            Console.WriteLine(exc.ToString());
                         }
                     }
-                    if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionSourceData.Url);
+                    subscriptions.Add(subscriptionData);
+                    if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionData.Url);
                 }
-                catch { }
+                catch (TaskCanceledException) { }
+                catch (Exception exc)
+                {
+                  Console.WriteLine(exc.ToString());
+                }
             }
             return subscriptions.ToArray();
         }
@@ -95,7 +100,6 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Console.WriteLine(exc);
                 server.SetCountry(response);
             }
         }
@@ -123,8 +127,10 @@ namespace NChecker.classes
                 {
                     server.Delay = stopwatch.ElapsedMilliseconds;
                     server.IsAlive = true;
+                    Console.WriteLine($"[TCP +] {server.Address}:{server.Port} - {stopwatch.ElapsedMilliseconds} ms");
                     return;
                 }
+                Console.WriteLine($"[TCP -] {server.Address}:{server.Port} ");
             }
             catch { }
         }

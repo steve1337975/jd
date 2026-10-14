@@ -24,10 +24,10 @@ namespace NChecker.classes
             string[] lines = JsonConvert.DeserializeObject<string[]>(Properties.Resources.black);
             foreach (string line in lines)
             {
-                if (string.IsNullOrEmpty(line)) continue;
+                if (string.IsNullOrEmpty(line) || line.StartsWith("#")) continue;
                 if (line.Equals("-")) break;
-                bool isDisabled = line.StartsWith('#');
-                m_black.Add(new(isDisabled ? line.Substring(1) : line, !isDisabled, SubscriptionFilterType.Black));
+               
+                m_black.Add(new(line,true, SubscriptionFilterType.Black));
             }
         }
         void FillWhiteLists()
@@ -35,10 +35,9 @@ namespace NChecker.classes
             string[] lines = JsonConvert.DeserializeObject<string[]>(Properties.Resources.white);
             foreach (string line in lines)
             {
-                if (string.IsNullOrEmpty(line)) continue;
+                if (string.IsNullOrEmpty(line) || line.StartsWith("#")) continue;
                 if (line.Equals("-")) break;
-                bool isDisabled = line.StartsWith('#');
-                m_white.Add(new(isDisabled ? line.Substring(1) : line, !isDisabled, SubscriptionFilterType.White));
+                m_white.Add(new(line, true, SubscriptionFilterType.White));
             }
         }
     }

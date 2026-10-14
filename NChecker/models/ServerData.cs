@@ -1,66 +1,85 @@
 ﻿using MaxMind.GeoIP2.Responses;
 using Newtonsoft.Json;
 using System.Text;
-using System.Web;
 
 namespace NChecker.models
 {
+
     internal class ServerData
     {
-        internal static readonly string[] SupportedProtocols = { "vmess", "vless", "ss", "shadowsocks", "ssr", "trojan", "hysteria2", "hy2", "tuic", "wireguard" };
-
-
         internal string Url { get; private set; }
-        internal string Protocol { get; private set; }
+        internal ServerProtocol Protocol { get; private set; } = ServerProtocol.Unknown;
         internal string Address { get; private set; }
         internal int Port { get; private set; }
-        internal string Name { get; private set; }
-        string m_countryCode = "UNK";
-        string m_country = "Unknown";
+
+        private string m_countryCode = "UNK";
+        private string m_country = "Unknown";
+
         internal long Delay { get; set; } = -1;
         internal bool IsAlive { get; set; }
         internal SubscriptionData Subscription { get; set; }
-        internal ServerData(string a1)
+
+        internal ServerData(string url)
         {
-            if (string.IsNullOrWhiteSpace(a1)) return;
+            if (string.IsNullOrWhiteSpace(url)) return;
 
-            a1 = a1.Trim();
-            Url = a1;
+            url = url.Trim();
+            Url = url;
 
-            if (a1.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
+            int schemeBounds = url.IndexOf("://");
+            if (schemeBounds == -1) return;
+
+            string scheme = url.Substring(0, schemeBounds).ToLower();
+            Protocol = ParseProtocolScheme(scheme);
+
+            if (Protocol == ServerProtocol.Vmess)
             {
-                ParseVmess(a1);
+                ParseVmess(url);
             }
-            else if (SupportedProtocols.Any(p => a1.StartsWith(p + "://", StringComparison.OrdinalIgnoreCase)))
+            else if (Protocol != ServerProtocol.Unknown)
             {
-                ParseStandardVpnUri(a1);
-            }
-            else
-            {
-                ParseGenericFallback(a1);
+                ParseStandardVpnUri(url, scheme);
             }
         }
-        internal string GetCountryCode() => m_countryCode.ToUpper();
+        internal string GetAddress()
+        {
+            return Address;
+        }
+
+        internal string GetCountryCode() => m_countryCode;
         internal string GetCountry() => m_country;
-        internal void SetCountry(CountryResponse a1)
+
+        internal void SetCountry(CountryResponse response)
         {
-            m_country = a1?.Country.Name ?? "Unknown";
-            m_countryCode = a1?.Country.IsoCode ?? "UNK";
+            m_country = response?.Country.Name ?? "Unknown";
+            m_countryCode = response?.Country.IsoCode ?? "UNK";
         }
+
+        private static ServerProtocol ParseProtocolScheme(string scheme)
+        {
+            return scheme switch
+            {
+                "vmess" => ServerProtocol.Vmess,
+                "vless" => ServerProtocol.Vless,
+                "ss" or "shadowsocks" => ServerProtocol.Shadowsocks,
+                "ssr" => ServerProtocol.ShadowsocksR,
+                "trojan" => ServerProtocol.Trojan,
+                "hy2" or "hysteria2" => ServerProtocol.Hysteria2,
+                "tuic" => ServerProtocol.Tuic,
+                "wireguard" => ServerProtocol.Wireguard,
+                _ => ServerProtocol.Unknown
+            };
+        }
+
         #region Приватные методы безопасного парсинга строк
 
         private void ParseVmess(string row)
         {
-            Protocol = "vmess";
             string base64Part = row.Substring(8).Trim();
 
             int hashIndex = base64Part.IndexOf('#');
-            string nameFromHash = null;
-
             if (hashIndex != -1)
             {
-                string rawName = base64Part.Substring(hashIndex + 1);
-                nameFromHash = HttpUtility.UrlDecode(rawName).Trim();
                 base64Part = base64Part.Substring(0, hashIndex).Trim();
             }
 
@@ -85,28 +104,16 @@ namespace NChecker.models
             {
                 Address = jsonModel.Address;
                 Port = Convert.ToInt32(jsonModel.Port ?? 0);
-
-                string jsonName = !string.IsNullOrEmpty(jsonModel.Remarks)
-                    ? HttpUtility.UrlDecode(jsonModel.Remarks).Trim()
-                    : null;
-
-                Name = jsonName ?? nameFromHash;
             }
         }
 
-        private void ParseStandardVpnUri(string row)
+        private void ParseStandardVpnUri(string row, string scheme)
         {
-            int schemeBounds = row.IndexOf("://");
-            if (schemeBounds == -1) return;
+            string mainPart = row.Substring(scheme.Length + 3);
 
-            Protocol = row.Substring(0, schemeBounds).ToLower();
-
-            string mainPart = row.Substring(schemeBounds + 3);
             int hashIndex = mainPart.IndexOf('#');
             if (hashIndex != -1)
             {
-                string rawName = mainPart.Substring(hashIndex + 1);
-                Name = HttpUtility.UrlDecode(rawName).Trim();
                 mainPart = mainPart.Substring(0, hashIndex);
             }
 
@@ -131,17 +138,7 @@ namespace NChecker.models
             else
             {
                 Address = connectionPart;
-            }
-        }
-
-        private void ParseGenericFallback(string row)
-        {
-            int portIndex = row.LastIndexOf(':');
-            if (portIndex != -1 && int.TryParse(row.Substring(portIndex + 1), out int parsedPort))
-            {
-                Address = row.Substring(0, portIndex);
-                Port = parsedPort;
-                Protocol = "raw";
+                Port = 0;
             }
         }
 
