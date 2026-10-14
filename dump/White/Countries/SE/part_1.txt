@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country SE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823491530
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823509944
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 05:25:30
-# servers-count: 3
+# generated-at: 10/14/2026 10:32:24
+# servers-count: 4
 
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21221?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21221?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
-vless://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21221?security=reality&encryption=none&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=c430045c#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
+vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@sweedenqfds777.qcloud.surf:21221?type=tcp&security=reality&sni=metrika.yandex.ru&fp=safari&flow=xtls-rprx-vision&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
+vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@sweedenqfds777.qcloud.surf:21221?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
+vless://8bd04756-3beb-4348-82c9-d35453df50ce@sweedenqfds777.qcloud.surf:21221?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@sweedenqfds777.qcloud.surf:21221?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=RtxGqCtQJeOyUwSe7k6oZOrQWV1hPbC-TMqqgxl9fn4&sid=c430045c&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇸🇪 Швеция
