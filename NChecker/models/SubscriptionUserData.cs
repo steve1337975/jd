@@ -4,7 +4,7 @@
     {
         const long gb = 1024 * 1024 * 1024, mb = 1024 * 1024, kb = 1024, b = 1;
         long uploadBytes, downloadBytes, totalBytes, timestamp;
-        internal SubscriptionUserData() => Init(mb, mb * 4, gb * 256, DateTime.UtcNow.AddYears(1));
+        internal SubscriptionUserData() => Init(kb, 0, gb * 256, DateTime.UtcNow.AddYears(1));
         internal SubscriptionUserData(long a1, long a2, long a3, DateTime a4) => Init(a1, a2, a3, a4);
         internal string GetHeaderString()
         {
