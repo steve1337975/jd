@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country RS — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823474179
+# subscription-userinfo: upload=1048576; download=4194304; total=274877906944; expire=1823491530
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 00:36:19
-# servers-count: 1
+# generated-at: 10/14/2026 05:25:30
+# servers-count: 3
 
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=firefox&type=grpc&serviceName=node.v2.ObjectService&sni=&sid=ed0cd5cc2e26e6e7#🇷🇸 Сербия
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sni=rs2.univesalsrv.com&sid=1469af2040b7c323#🇷🇸 Сербия
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=MTMVPN&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sni=rs4.univesalsrv.com&sid=861ac7d66953e55f#🇷🇸 Сербия
