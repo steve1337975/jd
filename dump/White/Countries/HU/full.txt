@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN White Country HU — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823553767
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823562058
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 22:42:47
-# servers-count: 2
+# generated-at: 10/15/2026 01:00:58
+# servers-count: 1
 
-vless://76f385df-bb5c-4e92-b60b-fce540b0a6a0@217.13.104.154:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=travel.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
-vless://557a0638-0981-4176-a8bc-13dbf588291d@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=4a3ad88ff867a295&sni=travel.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
+vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@217.13.104.154:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&spx=%2F&sid=95ec618532fa065e#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия

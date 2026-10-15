@@ -1,20 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Trojan #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823553767
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823562058
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/14/2026 22:42:47
-# servers-count: 11
+# generated-at: 10/15/2026 01:00:58
+# servers-count: 5
 
 trojan://UX82473651@47.131.250.125:443?type=tcp&headerType=none&security=tls&encryption=none&sni=simple-molly.rooster465.autos&fp=chrome&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20MIFA%20-%203207
-trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20Wi-Fi%201%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
-trojan://UX82473651@musical-mouse.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=musical-mouse.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20MIFA%20-%201842
-trojan://UX82473651@3.34.192.47:443?type=tcp&headerType=none&security=tls&encryption=none&sni=central-jawfish.rooster465.autos&fp=chrome&insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20S.%20Korea%20-%20MIFA%20-%202110
-trojan://UX82473651@3.36.50.213:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pure-kodiak.rooster465.autos&fp=chrome&insecure=1#%F0%9F%87%B0%F0%9F%87%B7%20S.%20Korea%20-%20MIFA%20-%202408
-trojan://UX82473651@pure-kodiak.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=pure-kodiak.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7%20S.%20Korea%20-%20MIFA%20-%202111
-trojan://UX82473651@18.141.136.8:443?type=tcp&headerType=none&security=tls&encryption=none&sni=musical-mouse.rooster465.autos&fp=chrome&insecure=1#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20MIFA%20-%202460
-trojan://UX82473651@glorious-glider.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=glorious-glider.rooster465.autos&fp=chrome#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20MIFA%20-%202188
-trojan://UX82473651@central-jawfish.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=central-jawfish.rooster465.autos&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20S.%20Korea%20-%20MIFA%20-%202683
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20Wi-Fi%207%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+trojan://humanity@188.114.97.6:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%F0%9F%87%A8%F0%9F%87%A6%20Wi-Fi%201%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
 trojan://humanity@104.18.9.83:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%F0%9F%87%B7%F0%9F%87%B8%20Wi-Fi%209%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+trojan://UX82473651@musical-mouse.rooster465.autos:443?type=tcp&headerType=none&security=tls&encryption=none&sni=musical-mouse.rooster465.autos#%F0%9F%87%B8%F0%9F%87%AC%20Singapore%20-%20MIFA%20-%201842
