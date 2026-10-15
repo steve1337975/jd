@@ -1,4 +1,5 @@
 ﻿using NChecker.models;
+using NChecker.utils;
 using System.Text;
 
 namespace NChecker.classes
@@ -42,7 +43,7 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Console.WriteLine($"[Ошибка экспорта {filterType}]: {exc}");
+                Logger.Info($"Ошибка экспорта {filterType} => {exc}");
             }
         }
 

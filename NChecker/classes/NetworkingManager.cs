@@ -2,7 +2,7 @@
 using MaxMind.GeoIP2.Exceptions;
 using MaxMind.GeoIP2.Responses;
 using NChecker.models;
-using Newtonsoft.Json;
+using NChecker.utils;
 using Sayaka.Common;
 using System.Diagnostics;
 using System.Net;
@@ -23,7 +23,7 @@ namespace NChecker.classes
                 ConnectTimeout = TimeSpan.FromSeconds(3)
             };
             _httpClient = new HttpClient(handler);
-            _httpClient.Timeout = TimeSpan.FromSeconds(10);
+            _httpClient.Timeout = TimeSpan.FromSeconds(3);
             _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
         }
 
@@ -43,31 +43,23 @@ namespace NChecker.classes
                     catch (FormatException) { }
                     SubscriptionData subscriptionData = new SubscriptionData(subscriptionSourceData.Url, subscriptionSourceData.FilterType);
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-              
+
                     foreach (string line in lines)
                     {
                         string trimmedLine = line.Trim();
                         if (trimmedLine.StartsWith("#")) continue;
-                        try
-                        {
-                            ServerData serverData = new(trimmedLine);
-                            if (serverData.Protocol == ServerProtocol.Unknown) continue;
-                            serverData.Subscription = subscriptionData;
-                            subscriptionData.AddServer(serverData);
-                        }
-                        catch (JsonReaderException) { }
-                        catch (NullReferenceException) { }
-                        catch (Exception exc)
-                        {
-                        }
+                        ServerData serverData = new(trimmedLine);
+                        if (!serverData.IsValid()) continue;
+                        serverData.Subscription = subscriptionData;
+                        subscriptionData.AddServer(serverData);
                     }
                     subscriptions.Add(subscriptionData);
-                    if (a1.Logging) Console.WriteLine("Успешно загружено => " + subscriptionData.Url);
+                    if (a1.Logging) Logger.Info("Успешно загружено => " + subscriptionData.Url);
                 }
                 catch (TaskCanceledException) { }
                 catch (Exception exc)
                 {
-                  Console.WriteLine(exc.ToString());
+                    Logger.Error(exc.ToString());
                 }
             }
             return subscriptions.ToArray();
@@ -127,10 +119,10 @@ namespace NChecker.classes
                 {
                     server.Delay = stopwatch.ElapsedMilliseconds;
                     server.IsAlive = true;
-                    Console.WriteLine($"[TCP +] {server.Address}:{server.Port} - {stopwatch.ElapsedMilliseconds} ms");
+                    if (settings.Logging) Logger.Info($"[TCP +] {server.Address}:{server.Port} - {stopwatch.ElapsedMilliseconds} ms");
                     return;
                 }
-                Console.WriteLine($"[TCP -] {server.Address}:{server.Port} ");
+                if (settings.Logging) Logger.Info($"[TCP -] {server.Address}:{server.Port} ");
             }
             catch { }
         }

@@ -1,6 +1,6 @@
-﻿namespace NChecker
+﻿namespace NChecker.utils
 {
-    internal static class Utils
+    internal static class RandomUtil
     {
         static Random random = new Random();
         internal static long RandomLong(long min, long max) => random.NextInt64(min, max + 1);

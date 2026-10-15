@@ -1,10 +1,12 @@
-﻿namespace NChecker
+﻿using NChecker.utils;
+
+namespace NChecker
 {
     internal class Program
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Logger.Info("Hello, World!");
             await App.Instance.Start();
         }
     }

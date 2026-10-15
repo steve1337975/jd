@@ -26,8 +26,8 @@ namespace NChecker.classes
             {
                 if (string.IsNullOrEmpty(line) || line.StartsWith("#")) continue;
                 if (line.Equals("-")) break;
-               
-                m_black.Add(new(line,true, SubscriptionFilterType.Black));
+
+                m_black.Add(new(line, true, SubscriptionFilterType.Black));
             }
         }
         void FillWhiteLists()

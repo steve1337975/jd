@@ -3,7 +3,5 @@
 	"MaxConcurrentChecks": 500,
 	"MaxLinesPerFile": 750,
 	"ShuffleServers": true,
-	"Logging": true,
-	"IsHttpPing": false,
-	"Renaming": false
+	"Logging": false,
 }

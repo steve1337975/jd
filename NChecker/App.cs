@@ -1,6 +1,7 @@
 ﻿using MaxMind.GeoIP2;
 using NChecker.classes;
 using NChecker.models;
+using NChecker.utils;
 using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.IO.Compression;
@@ -27,8 +28,8 @@ namespace NChecker
 
             int maxConcurrent = ConfigureThreadPool(isGitHub);
 
-            Console.WriteLine($"[Инициализация] Режим: {(isGitHub ? "GitHub Actions (Единый запуск)" : "Локальный ПК")}");
-            Console.WriteLine($"[Инициализация] Потоков выделено: {maxConcurrent}");
+            Logger.Info($"Режим: {(isGitHub ? "GitHub Actions (Единый запуск)" : "Локальный ПК")}");
+            Logger.Info($"Потоков выделено: {maxConcurrent}");
 
             var deadEndpoints = new ConcurrentDictionary<string, byte>();
             List<ServerData> finalAliveServers = new();
@@ -45,14 +46,14 @@ namespace NChecker
 
             Task producerTask = StartProducer(channel.Writer, currentChunk, totalChunks, metrics);
 
-            Console.WriteLine("Запуск асинхронного конвейера проверки...");
+            Logger.Info("Запуск асинхронного конвейера проверки...");
             await StartConsumer(channel.Reader, maxConcurrent, deadEndpoints, finalAliveServers, isGitHub, stopwatch, metrics);
 
             await producerTask;
             stopwatch.Stop();
 
-            Console.WriteLine($"\n[Финиш] Проверка завершена за: {stopwatch.Elapsed.TotalSeconds:F2} сек.");
-            Console.WriteLine($"Валидных серверов в этом инстансе: {finalAliveServers.Count}");
+            Logger.Info($"Проверка завершена за: {stopwatch.Elapsed.TotalSeconds:F2} сек.");
+            Logger.Info($"Валидных серверов в этом инстансе: {finalAliveServers.Count}");
 
             await ExportResults(finalAliveServers);
         }
@@ -99,7 +100,7 @@ namespace NChecker
                 }
                 catch (Exception ex)
                 {
-                    Console.WriteLine($"[Ошибка продюсера]: {ex.Message}");
+                    Logger.Error($"Ошибка продюсера => {ex.Message}");
                 }
                 finally
                 {
@@ -156,7 +157,7 @@ namespace NChecker
                         int logStep = isGitHub ? 1000 : 5000;
                         if (currentChecked % logStep == 0)
                         {
-                            Console.WriteLine($"[Прогресс] Проверено: {currentChecked} / ~{metrics.TotalDiscovered}... Время: {stopwatch.Elapsed.TotalSeconds:F0} сек.");
+                            Logger.Info($"Проверено: {currentChecked} / ~{metrics.TotalDiscovered}... Время: {stopwatch.Elapsed.TotalSeconds:F0} сек.");
                         }
                     }
                 }
@@ -167,8 +168,8 @@ namespace NChecker
         {
             if (settingsManager.Settings.ShuffleServers && finalAliveServers.Count > 0)
             {
-                Console.WriteLine("Перемешивание ФИНАЛЬНЫХ результатов для предотвращения кучности авторов...");
-                Utils.Shuffle(finalAliveServers);
+                Logger.Info("Перемешивание ФИНАЛЬНЫХ результатов для предотвращения кучности авторов...");
+                RandomUtil.Shuffle(finalAliveServers);
             }
 
             ServerData[] black = finalAliveServers
@@ -182,7 +183,7 @@ namespace NChecker
             await exporterManager.ExportBlack(settingsManager.Settings, black);
             await exporterManager.ExportWhite(settingsManager.Settings, white);
 
-            Console.WriteLine("Экспорт успешно завершен!");
+            Logger.Info("Экспорт успешно завершен!");
         }
 
         private async Task InitializeDatabaseAsync()
@@ -199,11 +200,11 @@ namespace NChecker
 
                 reader = new DatabaseReader(memoryStream);
 
-                Console.WriteLine("База GeoLite2 успешно загружена в память и готова к работе!");
+                Logger.Info("База GeoLite2 успешно загружена в память и готова к работе!");
             }
             catch (Exception ex)
             {
-                Console.WriteLine($"Критическая ошибка при обновлении базы GeoIP: {ex.Message}");
+                Logger.Error($"Критическая ошибка при обновлении базы GeoIP => {ex.Message}");
             }
         }
 

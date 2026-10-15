@@ -1,4 +1,6 @@
-﻿namespace NChecker.models
+﻿using NChecker.utils;
+
+namespace NChecker.models
 {
     internal class SubscriptionData
     {
@@ -18,7 +20,7 @@
             */
         }
         internal void AddServer(ServerData a1) => m_servers.Add(a1);
-        internal void ShuffleServers() => Utils.Shuffle(m_servers);
+        internal void ShuffleServers() => RandomUtil.Shuffle(m_servers);
         internal ServerData[] GetServers() => m_servers.ToArray();
     }
     internal enum SubscriptionFilterType : int
