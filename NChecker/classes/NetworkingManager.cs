@@ -26,17 +26,6 @@ namespace NChecker.classes
             _httpClient = new HttpClient(handler);
             _httpClient.Timeout = TimeSpan.FromSeconds(3);
             _httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
-
-            string[] lines = Properties.Resources.whitelist.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-            foreach (string line in lines)
-            {
-                /*
-www.t2.ru
-www.vtb.ru
-www.wf.mail.ru
-                */
-                Console.WriteLine(line);
-            }
         }
         async internal Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, SubscriptionSourceData[] a2)
         {
