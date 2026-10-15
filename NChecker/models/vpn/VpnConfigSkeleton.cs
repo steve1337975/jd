@@ -43,11 +43,7 @@ namespace NChecker.models.vpn
                     ParseStandardVpnUri(url, scheme);
                 }
             }
-            catch (JsonReaderException) { }
-            catch (Exception exc)
-            {
-                Logger.Error(exc.ToString());
-            }
+            catch { }
         }
 
         internal bool IsValid()
