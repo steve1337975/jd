@@ -1,12 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country CH #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823613704
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823627967
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 15:21:44
-# servers-count: 3
+# generated-at: 10/15/2026 19:19:27
+# servers-count: 1
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw@132.243.175.144:8388#🇨🇭 Швейцария
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@ch.srv.vbuste.ru:444?encryption=none&type=grpc&security=reality&sni=ch.srv.vbuste.ru&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&fp=firefox#🇨🇭 Швейцария
-vless://6338c01a-310e-42c3-bf4f-2a20e161054b@freefl.aiage.work:443?type=tcp&headerType=none&security=reality&encryption=none&sni=freefl.aiage.work&fp=firefox&pbk=EqN5QtvWGccdkmL5ZNVDBRxRhWgr6g_vr3ABT8Q2dW4&sid=ff0ddf949624ef2a&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%202569
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
