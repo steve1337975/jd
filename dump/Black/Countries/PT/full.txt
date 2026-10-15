@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Black Country PT — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823596574
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823613704
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 10:36:14
-# servers-count: 1
+# generated-at: 10/15/2026 15:21:44
+# servers-count: 3
 
-vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@185.236.228.183:2053?type=grpc&security=reality&fp=random&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&sni=www.intel.com&serviceName=grpc#1318 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@185.236.228.183:2053?type=grpc&security=reality&fp=random&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&sni=www.intel.com&serviceName=grpc#🇵🇹 Португалия
+vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@185.236.228.183:2053?type=grpc&security=reality&fp=random&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&sni=www.intel.com&serviceName=grpc#1346 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://5d7e07ba-f460-4638-af79-bbcde67fcb6b@nl1.justnable.xyz:2053?type=grpc&security=reality&fp=random&pbk=xlXuN8KDdbqGEsaj1m2D8NUnR5d2oeo5TT71RSMmfxY&sni=www.intel.com&mode=gun&serviceName=grpc#1724 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
