@@ -1,6 +1,7 @@
 ﻿using MaxMind.GeoIP2;
 using NChecker.classes;
 using NChecker.models;
+using NChecker.models.subscription;
 using NChecker.utils;
 using System.Collections.Concurrent;
 using System.Diagnostics;

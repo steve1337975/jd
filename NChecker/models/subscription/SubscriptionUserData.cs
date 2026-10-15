@@ -1,4 +1,4 @@
-﻿namespace NChecker.models
+﻿namespace NChecker.models.subscription
 {
     internal class SubscriptionUserData
     {

@@ -1,4 +1,4 @@
-﻿using NChecker.models;
+﻿using NChecker.models.subscription;
 using Newtonsoft.Json;
 
 namespace NChecker.classes

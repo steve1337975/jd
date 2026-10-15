@@ -1,6 +1,6 @@
 ﻿using NChecker.utils;
 
-namespace NChecker.models
+namespace NChecker.models.subscription
 {
     internal class SubscriptionData
     {

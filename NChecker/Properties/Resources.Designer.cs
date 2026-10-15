@@ -87,13 +87,11 @@ namespace NChecker.Properties {
         
         /// <summary>
         ///   Ищет локализованную строку, похожую на {
-        ///	&quot;Timeout&quot;:5,
-        ///	&quot;MaxConcurrentChecks&quot;:500,
-        ///	&quot;MaxLinesPerFile&quot;:500,
-        ///	&quot;ShuffleServers&quot;:true,
-        ///	&quot;Logging&quot;:false,
-        ///	&quot;IsHttpPing&quot;:false,
-        ///	&quot;Renaming&quot;:false
+        ///	&quot;Timeout&quot;: 5,
+        ///	&quot;MaxConcurrentChecks&quot;: 500,
+        ///	&quot;MaxLinesPerFile&quot;: 750,
+        ///	&quot;ShuffleServers&quot;: true,
+        ///	&quot;Logging&quot;: false,
         ///}.
         /// </summary>
         internal static string settings {
@@ -126,17 +124,60 @@ namespace NChecker.Properties {
         }
         
         /// <summary>
-        ///   Ищет локализованную строку, похожую на https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt
-        ///https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt
-        ///https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt
-        ///https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt
-        ///https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt
-        ///https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt
-        ///https://raw.githack.com/zieng2/wl/main/vless [остаток строки не уместился]&quot;;.
+        ///   Ищет локализованную строку, похожую на [
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt&quot;,
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt&quot;,
+        ///&quot;https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt&quot;,
+        ///&quot;https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt&quot;,
+        ///&quot;https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt&quot;,
+        ///&quot;https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt&quot;,
+        ///&quot;https://raw.githack.co [остаток строки не уместился]&quot;;.
         /// </summary>
         internal static string white {
             get {
                 return ResourceManager.GetString("white", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Ищет локализованную строку, похожую на 00.img.avito.st
+        ///01.img.avito.st
+        ///02.img.avito.st
+        ///03.img.avito.st
+        ///04.img.avito.st
+        ///05.img.avito.st
+        ///06.img.avito.st
+        ///07.img.avito.st
+        ///08.img.avito.st
+        ///09.img.avito.st
+        ///10.img.avito.st
+        ///11.img.avito.st
+        ///12.img.avito.st
+        ///13.img.avito.st
+        ///14.img.avito.st
+        ///15.img.avito.st
+        ///16.img.avito.st
+        ///17.img.avito.st
+        ///18.img.avito.st
+        ///19.img.avito.st
+        ///1l-api.mail.ru
+        ///1l-go.mail.ru
+        ///1l-hit.mail.ru
+        ///1l-s2s.mail.ru
+        ///1l-view.mail.ru
+        ///1l.mail.ru
+        ///1link.mail.ru
+        ///20.img.avito.st
+        ///2018.mail.ru
+        ///2019.mail.ru
+        ///2020.mail.ru
+        ///2021.mail.ru
+        ///21.img.avito.st
+        ///22.img.a [остаток строки не уместился]&quot;;.
+        /// </summary>
+        internal static string whitelist {
+            get {
+                return ResourceManager.GetString("whitelist", resourceCulture);
             }
         }
     }

@@ -1,4 +1,5 @@
 ﻿using MaxMind.GeoIP2.Responses;
+using NChecker.models.subscription;
 using NChecker.models.vpn;
 
 namespace NChecker.models

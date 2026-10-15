@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace NChecker.models
+namespace NChecker.models.subscription
 {
     internal class SubscriptionHeaderData
     {

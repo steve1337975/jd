@@ -1,4 +1,5 @@
 ﻿using NChecker.models;
+using NChecker.models.subscription;
 using NChecker.utils;
 using System.Text;
 
