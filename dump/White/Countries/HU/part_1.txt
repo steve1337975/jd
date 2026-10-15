@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country HU #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823579520
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823596574
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 05:52:00
-# servers-count: 1
+# generated-at: 10/15/2026 10:36:14
+# servers-count: 3
 
-vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@217.13.104.154:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=travel.yandex.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&spx=%2F&sid=95ec618532fa065e#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
+vless://6338c01a-310e-42c3-bf4f-2a20e161054b@hu1.aiage.work:443?type=tcp&headerType=none&security=reality&encryption=none&sni=hu1.aiage.work&fp=firefox&pbk=mPzNFHO4pZMzFviRkIhRd7xDUz4dMHyI-flZLOrgDVg&sid=f8379ce795f2e5ed&flow=xtls-rprx-vision#%F0%9F%87%AD%F0%9F%87%BA%20Hungary%20-%20MIFA%20-%203383
+vless://74b6eee7-898d-4f32-9987-a035210ec5e2@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=travel.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия
+vless://e908b2be-1a22-41ec-8f28-a2a842c5471a@217.13.104.148:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=e55fd8f9c9a9a0ca&sni=travel.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: travel.yandex.ru ┃ 🇩🇪 Германия

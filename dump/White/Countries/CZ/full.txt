@@ -1,0 +1,12 @@
+# announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
+# profile-title: VPN White Country CZ — Full
+# profile-update-interval: 1
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823596574
+# sort-order: ping
+# generated-by: NChecker
+# generated-at: 10/15/2026 10:36:14
+# servers-count: 3
+
+vless://cf6f4c9b-f8c9-4a8a-8363-e4594f5325bd@153.76.185.107:3090?type=grpc&headerType=none&security=none&encryption=none&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czech%20-%20MIFA%20-%203347
+vless://e87c0ff4-773a-47b9-b89d-57c319f954a9@153.76.185.111:3090?type=grpc&headerType=none&security=none&encryption=none&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czech%20-%20MIFA%20-%203381
+vless://e87c0ff4-773a-47b9-b89d-57c319f954a9@153.76.185.151:3090?type=grpc&headerType=none&security=none&encryption=none&serviceName=vless&mode=multi#%F0%9F%87%A8%F0%9F%87%BF%20Czech%20-%20MIFA%20-%203380

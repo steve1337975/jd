@@ -1,15 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN White Country FI — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823579520
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823596574
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 05:52:00
-# servers-count: 6
+# generated-at: 10/15/2026 10:36:14
+# servers-count: 9
 
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=36a466g.fi1.h1clayd.click&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&serviceName=0adb9638509b&mode=multi#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%203331
+vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?type=tcp&security=reality&sni=eh.vk.com&flow=xtls-rprx-vision&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#AetrisVPN White list ┃ ✅ SNI: eh.vk.com ┃ 🇫🇮 Финляндия
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%20906
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?security=reality&sni=36a466g.fi1.h1clayd.click&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&type=grpc&serviceName=0adb9638509b&packetEncoding=xudp&encryption=none#🇩🇪 Германия
-vless://c635b5f6-b5ea-4e57-927f-75860b0cb984@85.209.129.113:2443?type=grpc&headerType=none&security=reality&encryption=none&sni=fonts.google.com&fp=firefox&pbk=cnmFHIiPbBDSOiui-ZJw8JIWSa4UARyNrHhBp3p7sBc&sid=f1b2c3d4&serviceName=grpc-tunnel&mode=gun#%F0%9F%87%B8%F0%9F%87%A8%20Seychelles%20-%20MIFA%20-%203300
-vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@109.172.54.135:8444?type=grpc&headerType=none&security=reality&encryption=none&sni=github.com&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&serviceName=GunService&mode=gun#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%201640
+vless://f55e9aba-7b14-4f6f-b59a-d5b3d45c9309@109.172.54.135:8444?encryption=none&security=reality&sni=github.com&fp=chrome&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&type=grpc&authority=&serviceName=GunService&mode=gun#🇫🇮 Финляндия
+vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.google.com&fp=firefox&sid=d368b94e275ab080&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM#🇫🇮 Финляндия
+ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@185.103.110.66:18280#🇫🇮 Финляндия
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#AetrisVPN White list ┃ ✅ SNI: storage.yandex.net ┃ 🇬🇧 Великобритания
 vless://741809be-e44e-000b-b411-bf66f0ae3860@152.233.71.81:443?type=tcp&headerType=none&security=reality&encryption=none&sni=brointelengence.com&fp=chrome&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&sid=1c3e8241a8743df9&path=%2F&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%203334
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@144.31.232.104:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl1.balancer.vbuste-bot.com&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%203246
+vless://948c5827-1c83-4521-bb47-a11847900797@45.149.114.147:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=8ad0b8c7e0e5ff8b&fp=firefox#AetrisVPN White list ┃ ✅ SNI: rbc.ru ┃ 🇫🇮 Финляндия

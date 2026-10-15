@@ -1,21 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country FR #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823579520
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823596574
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 05:52:00
-# servers-count: 12
+# generated-at: 10/15/2026 10:36:14
+# servers-count: 14
 
-vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@185.46.112.181:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0652 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&fp=chrome&sni=metrika.yandex.ru&type=tcp&headerType=none&host=metrika.yandex.ru&path=%2F&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@185.46.112.181:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0498 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?type=grpc&headerType=none&security=reality&encryption=none&sni=perf-prod.samsung.com&fp=firefox&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&sid=df&serviceName=grpc_common2&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20MIFA%20-%202403
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.179.99:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#983.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@185.46.112.181:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#1046 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&security=reality&sid=e6&sni=passport.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇩🇪 Германия
 vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?authority=&encryption=none&fp=chrome&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&security=reality&serviceName=grpc_common2&sid=df&sni=perf-prod.samsung.com&spx=/3f9d322afd1602c&type=grpc#🇫🇷 Франция
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0397 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=metrika.yandex.ru&fp=firefox&sid=dcb858da#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇮 Финляндия
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#1878 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@54.36.174.140:443#🇫🇷 Франция
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@185.46.112.181:28150?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=metrika.yandex.ru&fp=firefox&sid=dcb858da#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция
+vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@185.46.112.181:28150?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=metrika.yandex.ru&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&fp=firefox#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция
+vless://e8a432c8-5d84-49a5-b822-67ed761a58f9@54.37.136.194:2053?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=Vemd9Jjk5xKO8qSC3g8VVagwcb4J1BcTvp86CswQC0A&sid=50ba05992b05c1c3&type=tcp&headerType=none#🇫🇷 Франция
+vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?type=grpc&headerType=none&security=reality&encryption=none&sni=perf-prod.samsung.com&fp=firefox&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&sid=df&serviceName=grpc_common2&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20MIFA%20-%202403
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0622 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@pl140.vpnbook.com:443#🇫🇷 Франция
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@185.46.112.181:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0801 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&headerType=none&security=none&encryption=none&sni=138.124.70.41&fp=chrome&path=%2Fvless&host=138.124.70.41#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20MIFA%20-%203354
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@185.46.112.181:28150?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#1182 | 🇫🇷 France | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@pl134.vpnbook.com:443#🇫🇷 Франция
