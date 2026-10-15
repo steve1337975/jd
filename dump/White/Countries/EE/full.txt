@@ -1,21 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN White Country EE — Full
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823637151
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823639537
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/15/2026 21:52:31
+# generated-at: 10/15/2026 22:32:17
 # servers-count: 12
 
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#TCP, Max [V.O.I.D]
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision#TCP, Max [V.O.I.D]
-vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#Reality, Max [V.O.I.D]
 vless://f219800f-9c62-46c9-b518-df996f754b61@38.180.216.110:20861?type=tcp&headerType=none&security=reality&encryption=mlkem768x25519plus.native.0rtt.2k0jZl0aQn__-3TwASbL-_6TwzW1EX3eijpGTcPOCAY&sni=amd.com&fp=firefox&pbk=5d3R0LwRP61nCvkcSy7j3byPLnC7U3fucNyec4UHRyc&sid=2759&spx=%2FVCWT2tXIF7CnS6V&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇪🇪 Эстония
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#TCP, Max [V.O.I.D]
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@23.230.179.120:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
+vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision#TCP, Max [V.O.I.D]
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#TCP, Max [V.O.I.D]
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=max.ru&fp=qq&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#TCP, Max [V.O.I.D]
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#Reality, Max [V.O.I.D]
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
+vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@23.230.179.120:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
