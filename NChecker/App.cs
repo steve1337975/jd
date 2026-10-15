@@ -177,7 +177,7 @@ namespace NChecker
                 .ToArray();
 
             ServerData[] white = finalAliveServers
-                .Where(x => x.Subscription.FilterType == SubscriptionFilterType.White || x.HasSniMasking())
+                .Where(x => x.Subscription.FilterType == SubscriptionFilterType.White)
                 .ToArray();
 
             await exporterManager.ExportBlack(settingsManager.Settings, black);
