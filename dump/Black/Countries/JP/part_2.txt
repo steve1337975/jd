@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ❌ DEAD GEO — JP #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823722291
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823722768
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 21:31:31
-# servers-count: 299
+# generated-at: 10/16/2026 21:39:28
+# servers-count: 297
 
-trojan://UX82473651@13.231.247.130:443?sni=concrete-aardvark.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-313
 trojan://UX82473651@allowed-poodle.rooster465.autos:443?sni=allowed-poodle.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-3518
 trojan://UX82473651@18.176.52.171:443?sni=legible-ram.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-315
 trojan://UX82473651@52.194.251.232:443?type=tcp&security=tls&sni=optimal-penguin.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-316
@@ -19,7 +18,6 @@ trojan://UX82473651@18.183.167.216:443?type=tcp&security=tls&sni=amazed-mako.roo
 trojan://Trojan%4082164024@108.61.186.37:443?allowInsecure=1&sni=#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-322
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@133.242.187.161:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=s3.ap-east-1.amazonaws.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-323
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls#⚡ b2n.ir/v2ray-configs | 90
-vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDAzMUEzQSIsImFkZCI6Im9jLmltZnVuLmZ1biIsInBvcnQiOjE4MTEyLCJpZCI6ImFkNDVmOGY2LTBmMGEtNGNjNC1iOTA3LWM0NTgyNDA3ZGM5NCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6bnVsbCwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDAzMUEzQSJ9
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDQ4REUyIiwiYWRkIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6IjFhYmU0OWRlZGI2ZTRmNjVhMGYwYTVlYTc5ZGRlZmFkIiwic25pIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwiaG9zdCI6IkozTnowekEwcjEzQW9WaEgudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MifQ==
 trojan://UX82473651@musical-terrier.rooster465.autos:443?security=tls&sni=musical-terrier.rooster465.autos#⚡ b2n.ir/v2ray-configs | 830
 trojan://UX82473651@evident-ant.rooster465.autos:443?security=tls&sni=evident-ant.rooster465.autos#⚡ b2n.ir/v2ray-configs | 663
@@ -62,12 +60,12 @@ trojan://UX82473651@obliging-louse.rooster465.autos:443?security=tls&sni=obligin
 trojan://ND91608427@18.179.31.199:443?security=tls#⚡ b2n.ir/v2ray-configs | 974
 trojan://UX82473651@intense-sole.rooster465.autos:443?security=tls#⚡ b2n.ir/v2ray-configs | 751
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?security=tls#⚡ b2n.ir/v2ray-configs | 604
-vmess://eyJhZGQiOiIxNjEuMzMuMTM1LjE0MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiYWQ0NWY4ZjYtMGYwYS00Y2M0LWI5MDctYzQ1ODI0MDdkYzk0IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiMTgxMTIiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDU2QkRDQiIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://7fb42fab-ea8a-4f0f-af9e-55df8ae6cb1d@47.74.3.200:443?security=reality&encryption=none&pbk=kb1uhDsBcfsCD6acCuFcVERW29dscNGIjKPd67NArVk&host=www.logitech.com&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.logitech.com&sid=ab3b914f0c9d9de5#⚡ b2n.ir/v2ray-configs | 778
 vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDc1QzdFRCIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6Im5vbmUiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCA3NUM3RUQifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgNDUyODVGIiwiYWRkIjoiY2MyOC5nb2luZ3NpZGUuc2l0ZSIsInBvcnQiOiI4OTk4IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRiMDE5ZmFhLTM4YjAtNDczZC1iYzQ5LTYwYmI2ODE1MWMzNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6ImNjMjguZ29pbmdzaWRlLnNpdGUiLCJ0bHMiOiIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgRDE0NEEyIiwiYWRkIjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsInR5cGUiOiJub25lIiwiaWQiOiIxYWJlNDlkZWRiNmU0ZjY1YTBmMGE1ZWE3OWRkZWZhZCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJob3N0IjoiSjNOejB6QTByMTNBb1ZoSC52LjNkbnMudmlwIiwidGxzIjoidGxzIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiSlAg8J+Hr/Cfh7UgfCBAUmF5ZGlrYWx4IHwgOUFCNTNDIiwiYWRkIjoia1FvdjdVS2FEa25YYjhhMy52LjNkbnMudmlwIiwicG9ydCI6IjQ0MyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJpZCI6ImYwYjdiYmQ2NmFhZDQ1OGFhZWMwZTlhY2FhYjc2OGI2Iiwic25pIjoia1FvdjdVS2FEa25YYjhhMy52LjNkbnMudmlwIiwiaG9zdCI6ImtRb3Y3VUthRGtuWGI4YTMudi4zZG5zLnZpcCIsInBhdGgiOiIvd3Mtdm1lc3MiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
+vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6IjAiLCJob3N0IjoidXM0LmF1c3RyYWxpYWNhcmVncm91cC5zaXRlIiwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdm1lc3MiLCJwb3J0IjoiMjM4MDEiLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IDkwOUFDQyIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IkpQIPCfh6/wn4e1IHwgQFJheWRpa2FseCB8IEE5NDBENiIsImFkZCI6IjE2OC4xMzguNDMuNzUiLCJwb3J0Ijo4MCwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6bnVsbCwiaG9zdCI6IjE2OC4xMzguNDMuNzUiLCJhbHBuIjpudWxsLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoibm9uZSIsInNuaSI6bnVsbCwiZnAiOm51bGwsIm5hbWUiOiJKUCDwn4ev8J+HtSB8IEBSYXlkaWthbHggfCBBOTQwRDYifQ==
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#⚡ b2n.ir/v2ray-configs | 734
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#Notorgames_0%20%2825%29
