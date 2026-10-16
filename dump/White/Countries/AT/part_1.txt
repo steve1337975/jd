@@ -1,14 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country AT #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823647453
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823663563
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 00:44:13
-# servers-count: 5
+# generated-at: 10/16/2026 05:12:43
+# servers-count: 3
 
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@157.173.29.12:443?security=reality&encryption=none&pbk=m0XH4zlwCTJGWoRT64dPgCg3gREZvEnwMPOzOiFengU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f424ad1f21#TCP, Max [V.O.I.D]
-vless://e205a26e-e5b3-457d-80a8-2c79dc9db02b@au1.123ok.uk:443?type=tcp&headerType=none&security=reality&encryption=none&sni=au1.123ok.uk&fp=firefox&pbk=56iYzqm_n0JZez5DyAPfdEjBSnuxJh2yhbru6i0ToiU&sid=028a01e15ab0df0e&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20MIFA%20-%203609
-vless://e205a26e-e5b3-457d-80a8-2c79dc9db02b@au5.123ok.uk:443?type=tcp&headerType=none&security=reality&encryption=none&sni=au5.123ok.uk&fp=firefox&pbk=56iYzqm_n0JZez5DyAPfdEjBSnuxJh2yhbru6i0ToiU&sid=028a01e15ab0df0e&flow=xtls-rprx-vision#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20-%20MIFA%20-%203608
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@157.173.29.12:443?security=reality&type=tcp&packetEncoding=xudp&sni=web.max.ru&fp=chrome&flow=xtls-rprx-vision&sid=45ba18f424ad1f21&pbk=m0XH4zlwCTJGWoRT64dPgCg3gREZvEnwMPOzOiFengU&encryption=none#TCP, Max [V.O.I.D]
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@157.173.29.12:443?security=reality&encryption=none&pbk=m0XH4zlwCTJGWoRT64dPgCg3gREZvEnwMPOzOiFengU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f424ad1f21#TCP, Max [V.O.I.D]
