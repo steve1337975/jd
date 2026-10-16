@@ -1,11 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO — MD #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823721566
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823722291
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 21:19:26
-# servers-count: 2
+# generated-at: 10/16/2026 21:31:31
+# servers-count: 3
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=firefox&type=grpc&serviceName=hub.v1.SyncService&sni=md2.univesalsrv.com&sid=d36a38659ce106cb#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&type=grpc&authority=&serviceName=stats.v2.PushService&mode=gun#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=md4.univesalsrv.com&fp=firefox&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&serviceName=hub.v1.ApiService&mode=gun#%F0%9F%87%B2%F0%9F%87%A9%20Moldova%20-%20MIFA%20-%202909

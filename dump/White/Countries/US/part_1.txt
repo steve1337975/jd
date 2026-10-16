@@ -1,17 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO — US #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823721566
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823722291
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 21:19:26
-# servers-count: 160
+# generated-at: 10/16/2026 21:31:31
+# servers-count: 165
 
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#🇺🇸 США
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#🇺🇸 США
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.206:4444#🇺🇸 США
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 США
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.233.41:8882#🇺🇸 США
 vless://fe0afb65-a43e-4493-81b9-6d9edd57f79c@144.31.78.35:443?encryption=none&type=xhttp&path=%2Fvideo%2Fdownload&host=evovpn.pro&mode=stream-up&security=reality&sni=www.yandex.ru&fp=edge&pbk=ZKd5bjQ8ACciPQo_0ol7WEkUYUjGXaK9fMciQkFurF4&sid=b4c823&spx=%2F#AetrisVPN White list ┃ ✅ SNI: www.yandex.ru ┃ 🇩🇪 Германия
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?&security=reality&flow=xtls-rprx-vision&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&fp=firefox&sni=yandex.ru&type=tcp&headerType=none&host=yandex.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&security=reality&sid=bbe46bd8f6b96839&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
@@ -129,12 +127,19 @@ vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?type=raw&security
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yandex.net&fp=safari&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&security=reality&sid=b97e7d4582b6fa6e&sni=yandex.ru&type=tcp#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=reality&sni=yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://c2331311-c9fd-4af9-8f34-7a9edcee3b92@31.76.240.15:443?type=tcp&headerType=none&security=tls&encryption=none&sni=fi.quic.best&fp=chrome&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20-%20MIFA%20-%203808
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@50.7.176.123:443?type=tcp&headerType=none&security=reality&encryption=none&sni=direct-nl.bachidze.com&fp=firefox&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20MIFA%20-%203583
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=direct-nl.bachidze.com&fp=random&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&flow=xtls-rprx-vision#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20MIFA%20-%203482
+vless://c96f941e-dd8a-006e-89d5-740b79202ed0@13.143.137.180:8443?type=tcp&headerType=none&security=reality&encryption=none&sni=x5club.ru&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&sid=187eea0acfb7f778&spx=%2Fc6e79208ab92a6b#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20-%20MIFA%20-%203709
+vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?type=tcp&headerType=none&security=reality&encryption=none&sni=us.dark-bit.cc&fp=firefox&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&sid=9ab513f082d4c6e1&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20USA%20-%20MIFA%20-%201983
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@sg2.998998.best:443?type=ws&headerType=none&security=tls&encryption=none&sni=nat6.outsidemyheart.space&fp=chrome&path=%2Feriujtheriughwiue%3Fed%3D2560#%F0%9F%87%A8%F0%9F%87%A6%20Canada%20-%20MIFA%20-%203346
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HqPCfh6YgQ2FuYWRhIC0gTUlGQSIsCiAgICAiYWRkIjogIm1peDIuOTk4OTk4LmJlc3QiLAogICAgInBvcnQiOiAiNDQzIiwKICAgICJpZCI6ICI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLAogICAgImFpZCI6ICIwIiwKICAgICJzY3kiOiAiYXV0byIsCiAgICAibmV0IjogIndzIiwKICAgICJ0eXBlIjogIm5vbmUiLAogICAgImhvc3QiOiAic2VydmVyMTAuOTk2NjMzOC54eXoiLAogICAgInBhdGgiOiAiL3J0aGl1Z295cmV0ZHN1aWdnP2VkPTI1NjAiLAogICAgInRscyI6ICJ0bHMiLAogICAgInNuaSI6ICJzZXJ2ZXIxMC45OTY2MzM4Lnh5eiIsCiAgICAiYWxwbiI6ICIiLAogICAgImZwIjogIiIsCiAgICAiaW5zZWN1cmUiOiAiMCIKfQ==
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HqPCfh6YgQ2FuYWRhIC0gTUlGQSIsCiAgICAiYWRkIjogImpwNS45OTg5OTguYmVzdCIsCiAgICAicG9ydCI6ICI0NDMiLAogICAgImlkIjogIjU1MDRlYWE4LTEzOTUtNDAyZi04ZTBlLTc1ZWNkNzYyZTYyNyIsCiAgICAiYWlkIjogIjAiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJuZXQiOiAid3MiLAogICAgInR5cGUiOiAibm9uZSIsCiAgICAiaG9zdCI6ICJzZXJ2ZXIxMS45OTY2MzM4Lnh5eiIsCiAgICAicGF0aCI6ICIvaWV1c3JkZ2ZodGV1aXJnZml1d3M/ZWQ9MjU2MCIsCiAgICAidGxzIjogInRscyIsCiAgICAic25pIjogInNlcnZlcjExLjk5NjYzMzgueHl6IiwKICAgICJhbHBuIjogIiIsCiAgICAiZnAiOiAiIiwKICAgICJpbnNlY3VyZSI6ICIwIgp9
 vless://f83ce3c4-07d9-4895-bd14-cb74abbcab37@qcloudge1.exitvpn.shop:20268?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0173 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#0213 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0379 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.17:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&sni=yandex.net#0595 | 🇩🇪 Germany | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&sni=yandex.ru#0669 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru&host=ads.x5.ru#1082 | 🇺🇸 USA | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://6656cc0a-5908-4d04-a436-64f5843c0c7a@qcloudge1.exitvpn.shop:20268?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#1154 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://8bd04756-3beb-4348-82c9-d35453df50ce@qcloudge1.exitvpn.shop:20268?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=5H_MmyfvF4SkwS84wTbLmtcZDecXJIJtZ3uisiKQpSM&sid=0c774b50&sni=metrika.yandex.ru#1523 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://9ebf4fda-7395-4800-b42f-b2dda649880a@13.143.137.206:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1&sni=ya.ru#1688 | 🇷🇺 Russia | 🏳️ SNI-Yandex | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
