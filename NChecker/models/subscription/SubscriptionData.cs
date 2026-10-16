@@ -1,37 +1,22 @@
-﻿using NChecker.utils;
-
-namespace NChecker.models.subscription
+﻿namespace NChecker.models.subscription
 {
-    internal class SubscriptionData
+    internal class SubscriptionData : SourceSubscriptionData
     {
-        List<ServerData> m_servers = new List<ServerData>();
-        internal string Url { get; private set; }
-        internal SubscriptionFilterType FilterType { get; set; } = SubscriptionFilterType.Black;
-        string Name { get; set; } = string.Empty;
-        string Owner { get; set; } = string.Empty;
-        internal SubscriptionData(string a1, SubscriptionFilterType a2)
+        internal List<ServerData> Servers { get; set; } = new List<ServerData>();
+        internal static SubscriptionData Create(SourceSubscriptionData a1)
         {
-            Url = a1;
-            FilterType = a2;
-            /*
-            string[] paths = new Uri(a1).LocalPath.Split('/');
-            Owner = paths[1];
-            Name = paths[2];
-            */
+            SubscriptionData v1 = new SubscriptionData
+            {
+                SortedIndex = a1.SortedIndex,
+                Url = a1.Url,
+                FilterType = a1.FilterType,
+            };
+            return v1;
         }
-        internal void AddServer(ServerData a1) => m_servers.Add(a1);
-        internal void ShuffleServers() => RandomUtil.Shuffle(m_servers);
-        internal ServerData[] GetServers() => m_servers.ToArray();
     }
     internal enum SubscriptionFilterType : int
     {
         Black,
         White
-    }
-    internal enum SubscriptionGroupType
-    {
-        Ungrouped,
-        Partial,
-        Full
     }
 }

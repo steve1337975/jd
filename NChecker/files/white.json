@@ -1,16 +1,74 @@
+```json
 [
-"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
-"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
-"https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt",
-"https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt",
-"https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt",
-"https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt",
-"https://raw.githack.com/zieng2/wl/main/vless_universal.txt",
-"https://gitverse.ru/api/repos/KOT_ANTIDOT/BUNKER/raw/branch/master/BUNKER_WHITE89.txt",
-"https://s3c3.001.gpucloud.ru/wlr/wl.txt",
-"https://mifa.world/pivo",
-"https://etoneya.su/whitelist",
-"https://subrostunnel.vercel.app/gen.txt",
-"https://raw.githack.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt",
-""
+  {
+    "index": 1,
+    "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
+    "Enabled": true
+  },
+  {
+    "index": 2,
+    "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
+    "Enabled": true
+  },
+  {
+    "index": 3,
+    "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt",
+    "Enabled": true
+  },
+  {
+    "index": 4,
+    "url": "https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt",
+    "Enabled": true
+  },
+  {
+    "index": 5,
+    "url": "https://raw.githack.com/flaafix/AetrisVPN/refs/heads/main/AetrisVPN.txt",
+    "Enabled": true
+  },
+  {
+    "index": 6,
+    "url": "https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt",
+    "Enabled": true
+  },
+  {
+    "index": 7,
+    "url": "https://raw.githack.com/zieng2/wl/main/vless_universal.txt",
+    "Enabled": true
+  },
+  {
+    "index": 8,
+    "url": "https://raw.githack.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/refs/heads/main/url_work.txt",
+    "Enabled": true
+  },
+  {
+    "index": 9,
+    "url": "https://gitverse.ru/api/repos/KOT_ANTIDOT/BUNKER/raw/branch/master/BUNKER_WHITE89.txt",
+    "Enabled": true
+  },
+  {
+    "index": 10,
+    "url": "https://hub.mos.ru/akelladejavu/bunker/-/raw/main/WHITE_LIST.txt",
+    "Enabled": true
+  },
+  {
+    "index": 11,
+    "url": "https://s3c3.001.gpucloud.ru/wlr/wl.txt",
+    "Enabled": true
+  },
+  {
+    "index": 12,
+    "url": "https://mifa.world/pivo",
+    "Enabled": true
+  },
+  {
+    "index": 13,
+    "url": "https://etoneya.su/whitelist",
+    "Enabled": true
+  },
+  {
+    "index": 14,
+    "url": "https://subrostunnel.vercel.app/gen.txt",
+    "Enabled": true
+  }
 ]
+```

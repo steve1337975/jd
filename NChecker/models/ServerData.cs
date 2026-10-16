@@ -8,9 +8,10 @@ namespace NChecker.models
     {
         private string m_countryCode = "UNK";
         private string m_country = "Unknown";
+        internal int SortedIndex { get; set; }
+        internal SubscriptionFilterType FilterType { get; set; }
         internal long Delay { get; set; } = -1;
         internal bool IsAlive { get; set; }
-        internal SubscriptionData Subscription { get; set; }
         internal ServerData(string url) : base(url) { }
         internal string GetCountryCode() => m_countryCode;
         internal string GetCountry() => m_country;

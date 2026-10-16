@@ -3,5 +3,5 @@
 	"MaxConcurrentChecks": 500,
 	"MaxLinesPerFile": 500,
 	"ShuffleServers": false,
-	"Logging": false,
+	"Logging": true
 }

@@ -1,11 +1,9 @@
-﻿using MaxMind.GeoIP2;
-using NChecker.classes;
+﻿using NChecker.classes;
 using NChecker.models;
 using NChecker.models.subscription;
 using NChecker.utils;
 using System.Collections.Concurrent;
 using System.Diagnostics;
-using System.IO.Compression;
 using System.Threading.Channels;
 
 namespace NChecker
@@ -13,15 +11,14 @@ namespace NChecker
     internal class App
     {
         internal static App Instance { get; private set; } = new App();
-
-        private readonly SettingsManager settingsManager = new SettingsManager();
-        private readonly SubcriptionsManager subscriptionsManager = new SubcriptionsManager();
-        private readonly NetworkingManager networkingManager = new NetworkingManager();
         private readonly ExporterManager exporterManager = new ExporterManager();
-        private DatabaseReader reader;
+        private readonly NetworkingManager networkingManager = new NetworkingManager();
+        private readonly FilesManager filesManager = new FilesManager();
+        SubscriptionData[] subscriptions;
+
         async internal Task Start()
         {
-            await InitializeDatabaseAsync();
+            await networkingManager.Init();
 
             bool isGitHub = Environment.GetEnvironmentVariable("GITHUB_ACTIONS") == "true";
             int currentChunk = int.Parse(Environment.GetEnvironmentVariable("GH_CHUNK") ?? "0");
@@ -33,7 +30,7 @@ namespace NChecker
             Logger.Info($"Потоков выделено: {maxConcurrent}");
 
             var deadEndpoints = new ConcurrentDictionary<string, byte>();
-            List<ServerData> finalAliveServers = new();
+            var finalAliveServers = new ConcurrentBag<ServerData>();
 
             var metrics = new ExecutionMetrics();
             var stopwatch = Stopwatch.StartNew();
@@ -61,8 +58,8 @@ namespace NChecker
 
         private int ConfigureThreadPool(bool isGitHub)
         {
-            int baseThreads = settingsManager.Settings.MaxConcurrentChecks > 0
-                ? settingsManager.Settings.MaxConcurrentChecks
+            int baseThreads = filesManager.Settings.MaxConcurrentChecks > 0
+                ? filesManager.Settings.MaxConcurrentChecks
                 : 1500;
 
             int maxConcurrent = isGitHub
@@ -81,12 +78,12 @@ namespace NChecker
                 int localTotalDiscovered = 0;
                 try
                 {
-                    SubscriptionData[] subArray = await networkingManager.ParseSubscriptions(settingsManager.Settings, subscriptionsManager.GetSources());
+                    subscriptions = await networkingManager.ParseSubscriptions(filesManager.Settings, filesManager.GetSources());
 
-                    List<ServerData> allParsed = new();
-                    foreach (var subData in subArray)
+                    List<ServerData> allParsed = new List<ServerData>();
+                    foreach (var subData in subscriptions)
                     {
-                        allParsed.AddRange(subData.GetServers());
+                        allParsed.AddRange(subData.Servers);
                     }
 
                     foreach (var serverData in allParsed)
@@ -115,7 +112,7 @@ namespace NChecker
             ChannelReader<ServerData> readerConnection,
             int maxConcurrent,
             ConcurrentDictionary<string, byte> deadEndpoints,
-            List<ServerData> finalAliveServers,
+            ConcurrentBag<ServerData> finalAliveServers,
             bool isGitHub,
             Stopwatch stopwatch,
             ExecutionMetrics metrics)
@@ -130,15 +127,12 @@ namespace NChecker
 
                 try
                 {
-                    await networkingManager.ExecuteCountryTestAsync(server, reader);
-                    await networkingManager.ExecuteTcpPingTestAsync(server, settingsManager.Settings);
+                    await networkingManager.ExecuteCountryTestAsync(server);
+                    await networkingManager.ExecuteTcpPingTestAsync(server, filesManager.Settings);
 
                     if (server.IsAlive)
                     {
-                        lock (finalAliveServers)
-                        {
-                            finalAliveServers.Add(server);
-                        }
+                        finalAliveServers.Add(server);
                     }
                     else
                     {
@@ -153,7 +147,7 @@ namespace NChecker
                 {
                     int currentChecked = metrics.IncrementCheckedCount();
 
-                    if (settingsManager.Settings.Logging)
+                    if (filesManager.Settings.Logging)
                     {
                         int logStep = isGitHub ? 1000 : 5000;
                         if (currentChecked % logStep == 0)
@@ -165,49 +159,21 @@ namespace NChecker
             });
         }
 
-        private async Task ExportResults(List<ServerData> finalAliveServers)
+        private async Task ExportResults(ConcurrentBag<ServerData> finalAliveServers)
         {
-            if (settingsManager.Settings.ShuffleServers && finalAliveServers.Count > 0)
+            var aliveServersSet = new HashSet<ServerData>(finalAliveServers);
+
+            foreach (var sub in subscriptions)
             {
-                Logger.Info("Перемешивание ФИНАЛЬНЫХ результатов для предотвращения кучности авторов...");
-                RandomUtil.Shuffle(finalAliveServers);
+                sub.Servers = sub.Servers
+                    .Where(s => aliveServersSet.Contains(s))
+                    .OrderBy(s => s.SortedIndex)
+                    .ToList();
             }
 
-            ServerData[] black = finalAliveServers
-                .Where(x => x.Subscription.FilterType == SubscriptionFilterType.Black)
-                .ToArray();
-
-            ServerData[] white = finalAliveServers
-                .Where(x => x.Subscription.FilterType == SubscriptionFilterType.White)
-                .ToArray();
-
-            await exporterManager.ExportBlack(settingsManager.Settings, black);
-            await exporterManager.ExportWhite(settingsManager.Settings, white);
-
-            Logger.Info("Экспорт успешно завершен!");
+            await exporterManager.Export(filesManager.Settings, subscriptions);
         }
 
-        private async Task InitializeDatabaseAsync()
-        {
-            try
-            {
-                using var client = new HttpClient();
-                using var httpStream = await client.GetStreamAsync("https://raw.githack.com/wp-statistics/GeoLite2-Country/master/GeoLite2-Country.mmdb.gz");
-                using var decompressionStream = new GZipStream(httpStream, CompressionMode.Decompress);
-                using var memoryStream = new MemoryStream();
-
-                await decompressionStream.CopyToAsync(memoryStream);
-                memoryStream.Position = 0;
-
-                reader = new DatabaseReader(memoryStream);
-
-                Logger.Info("База GeoLite2 успешно загружена в память и готова к работе!");
-            }
-            catch (Exception ex)
-            {
-                Logger.Error($"Критическая ошибка при обновлении базы GeoIP => {ex.Message}");
-            }
-        }
 
         private class ExecutionMetrics
         {

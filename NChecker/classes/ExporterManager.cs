@@ -7,36 +7,50 @@ namespace NChecker.classes
 {
     internal class ExporterManager
     {
-        string dumpPath = Path.Combine(Directory.GetCurrentDirectory(), "dump");
+        private readonly string dumpPath = Path.Combine(Directory.GetCurrentDirectory(), "dump");
+
         internal ExporterManager()
         {
             if (Directory.Exists(dumpPath)) Directory.Delete(dumpPath, true);
             Directory.CreateDirectory(dumpPath);
+
             string[] types = Enum.GetNames<SubscriptionFilterType>();
-            foreach (string type in types) Directory.CreateDirectory(Path.Combine(dumpPath, type));
+            foreach (string type in types)
+            {
+                Directory.CreateDirectory(Path.Combine(dumpPath, type));
+            }
         }
-        // ==========================================
-        // 1. ОСНОВНЫЕ МЕТОДЫ ЭКСПОРТА (BLACK / WHITE)
-        // ==========================================
 
-        async internal Task ExportBlack(SettingsData settings, ServerData[] servers)
+        async internal Task Export(SettingsData settings, SubscriptionData[] subscriptions)
         {
-            await ExportFilter(SubscriptionFilterType.Black, settings, servers);
+            var blackSubs = subscriptions.Where(x => x.FilterType == SubscriptionFilterType.Black).OrderBy(x => x.SortedIndex).ToArray();
+            var whiteSubs = subscriptions.Where(x => x.FilterType == SubscriptionFilterType.White).OrderBy(x => x.SortedIndex).ToArray();
+
+            List<ServerData> blackServers = new List<ServerData>();
+            foreach (var sub in blackSubs)
+            {
+                blackServers.AddRange(sub.Servers);
+            }
+
+            List<ServerData> whiteServers = new List<ServerData>();
+            foreach (var sub in whiteSubs)
+            {
+                whiteServers.AddRange(sub.Servers);
+            }
+
+            await ProcessExport(SubscriptionFilterType.Black, settings, blackServers.ToArray());
+            await ProcessExport(SubscriptionFilterType.White, settings, whiteServers.ToArray());
+
+            Logger.Info("Экспорт успешно завершен!");
         }
 
-        async internal Task ExportWhite(SettingsData settings, ServerData[] servers)
-        {
-            await ExportFilter(SubscriptionFilterType.White, settings, servers);
-        }
-
-        private async Task ExportFilter(SubscriptionFilterType filterType, SettingsData settings, ServerData[] servers)
+        private async Task ProcessExport(SubscriptionFilterType filterType, SettingsData settings, ServerData[] servers)
         {
             try
             {
                 string path = Path.Combine(dumpPath, filterType.ToString());
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                // Запуск всех видов экспорта
                 await ExportFilterFull(filterType, servers);
                 await ExportByProtocolFull(filterType, servers, settings);
                 await ExportByCountriesFull(filterType, servers, settings);
@@ -44,81 +58,95 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Logger.Info($"Ошибка экспорта {filterType} => {exc}");
+                Logger.Error($"Ошибка экспорта {filterType} => {exc.Message}");
             }
         }
 
         // ==========================================
-        // 2. ВСПОМОГАТЕЛЬНЫЕ ПОЛНЫЕ ЭКСПОРТЫ
+        // ВСПОМОГАТЕЛЬНЫЕ МЕТОДЫ ЭКСПОРТА
         // ==========================================
 
-        async Task ExportFilterFull(SubscriptionFilterType filterType, ServerData[] servers)
+        private async Task ExportFilterFull(SubscriptionFilterType filterType, ServerData[] servers)
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
 
-            string headerName = $"VPN {filterType.ToString()} — Full";
-            SubscriptionHeaderData headerData = new(headerName, servers.Length);
+            // Было: VPN White — Full / VPN Black — Full
+            string headerName = filterType == SubscriptionFilterType.White
+                ? "🚀 VALIDS — Глобальный список"
+                : "❌ DEAD / INVALID — Черный список";
+
+            SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, servers.Length);
 
             string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', servers.Select(s => s.Url));
             await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
         }
 
-        async Task ExportByProtocolFull(SubscriptionFilterType filterType, ServerData[] servers, SettingsData settings)
+        private async Task ExportByProtocolFull(SubscriptionFilterType filterType, ServerData[] servers, SettingsData settings)
         {
             var protocolGroups = servers.GroupBy(x => x.Protocol);
 
             foreach (var group in protocolGroups)
             {
-                string protocolName = group.Key.ToString();
+                string protocolName = group.Key.ToString().ToUpper();
                 ServerData[] protocolServers = group.ToArray();
 
-                // Складываем строго в подпапку "Protocols"
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Protocols", protocolName);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                SubscriptionHeaderData headerData = new($"VPN {filterType} {protocolName} — Full", protocolServers.Length);
+                // Было: VPN White VLESS — Full
+                string headerName = filterType == SubscriptionFilterType.White
+                    ? $"⚡ PROXIES — {protocolName}"
+                    : $"🗑️ DEAD — {protocolName}";
+
+                SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, protocolServers.Length);
 
                 string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', protocolServers.Select(s => s.Url));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
-                await WritePartiallyAsync(path, $"VPN {protocolName}", protocolServers, settings.MaxLinesPerFile);
+                // Для порезанных файлов заголовок будет лаконичным (например, "⚡ PROXIES — VLESS")
+                await WritePartiallyAsync(path, headerName, protocolServers, settings.MaxLinesPerFile);
             }
         }
 
-        async Task ExportByCountriesFull(SubscriptionFilterType filterType, ServerData[] servers, SettingsData settings)
+        private async Task ExportByCountriesFull(SubscriptionFilterType filterType, ServerData[] servers, SettingsData settings)
         {
             var countryGroups = servers.GroupBy(x => x.GetCountryCode());
 
             foreach (var group in countryGroups)
             {
-                string countryCode = group.Key;
+                string countryCode = group.Key.ToUpper();
                 ServerData[] countryServers = group.ToArray();
 
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Countries", countryCode);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                SubscriptionHeaderData headerData = new($"VPN {filterType} Country {countryCode} — Full", countryServers.Length);
+                // Было: VPN White Country US — Full
+                string headerName = filterType == SubscriptionFilterType.White
+                    ? $"🌍 GEO — {countryCode}"
+                    : $"❌ DEAD GEO — {countryCode}";
+
+                SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, countryServers.Length);
 
                 string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', countryServers.Select(s => s.Url));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
-                await WritePartiallyAsync(path, $"VPN Country {countryCode}", countryServers, settings.MaxLinesPerFile);
+                await WritePartiallyAsync(path, headerName, countryServers, settings.MaxLinesPerFile);
             }
         }
 
-        // ==========================================
-        // 3. ПОЧАСТЕВЫЙ ЭКСПОРТ (УНИВЕРСАЛЬНЫЙ)
-        // ==========================================
-
-        async Task ExportFilterPartially(SubscriptionFilterType filterType, SettingsData settings, ServerData[] servers)
+        private async Task ExportFilterPartially(SubscriptionFilterType filterType, SettingsData settings, ServerData[] servers)
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
-            string baseHeaderName = $"VPN {filterType} {filterType.ToString().ToUpper()}";
+
+            // Было: VPN White WHITE
+            string baseHeaderName = filterType == SubscriptionFilterType.White
+                ? "📦 VALIDS — Пачка"
+                : "📦 DEAD — Пачка";
 
             await WritePartiallyAsync(path, baseHeaderName, servers, settings.MaxLinesPerFile);
         }
 
-        async Task WritePartiallyAsync(string targetPath, string baseHeaderName, ServerData[] servers, int maxLines)
+        private async Task WritePartiallyAsync(string targetPath, string baseHeaderName, ServerData[] servers, int maxLines)
         {
             if (!Directory.Exists(targetPath)) Directory.CreateDirectory(targetPath);
 
@@ -130,7 +158,8 @@ namespace NChecker.classes
                 int startIndex = i * maxLines;
                 int serversInThisFile = Math.Min(maxLines, totalServers - startIndex);
 
-                SubscriptionHeaderData headerData = new($"{baseHeaderName} #{(i + 1)}", serversInThisFile);
+                // Добавляем красивый номер пачки без дубликатов
+                SubscriptionHeaderData headerData = new SubscriptionHeaderData($"{baseHeaderName} #{i + 1}", serversInThisFile);
 
                 StringBuilder stringBuilder = new StringBuilder();
                 stringBuilder.AppendLine(headerData.GetHeaderString());
@@ -144,6 +173,5 @@ namespace NChecker.classes
                 await File.WriteAllTextAsync(Path.Combine(targetPath, fileName), stringBuilder.ToString());
             }
         }
-
     }
 }
