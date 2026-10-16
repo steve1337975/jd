@@ -2,111 +2,111 @@
   {
     "index": 1,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS_WEAK_DPI_RUS.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 2,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_VLESS_RUS.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 3,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/BLACK_SS+All_RUS.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 4,
     "url": "https://raw.githack.com/FLAT447/v2ray-lists/main/BLACK_FULL.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 5,
     "url": "https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 6,
     "url": "https://raw.githack.com/ShatakVPN/ConfigForge-V2Ray/main/configs/all.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 7,
     "url": "https://raw.githack.com/ebrasha/free-v2ray-public-list/refs/heads/main/V2Ray-Config-By-EbraSha-All-Type.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 8,
     "url": "https://raw.githack.com/roosterkid/openproxylist/main/V2RAY_RAW.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 9,
     "url": "https://raw.githack.com/wuqb2i4f/xray-config-toolkit/main/output/base64/mix-uri",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 10,
     "url": "https://raw.githack.com/sakha1370/OpenRay/refs/heads/main/output/all_valid_proxies.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 11,
     "url": "https://raw.githack.com/MatinGhanbari/v2ray-configs/main/subscriptions/v2ray/all_sub.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 12,
     "url": "https://raw.githack.com/Baarcuda/vpn-configs/master/top100.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 13,
     "url": "https://gitverse.ru/api/repos/KOT_ANTIDOT/BUNKER/raw/branch/master/BUNKER_BLACK700.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 14,
     "url": "https://hub.mos.ru/akelladejavu/bunker/-/raw/main/BLACK_LIST.txt",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 15,
     "url": "https://etoneya.su/other",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 16,
     "url": "https://etoneya.su/gemini",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 17,
     "url": "https://etoneya.su/youtube",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 18,
     "url": "https://etoneya.su/ytm",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 19,
     "url": "https://etoneya.su/1",
-    "Enabled": true
+    "enabled": true
   },
   {
     "index": 20,
     "url": "https://raw.githack.com/Argh94/Proxy-List/main/All_Config.txt",
-    "Enabled": false
+    "enabled": false
   },
   {
     "index": 21,
     "url": "https://raw.githack.com/Epodonios/v2ray-configs/main/All_Configs_Sub.txt",
-    "Enabled": false
+    "enabled": false
   },
   {
     "index": 22,
     "url": "https://raw.githack.com/SoliSpirit/v2ray-configs/main/all_configs.txt",
-    "Enabled": false
+    "enabled": false
   }
 ]
