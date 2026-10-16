@@ -1,112 +1,99 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: VPN Country IE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823697979
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823700181
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 14:46:19
-# servers-count: 103
+# generated-at: 10/16/2026 15:23:01
+# servers-count: 90
 
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2816
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443# By EbraSha 🕹️
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=raw&fp=chrome# By EbraSha 📱
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1315
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos# By EbraSha 🩸
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos#⚡ b2n.ir/v2ray-configs | 724
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f#%5BOpenRay%5D%20%F0%9F%8C%90XX-2504
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@3.253.106.233:443?type=tcp&security=tls&sni=loved-shark.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-40
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443# By EbraSha 🛡️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443# By EbraSha 💎
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos# By EbraSha 🚀
+trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha ⛓️
+trojan://UX82473651@54.72.130.222:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🦂
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0# By EbraSha ♦️
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos# By EbraSha 🪬
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1# By EbraSha ⛓️
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos# By EbraSha 🩸
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos# By EbraSha 🧠
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🎛️
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=raw&fp=chrome# By EbraSha 🌃
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🛜
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome# By EbraSha ⛓️
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=raw&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome# By EbraSha 🩸
+trojan://UX82473651@loved-shark.rooster465.autos:443?mux=1&allowInsecure=1&sni=loved-shark.rooster465.autos# By EbraSha 🧿
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos# By EbraSha 🧨
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome# By EbraSha 🚀
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🪖
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0# By EbraSha 💣
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos# By EbraSha 🪖
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1# By EbraSha 🚬
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos# By EbraSha 💻
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp# By EbraSha ♠️
+trojan://UX82473651@master-possum.rooster465.autos:443?security=tls# By EbraSha 🥷
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 💎
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 📟
+trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos# By EbraSha 🧲
+trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos&fp=chrome# By EbraSha 🦂
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f# By EbraSha 🌃
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?mux=1&allowInsecure=1&sni=sacred-anemone.rooster465.autos# By EbraSha 🔐
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos# By EbraSha 🕶️
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome# By EbraSha ♦️
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos# By EbraSha ✨
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome# By EbraSha 🐺
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome# By EbraSha 🚧
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com# By EbraSha 🧲
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-101
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-317
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-332
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-407
 trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-6
-trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-63
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-2803
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#⚡ b2n.ir/v2ray-configs | 327
-trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos# By EbraSha 🔮
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=raw&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1421
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos# By EbraSha 🔐
-trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-45
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome# By EbraSha 🧠
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-917
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1469
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos# By EbraSha 👑
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos# By EbraSha 🤖
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-3323
-trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-20
-trojan://UX82473651@54.72.130.222:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-37
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?security=tls# By EbraSha 💎
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?mux=1&allowInsecure=1&sni=sacred-anemone.rooster465.autos# By EbraSha 💎
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#⚡ b2n.ir/v2ray-configs | 439
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1302
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1549
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f# By EbraSha ⚡
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-413
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=raw&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1762
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0# By EbraSha 🚧
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0# By EbraSha 🪐
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&type=raw&fp=chrome# By EbraSha 🔮
-trojan://UX82473651@54.72.130.222:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🌍
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos# By EbraSha ⚡
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2773
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos# By EbraSha 🪐
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f#%5BOpenRay%5D%20%F0%9F%8C%90XX-1082
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1492
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-103
-trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-12
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos# By EbraSha 🦂
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-2648
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome# By EbraSha 🔐
-trojan://UX82473651@34.242.77.118:443?fp=chrome&sni=sacred-anemone.rooster465.autos# By EbraSha 🥷
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos# By EbraSha 🧠
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443?#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1# By EbraSha 📱
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-21
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2644
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=raw&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome# By EbraSha 📶
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&headerType=none&security=tls&sni=sacred-anemone.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-336
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443?#🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos&fp=chrome# By EbraSha 📶
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com# By EbraSha 🌃
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha 🗿
-trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-620
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1# By EbraSha 📶
-trojan://UX82473651@loved-shark.rooster465.autos:443?mux=1&allowInsecure=1&sni=loved-shark.rooster465.autos# By EbraSha 💣
-trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1237
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-3022
+trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-611
+trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-15
+trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-17
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-907
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-925
+trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&allowInsecure=1&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-18
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&path=%2f#%5BOpenRay%5D%20%F0%9F%8C%90XX-1070
+trojan://UX82473651@master-possum.rooster465.autos:443?type=tcp&security=tls&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1218
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1282
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1295
+trojan://UX82473651@54.72.130.222:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-23
+trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-24
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=raw&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1400
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1449
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1473
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0&sni=adapting-basilisk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-1531
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=raw&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1735
+trojan://UX82473651@54.72.130.222:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-34
+trojan://UX82473651@3.253.106.233:443?type=tcp&security=tls&sni=loved-shark.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-37
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-40
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2241
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-2612
+trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&allowInsecure=0&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2608
+trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-2766
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2779
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-2978
+trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-3080
+trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-58
+trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-3275
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#IE   SHADOWSOCKS-TCP-NTLS - MICROSOFT-CORP-MSN-AS-BLOCK  20.123.1.55
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?allowInsecure=1&sni=adapting-basilisk.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-2277
-trojan://UX82473651@loved-shark.rooster465.autos:443?sni=loved-shark.rooster465.autos&type=tcp&fp=chrome# By EbraSha 📛
-trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos&insecure=1&allowInsecure=1&type=tcp#%F0%9F%A6%9C37%40oneclickvpnkeys
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?sni=sacred-anemone.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha 🚀
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0&sni=master-possum.rooster465.autos# By EbraSha ♦️
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-935
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=0&type=tcp# By EbraSha 📱
-trojan://UX82473651@34.242.77.118:443?type=tcp&security=tls&sni=sacred-anemone.rooster465.autos#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-65
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#🔥Join+Telegram:@Farah_VPN🟣
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-321
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?encryption=none&security=tls&sni=rnxq-1lpi3m.linmeisoft.com&type=ws&path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&host=rnxq-1lpi3m.linmeisoft.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-43
-trojan://UX82473651@54.72.130.222:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-26
-trojan://UX82473651@sacred-anemone.rooster465.autos:443?type=raw&security=tls&sni=sacred-anemone.rooster465.autos&fp=chrome# By EbraSha 🌐
-trojan://UX82473651@3.253.106.233:443?sni=loved-shark.rooster465.autos&fp=chrome&type=tcp&path=/#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-18
-trojan://UX82473651@34.242.77.118:443?sni=sacred-anemone.rooster465.autos&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-27
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443# By EbraSha ⚔️
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?type=tcp&security=tls&sni=adapting-basilisk.rooster465.autos&fp=chrome# By EbraSha ♦️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#EPODONIOS
 trojan://UX82473651@master-possum.rooster465.autos:443?security=tls#IE   TROJAN-TCP-TLS - AMAZON-02  54.76.166.42
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&type=tcp&fp=chrome# By EbraSha 🧿
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos#⚡ b2n.ir/v2ray-configs | 274
+trojan://UX82473651@adapting-basilisk.rooster465.autos:443?security=tls&sni=adapting-basilisk.rooster465.autos#⚡ b2n.ir/v2ray-configs | 220
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxMXFySA@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443?#EPODONIOS
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?allowInsecure=1&sni=master-possum.rooster465.autos#%5BOpenRay%5D%20%F0%9F%8C%90XX-3127
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443#EPODONIOS
+vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=/b0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=chrome&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com#EPODONIOS
 trojan://UX82473651@sacred-anemone.rooster465.autos:443?security=tls&sni=sacred-anemone.rooster465.autos&type=tcp#%F0%9F%A6%9C36%40oneclickvpnkeys
-trojan://UX82473651@adapting-basilisk.rooster465.autos:443?sni=adapting-basilisk.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 📱
-trojan://UX82473651@3.253.106.233:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=loved-shark.rooster465.autos# By EbraSha 🕶️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
-trojan://UX82473651@master-possum.rooster465.autos:443?sni=master-possum.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🚧
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZRjMyOUtOR1ZUVVoxcXJI@20.123.1.55:443#EPODONIOS
+trojan://UX82473651@loved-shark.rooster465.autos:443?security=tls&sni=loved-shark.rooster465.autos&insecure=1&allowInsecure=1&type=tcp#%F0%9F%A6%9C37%40oneclickvpnkeys
