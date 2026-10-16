@@ -1,7 +1,7 @@
 {
 	"Timeout": 5,
 	"MaxConcurrentChecks": 500,
-	"MaxLinesPerFile": 500,
+	"MaxLinesPerFile": 750,
 	"ShuffleServers": false,
 	"Logging": true
 }
