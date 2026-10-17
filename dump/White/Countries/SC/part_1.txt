@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SC] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1792334233
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1792338808
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/17/2026 14:37:13
-# servers-count: 4
+# generated-at: 10/17/2026 15:53:28
+# servers-count: 5
 
+vless://068c73f5-c2fc-4579-96be-6e37cfcf58ed@45.12.63.165:8443?path=%2Fxhttp&security=reality&encryption=none&pbk=LP7yXSC50lHfxW-BuRQ3OLDBNncF2KVnMgVJuX9XR2w&fp=firefox&type=xhttp&sni=cdn-de.cahmes.space&sid=35cd2022241da999#🇸🇨 SC
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?type=grpc&headerType=none&security=tls&encryption=none&sni=studio.10media.top&fp=firefox&serviceName=studiofeed&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20MIFA%20-%203841
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?type=grpc&headerType=none&security=tls&encryption=none&sni=edge-lab-b.10media.top&serviceName=swedenfeed&mode=gun#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20MIFA%20-%203733
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?type=grpc&headerType=none&security=tls&encryption=none&sni=edge-lab-b.10media.top&fp=firefox&serviceName=swedenfeed&mode=multi#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20-%20MIFA%20-%203766
