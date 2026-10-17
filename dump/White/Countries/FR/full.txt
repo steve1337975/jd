@@ -1,31 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO — FR
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823745587
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823761889
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/17/2026 03:59:47
-# servers-count: 22
+# generated-at: 10/17/2026 08:31:29
+# servers-count: 16
 
-vless://f079a440-e5f6-46cc-bcaf-273c8cf4417d@sdttr.azad0namah.ir:8080?encryption=none&security=none&type=tcp&headerType=none&host=play.google.com#🇫🇷 Франция
-ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@51.83.192.80:8388#🇫🇷 Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@pl140.vpnbook.com:443#🇫🇷 Франция
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWM2NXBo@pl134.vpnbook.com:443#🇫🇷 Франция
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@185.46.112.129:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&security=reality&sid=dcb858da&sni=metrika.yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇫🇷 Франция
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=tcp&security=reality&sni=metrika.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da#AetrisVPN White list ┃ ✅ SNI: metrika.yandex.ru ┃ 🇩🇪 Германия
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=tcp&security=reality&sni=metrika.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?encryption=none&fp=chrome&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&security=reality&sid=97c6c4b8&sni=www.vk.com&type=tcp&name=TG%3AYoutubeUnBlockRu#TCP, VK [V.O.I.D]
+vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443?security=tls&sni=vk.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome&type=ws&path=%2Fnimws&host=unmanliest.appreviewcenter.com&encryption=none#WS, VK [V.O.I.D]
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?security=reality&type=tcp&fp=firefox&sni=www.vk.com&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&spx=%2F&sid=97c6c4b8&name=TG%3AYoutubeUnBlockRu#TCP, VK [V.O.I.D]
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://d566e589-93f6-4106-8e89-443e9dc748c9@57.128.165.238:443?security=tls&sni=vk.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome&type=ws&path=%2Fnimws&host=retuned.toptechnonews.com&encryption=none#WS, VK [V.O.I.D]
-vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?encryption=none&fp=chrome&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&security=reality&sid=97c6c4b8&sni=www.vk.com&type=tcp&name=TG%3AYoutubeUnBlockRu#TCP, VK [V.O.I.D]
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://d6f79630-aa94-4536-b2ef-899b5acb3b49@57.128.25.48:443?security=tls&sni=vk.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome&type=ws&path=%2Fnimws&host=unmanliest.appreviewcenter.com&encryption=none#WS, VK [V.O.I.D]
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sni=metrika.yandex.ru&fp=firefox&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://0f6c83bc-34ba-4ca1-96e6-08b3620cbce5@145.223.69.171:443?encryption=none&security=reality&sni=www.vk.com&fp=firefox&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&sid=a6b92e23&spx=%2F&type=tcp&headerType=none#TCP, VK [V.O.I.D]
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@185.120.59.69:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#Reality, VK [V.O.I.D]
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.179.99:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#987.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+vless://c5c9d8ec-6c95-4f84-a395-de41ef895f34@145.223.69.171:443?encryption=none&fp=chrome&pbk=JQHrZXZRnkZUOMdNHS7X1fPyMDqKjiQWlfTdntIOqzg&security=reality&sid=97c6c4b8&sni=www.vk.com&type=tcp&name=TG%3AYoutubeUnBlockRu#TCP, VK [V.O.I.D]
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?type=tcp&security=reality&sni=metrika.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://d566e589-93f6-4106-8e89-443e9dc748c9@57.128.165.238:443?security=tls&sni=vk.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome&type=ws&path=%2Fnimws&host=retuned.toptechnonews.com&encryption=none#WS, VK [V.O.I.D]
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.179.99:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#721.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
+vless://2188c127-cff2-4e3b-b1ed-31c2500d4687@206.245.131.118:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.fr.forge-relay.com&fp=firefox&pbk=tW28ur4PP6lSr5XeKLu1njwm_W2Cv83EOoBaMn7ivVg&sid=a1b2c3d4&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20MIFA%20-%203925
+vless://3ce72a86-eee6-4029-9fa9-9416944d695d@46.105.38.220:26451?type=grpc&headerType=none&security=reality&encryption=none&sni=perf-prod.samsung.com&fp=firefox&pbk=-5pxLNDLKxgq2Zt-GMHZmvjEbp65171I83E-dUTgBw8&sid=df&spx=%2F3f9d322afd1602c&serviceName=grpc_common2&mode=gun#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20MIFA%20-%203852
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#0773 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#3955 | 🌐 Unknown | 🏳️ SNI-Yandex | VLESS | TG: @YoutubeUnBlockRu
