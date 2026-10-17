@@ -43,9 +43,6 @@ namespace NChecker.classes
             {
                 string data = await httpClient.GetStringAsync("https://raw.githack.com/hxehex/russia-mobile-internet-whitelist/main/whitelist.txt");
                 sni_domains = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-                foreach (var item in sni_domains)
-                {
-                }
             }
             catch (Exception exc)
             {

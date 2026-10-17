@@ -7,69 +7,51 @@ namespace NChecker.classes
 {
     internal class FilesManager
     {
-        List<SourceSubscriptionData> m_sources = new List<SourceSubscriptionData>();
+        private readonly List<SourceSubscriptionData> m_sources = new List<SourceSubscriptionData>();
         internal SettingsData Settings { get; private set; }
         internal FilesManager()
         {
             InitSettings();
-            InitBlackLists();
-            InitWhiteLists();
+            LoadList(Properties.Resources.black, SubscriptionFilterType.Black);
+            LoadList(Properties.Resources.white, SubscriptionFilterType.White);
         }
         internal int GetSourcesCount() => m_sources.Count;
-        internal SourceSubscriptionData[] GetSources()
-        {
-            return m_sources.ToArray();
-        }
-        void InitSettings()
+        internal SourceSubscriptionData[] GetSources() => m_sources.ToArray();
+        private void InitSettings()
         {
             try
             {
-                string v1 = Properties.Resources.settings;
-                Settings = JsonConvert.DeserializeObject<SettingsData>(v1);
+                string json = Properties.Resources.settings;
+                Settings = JsonConvert.DeserializeObject<SettingsData>(json);
             }
             catch (Exception exc)
             {
-                Logger.Error(exc.ToString());
+                Logger.Error($"Ошибка загрузки настроек => {exc.Message}");
             }
         }
-        void InitBlackLists()
+        private void LoadList(string resourceContent, SubscriptionFilterType filterType)
         {
             try
             {
-                string v1 = Properties.Resources.black;
-                SourceSubscriptionData[] black = JsonConvert.DeserializeObject<SourceSubscriptionData[]>(v1);
-                foreach (SourceSubscriptionData ssd in black)
+                if (string.IsNullOrWhiteSpace(resourceContent)) return;
+                SourceSubscriptionData[] items = JsonConvert.DeserializeObject<SourceSubscriptionData[]>(resourceContent);
+                if (items == null) return;
+                int localSubIndex = 1;
+                foreach (SourceSubscriptionData ssd in items)
                 {
-                    if (!string.IsNullOrEmpty(ssd.Url) && ssd.Enabled)
+                    if (ssd != null && !string.IsNullOrEmpty(ssd.Url) && ssd.Enabled)
                     {
-                        ssd.FilterType = SubscriptionFilterType.Black;
+                        ssd.FilterType = filterType;
+                        ssd.SortedIndex = localSubIndex;
+
                         m_sources.Add(ssd);
+                        localSubIndex++;
                     }
                 }
             }
             catch (Exception exc)
             {
-                Logger.Error(exc.ToString());
-            }
-        }
-        void InitWhiteLists()
-        {
-            try
-            {
-                string v1 = Properties.Resources.white;
-                SourceSubscriptionData[] white = JsonConvert.DeserializeObject<SourceSubscriptionData[]>(v1);
-                foreach (SourceSubscriptionData ssd in white)
-                {
-                    if (!string.IsNullOrEmpty(ssd.Url) && ssd.Enabled)
-                    {
-                        ssd.FilterType = SubscriptionFilterType.White;
-                        m_sources.Add(ssd);
-                    }
-                }
-            }
-            catch (Exception exc)
-            {
-               Logger.Error   (exc.ToString());
+                Logger.Error($"Ошибка загрузки списка {filterType} => {exc.Message}");
             }
         }
     }

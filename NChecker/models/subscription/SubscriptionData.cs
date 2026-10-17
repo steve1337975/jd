@@ -14,9 +14,5 @@
             return v1;
         }
     }
-    internal enum SubscriptionFilterType : int
-    {
-        Black,
-        White
-    }
+
 }
