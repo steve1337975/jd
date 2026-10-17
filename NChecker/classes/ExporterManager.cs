@@ -62,18 +62,13 @@ namespace NChecker.classes
             }
         }
 
-        // ==========================================
-        // ВСПОМОГАТЕЛЬНЫЕ МЕТОДЫ ЭКСПОРТА
-        // ==========================================
-
         private async Task ExportFilterFull(SubscriptionFilterType filterType, ServerData[] servers)
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
 
-            // Было: VPN White — Full / VPN Black — Full
             string headerName = filterType == SubscriptionFilterType.White
-                ? "🚀 VALIDS — Глобальный список"
-                : "❌ DEAD / INVALID — Черный список";
+                ? "🚀 VPN — WHITE LIST"
+                : "🛡️ VPN — BLACK LIST";
 
             SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, servers.Length);
 
@@ -93,17 +88,14 @@ namespace NChecker.classes
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Protocols", protocolName);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                // Было: VPN White VLESS — Full
-                string headerName = filterType == SubscriptionFilterType.White
-                    ? $"⚡ PROXIES — {protocolName}"
-                    : $"🗑️ DEAD — {protocolName}";
+                string typeLabel = filterType == SubscriptionFilterType.White ? "WHITE" : "BLACK";
+                string headerName = $"⚡ {protocolName} — {typeLabel}";
 
                 SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, protocolServers.Length);
 
                 string fileContent = headerData.GetHeaderString() + "\n" + string.Join('\n', protocolServers.Select(s => s.Url));
                 await File.WriteAllTextAsync(Path.Combine(path, "full.txt"), fileContent);
 
-                // Для порезанных файлов заголовок будет лаконичным (например, "⚡ PROXIES — VLESS")
                 await WritePartiallyAsync(path, headerName, protocolServers, settings.MaxLinesPerFile);
             }
         }
@@ -120,10 +112,8 @@ namespace NChecker.classes
                 string path = Path.Combine(dumpPath, filterType.ToString(), "Countries", countryCode);
                 if (!Directory.Exists(path)) Directory.CreateDirectory(path);
 
-                // Было: VPN White Country US — Full
-                string headerName = filterType == SubscriptionFilterType.White
-                    ? $"🌍 GEO — {countryCode}"
-                    : $"❌ DEAD GEO — {countryCode}";
+                string typeLabel = filterType == SubscriptionFilterType.White ? "WHITE" : "BLACK";
+                string headerName = $"🌍 GEO [{countryCode}] — {typeLabel}";
 
                 SubscriptionHeaderData headerData = new SubscriptionHeaderData(headerName, countryServers.Length);
 
@@ -138,10 +128,9 @@ namespace NChecker.classes
         {
             string path = Path.Combine(dumpPath, filterType.ToString());
 
-            // Было: VPN White WHITE
             string baseHeaderName = filterType == SubscriptionFilterType.White
-                ? "📦 VALIDS — Пачка"
-                : "📦 DEAD — Пачка";
+                ? "📦 VPN WHITE"
+                : "📦 VPN BLACK";
 
             await WritePartiallyAsync(path, baseHeaderName, servers, settings.MaxLinesPerFile);
         }
@@ -158,7 +147,6 @@ namespace NChecker.classes
                 int startIndex = i * maxLines;
                 int serversInThisFile = Math.Min(maxLines, totalServers - startIndex);
 
-                // Добавляем красивый номер пачки без дубликатов
                 SubscriptionHeaderData headerData = new SubscriptionHeaderData($"{baseHeaderName} #{i + 1}", serversInThisFile);
 
                 StringBuilder stringBuilder = new StringBuilder();

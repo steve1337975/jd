@@ -1,5 +1,6 @@
 ﻿using NChecker.models;
 using NChecker.models.subscription;
+using NChecker.utils;
 using Newtonsoft.Json;
 
 namespace NChecker.classes
@@ -28,7 +29,7 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Console.WriteLine(exc.ToString());
+                Logger.Error(exc.ToString());
             }
         }
         void InitBlackLists()
@@ -48,7 +49,7 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Console.WriteLine(exc.ToString());
+                Logger.Error(exc.ToString());
             }
         }
         void InitWhiteLists()
@@ -68,7 +69,7 @@ namespace NChecker.classes
             }
             catch (Exception exc)
             {
-                Console.WriteLine(exc.ToString());
+               Logger.Error   (exc.ToString());
             }
         }
     }
