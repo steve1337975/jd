@@ -1,29 +1,26 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO — EE
 # profile-update-interval: 1
-# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823721566
+# subscription-userinfo: upload=1000; download=0; total=256000000000; expire=1823775865
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/16/2026 21:19:26
-# servers-count: 20
+# generated-at: 10/17/2026 12:24:25
+# servers-count: 17
 
 vless://f219800f-9c62-46c9-b518-df996f754b61@38.180.216.110:20861?type=tcp&headerType=none&security=reality&encryption=mlkem768x25519plus.native.0rtt.2k0jZl0aQn__-3TwASbL-_6TwzW1EX3eijpGTcPOCAY&sni=amd.com&fp=firefox&pbk=5d3R0LwRP61nCvkcSy7j3byPLnC7U3fucNyec4UHRyc&sid=2759&spx=%2FVCWT2tXIF7CnS6V&flow=xtls-rprx-vision#AetrisVPN White list ┃ ✅ SNI: amd.com ┃ 🇪🇪 Эстония
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?&security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=max.ru&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: max.ru ┃ 🇪🇪 Эстония
-vless://4eb80efa-363e-4f7f-a787-7e280c5dadd0@132.243.74.70:443?security=reality&encryption=none&pbk=4puvvJ1CFZuEGMT_h2gxqLzYpgmKEfDV1omah9ATKQs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=57ce34a1cbed916f#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇩🇪 Германия
-vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision#TCP, Max [V.O.I.D]
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=tcp&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#TCP, Max [V.O.I.D]
 vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@23.230.179.120:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?flow=xtls-rprx-vision&fp=chrome&host=v2raynplus--v2raynplus--v2raynplus&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&security=reality&sid=a696de84963656de&sni=max.ru&type=tcp#Reality, Max [V.O.I.D]
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#TCP, Max [V.O.I.D]
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&encryption=none&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=a696de84963656de#TCP, Max [V.O.I.D]
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@23.230.179.120:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
-vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@23.230.179.120:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&flow=xtls-rprx-vision&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de&fp=qq&sni=max.ru&type=tcp&headerType=none&host=max.ru&path=%2F#TCP, Max [V.O.I.D]
-vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?type=tcp&security=tls&sni=max.ru&fp=chrome&flow=xtls-rprx-vision#TCP, Max [V.O.I.D]
+vless://4eb80efa-363e-4f7f-a787-7e280c5dadd0@132.243.74.70:443?type=tcp&security=reality&sni=yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=4puvvJ1CFZuEGMT_h2gxqLzYpgmKEfDV1omah9ATKQs&sid=57ce34a1cbed916f#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
-vless://43212c32-01f2-4356-b216-67dc1c178262@143.246.41.31:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=h1xVB_-djXL6A7tvnnVbjV4bYKplHOuN0bgmFJQE6AE&sid=7f3a91c2d8e640ab&sni=ees92.shhflow.xyz#%F0%9F%87%B8%F0%9F%87%AC%20Wi-Fi%2013%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
-vless://43212c32-01f2-4356-b216-67dc1c178262@143.246.41.31:443?security=reality&sni=ees92.shhflow.xyz&fp=firefox&pbk=h1xVB_-djXL6A7tvnnVbjV4bYKplHOuN0bgmFJQE6AE&sid=7f3a91c2d8e640ab&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AC%20Wi-Fi%2014%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
+vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@94.156.236.148:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
+vless://0639f5a2-99b4-451d-9ba0-6f0a0597ac3b@95.85.224.28:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&sni=m.vkvideo.cs7777.vk.ru&pbk=PzPuIsJG2yyrnO-9TKGyRxmo8DCJ6VCdpQ5l5l62QQQ#TCP%2C%20VK%20%D0%92%D0%B8%D0%B4%D0%B5%D0%BE%20%5BV.O.I.D%5D
+vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@94.156.236.148:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
+vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443?security=reality&type=raw&packetEncoding=xudp&sni=max.ru&fp=qq&flow=xtls-rprx-vision&sid=a696de84963656de&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc#Reality, Max [V.O.I.D]
+vless://8cd89109-edfb-4d8e-a838-6e00b98d74a5@94.156.236.148:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&spx=%2Fsinavm-sinavm&type=tcp&flow=xtls-rprx-vision&sni=platform-api.max.ru&sid=19aa22f681923dc8#TCP, Max [V.O.I.D]
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@185.255.178.82:8443?security=reality&encryption=none&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=sun6-21.userapi.com&sid=3ca620a7ed5f3196#TCP, VK [V.O.I.D]
