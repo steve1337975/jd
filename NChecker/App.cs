@@ -16,10 +16,7 @@ namespace NChecker
         private readonly FilesManager filesManager = new FilesManager();
         private SubscriptionData[] subscriptions;
 
-        internal App()
-        {
-
-        }
+        internal App() { }
 
         internal async Task Start()
         {
