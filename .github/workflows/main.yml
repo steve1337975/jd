@@ -1,0 +1,51 @@
+name: NChecker
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/10 * * * *"
+  push:
+    paths:
+      - "**/*.cs"
+      - "**/*.csproj"
+      - "**/*.sln"
+      - "README.md"
+      - ".github/workflows/main.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vpn-checker
+  cancel-in-progress: true
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "6.0.x"
+
+      - name: Run NChecker
+        run: dotnet run --project ./NChecker/NChecker.csproj --configuration Release
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@://github.com"
+
+          git add -f dump/
+
+          if ! git diff --cached --quiet; then
+            git commit -m "Update NChecker lists"
+            git push origin HEAD
+          else
+            echo "No changes to commit."
+          fi
