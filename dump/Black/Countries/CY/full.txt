@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CY] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824403780
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824407481
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/23/2026 18:49:40
-# servers-count: 16
+# generated-at: 10/23/2026 19:51:21
+# servers-count: 19
 
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?security=none&type=ws&path=%2Fvless&host=5.253.29.254&packetEncoding=xudp&sni=5.253.29.254#🇮🇳[openproxylist.com] vless-IN
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?encryption=none&type=grpc&serviceName=rex-eb0bf76b710ce763&security=reality&fp=qq&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&sni=deepl.com&sid=92c32de179e5d908#[🇮🇳] [vl-re-gr] [261023-205631.408]
@@ -13,13 +13,16 @@ vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?encryption=none&f
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sni=deepl.com&sid=68a8#[🇮🇳] [vl-re-ra] [261023-205931.295]
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?sni=5.253.29.254#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-10
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?encryption=none&type=grpc&serviceName=rex-eb0bf76b710ce763&security=reality&fp=firefox&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&sni=deepl.com&sid=92c32de179e5d908#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-5
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-63
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?flow=xtls-rprx-vision&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-364
-vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?alpn=v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus&flow=xtls-rprx-vision&fp=chrome&host=v2raynplus--v2raynplus--v2raynplus&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&spx=%2F&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-123
-vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=68a8&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-31
-vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none&host=%2F%3Ftelegram---planb_net---planb_net---planb_net---planb_net#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-39
+vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?security=none&type=tcp&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-28
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-65
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@hydra.yokkastars.com:40443?flow=xtls-rprx-vision&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-374
+vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?alpn=v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus&flow=xtls-rprx-vision&fp=chrome&host=v2raynplus--v2raynplus--v2raynplus&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&security=reality&sid=88b6&sni=deepl.com&spx=%2F&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-125
+vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?security=none&type=ws&path=%2Fvless&packetEncoding=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-148
+vless://af5eac96-e478-488a-bc8c-45269d7e8847@5.253.28.224:40443?security=reality&type=tcp&packetEncoding=xudp&sni=deepl.com&fp=firefox&flow=xtls-rprx-vision&sid=68a8&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-32
+vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none&host=%2F%3Ftelegram---planb_net---planb_net---planb_net---planb_net#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-40
 vless://af5eac96-e478-488a-bc8c-45269d7e8847@dorado.yokkastars.com:40443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sid=68a8&sni=deepl.com#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-59
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-90
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&host=Telegram-Leviko_v2ray&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-95
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-101
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?type=ws&security=tls&fp=chrome&sni=free.cndyw.ggff.net&host=free.cndyw.ggff.net#1600 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://35da102e-536b-4103-9632-58c7c4c6303b@pl3.originmesh.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ltQ7842eBLUE37uQ_g5BVxtyzr6o1xr1bfs0roiHOGI&sid=eecfe76af97a6132&sni=pl3.originmesh.online#0530 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?type=ws&security=tls&fp=chrome&sni=free.cndyw.ggff.net&host=free.cndyw.ggff.net#1646 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
