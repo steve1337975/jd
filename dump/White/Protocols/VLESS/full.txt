@@ -1,19 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ VLESS — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824377344
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824378848
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/23/2026 11:29:04
-# servers-count: 576
+# generated-at: 10/23/2026 11:54:08
+# servers-count: 575
 
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com&type=tcp&headerType=none&host=www.samsung.com&path=%2F&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5B%2ACIDR%5D
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#🇬🇧 Великобритания
 vless://1e2b9c0c-4f9b-56f5-a062-1c4f2d2aa200@84.201.180.13:443?encryption=none&extra=null&host=api-maps.yandex.ru&pbk=DuxQy3KWEZTU_sBhXSfeo_1Q0-0lMcSnx21bWvUi5hQ&security=reality&sni=api-maps.yandex.ru&type=xhttp&fp=safari#🇷🇺 Россия
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@9bc578g.us4.h1clayd.click:443?encryption=none&type=grpc&security=reality&sni=9bc578g.us4.h1clayd.click&pbk=uUWYLl2Fdhr74k9o5WacesJjvsCwLiOHccgfR23TIk4&sid=29b29106d4769e3a&spx=%2F&serviceName=aa7f1b042f73&fp=safari#🇷🇺 Россия
 vless://fe8e2ffb-8796-408c-af5b-0d4774215e00@147.45.187.188:8443?mode=gun&security=reality&encryption=none&pbk=dTdncizxtVTqDZDkQoYdRTkf2Mn6XuKtkzg8vZhrkzA&type=grpc&serviceName=grpc&sni=vedomosti.ru&sid=6ba85179e30d4fc2#🇳🇱 Нидерланды
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?security=reality&type=tcp&sni=263651t.fi3.h1clayd.click&host=263651t.fi3.h1clayd.click&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&sid=2892e611785bafd1&fp=firefox#🇷🇺 Россия
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.85:2053?encryption=none&extra=null&host=fitindoor.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&type=xhttp#AetrisVPN White list ┃ ✅ SNI: fitindoor.net ┃ 🇷🇺 Россия
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.246.179:8443?encryption=none&extra=null&host=randomquaint.net&mode=auto&path=%2Fapi%2Fv1%2Fupload&security=tls&type=xhttp#AetrisVPN White list ┃ ✅ SNI: randomquaint.net ┃ 🇧🇬 Болгария
 vless://efa160b9-7267-4fa4-8698-711503cc9482@188.225.45.79:7443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=0w339GBhpDiYwa9Wgqu3z3epu8dHAzeYUFXPtvzK8To&security=reality&sid=190c27ae5f2e4d2c&sni=passport.yandex.ru&spx=%2F&type=raw#AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇩🇪 Германия
 vless://efa160b9-7267-4fa4-8698-711503cc9482@185.229.9.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ZO7C9aMpoVJ6CmkKWUBS20eKe542_tGIc6wZFGB-yjY&security=reality&sid=b4e5b7cefcd0d47c&sni=www.vk.com&spx=%2F&type=raw#AetrisVPN White list ┃ ✅ SNI: www.vk.com ┃ 🇩🇪 Германия
 vless://efa160b9-7267-4fa4-8698-711503cc9482@185.229.9.234:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lIgF8B3ICGAQ6ExbRe9YDu8ZD1Ozzqu7-YO7hfuXfRw&security=reality&sid=cc8069f6c2cbcb32&sni=api.ok.ru&spx=%2F&type=raw#AetrisVPN White list ┃ ✅ SNI: api.ok.ru ┃ 🇩🇪 Германия
@@ -343,7 +343,6 @@ vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&enc
 vless://438b4dc4-57a4-4c09-a32a-6730ca071ca8@82.22.41.125:443?type=tcp&security=reality&encryption=none&fp=firefox&pbk=qQZ2JrvOorFCGldu8DzQ4qGF7LOdQGMxqklRgGAXUhU&sid=6843f05f8c4a&sni=dzen.ru&spx=%2F819zge91zu2bbx8#TCP%2C%20%D0%94%D0%B7%D0%B5%D0%BD%20%5BV.O.I.D%5D
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@jp1.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#TCP, VK [V.O.I.D]
-vless://fc7d8276-2f79-48f2-92c7-2fa5c0d9aa2a@147.45.97.168:2053?security=reality&encryption=none&pbk=FWkH7C_t9obV_NI48ir9DHJed6OVBQTh-Hi8fVnUlDM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=market.yandex.ru&sid=118dc2786b9de6b6#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.167:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
 vless://4feab863-0b04-444d-87e5-4375adca92cf@37.18.14.103:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=300.ya.ru#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://afc49295-8d08-4f5e-b342-eb6f28344b21@109.120.191.147:443?flow=xtls-rprx-vision&encryption=none&type=raw&security=reality&fp=firefox&sni=eh.vk.com&pbk=G7ahPRdtx_M8bxkIDU0hHtMbH6pn6dG91jweBVESSi0#Reality, VK [V.O.I.D]
