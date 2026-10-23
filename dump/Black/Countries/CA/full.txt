@@ -1,29 +1,27 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824377344
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824393195
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/23/2026 11:29:04
-# servers-count: 38
+# generated-at: 10/23/2026 15:53:15
+# servers-count: 32
 
-vless://73274f8c-ac7b-4d71-b67a-1ea200c9ed82@can.kramiliantha.sbs:443?encryption=none&type=xhttp&security=reality&sni=can.kramiliantha.sbs&pbk=M-1qIKDnTxYsPbzZg4OSTBLiKv1Ec81FInDns45DyEk&sid=26bf62b927c5ff1c&fp=firefox&path=/api/v1/sync/&host=can.kramiliantha.sbs&mode=auto&extra=%7B%22xmux%22%3A%7B%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22maxConnections%22%3A3%7D%7D#🇪🇸 Испания
 vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&fp=chrome&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&security=reality&serviceName=grpc_common1&sid=defda00d613c&sni=www.semiconductor.samsung.com&spx=%2Ffe82b9833f962d8&type=grpc#🇨🇦 Канада
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Канада
 trojan://Trojan%4082164024@ca.tronsg.com:443?security=tls&sni=ca.tronsg.com&fp=chrome&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20915928
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20661605
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20214613
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20759594
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJhaWQiOjAsImhvc3QiOiJ2MnJheW5wbHVzLXYycmF5bnBsdXMtdjJyYXlucGx1cyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IlwvdjJyYXlOcGx1cy12MnJheU5wbHVzLXYycmF5TnBsdXMiLCJwb3J0IjoiMTgwMDAiLCJwcyI6Ilx1ZDgzY1x1ZGRlOFx1ZDgzY1x1ZGRlNltvcGVucHJveHlsaXN0LmNvbV0gdm1lc3MtQ0EiLCJzbmkiOiJAdnBuaW5lMSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlfQ==
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiXHVkODNjXHVkZGU4XHVkODNjXHVkZGU2W29wZW5wcm94eWxpc3QuY29tXSB2bWVzcy1DQSIsInNuaSI6IjIzLjE2Mi4yMDAuMTk4IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4emXSBbdm0tbm8tcmFdIFsyNjEwMjMtMDg1MTUwLjY5M10ifQo=
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwicG9ydCI6IjE4MDAwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh6ZdIFt2bS1uby1yYV0gWzI2MTAyMy0wODUyMDUuMjg1XSJ9Cg==
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4emXSBbdm0tbm8tcmFdIFsyNjEwMjMtMTUzODAyLjg4NF0ifQo=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwicG9ydCI6IjE4MDAwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh6ZdIFt2bS1uby1yYV0gWzI2MTAyMy0xNTM4MDUuMjg0XSJ9Cg==
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-13
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-15
 vless://7b102311-43fd-4e8f-877e-8090623c101d@40.233.116.225:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegramU0001F1E8U0001F1F3%20%40VPNine1fp%3Dchrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-22
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMjUiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvQFByb3h5VlBOMTEifQ==
 vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&spx=/b53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-33
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJbT3BlblJheV0g8J+HqPCfh6ZDQS00MiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-703
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-108
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-109
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?fp=chrome&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&spx=%2F&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-114
@@ -37,11 +35,7 @@ vless://92295a0d-b610-4075-85e9-bfab09ec6f3a@103.214.69.177:443?security=reality
 vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=chrome&spx=%2F223e596aaeef765&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-250
 trojan://Trojan@82164024@155.138.138.2:443?type=tcp&security=tls&sni=ca.tronsg.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-263
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-279
-trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2342
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-302
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzIxIiwiYWRkIjoiMTk4LjU3LjI3LjE5MCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
-trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-323
-trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1#1590 | 🌐 Unknown | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.107.186:2053?type=ws&security=tls&fp=firefox&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#2832 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?type=ws&host=vms.lifetime18.workers.dev&ed=2048&eh=Sec-WebSocket-Protocol#3069 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#3198 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.107.186:2053?type=ws&security=tls&fp=firefox&sni=snip.edgeoneai.cc.cd&host=snip.edgeoneai.cc.cd#2883 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?type=ws&host=vms.lifetime18.workers.dev&ed=2048&eh=Sec-WebSocket-Protocol#3121 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
