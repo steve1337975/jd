@@ -1,17 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824485329
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824493437
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 17:28:49
-# servers-count: 25
+# generated-at: 10/24/2026 19:43:57
+# servers-count: 24
 
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?security=none&type=ws&path=%2Fvless&packetEncoding=none#🇮🇳[openproxylist.com] vless-IN
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@hydra.yokkastars.com:2443?encryption=none&type=grpc&serviceName=rex-eb0bf76b710ce763&security=reality&fp=qq&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&sni=deepl.com&sid=92c32de179e5d908#[🇮🇳] [vl-re-gr] [261024-194446.724]
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sni=deepl.com&sid=88b6&spx=%2F#[🇮🇳] [vl-re-ra] [261024-194423.147]
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&sni=deepl.com&sid=68a8#[🇮🇳] [vl-re-ra] [261024-194756.020]
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?sni=5.253.29.254#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-11
 vless://5e679ccd-1586-4d5f-b87b-48251046cad8@5.253.28.240:2443?encryption=none&type=grpc&serviceName=rex-eb0bf76b710ce763&security=reality&fp=firefox&pbk=h85e28MxBgNyT9d9cNeOLVtWfHq6cT_1_oxZOTajtTg&sni=deepl.com&sid=92c32de179e5d908#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-5
 vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:10443?security=none&type=tcp&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-30
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=deepl.com&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1NL-66
@@ -29,6 +28,6 @@ vless://35da102e-536b-4103-9632-58c7c4c6303b@2.56.126.0:443?type=tcp&security=re
 vless://405b964e-a2d2-454f-aaaa-711cc218897c@5.253.28.240:40443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&host=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=88b6#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-91
 vless://511c1563-2cb6-4064-abc6-a59ee49818a8@5.253.30.99:40443?security=reality&flow=xtls-rprx-vision&sni=deepl.com&type=tcp&host=Telegram-Leviko_v2ray&fp=qq&pbk=cwmcqsfS7klQlkcoUNuATEk0NiPY-NnRb9z8rCJDQw0&sid=88b6#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-96
 vless://e99ba96d-dec8-42eb-be53-19e71eef7cab@5.253.42.164:40443?security=reality&encryption=none&pbk=g77ZJbm18JEotapmVRjaXi133MzkbhkU2lxhVeXx8zw&host=---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR---@SPIDDY_IR&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=68a8#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-104
-vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?type=ws&packetEncoding=none#0511 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?type=ws&security=tls&fp=chrome&sni=free.cndyw.ggff.net&host=free.cndyw.ggff.net#1654 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&host=vms.lifetime58.workers.dev#3372 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://c7c27192-60a5-4ce1-b613-95270d82309d@5.253.29.254:14430?type=ws&packetEncoding=none#0847 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@194.55.166.65:2087?type=ws&security=tls&fp=chrome&sni=free.cndyw.ggff.net&host=free.cndyw.ggff.net#1038 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.85.59.30:8880?type=ws&host=vms.lifetime58.workers.dev#1826 | 🇨🇾 Cyprus | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

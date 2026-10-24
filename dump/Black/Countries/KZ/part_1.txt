@@ -1,14 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824485329
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824493437
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 17:28:49
-# servers-count: 24
+# generated-at: 10/24/2026 19:43:57
+# servers-count: 21
 
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sni=yahoo.com&sid=2001#[🇰🇿] [vl-re-ra] [261024-194306.270]
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sni=yahoo.com&sid=fa#[🇰🇿] [vl-re-ra] [261024-194407.499]
 vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ew8J+Hv10gW3ZtLW5vLXdzXSBbMjYxMDI0LTE5NDkyMy45MjldIn0K
 vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HsPCfh79dIFt2bS1uby13c10gWzI2MTAyNC0xOTQ5MzcuNjk4XSJ9Cg==
 vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ew8J+Hv10gW3ZtLW5vLXdzXSBbMjYxMDI0LTE5NTExOC45MTJdIn0K
@@ -17,7 +15,6 @@ vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWIt
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otMiIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0IjoiODAiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6IiIsInNuaSI6Imdvb2dsZS5jb20iLCJhbHBuIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otMyIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otNSIsImFkZCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsInBvcnQiOjgwLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiM2gta2F6YWtoc3RhbjEuMDl2cG4uY29tIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=yahoo.com&fp=chrome&sid=69a2&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BFKZ-6
 vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwb3J0Ijo4MCwicHMiOiJbT3BlblJheV0g8J+HsPCfh79LWi0xMiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJuYW1lIjoiQHYycmF5Y29uZmlnYW1pciAyMzA1In0=
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otMTMiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIzOC4xMDcuMjM0LjU3IiwicGF0aCI6Ii92bWVzcy8ifQ==
 vless://5c8950a3-2142-42c9-b414-fa34526ff25f@206.223.248.70:443?security=reality&encryption=none&pbk=2s0TPUB7_4neB6YLk1EnGvPiZidCKkikat7xLp30FwQ&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=kz-2.movietop24.site&sid=aba1b7bfa1fdbb10#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-2207
@@ -28,6 +25,6 @@ vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjowLCJob3N0IjoidmliZXIuY29tIiwiaWQi
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otMjAiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyJ9
 vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e/S1otMjIiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
 vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sni=yahoo.com&sid=83#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%BFKZ-24
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@93.183.87.107:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sni=electric-zephyr.cdn.cachefleet.com#0574 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&fp=firefox&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w&sni=kz-central.v8x2b.lol#1095 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@176.12.79.242:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net#0195 | 🇰🇿 Kazakhstan | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://846cedee-2a52-4a62-a0b9-11850ead6a8b@46.8.43.125:443?security=reality&fp=firefox&pbk=ER-T5En54-sn6IXy7jU8vQVcBbOiWvznnezf3qZ273w&sni=kz-central.v8x2b.lol#1032 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@93.183.87.107:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=KOgPteoWEwtVtykS2FGV5NHdZw6197VzbITPGkUJDBQ&sni=electric-zephyr.cdn.cachefleet.com#1582 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@176.12.79.242:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net#1876 | 🇰🇿 Kazakhstan | 🏳️ SNI-VK | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
