@@ -1,10 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SK] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824461367
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824473411
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 10:49:27
-# servers-count: 1
+# generated-at: 10/24/2026 14:10:11
+# servers-count: 2
 
-vless://ba9166be-9a90-46b0-b8db-f06287a22742@80.243.228.51:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#Бесплатный VPN tg:VLESSFORU 🇸🇰
+vless://39a62048-aa1a-442c-8b38-a87f0df17098@80.243.228.130:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#tg:VLESSFORU top speed 🇬🇧
+vless://e32167f2-dd3a-46da-ac00-e997e6e79447@80.243.228.61:2085?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#Бесплатный VPN tg:VLESSFORU 🇬🇧
