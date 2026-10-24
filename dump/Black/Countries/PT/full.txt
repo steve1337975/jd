@@ -1,13 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PT] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824444055
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824461367
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 06:00:55
-# servers-count: 4
+# generated-at: 10/24/2026 10:49:27
+# servers-count: 6
 
 vless://7K8ckQ9Odjv5ya@185.138.89.162:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=I_PJRjRaDOYVO33p3dyMruZwyMAnvt1rG74NCZ2iXUY&sni=www.heise.de&sid=8a2a4eb0#[🇵🇹] [vl-re-ra] [261024-083006.567]
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.92.228:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-2
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.92.20:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-4
-ss://YWVzLTEyOC1nY206Y2E0MzgwNTQ3NzE4MjEyNTAwODkzOTlhMmYzMzI3NWU=@185.231.233.91:17167#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-5
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@185.231.233.139:443?flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&security=reality&sid=1c5869a95671bcb0&sni=pt1.accessboy.com&type=raw&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-3
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@195.133.92.20:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-5
+ss://YWVzLTEyOC1nY206Y2E0MzgwNTQ3NzE4MjEyNTAwODkzOTlhMmYzMzI3NWU=@185.231.233.91:17167#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B9PT-6
+vless://caf3d607-95c9-4ea0-98b5-864027056ba0@pt1.accessboy.com:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=pt1.accessboy.com&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&fp=firefox&spx=%2F&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-2420

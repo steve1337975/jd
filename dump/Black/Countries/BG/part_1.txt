@@ -1,38 +1,35 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824444055
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824461367
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 06:00:55
-# servers-count: 29
+# generated-at: 10/24/2026 10:49:27
+# servers-count: 26
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?security=reality&encryption=none&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&fp=random&spx=%2FHesarWeb&type=grpc&serviceName=gw.v2.RelayService&sni=bg5.univesalsrv.com&sid=1a3102bb8e51399e#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?type=grpc&security=reality&fp=ios&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&path=/&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&security=reality&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&type=grpc#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=random&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService&spx=/#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&serviceName=gw.v2.RelayService#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&sni=bg4.univesalsrv.com&serviceName=cloud.v1.RelayService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=random&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService&spx=/#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?type=grpc&security=reality&fp=firefox&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&sni=bg2.univesalsrv.com&mode=gun&serviceName=api.v2.PushService&authority=/?TELEGRAM@MARAMBASHI_MARAMBASHI#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?type=grpc&headerType=none&security=reality&encryption=none&sni=bg5.univesalsrv.com&fp=firefox&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?type=grpc&security=reality&fp=ios&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&serviceName=home.v1.ApiService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.152.48.248:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-3
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&authority=&serviceName=api.v2.PushService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-326
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&authority=MTMVPN+&serviceName=cloud.v1.RelayService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-198
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&authority=&serviceName=api.v2.PushService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-338
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?mode=gun&security=reality&encryption=none&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&fp=chrome&type=grpc&serviceName=cloud.v1.RelayService&sni=bg4.univesalsrv.com&sid=51f45d4fd58cc319#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-5
-vless://7b102311-43fd-4e8f-877e-8090623c101d@192.145.30.27:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%20%40VPNine1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-6
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&path=/&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&security=reality&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&type=grpc#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-12
 ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-13
 ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-15
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&sni=gateway.icloud.com&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-16
 vless://33e8bd3a-26f0-4e57-bc27-e5552a81c880@131.123.41.223:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bulgaria.stream-live.ru&fp=chrome&pbk=dsyxDiVtAFRjKOqLdqof2SuygewTO-EWTd34Jk1YYVo&sid=e9433de76a53573b&spx=/&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-23
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1574
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1594
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&fp=firefox&type=grpc&serviceName=cloud.v1.RelayService&sid=51f45d4fd58cc319#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-32
-trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=%252Fassignment&sni=www.calmlunch.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-37
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%8C%90XX-1255
-vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2ff@1.bmi.ir.asopardaz.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1281
-vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fc@1.bmi.ir.asopardaz.ir:443?encryption=none&type=xhttp&mode=auto&host=www.sony.com&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=reality&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sni=www.sony.com&sid=e915#%5BOpenRay%5D%20%F0%9F%8C%90XX-1327
-trojan://humanity@192.145.30.27:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-51
-trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-53
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-63
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.45:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4050
-vless://7b102311-43fd-4e8f-877e-8090623c101d@78.128.127.93:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegramU0001F1E8U0001F1F3%20%40VPNine1fp%3Dchrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-68
-trojan://humanity@193.239.160.134:443?type=ws&sni=www.calmlunch.com#0897 | 🇧🇬 Bulgaria | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%8C%90XX-1292
+vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2ff@1.bmi.ir.asopardaz.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1318
+vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fc@1.bmi.ir.asopardaz.ir:443?encryption=none&type=xhttp&mode=auto&host=www.sony.com&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=reality&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sni=www.sony.com&sid=e915#%5BOpenRay%5D%20%F0%9F%8C%90XX-1367
+trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-54
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-64
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.45:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4095
+vless://7b102311-43fd-4e8f-877e-8090623c101d@78.128.127.93:443?&security=tls&fp=chrome&sni=vp58.cc.cd&type=ws&headerType=none&host=vp58.cc.cd&path=%2FTelegramU0001F1E8U0001F1F3%20%40VPNine1fp%3Dchrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-69
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-71

@@ -1,26 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824444055
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824461367
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 06:00:55
-# servers-count: 17
+# generated-at: 10/24/2026 10:49:27
+# servers-count: 16
 
-vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:8010?encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-139
-vless://689e46e9-dcc2-4c5c-8301-8623024ad6f0@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-218
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-271
+vless://4017df30-cc3b-4e83-264d-a4fb502e1df6@s3.lemvuno.ir:2087?security=tls&sni=s3.lemvuno.ir&alpn=h2%2Chttp%2F1.1%2Ch3&type=xhttp&path=%2FBetForward&host=s3.lemvuno.ir&mode=auto&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:8010?encryption=mlkem768x25519plus.native.0rtt.Qu4km2yZ6QAhjFVVooUz7HaqfY01CIucSDrRPJY4rBw&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-143
+vless://689e46e9-dcc2-4c5c-8301-8623024ad6f0@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-226
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-281
 ss://YWVzLTEyOC1nY206ZGIyY2YzZTIxYzgzNDgzYzkwODRiOWRiMWJkNDY5ZmI@87.107.114.105:900#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7IR-5
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-498
-vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:15088?encryption=mlkem768x25519plus.native.0rtt.cvVZFxCx1D3ly-0N5EXakc6tYVadDChlE35mpu3MvwU&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-681
-vless://62b471e0-03f7-9b63-f05a-e91eca6ee82f@nl2-tun.dnetopps.ir:10040?security=reality&type=xhttp&headerType=none&encryption=none&path=/Path&host=HostName&sni=reality2.dnetopps.ir&fp=chrome&pbk=1CdQXIXhWDjprJBRAV55Y1lkQyXGoFN-eWVD6FS4fjg&sid=00d97629c7&spx=/#%5BOpenRay%5D%20%F0%9F%8C%90XX-795
-vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1171
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-1437
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWl9CRUF3c3FFdEhDRXh0SXRJck9SRk9kQXd4aWMwRw==@irnamh.g44mozgh.ir:1001#%5BOpenRay%5D%20%F0%9F%8C%90XX-1442
-ss://YWVzLTI1Ni1nY206QnpHNE9pZGtMQmlqVDA0WUdJeVZNWEJkOWVTLWNhVmk=@Tak.zqpm.ir:8989#%5BOpenRay%5D%20%F0%9F%8C%90XX-1506
-vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:14256?encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-1566
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1601
-vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#%5BOpenRay%5D%20%F0%9F%8C%90XX-1721
-vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:23196?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1742
-vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:22068?encryption=mlkem768x25519plus.native.0rtt.Bu8yO8-6D_u_FmDErot6eFF0r-mdLO4d5dtUReMad3k&security=none&type=tcp&headerType=http&path=/&host=play.google.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-2083
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?type=ws&encryption=mlkem768x25519plus.native.0rtt.pdwzjuxivughgbezz3q39zorqqxff0lfg22yclqvawk&host=dnld.chaqalli.com#1094 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-515
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:15088?encryption=mlkem768x25519plus.native.0rtt.cvVZFxCx1D3ly-0N5EXakc6tYVadDChlE35mpu3MvwU&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-702
+vless://62b471e0-03f7-9b63-f05a-e91eca6ee82f@nl2-tun.dnetopps.ir:10040?security=reality&type=xhttp&headerType=none&encryption=none&path=/Path&host=HostName&sni=reality2.dnetopps.ir&fp=chrome&pbk=1CdQXIXhWDjprJBRAV55Y1lkQyXGoFN-eWVD6FS4fjg&sid=00d97629c7&spx=/#%5BOpenRay%5D%20%F0%9F%8C%90XX-819
+vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1206
+vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-1478
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWl9CRUF3c3FFdEhDRXh0SXRJck9SRk9kQXd4aWMwRw==@irnamh.g44mozgh.ir:1001#%5BOpenRay%5D%20%F0%9F%8C%90XX-1483
+ss://YWVzLTI1Ni1nY206QnpHNE9pZGtMQmlqVDA0WUdJeVZNWEJkOWVTLWNhVmk=@Tak.zqpm.ir:8989#%5BOpenRay%5D%20%F0%9F%8C%90XX-1547
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:14256?encryption=mlkem768x25519plus.native.0rtt.lP8_9ZFjOlVDAt1gqie0PnqPKOz_HsYUrzhlyV8T4C8&security=none&type=tcp&headerType=http&path=/&host=netmeli.korluma.ir#%5BOpenRay%5D%20%F0%9F%8C%90XX-1607
+vless://2582857a-632b-4c4e-9b67-96213cbaf58c@p2tun0.greewebservices.ir:28820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=ios&type=tcp&sni=play.google.com&sid=e3085d4fc679ba12#%5BOpenRay%5D%20%F0%9F%8C%90XX-1764
+vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:23196?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1785
+vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:22068?encryption=mlkem768x25519plus.native.0rtt.Bu8yO8-6D_u_FmDErot6eFF0r-mdLO4d5dtUReMad3k&security=none&type=tcp&headerType=http&path=/&host=play.google.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-2135
