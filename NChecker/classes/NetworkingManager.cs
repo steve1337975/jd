@@ -94,6 +94,7 @@ namespace NChecker.classes
 
                     SubscriptionData subscriptionData = SubscriptionData.Create(subscriptionSourceData);
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
+                    Logger.Info($"Строки успешно разделены => {subscriptionData.Url} / {lines.Length} строк");
                     int i = 1;
                     foreach (string line in lines)
                     {
