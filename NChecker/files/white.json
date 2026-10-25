@@ -1,57 +1,74 @@
 [
   {
-    "index": 1,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-all.txt",
     "enabled": true
   },
   {
-    "index": 2,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-CIDR-RU-checked.txt",
     "enabled": true
   },
   {
-    "index": 3,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/WHITE-SNI-RU-all.txt",
     "enabled": true
   },
   {
-    "index": 4,
     "url": "https://raw.githack.com/igareck/vpn-configs-for-russia/main/Vless-Reality-White-Lists-Rus-Mobile.txt",
     "enabled": true
   },
   {
-    "index": 5,
     "url": "https://raw.githack.com/FLAT447/v2ray-lists/main/WHITE_FULL.txt",
     "enabled": true
   },
   {
-    "index": 6,
     "url": "https://raw.githack.com/flaafix/AetrisVPN/main/AetrisVPN.txt",
     "enabled": true
   },
   {
-    "index": 7,
     "url": "https://raw.githack.com/flaafix/AetrisVPN-white-list-lite/main/AetrisVPN.txt",
     "enabled": true
   },
   {
-    "index": 8,
     "url": "https://raw.githack.com/zieng2/wl/main/vless_universal.txt",
     "enabled": true
   },
   {
-    "index": 9,
     "url": "https://raw.githack.com/VOID-Anonymity/V.O.I.D-VPN_Bypass/main/url_work.txt",
     "enabled": true
   },
   {
-    "index": 10,
+    "url": "https://raw.githack.com/LimeHi/LimeVPN/refs/heads/main/whitelist.txt",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githack.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githack.com/terik21/HiddifySubs-VlessKeys/refs/heads/main/WhiteKeys2",
+    "enabled": true
+  },
+  {
+    "url": "https://raw.githack.com/RKPchannel/RKP_bypass_configs/refs/heads/main/whitelist.txt",
+    "enabled": true
+  },
+  {
+    "url": "https://gitverse.ru/api/repos/Pizduk/PizdukVPN/raw/branch/master/WlSubPiz.txt",
+    "enabled": true
+  },
+  {
     "url": "https://s3c3.001.gpucloud.ru/wlr/wl.txt",
     "enabled": true
   },
   {
-    "index": 11,
     "url": "https://etoneya.su/whitelist",
+    "enabled": true
+  },
+  {
+    "url": "",
+    "enabled": true
+  },
+  {
+    "url": "",
     "enabled": true
   }
 ]

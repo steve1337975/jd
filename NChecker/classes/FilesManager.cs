@@ -40,7 +40,7 @@ namespace NChecker.classes
                 int localSubIndex = 1;
                 foreach (SourceSubscriptionData ssd in items)
                 {
-                    if (ssd != null && !string.IsNullOrEmpty(ssd.Url) && ssd.Enabled)
+                    if (ssd != null && ssd.IsEnabled())
                     {
                         ssd.FilterType = filterType;
                         ssd.SortedIndex = localSubIndex;
