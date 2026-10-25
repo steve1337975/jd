@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VN] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824574519
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824576087
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 18:15:19
+# generated-at: 10/25/2026 18:41:27
 # servers-count: 10
 
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?#🇻🇳[openproxylist.com] vless-VN
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.72:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.215:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-26
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.171:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-46
@@ -15,5 +14,6 @@ vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.205:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-200
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-242
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-281
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-288
 vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-304
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=firefox&type=ws&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-325
