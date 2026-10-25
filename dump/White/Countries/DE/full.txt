@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DE] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824576087
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824577158
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 18:41:27
-# servers-count: 39
+# generated-at: 10/25/2026 18:59:18
+# servers-count: 38
 
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@80.76.43.245:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇩🇪 Германия
 vless://5d0c6f95-7e53-45eb-ba93-89c90331954a@13.143.162.138:8443?security=reality&encryption=none&pbk=D16XKCyXDstbMKxA1qHzgL6AfOcwbQBFF9XKdNoVL04&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=st7-23.vk.com&sid=00000000#TCP, VK [V.O.I.D]
@@ -42,7 +42,6 @@ vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de2.balancer.vbuste-bot.com:443?flo
 vless://ee3de8a9-ce8a-4316-b128-101d0816df4d@185.125.50.181:443?security=tls&serviceName=degrpc&sni=de-game.pink-service.ru&type=grpc&fp=firefox#t.me%2Ffreekesha21 - 284 %F0%9F%87%A9%F0%9F%87%AA
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@de1.balancer.vbuste-bot.com:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de1.balancer.vbuste-bot.com&sid=4be4110078ebed4a#t.me%2Ffreekesha21 - 306 %F0%9F%87%A9%F0%9F%87%AA
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@64.188.70.56:443?security=reality&encryption=none&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=de2.balancer.vbuste-bot.com&sid=4be4110078ebed4a#t.me%2Ffreekesha21 - 312 %F0%9F%87%B7%F0%9F%87%BA
-vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&type=raw&packetEncoding=xudp&sni=milo.rubinaz.xyz#t.me%2Ffreekesha21 - 313 %F0%9F%87%A8%F0%9F%87%A6
 vless://aeffee83-4a56-4e01-ad8b-9bae65cb8d70@apiv2.shardtech.pro:443?security=reality&encryption=none&pbk=xEuwFRJX6HJoqnkAYOg30loSgxbzZ0g5AauMe9uiSzE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apiv2.shardtech.pro&sid=24fac479e28a5320#t.me%2Ffreekesha21 - 186 %F0%9F%87%A9%F0%9F%87%AA
 vless://244d9eab-3311-40c7-b47f-4968dc3088a6@84.32.100.149:443?security=reality&type=tcp&packetEncoding=xudp&sni=tcpde7.figurapn.ru&fp=chrome&sid=868419504747f6de&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ#t.me%2Ffreekesha21 - 376 %F0%9F%87%A9%F0%9F%87%AA
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@64.188.70.56:443?security=reality&sni=de2.balancer.vbuste-bot.com&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 416 %F0%9F%87%B7%F0%9F%87%BA

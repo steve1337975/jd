@@ -1,14 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UNK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824576087
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824577158
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 18:41:27
+# generated-at: 10/25/2026 18:59:18
 # servers-count: 1749
 
 trojan://humanity@8.47.69.0:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome#.%F0%96%A5%94%20%DD%81%20%CB%96%D6%B4%F0%9F%9B%B8%E0%BC%84%CB%96%C2%B0.%20%7C%20%5BBL%5D
-trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+trojan://humanity@8.47.69.0:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 vmess://eyJhZGQiOiJldTMuOTk4OTk4LmJlc3QiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwiaWQiOiI1NTA0ZWFhOC0xMzk1LTQwMmYtOGUwZS03NWVjZDc2MmU2MjciLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWlhaWFpIiwicG9ydCI6IjQ0MyIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwic2N5IjoiYXV0byIsInNuaSI6InNlcnZlcjQwLjk5NjYzMzgueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJjZi4wc20uY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ2bWVzcy5sYnc2NjYuZHBkbnMub3JnIiwiaWQiOiIwY2Y2ZDk3MC0zZjFkLTRhYWUtYTk4OS05MmE4Zjc2YWUzZGIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3M/ZWQ9MjA0OCIsInBvcnQiOiI4MCIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@188.114.98.0:443?encryption=none&type=ws&host=jp3.yohototo.top&path=%2Ftyxyws&security=tls&alpn=http%2F1.1&fp=unsafe&sni=jp3.yohototo.top#[🇯🇵] [vl-tl-ws] [261025-201605.532]
@@ -79,6 +79,7 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?fp=chrome&host=luc
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-83
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.165.248:2087?type=ws&security=tls&fp=chrome&sni=vp21.cc.cd#%5BOpenRay%5D%20%F0%9F%8C%90XX-85
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@104.21.33.59:443?security=tls&type=ws&path=/tyxyws&host=jp3.yohototo.top&packetEncoding=xudp&sni=jp3.yohototo.top&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-86
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfjJBYWC04NyIsImFkZCI6InZhaDR1cmR6bDNqZHg1cjIudi4zZG5zLnZpcCIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJ0bHMiLCJwYXRoIjoiL3dzLXZtZXNzIiwic25pIjoidmFoNHVyZHpsM2pkeDVyMi52LjNkbnMudmlwIiwiYWxsb3dJbnNlY3VyZSI6IjEiLCJpbnNlY3VyZSI6IjEiLCJzY3kiOiJhdXRvIiwiaG9zdCI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fedfp%3Dchrome&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-90
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&type=ws&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip#%5BOpenRay%5D%20%F0%9F%8C%90XX-91
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?&security=tls&fp=chrome&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---TOOTFFARANGI#%5BOpenRay%5D%20%F0%9F%8C%90XX-97
@@ -154,6 +155,7 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?fp=chrome&host=l
 vless://220046c3-0081-4c22-a648-83a52bc3a0d5@www.glassdoor.com:8880?type=ws&encryption=none&host=yellow-sky-38b3.154-d73.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&headerType=none&quicSecurity=none&serviceName=&security=&flow=&fp=chrome&insecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-224
 vless://e6df2095-a73c-4043-8693-8d5a03686870@104.18.43.174:443?encryption=none&security=tls&type=ws&path=%2F&sni=lucasjow.us.ci&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-227
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/%3FTelegram---DailyConfigs---DailyConfigs---DailyConfigs%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&alpn=http/1.1&insecure=1&host=lucasjow.us.ci&fp=chrome&type=ws&allowInsecure=1&sni=lucasjow.us.ci#%5BOpenRay%5D%20%F0%9F%8C%90XX-231
+vless://b20f71dc-13da-4142-845f-10c9da190215@de5.premiumsell.ir:80?encryption=none&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-232
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@188.114.97.6:443?encryption=none&type=ws&path=%2Ffdip%23&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%8C%90XX-237
 trojan://humanity@188.114.97.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-24
 trojan://humanity@188.114.97.6:443?sni=www.trusteeforward.com&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-242
@@ -980,7 +982,6 @@ vless://fdc48be3-a615-41ac-8bd1-ed844c931048@104.16.212.113:443?encryption=none&
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTelegram---i10VPN&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1734
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1739
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1740
-vless://67952583-8572-42e1-943d-0602794f885b@510.150333.xyz:21004?fp=random&pbk=IRaSB0ImgMO7fsrIbh9i3Pz-bgo5F1jKeC51Fpfs9AA&security=reality&sid=4e0418d648f86141&sni=www.cloudflare.com&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-1741
 vmess://eyJhZGQiOiJndWFud2FuZy5hd3Nuby5jb20iLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjZhODlhMjE1LTIyYmYtNGJkNy05NjQyLWI5NWIyZTA5NTgzYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9obHMvY2N0djVwaGQubTN1OCIsInBvcnQiOiI0NDMiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTc0MyIsInNuaSI6Imd1YW53YW5nLmF3c25vLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vless://d8a7b463-dc98-474d-a87e-8781476aef32@172.66.132.196:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=ancient-tree-7dc9.336-5f9.workers.dev&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-223
 vless://26168a04-a91c-48fc-b8d0-3ba5a4e719c4@188.114.97.6:443?path=%2Fvl%2F17NBgz64AfwQ4Dd6qdNR%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev&type=ws&allowInsecure=0&sni=2yijonkovdic86iq5ebnd1moqqf.yyuz0mhr4awg8vw-wwycuu4.workers.dev#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-224
@@ -1626,7 +1627,6 @@ vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@freesocks.work:2052?type=ws&sni=uwu
 vless://d342d11e-d224-4463-b982-532309285094@104.18.41.190:443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz#0855 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz#0886 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 trojan://humanity@104.18.32.47:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#0892 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://bdbc9026183061770d64c6db2eab4ac7@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0924 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 vless://d342d11e-d224-4463-b982-532309285094@ccc.010304.xyz:443?type=ws&security=tls&fp=chrome&host=ccc.010304.xyz#0937 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.17.167.185:2083?type=ws&security=tls&fp=chrome&sni=vp21.cc.cd&host=vp21.cc.cd#0966 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
 vless://87c467e9-f0af-4b03-8fbd-65fd375d3a26@172.64.144.240:443?type=ws&security=tls&fp=randomized&host=pmpmppm.pages.dev#0981 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
