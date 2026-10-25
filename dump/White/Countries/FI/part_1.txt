@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824580559
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824589358
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 19:55:59
-# servers-count: 21
+# generated-at: 10/25/2026 22:22:38
+# servers-count: 22
 
 vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&headerType=none&type=tcp&sni=api.avito.ru#TCP, Avito [V.O.I.D]
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
@@ -26,5 +26,6 @@ vless://b56b0646-6f2f-45e1-9c9b-cd98dd1ad2dd@144.31.90.161:443?type=raw&security
 vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@31.77.203.49:443?type=tcp&security=reality&sni=ya.ru&fp=randomized&flow=xtls-rprx-vision&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=none&fp=chrome&spx=/0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#t.me%2Ffreekesha21 - 138 %F0%9F%87%B7%F0%9F%87%BA
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#t.me%2Ffreekesha21 - 299 %F0%9F%87%AB%F0%9F%87%AE
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@one.alpheratzz.org:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=api-6ad3c751.adhil.uk&fp=firefox&flow=xtls-rprx-vision#t.me%2Ffreekesha21 - 386 %F0%9F%87%AA%F0%9F%87%AA
 vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?security=reality&sni=www.bing.com&fp=firefox&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&type=grpc&serviceName=8cb5baa18cd7&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 406 %F0%9F%87%B7%F0%9F%87%BA
 vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?mode=gun&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&security=reality&serviceName=8cb5baa18cd7&sid=3b84fc70657725af&sni=www.bing.com&spx=%2F&type=grpc&fp=ios#t.me%2Ffreekesha21 - 419 %F0%9F%87%AB%F0%9F%87%AE

@@ -1,45 +1,48 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824580559
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824589358
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 19:55:59
-# servers-count: 36
+# generated-at: 10/25/2026 22:22:38
+# servers-count: 39
 
 trojan://Trojan%4082164024@155.138.138.2:443?security=tls&sni=ca.tronsg.com&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%5B%23%D0%A0%D0%9A%D0%9F%5D
-vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&type=grpc&serviceName=grpc_common1&security=reality&fp=chrome&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&sni=www.semiconductor.samsung.com&sid=defda00d613c&spx=%2Ffe82b9833f962d8#[🇨🇦] [vl-re-gr] [261025-201422.547]
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sni=www.cloudflare.com&sid=83f8317a948bb769#[🇨🇦] [vl-re-ra] [261025-201936.669]
-vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4emXSBbdm0tbm8tcmFdIFsyNjEwMjUtMjAyMjMzLjk1Ml0ifQo=
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwicG9ydCI6IjE4MDAwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh6ZdIFt2bS1uby1yYV0gWzI2MTAyNS0yMDIzMTkuMjU2XSJ9Cg==
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=f98843107912e782&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk#🇨🇦[openproxylist.com] vless-CA
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@51.222.200.165:5000#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%E2%80%94%20Beauharnois
+vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@209.200.246.203:2066?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&security=reality&sid=d18f4e&sni=tiktok.com&type=tcp#%F0%9F%87%A8%F0%9F%87%A6%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%E2%80%94%20Beauharnois
+vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none&type=grpc&serviceName=grpc_common1&security=reality&fp=chrome&pbk=g-4UVtgbojoxQaglMCttyLme4xjtTqomqxdZaVsruQ4&sni=www.semiconductor.samsung.com&sid=defda00d613c&spx=%2Ffe82b9833f962d8#[🇨🇦] [vl-re-gr] [261026-004028.568]
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sni=www.cloudflare.com&sid=83f8317a948bb769#[🇨🇦] [vl-re-ra] [261026-004545.341]
+vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4emXSBbdm0tbm8tcmFdIFsyNjEwMjYtMDA0ODQxLjExNl0ifQo=
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwicG9ydCI6IjE4MDAwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh6ZdIFt2bS1uby1yYV0gWzI2MTAyNi0wMDQ5MjcuMzQyXSJ9Cg==
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-15
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-17
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMjYiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvQFByb3h5VlBOMTEifQ==
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=f98843107912e782&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-31
 vless://20b98028-53c9-4f76-9bc9-b6b16b8a9152@54.39.96.233:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.0cZmlMSQIp7uBKaQQDqR-2yxKGuPi6HYUkOoTFfqBVo&pbk=sQ_YHzotqhVJoUDAZl5kTzUqVN6ksh-MTikz_ixsZWc&headerType=none&fp=chrome&spx=/b53ffbda568617f&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=2b30#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-35
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiJbT3BlblJheV0g8J+HqPCfh6ZDQS00MyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@15.235.104.68:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-89
-trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-746
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-755
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-115
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@137.184.174.93:8080#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-116
 vless://7967bf59-57e3-4cde-9898-527b0fe60022@74.49.214.7:8443?security=tls&type=ws&path=%2Fdula%3FTelegram-WangCai2&host=speed.dulacloud.store&ed=2560&sni=speed.dulacloud.store&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-133
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidiI6IjIiLCJwcyI6IltPcGVuUmF5XSDwn4eo8J+HpkNBLTEzNCIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ==
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?flow=xtls-rprx-vision&fp=random&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-148
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklOQDUxLjc5Ljg1LjE4NTo4MTE4#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-158
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.248.107.186:2053?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-160
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@40.233.99.248:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-199
-vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@148.113.179.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-208
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-227
-vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=83f8317a948bb769&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-234
-vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=chrome&spx=%2F223e596aaeef765&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-272
-trojan://Trojan@82164024@155.138.138.2:443?type=tcp&security=tls&sni=ca.tronsg.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-287
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-304
-trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2496
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-325
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzM3Iiwic25pIjoiMjMuMTYyLjIwMC4xOTgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzQ5IiwiYWRkIjoiMTk4LjU3LjI3LjE5MCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
-trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-351
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0184 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?type=ws&security=tls&fp=chrome&host=parsa-panel-u48we.wotic15356.workers.dev#1191 | British Virgin Islands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1#2836 | 🌐 Unknown | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@40.233.99.248:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-200
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@148.113.179.73:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=stats.vk-portal.net&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&fp=firefox#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-209
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.222.155.113:5601#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-228
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=firefox&sid=83f8317a948bb769&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-235
+vless://e17150a9-f949-467b-94ea-4d50e4c84186@198.100.154.175:8080?security=reality&encryption=mlkem768x25519plus.native.0rtt.Q1AFGCIYIT70M9jeMH3sgN5PYVmLyoLk0-PQ_gQPa3Q&pbk=2PYoIhSKvVE-DgFzPYGo4cD2b7_8Ul2Vm8QKGWH1sAo&headerType=none&fp=chrome&spx=%2F223e596aaeef765&type=tcp&flow=xtls-rprx-vision&sni=icloud.com&sid=4b#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-273
+trojan://Trojan@82164024@155.138.138.2:443?type=tcp&security=tls&sni=ca.tronsg.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-288
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-305
+trojan://Trojan@82164024@ca.tronsg.com:443?sni=ca.tronsg.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2520
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-327
+vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzM5Iiwic25pIjoiMjMuMTYyLjIwMC4xOTgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzUxIiwiYWRkIjoiMTk4LjU3LjI3LjE5MCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
+trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-353
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0193 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?type=ws&security=tls&fp=chrome&host=parsa-panel-u48we.wotic15356.workers.dev#1244 | British Virgin Islands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1#2953 | 🌐 Unknown | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
