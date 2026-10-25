@@ -1,26 +1,29 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824559011
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824561523
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 13:56:51
-# servers-count: 17
+# generated-at: 10/25/2026 14:38:43
+# servers-count: 20
 
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=1&headerType=none&type=tcp&allowInsecure=1&sni=api.avito.ru#TCP, Avito [V.O.I.D]
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.145:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&sni=api.avito.ru#TCP, Avito [V.O.I.D]
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&sni=api.avito.ru&allowInsecure=1&type=tcp&encryption=none#TCP, Avito [V.O.I.D]
-vless://86a234ff-59d6-43ad-81ba-73d3f49f6fbb@65.21.122.30:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=m.vk.com&type=#TLS, VK [V.O.I.D]
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.147:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?type=grpc&security=reality&sni=yandex.ru&fp=chrome&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&sid=159b4efc#gRPC%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://3ea2d8f2-12c1-4189-8cc5-91d0ee9f5ca0@185.228.232.150:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=C1hW1bTA9WOacIK-fHHg-HLkDZ3FY7FhEhAyldMSUEA&sid=a1b2c3d4e5f6&sni=queuev4.vk.com#TCP, VK [V.O.I.D]
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://b56b0646-6f2f-45e1-9c9b-cd98dd1ad2dd@144.31.90.161:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=My4NYF1x_I4nnRhgQXjpKl6BQVtgBWklHP6a3ejmOxU&sid=1a66e6ad&sni=vk.com#Reality, VK [V.O.I.D]
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.139:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@31.77.203.49:443?type=tcp&security=reality&sni=ya.ru&fp=randomized&flow=xtls-rprx-vision&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://0ee2d410-3e64-4c41-a571-3e5d2b5b8982@144.31.19.106:8443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&fp=chrome&path=%2Fws&security=tls&sni=chat.speedload.ru&type=ws#TLS, Speedload [V.O.I.D]
-vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.avito.ru#TCP, Avito [V.O.I.D]
-vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.154:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@31.77.203.49:443?type=tcp&security=reality&sni=ya.ru&fp=randomized&flow=xtls-rprx-vision&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.137:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.139:443?type=tcp&security=reality&sni=storage.yandex.net&fp=chrome&flow=xtls-rprx-vision&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@144.31.19.106:8443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&path=%2Fws&security=tls&sni=chat.speedload.ru&type=ws#TLS, Speedload [V.O.I.D]
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&insecure=0&host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&headerType=none&type=tcp&allowInsecure=0&sni=api.avito.ru#TCP, Avito [V.O.I.D]
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.147:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://440766d1-858f-4719-84f5-c2de6f6227b2@65.108.231.185:443?security=tls&encryption=none&host=Join---i10VPN---Join---i10VPN---Join---i10VPN---Join---i10VPN&headerType=none&type=tcp&sni=api.avito.ru#TCP, Avito [V.O.I.D]
 vless://948c5827-1c83-4521-bb47-a11847900797@45.149.114.147:8443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=rbc.ru&pbk=yOWj4KtHTjRo6SutNETYUgiNUXES0NY-PcpE9a4MqFM&sid=8ad0b8c7e0e5ff8b&fp=firefox#TCP%2C%20%D0%A0%D0%91%D0%9A%20%5BV.O.I.D%5D
+vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.154:443?flow=xtls-rprx-vision&fp=chrome&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&security=reality&sid=d020b987f84eb78a&sni=storage.yandex.net#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?type=grpc&security=reality&sni=yandex.ru&fp=chrome&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&sid=159b4efc#gRPC%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://b56b0646-6f2f-45e1-9c9b-cd98dd1ad2dd@144.31.90.161:443?type=raw&security=reality&flow=xtls-rprx-vision&pbk=My4NYF1x_I4nnRhgQXjpKl6BQVtgBWklHP6a3ejmOxU&sid=1a66e6ad&sni=vk.com#Reality, VK [V.O.I.D]
+vless://86a234ff-59d6-43ad-81ba-73d3f49f6fbb@65.21.122.30:443?allowInsecure=1&encryption=none&flow=xtls-rprx-vision&security=tls&sni=m.vk.com&type=#TLS, VK [V.O.I.D]
+vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=none&fp=chrome&spx=/0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#t.me%2Ffreekesha21 - 138 %F0%9F%87%B7%F0%9F%87%BA
+vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#t.me%2Ffreekesha21 - 299 %F0%9F%87%AB%F0%9F%87%AE
+vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?security=reality&sni=www.bing.com&fp=firefox&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&type=grpc&serviceName=8cb5baa18cd7&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 406 %F0%9F%87%B7%F0%9F%87%BA
