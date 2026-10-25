@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824526570
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824543492
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 04:56:10
-# servers-count: 1
+# generated-at: 10/25/2026 09:38:12
+# servers-count: 3
 
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@45.129.141.154:443?security=reality&encryption=none&pbk=breG0HwhH88ppAzFb4ZiWvhJjDAQCXJvIG6Ef95MXis&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.websupport.sk&sid=ef#🇸🇰 Словакия
+vless://08f6aeca-e9d2-4114-a8b4-d620d2f6d45e@80.243.228.155:2085?type=grpc&mode=multi&serviceName=vless#0303 | 🇸🇰 Slovakia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://038ea27e-c33d-484d-8044-db06a511bfb0@80.243.228.108:2085?type=grpc&mode=multi&serviceName=vless#1109 | 🇸🇰 Slovakia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://39a62048-aa1a-442c-8b38-a87f0df17098@80.243.228.130:2085?type=grpc&mode=multi&serviceName=vless#1731 | 🇸🇰 Slovakia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
