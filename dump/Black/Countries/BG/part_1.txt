@@ -1,36 +1,39 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824543492
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824559011
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 09:38:12
-# servers-count: 27
+# generated-at: 10/25/2026 13:56:51
+# servers-count: 30
 
-vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@195.123.227.162:443?type=grpc&security=tls&sni=zbfkmgdg8.hat.onl&serviceName=hls-vod.ohql91f.segment-26-v1-a1.ts&fp=android#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?type=grpc&security=reality&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&mode=gun&serviceName=gw.v2.RelayService#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?type=grpc&security=reality&fp=ios&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&serviceName=gw.v2.RelayService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg5.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&serviceName=gw.v2.RelayService#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=random&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&serviceName=home.v1.ApiService&spx=/#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.27:443?type=grpc&security=reality&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&sni=bg3.univesalsrv.com&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?type=grpc&security=reality&fp=ios&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&serviceName=gw.v2.RelayService#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.28:443?type=grpc&security=reality&fp=firefox&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&sni=bg4.univesalsrv.com&serviceName=cloud.v1.RelayService&spx=/HesarWeb#🇧🇬 Болгария
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=chrome&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&serviceName=home.v1.ApiService#🇧🇬 Болгария
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=XBfCioniAKXgKYBUVnvBXu80AIaIa4SpAB3w8qeF7Gk&sid=1be1bd931c98c84a&mode=gun&serviceName=home.v1.ApiService#🇧🇬 Болгария
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.24:443?mode=gun&security=reality&encryption=none&authority=/?TELEGRAM@MARAMBASHI_MARAMBASHI&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=chrome&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.152.48.248:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-3
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&authority=MTMVPN+&serviceName=cloud.v1.RelayService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-196
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&authority=&serviceName=api.v2.PushService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-342
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=bg4.univesalsrv.com&fp=chrome&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&sid=51f45d4fd58cc319&authority=MTMVPN+&serviceName=cloud.v1.RelayService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-195
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?encryption=none&security=reality&fp=chrome&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&sid=501ab3325b77e1ca&type=grpc&authority=&serviceName=api.v2.PushService&mode=gun#%5BOpenRay%5D%20%F0%9F%8C%90XX-344
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@45.9.156.42:443?authority=/?TELEGRAM--MARAMBASHI--MARAMBASHI&encryption=none&fp=chrome&mode=gun&path=/&pbk=RDWvDEygSk1eyAQhIK95H9EteFbrS2d9JEjBrco54Bw&security=reality&serviceName=gw.v2.RelayService&sid=1a3102bb8e51399e&sni=bg5.univesalsrv.com&type=grpc#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-10
 ss://YWVzLTI1Ni1jZmI6OWVlSjJmd25aQTVGeGd6OA@213.183.63.60:9028#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-11
 ss://YWVzLTI1Ni1jZmI6UFJCZjRCUzJIdkpxdFd4WQ==@213.183.63.60:9049#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-13
 vless://6589c320-db68-43cd-a273-b46299bab355@195.123.226.21:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=rabtI-ymNXBUvYYRwAw8DiR-1pdP7U0WPIaCBHEkgzo&sid=77bb0d07bddbc832&sni=gateway.icloud.com&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-14
 vless://33e8bd3a-26f0-4e57-bc27-e5552a81c880@131.123.41.223:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=bulgaria.stream-live.ru&fp=chrome&pbk=dsyxDiVtAFRjKOqLdqof2SuygewTO-EWTd34Jk1YYVo&sid=e9433de76a53573b&spx=/&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-21
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1623
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.253:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1672
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=k-vH6pkyAv26L1_dXKOFhp0Kesur9-FCUDoj-IIpVhc&fp=firefox&type=grpc&serviceName=cloud.v1.RelayService&sid=51f45d4fd58cc319#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-29
-trojan://humanity@193.239.160.134:443?host=www.calmlunch.com&path=%252Fassignment&sni=www.calmlunch.com&type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-34
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%8C%90XX-1287
-vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2ff@1.bmi.ir.asopardaz.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1314
-vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fc@1.bmi.ir.asopardaz.ir:443?encryption=none&type=xhttp&mode=auto&host=www.sony.com&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=reality&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sni=www.sony.com&sid=e915#%5BOpenRay%5D%20%F0%9F%8C%90XX-1359
-ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-56
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.45:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4217
-ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@213.183.63.60:9030#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-61
-ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-62
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@bg2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=0f0dh_FUju5cHgQcIwUjHvxQb9aIZ00p0kZRHeE7Ey4&fp=firefox&type=grpc&serviceName=api.v2.PushService&sni=bg2.univesalsrv.com&sid=501ab3325b77e1ca#%5BOpenRay%5D%20%F0%9F%8C%90XX-1299
+vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2ff@1.bmi.ir.asopardaz.ir:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=timeline.www.cloudflare.com&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sid=e915&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1326
+vless://ce71b8c2-54a4-4dd0-b780-a4521b16f2fc@1.bmi.ir.asopardaz.ir:443?encryption=none&type=xhttp&mode=auto&host=www.sony.com&path=%2FeQ7EK5s88mh1QkaLDB4v5psc&security=reality&fp=chrome&pbk=JtA0d5K6Jnmg35oWP9SDOsc1ceuqaxOsNg33fiPHJQs&sni=www.sony.com&sid=e915#%5BOpenRay%5D%20%F0%9F%8C%90XX-1373
+trojan://humanity@192.145.30.27:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-49
+ss://YWVzLTI1Ni1jZmI6Y3A4cFJTVUF5TGhUZlZXSA==@213.183.63.60:9064#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-58
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.140.29.45:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4323
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@213.183.63.60:9030#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-63
+ss://YWVzLTI1Ni1jZmI6VmNGdXlYdk5EMnlRV1NGWQ==@213.183.63.60:9054#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-64
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@195.123.227.162:443?type=grpc&security=tls&fp=firefox&sni=zbfkmgdg8.hat.onl&serviceName=hls-vod.ohql91f.segment-26-v1-a1.ts#0033 | 🇧🇬 Bulgaria | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal1.greewebservices.ir:2425?type=tcp&security=reality&fp=chrome&pbk=MnPGY1Vo4ZbYdpLRTYHoolv5s_pwO41karyJfnQ0F3o&sid=9b60d3&sni=play.googleapis.com#0795 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+trojan://humanity@192.145.30.27:443?type=ws&sni=www.pleadcourt.org#1190 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@195.123.227.162:443?type=xhttp&security=tls&fp=firefox&sni=vkli3ehaugk.hat.onl&path=/hls/6ln8euq1/seg&host=vkli3ehaugk.hat.onl&mode=auto#1489 | 🇧🇬 Bulgaria | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
