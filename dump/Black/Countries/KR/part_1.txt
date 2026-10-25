@@ -1,18 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824561523
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824563111
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 14:38:43
-# servers-count: 54
+# generated-at: 10/25/2026 15:05:11
+# servers-count: 52
 
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
 vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms&sni=gateway.icloud.com&sid=3c4041d3#[🇰🇷] [vl-re-ra] [261025-152824.196]
 vless://7e68e32f-8015-4f37-9082-70e8b0b58043@13.125.13.26:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=DHOrfoin7TeRpnIoU3d6qT5Yrq3QPVFp49kApATA4iE&sni=telemetry.tesla-dev2.ev-infra.com&sid=e04a526b0b09c765#[🇰🇷] [vl-re-ra] [261025-153039.203]
 vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HsPCfh7ddIFt2bS1uby1yYV0gWzI2MTAyNS0xNTM1NDcuNDM4XSJ9Cg==
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwicG9ydCI6Ijg4ODgiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ew8J+Ht10gW3ZtLW5vLXJhXSBbMjYxMDI1LTE1MzYxNC4zODNdIn0K
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImlkIjoiNTE1NTg2MGUtZDA3ZC00NmMzLTkxMjgtM2FmYmQ4NDYyNmM3IiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ew8J+Ht10gW3ZtLW5vLXdzXSBbMjYxMDI1LTE1MzU0Ny4wMDFdIn0K
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3ZTY4ZTMyZi04MDE1LTRmMzctOTA4Mi03MGU4YjBiNTgwNDM=@13.125.13.26:8443#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-1
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.125.9.223:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-3
@@ -51,7 +50,6 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.164.52.204:443?security=tls&typ
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@144.24.90.178:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-108
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@144.24.71.172:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-113
 vmess://eyJhZGQiOiIxMzIuMTQ1LjgwLjIzMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoia3IwMi5hMGEueHl6IiwiaWQiOiI1MTU1ODYwZS1kMDdkLTQ2YzMtOTEyOC0zYWZiZDg0NjI2YzciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvY2N0djEzLm0zdTgiLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6IltPcGVuUmF5XSDwn4ew8J+Ht0tSLTExNiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh7Dwn4e3S1ItMTIxIiwiYWRkIjoiMTQ2LjU2LjExMi4xMTAiLCJwb3J0IjoiODg4OCIsInR5cGUiOiJub25lIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@193.123.236.206:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-122
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@43.164.139.71:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-128
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-136

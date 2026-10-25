@@ -1,12 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UNK] — BLACK #2
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824561523
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824563111
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 14:38:43
-# servers-count: 595
+# generated-at: 10/25/2026 15:05:11
+# servers-count: 599
 
+vmess://eyJhZGQiOiIxMDQuMTcuMTQ3LjIyMiIsImFpZCI6IjAiLCJob3N0Ijoidm1lc3MubGJ3NjY2LmRwZG5zLm9yZyIsImlkIjoiMGNmNmQ5NzAtM2YxZC00YWFlLWE5ODktOTJhOGY3NmFlM2RiIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzP2VkPTIwNDgiLCJwb3J0IjoiODAiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMTg3MyIsInNjeSI6ImF1dG8iLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@172.67.174.37:8880?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=red-snowflake-c399.12-ee1.workers.dev&path=%2F#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-241
 vless://47fcef29-ab4e-4aa6-932b-d95a18f28a4e@162.159.0.53:2086?&security=false&fp=chrome&packet-encoding=xudp&type=ws&headerType=none&host=8nj2r.2k8t.f88.hh.vavava.kdns.fr&path=%2F%3Fed%3D2560security%3Dtls#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-242
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?encryption=none&security=tls&type=ws&path=%2F&sni=rayan-007.nastaran.dpdns.org&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1881
 vless://c136a12c-4260-48a7-a1e6-fbda83a11045@104.17.71.206:8443?security=tls&type=ws&path=%2F&host=free.sahanwickramasinghe.me&packetEncoding=xudp&sni=free.sahanwickramasinghe.me&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1882
@@ -113,7 +115,6 @@ vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?alpn=http%2F1.1&fp
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FB2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-2137
 vless://7b102311-43fd-4e8f-877e-8090623c101d@104.26.0.5:443?type=ws&security=tls&fp=chrome&sni=vp21.cc.cd#%5BOpenRay%5D%20%F0%9F%8C%90XX-2151
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsInBvcnQiOiI4NDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0yMTUyIn0=
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@sg2.998998.best:443?sni=nat6.outsidemyheart.space&type=ws&path=%2Feriujtheriughwiue%3Fed%3D2560&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-2156
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTelegram---V2ray_confiig%3Fed&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-2157
 vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJwb3J0IjoiODQ0MyIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiJbT3BlblJheV0g8J+HqPCfh6ZDQS0yNjYiLCJob3N0IjoidjJyYXkxLmRvemFwcC54eXoiLCJwYXRoIjoiL2xNbnNaVU40LyIsInRscyI6InRydWUiLCJzbmkiOiIiLCJ0eXBlIjoibm9uZSIsInNlcnZlclBvcnQiOjAsIm5hdGlvbiI6IiJ9
 vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.98.0:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%2F%3FB2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-2163
@@ -516,6 +517,7 @@ trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@188.114.98.0:443?type=ws&security=
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@us3-2.998998.best:443?type=ws&sni=nat3.xxai.dpdns.org#1041 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 vless://e3fb01b6-69b4-41d7-babf-696d992de194@cctvhikvision.center:2053?type=ws&security=tls&fp=chrome&sni=uwu.blueknightnet.qzz.io&host=uwu.blueknightnet.qzz.io#1094 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.25.3.123:8080?type=ws&host=hhlfy.twiladaphne.ndjp.net#1121 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
+trojan://53d52598e15eda0daad99ec7d3461f06@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1164 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 vless://1c7f675f-5923-463f-83fb-af4c898cecea@104.18.35.86:443?type=ws&security=tls&fp=unsafe&host=0ee6woqz4w8w0cdqitgq6xz-q0o9r6o9.mertesswagger08.workers.dev#1181 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.16.162.89:8080?type=ws&host=hhlfy.twiladaphne.ndjp.net#1197 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.185:443?type=ws&security=tls&fp=unsafe&sni=a.cwvps.eu.org&host=a.cwvps.eu.org#1307 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
@@ -532,12 +534,14 @@ vless://c4edb87e-8544-4fa4-bd1c-b0cda9a34b46@104.16.10.135:443?type=ws&security=
 trojan://humanity@104.17.121.9:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=http/1.1#1706 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?type=ws&host=hhlfy.twiladaphne.ndjp.net&mode=multi#1761 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 vless://9cdcbaf0-d244-4f37-b227-90166e43f5b5@104.21.1.236:443?type=ws&security=tls&fp=chrome&sni=cf-socks.caoyuwu.eu.org#1778 | ☁️ Cloudflare | VLESS | TG: @YoutubeUnBlockRu
+trojan://d518716100e9e02b425f760d9219844e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1781 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://humanity@104.18.24.120:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#1845 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&host=www.calmlunch.com#1855 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 trojan://humanity@104.19.229.21:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1867 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.44.17:8080?type=ws&sni=hhlfy.twiladaphne.ndjp.net&host=hhlfy.twiladaphne.ndjp.net&packet-encoding=xudp#1892 | ☁️ Cloudflare | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
 trojan://humanity@172.67.217.240:443?type=ws&security=tls&fp=unsafe&sni=www.calmlunch.com#1925 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 vless://d342d11e-d224-4463-b982-532309285094@cf.090227.xyz:443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz#1926 | 🌐 Unknown | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#1949 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.43.174:443?type=ws&security=tls&fp=chrome&sni=server41.9966338.xyz&host=server41.9966338.xyz#1950 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
 trojan://humanity@8.47.69.60:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1&fm=tlshello-0-len#1962 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 vless://44f06ad1-982c-4e03-849f-899c1c8dc14f@vl.cocopon.top:2053?type=ws&security=tls&fp=chrome#1998 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
