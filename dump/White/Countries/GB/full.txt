@@ -1,13 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GB] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824501593
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824509633
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/24/2026 21:59:53
-# servers-count: 6
+# generated-at: 10/25/2026 00:13:53
+# servers-count: 7
 
-vless://7d40449f-92df-4256-9607-679241455d49@91.193.17.111:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=drive.yandex.ru&pbk=6Jm0J6DFfO2P-OOUd1OygjPigR4nQjLY5vpUsM83OXM&sid=4967e8608eb2a42c#AetrisVPN White list ┃ ✅ SNI: drive.yandex.ru ┃ 🇺🇸 США
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.231.124:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#AetrisVPN White list ┃ ✅ SNI: ozon.ru ┃ 🇬🇧 Великобритания
+vless://680e92ac-1688-49e0-af96-7327fbc30ce8@51.89.228.166:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&fp=firefox#AetrisVPN White list ┃ ✅ SNI: ozon.ru ┃ 🇬🇧 Великобритания
 vless://4fdc281b-cea1-43d8-a9eb-f8eedec6c47f@159.65.31.116:443?security=tls&sni=dl-media.viber.com&allowInsecure=1&fp=firefox&type=ws&path=%2Fws&host=vk.com&encryption=none#WS, VK [V.O.I.D]
 vless://b9cade73-6c60-437f-8e99-631cc3560ca7@64.227.47.224:443?path=%2Fevvixzws&security=tls&encryption=none&type=ws&sni=ozon.ru#WS, Ozon [V.O.I.D]
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?encryption=none&security=tls&sni=api.avito.ru&insecure=0&allowInsecure=0&type=ws&path=%2Fuirexwws#WS, Avito [V.O.I.D]
