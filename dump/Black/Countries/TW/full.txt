@@ -1,21 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TW] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824509633
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824526570
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 00:13:53
-# servers-count: 12
+# generated-at: 10/25/2026 04:56:10
+# servers-count: 14
 
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-160
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?security=tls&fp=chrome&sni=tjtw.m2k699.com#%F0%9F%87%B9%F0%9F%87%BC%20Taiwan%2C%20Taoyuan%20%7C%20%5BBL%5D
+vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215?encryption=none&security=reality&sni=addons.mozilla.org&fp=qq&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-161
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-365
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-4
 vless://19d5a678-8396-4e3b-93da-ece618d0e83a@61.230.160.34:24215?security=reality&type=tcp&packetEncoding=xudp&sni=addons.mozilla.org&fp=firefox&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-7
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@85.237.207.101:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-14
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-15
 vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&allowInsecure=1#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-16
-vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0yNjE4Iiwic2N5IjoiYXV0byIsInNuaSI6Ijk2NDE2ODQuc2RmNjVoNC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6ImNocm9tZSIsImhvc3QiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJpbnNlY3VyZSI6IjEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiW09wZW5SYXldIPCfjJBYWC0yNjEzIiwic2N5IjoiYXV0byIsInNuaSI6Ijk2NDE2ODQuc2RmNjVoNC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@140.115.53.51:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-22
-vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiIiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMjk2OSJ9
-trojan://00a72bf349e6479b@kw119.zxmm.eu.org:20031?security=tls&fp=chrome&sni=kw119.zxmm.eu.org#1585 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@151.242.189.40:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom&host=vlso5.1d.mom#2023 | Taiwan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://e56e752c86a640cd@gu232.izzzzzi.com:20052?security=tls&fp=chrome&sni=gu232.izzzzzi.com#2369 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJhbHBuIjoiIiwiZnAiOiIiLCJzbmkiOiIiLCJwcyI6IltPcGVuUmF5XSDwn4yQWFgtMjk2NyJ9
+trojan://00a72bf349e6479b@kw119.zxmm.eu.org:20031?security=tls&fp=chrome&sni=kw119.zxmm.eu.org#1647 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@151.242.189.40:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom&host=vlso5.1d.mom#2122 | Taiwan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://f5f0babe-aea2-4f07-a1fc-3c9820253f49@forwarded.frnhk.xyz:53001?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=cQ7NxSTK7evdY-Qy59zuC-omalkDhnTQ3Mb1powlxjs&sid=5c1944&sni=www.hku.hk#2654 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
