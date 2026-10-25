@@ -1,11 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SC] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824559011
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824561523
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 13:56:51
-# servers-count: 2
+# generated-at: 10/25/2026 14:38:43
+# servers-count: 6
 
-vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?type=grpc&security=reality&sni=max.ru&fp=firefox&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&sid=35debf0dc757d053#gRPC, Max [V.O.I.D]
 vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?security=reality&encryption=none&sni=max.ru&fp=chrome&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&sid=35debf0dc757d053&type=grpc&serviceName=grpc&path=%2F#gRPC, Max [V.O.I.D]
+vless://b869a8d0-0733-4346-8d1c-c1230a78651c@45.145.12.148:443?type=grpc&security=reality&sni=max.ru&fp=firefox&pbk=OOI0p2vKjr8xdwcVCzxcd3rAxmMr7XRA0wMk14IXaFM&sid=35debf0dc757d053#gRPC, Max [V.O.I.D]
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.96:443?security=tls&type=grpc&mode=gun&serviceName=studiofeed&packetEncoding=xudp&sni=studio.10media.top&fp=firefox#t.me%2Ffreekesha21 - 19 %F0%9F%87%A9%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@studio.10media.top:443?encryption=none&insecure=0&security=tls&serviceName=studiofeed&sni=studio.10media.top&type=grpc&fp=ios#t.me%2Ffreekesha21 - 88 %F0%9F%87%A9%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@edge-lab-b.10media.top:443?encryption=none&insecure=0&mode=gun&security=tls&serviceName=swedenfeed&sni=edge-lab-b.10media.top&type=grpc&fp=firefox#t.me%2Ffreekesha21 - 106 %F0%9F%87%A9%F0%9F%87%AA
+vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@45.12.63.219:443?security=tls&sni=edge-lab-b.10media.top&fp=firefox&type=grpc&serviceName=swedenfeed&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 402 %F0%9F%87%B7%F0%9F%87%BA
