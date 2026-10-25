@@ -91,9 +91,9 @@ namespace NChecker.classes
                         data = Encoding.UTF8.GetString(Convert.FromBase64String(data));
                     }
                     catch (FormatException) { }
+
                     SubscriptionData subscriptionData = SubscriptionData.Create(subscriptionSourceData);
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
-
                     int i = 1;
                     foreach (string line in lines)
                     {

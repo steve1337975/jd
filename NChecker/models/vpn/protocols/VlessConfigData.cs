@@ -4,14 +4,18 @@ namespace NChecker.models.vpn.protocols
 {
     internal class VlessConfigData : VpnConfigBase
     {
-        private string _security, _sni, _type, _host, _path, _publicKey, _shortId, _encryption, _uuid;
+        private string _uuid, _encryption, _security, _sni, _type, _host, _path, _publicKey, _shortId, _flow, _packetEncoding;
+        // Поле _fp намеренно исключено, чтобы отпечатки пальцев не плодили дубликаты
+
         internal VlessConfigData(string a1) : base(a1) { }
+
         protected override void Parse(string url)
         {
             try
             {
-                // Убираем схему vless://
-                string mainPart = url.Substring(8);
+                int schemeIndex = url.IndexOf("://");
+                if (schemeIndex == -1) return;
+                string mainPart = url.Substring(schemeIndex + 3);
 
                 int hashIndex = mainPart.IndexOf('#');
                 if (hashIndex != -1)
@@ -31,7 +35,7 @@ namespace NChecker.models.vpn.protocols
                 int atIndex = mainPart.LastIndexOf('@');
                 if (atIndex != -1)
                 {
-                    _uuid = mainPart.Substring(0, atIndex);
+                    _uuid = mainPart.Substring(0, atIndex).Trim().ToLowerInvariant();
                     mainPart = mainPart.Substring(atIndex + 1);
                 }
 
@@ -41,54 +45,57 @@ namespace NChecker.models.vpn.protocols
                     string portStr = mainPart.Substring(portIndex + 1);
                     if (!portStr.Contains(']'))
                     {
-                        Address = mainPart.Substring(0, portIndex).Trim('[', ']');
+                        Address = mainPart.Substring(0, portIndex).Trim('[', ']').ToLowerInvariant();
                         if (int.TryParse(portStr, out int parsedPort)) Port = parsedPort;
                     }
                     else
                     {
-                        Address = mainPart.Trim('[', ']');
+                        Address = mainPart.Trim('[', ']').ToLowerInvariant();
                     }
                 }
                 else
                 {
-                    Address = mainPart;
+                    Address = mainPart.Trim('[', ']').ToLowerInvariant();
                 }
 
                 if (!string.IsNullOrEmpty(queryPart))
                 {
                     var queryParams = HttpUtility.ParseQueryString(queryPart);
 
-                    // Нормализация SNI (приводим к нижнему регистру, так как домены нечувствительны к регистру)
-                    string sniRaw = queryParams["sni"]?.Trim().ToLowerInvariant();
+                    string sniRaw = queryParams["sni"]?.Trim().ToLowerInvariant().TrimEnd('.');
                     _sni = string.IsNullOrEmpty(sniRaw) ? null : sniRaw;
 
-                    string secRaw = queryParams["security"]?.ToLowerInvariant();
-                    // Если security не указан, для VLESS это чаще всего none
+                    string secRaw = queryParams["security"]?.ToLowerInvariant().Trim();
                     _security = string.IsNullOrEmpty(secRaw) ? "none" : secRaw;
 
-                    // Нормализация encryption (по умолчанию none)
-                    string encRaw = queryParams["encryption"]?.ToLowerInvariant();
+                    string encRaw = queryParams["encryption"]?.ToLowerInvariant().Trim();
                     _encryption = string.IsNullOrEmpty(encRaw) ? "none" : encRaw;
 
-                    // Нормализация транспорта: raw, tcp или пустота — это прямой транспорт по умолчанию
-                    string rawType = queryParams["type"]?.ToLowerInvariant();
-                    if (string.IsNullOrEmpty(rawType) || rawType == "raw" || rawType == "tcp")
-                    {
-                        _type = "tcp";
-                    }
-                    else
-                    {
-                        _type = rawType;
-                    }
+                    string rawType = queryParams["type"]?.ToLowerInvariant().Trim();
+                    _type = (string.IsNullOrEmpty(rawType) || rawType == "raw" || rawType == "tcp") ? "tcp" : rawType;
 
-                    _host = queryParams["host"];
-                    _path = queryParams["path"];
-                    _publicKey = queryParams["pbk"];
-                    _shortId = queryParams["sid"];
+                    _host = queryParams["host"]?.Trim().ToLowerInvariant().TrimEnd('.');
+                    _path = queryParams["path"]?.Trim();
+                    _publicKey = queryParams["pbk"]?.Trim();
+                    _shortId = queryParams["sid"]?.Trim();
+                    _flow = queryParams["flow"]?.ToLowerInvariant().Trim();
+                    _packetEncoding = queryParams["packetEncoding"]?.ToLowerInvariant().Trim();
+
+                    // Нормализация и очистка мусорных host/path для Reality и TCP нод
+                    if (_security == "reality")
+                    {
+                        if (string.IsNullOrEmpty(_host) || _host == _sni || _host.Contains("telegram") || _host.Contains("marambashi"))
+                        {
+                            _host = null;
+                        }
+                        if (string.IsNullOrEmpty(_path) || _path == "/" || _path.Contains("telegram") || _path.Contains("marambashi"))
+                        {
+                            _path = null;
+                        }
+                    }
                 }
                 else
                 {
-                    // Если query параметров вообще нет, ставим дефолты
                     _type = "tcp";
                     _encryption = "none";
                     _security = "none";
@@ -101,16 +108,18 @@ namespace NChecker.models.vpn.protocols
         {
             string core = base.GetCoreSignature();
 
-            core += $"|uuid={_uuid?.Trim()}";
-
+            if (!string.IsNullOrEmpty(_uuid)) core += $"|uuid={_uuid}";
             if (!string.IsNullOrEmpty(_encryption)) core += $"|enc={_encryption}";
             if (!string.IsNullOrEmpty(_security)) core += $"|sec={_security}";
             if (!string.IsNullOrEmpty(_sni)) core += $"|sni={_sni}";
             if (!string.IsNullOrEmpty(_type)) core += $"|type={_type}";
-            if (!string.IsNullOrEmpty(_host)) core += $"|host={_host.Trim().ToLowerInvariant()}";
-            if (!string.IsNullOrEmpty(_path)) core += $"|path={_path.Trim()}";
+            if (!string.IsNullOrEmpty(_host)) core += $"|host={_host}";
+            if (!string.IsNullOrEmpty(_path)) core += $"|path={_path}";
             if (!string.IsNullOrEmpty(_publicKey)) core += $"|pbk={_publicKey}";
             if (!string.IsNullOrEmpty(_shortId)) core += $"|sid={_shortId}";
+            if (!string.IsNullOrEmpty(_flow)) core += $"|flow={_flow}";
+            if (!string.IsNullOrEmpty(_packetEncoding)) core += $"|pe={_packetEncoding}";
+            // _fp намеренно исключен, чтобы отпечатки (chrome/android/edge) не плодили дубликаты
 
             return core;
         }
