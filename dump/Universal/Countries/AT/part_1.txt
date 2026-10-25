@@ -1,13 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AT] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824577158
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824580559
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 18:59:18
-# servers-count: 4
+# generated-at: 10/25/2026 19:55:59
+# servers-count: 7
 
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?encryption=none&security=tls&sni=au6.pad-sservice.lat&type=ws&host=au6.pad-sservice.lat&path=/AU6W&headers=#Бесплатный VPN tg:VLESSFORU 🇦🇹
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au5.pad-sservice.lat:8443?encryption=none&security=tls&sni=au5.pad-sservice.lat&type=ws&host=au5.pad-sservice.lat&path=/AU5W&headers=#Бесплатный VPN tg:VLESSFORU 🇪🇸
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?encryption=none&security=tls&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/A11U&headers=#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.19.127:8443?encryption=none&fp=firefox&host=au5.pad-sservice.lat&path=/AU5W&security=tls&sni=au5.pad-sservice.lat&type=ws#Бесплатный VPN tg:VLESSFORU 🇪🇸
 vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au4.pad-sservice.lat:8443?encryption=none&security=tls&sni=au4.pad-sservice.lat&type=ws&host=au4.pad-service.com&path=/A14U&headers=#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au6.pad-sservice.lat:8443?encryption=none&security=tls&sni=au6.pad-sservice.lat&type=ws&host=au6.pad-sservice.lat&path=/AU6W&headers=#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@62.83.41.69:8443?encryption=none&fp=firefox&host=au6.pad-sservice.lat&path=/AU6W&security=tls&sni=au6.pad-sservice.lat&type=ws#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@au2.pad-sservice.lat:8443?encryption=none&security=tls&sni=au2.pad-sservice.lat&type=ws&host=au2.pad-service.com&path=/A11U&headers=#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@89.58.20.210:8443?encryption=none&fp=firefox&host=au2.pad-service.com&path=/A11U&security=tls&sni=au2.pad-sservice.lat&type=ws#Бесплатный VPN tg:VLESSFORU 🇦🇹
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@152.53.1.40:8443?encryption=none&fp=firefox&host=au4.pad-service.com&path=/A14U&security=tls&sni=au4.pad-sservice.lat&type=ws#Бесплатный VPN tg:VLESSFORU 🇦🇹

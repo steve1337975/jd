@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824577158
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824580559
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/25/2026 18:59:18
-# servers-count: 35
+# generated-at: 10/25/2026 19:55:59
+# servers-count: 36
 
 trojan://Trojan%4082164024@155.138.138.2:443?security=tls&sni=ca.tronsg.com&fp=firefox#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#%F0%9F%87%A8%F0%9F%87%A6%20AetrisVPN
@@ -14,6 +14,7 @@ vless://12af3df8-2ffe-48fe-9b60-376f015ea4f8@51.161.72.153:37765?encryption=none
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sni=www.cloudflare.com&sid=83f8317a948bb769#[🇨🇦] [vl-re-ra] [261025-201936.669]
 vmess://eyJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsInBvcnQiOiIxODAwMCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4emXSBbdm0tbm8tcmFdIFsyNjEwMjUtMjAyMjMzLjk1Ml0ifQo=
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwicG9ydCI6IjE4MDAwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh6ZdIFt2bS1uby1yYV0gWzI2MTAyNS0yMDIzMTkuMjU2XSJ9Cg==
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=f98843107912e782&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk#🇨🇦[openproxylist.com] vless-CA
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-15
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-17
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMjYiLCJhZGQiOiIxMzQuMTk1LjE5Ni4yMTEiLCJwb3J0IjoxODAwMCwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJhaWQiOjAsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInBhdGgiOiIvQFByb3h5VlBOMTEifQ==
@@ -39,6 +40,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#%5BOpenRay%5D%20%F0%
 vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzM3Iiwic25pIjoiMjMuMTYyLjIwMC4xOTgiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4emQ0EtMzQ5IiwiYWRkIjoiMTk4LjU3LjI3LjE5MCIsInBvcnQiOiIyMjMyNCIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiIiwidGxzIjoiIn0=
 trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-351
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0170 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?type=ws&security=tls&fp=chrome&host=parsa-panel-u48we.wotic15356.workers.dev#1104 | British Virgin Islands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1#2619 | 🌐 Unknown | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0184 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://70756c73-0000-4000-8000-650000000000@104.234.239.139:443?type=ws&security=tls&fp=chrome&host=parsa-panel-u48we.wotic15356.workers.dev#1191 | British Virgin Islands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1#2836 | 🌐 Unknown | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
