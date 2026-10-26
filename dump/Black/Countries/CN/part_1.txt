@@ -1,13 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CN] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824650481
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824651015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 15:21:21
-# servers-count: 50
+# generated-at: 10/26/2026 15:30:15
+# servers-count: 58
 
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7MgQ2hpbmEsIFNoZW56aGVuIHwgW0JMXSIsImFkZCI6IjM5LjEwOC4xMTMuMTI3IiwicG9ydCI6IjEwMDg2IiwiaWQiOiIyZWIyNWMxZS1jM2I1LTQ1Y2YtOWFmZC1kZDNkZGMwMGRhMTAiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsInRscyI6IiIsInBhdGgiOiIiLCJob3N0IjoiIiwic2N5IjoiYXV0byIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
+vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZWIyNWMxZS1jM2I1LTQ1Y2YtOWFmZC1kZDNkZGMwMGRhMTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6IvCfh6rwn4e6IEFldHJpc1ZQTiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTEyLjEzMi4yMTUuMTA4IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImNzIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsInBvcnQiOiI1MDAwMiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6jwn4ezXSBbdm0tbm8tcmFdIFsyNjEwMjYtMTcwODM5LjA3OF0ifQo=
 vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImlkIjoiMmViMjVjMWUtYzNiNS00NWNmLTlhZmQtZGQzZGRjMDBkYTEwIiwicG9ydCI6IjEwMDg2Iiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HqPCfh7NdIFt2bS1uby13c10gWzI2MTAyNi0xNzA5MDQuNTgxXSJ9Cg==
@@ -16,6 +16,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4ezQ04tNDYiLCJhZGQiOiIxMjAuNDgu
 vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh6jwn4ezQ04tODEiLCJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJwb3J0IjoiNTAwMDIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsImFpZCI6IjY0IiwibmV0IjoidGNwIiwic2N5IjoiYXV0byIsInR5cGUiOiJub25lIiwiYWxwbiI6IiIsInNuaSI6IjExMi4xMzIuMjE1LjEwOCIsImZwIjoiIiwidGxzIjoiIiwiaG9zdCI6IiIsInBhdGgiOiIifQ==
 vmess://eyJhZGQiOiIxMTIuMTMyLjIxNS4xMDgiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0Ijo1MDAwMiwicHMiOiJbT3BlblJheV0g8J+HqPCfh7NDTi05NyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 trojan://76c84031f490a7ecf94f66bee5fa2ad1@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#0049 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://970cff306f67f10cb3aa6cad2f73c2e2@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#0084 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://da5051376e910e2b7c371ef039ab6a28@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#0148 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://d7f4b46d9e42ad4a6519bde2ff7ce43c@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0182 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://da3c48a15e533f81d5286f6c58e51745@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#0242 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
@@ -25,30 +26,37 @@ trojan://ab2327f92ff95dd8f8ec190cb0528ee6@ja304.magiclampcloud.cn:59443?allowIns
 trojan://ecb1c69fa0997abfe3965a2f343d4d52@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0458 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://7547490bb96d371033b58baf91772254@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0531 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0577 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://a6667237f0272b408e55cec8c3ebde8e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0754 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://77c2c63b9b3081a8deab212050ba5472@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0789 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://e6a5cbbde3aae828e180b1fb4026841a@ja304.magiclampcloud.cn:59443?type=tcp#0828 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0829 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0857 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://bdbc9026183061770d64c6db2eab4ac7@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0859 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d66e65fd90c2be0f94fa27adc0e5e088@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0901 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://1a4dbf8b75346468b85c8d7f70c0cc75@ja304.magiclampcloud.cn:59443?type=tcp#1024 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://beb0854f651380331623d79eb06d87be@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1064 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://bb611501dbb9aea577fd803fe11e945d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1117 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://4d8e20bdae228d69021cdac530a5ce6d@tyy129.magiclampcloud.com:59443?type=tcp#1166 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://aea165cb7f5890ff234bc2b8a7fb0de8@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1177 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://53d52598e15eda0daad99ec7d3461f06@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1222 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://d453daeb7e9b5fb9cad882763bd71d85@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1385 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://6eef2727659a8135ac79419c64aa2f87@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1562 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://ed0ac307c27a5b8cd06c9712949a3b0e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1563 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://2ddeb5f43bbb897b13db728b2dfbef92@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#1643 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://08340a533092e321470fbe21b3407694@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1837 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ce9e02e876e32eca66d901eb4d07461c@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#1805 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d518716100e9e02b425f760d9219844e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1880 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://5abea49277813a05e58f337a5afa1f31@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#1892 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://c9e7641fa78aebca32be5f8da87a79ec@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#1912 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2040 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#2049 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://b84de87320ca97b4ff862f916cc67eaa@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2142 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://aa47bc798fe7d60f6e1e56fb32d2954a@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#1972 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ec9eae88bafe1b2e84f2fcd0d646c976@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2059 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://ad2ac27a9fa52023755a961d77632f23@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#2171 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://d306137cdbd55eac0d79ca7d1e3904a4@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2314 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://881ff9e8588eaf4a7dd8352005921fa5@ja262.magiclampcloud.cn:59443?type=tcp#2515 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://c72fb0394432d4ae5e5b2de915f646c8@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2532 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2561 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://53e00b660ad5da37f677dafeee646c9b@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2609 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://fa74fc619c26978ad3585426d06fbde6@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#2691 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://9f08b5c59e0e0f5235d111cab8a3fe1b@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#2803 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://b6fde90b3a0080e7547099633e8d4a32@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2901 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://493b3d1b5d6a298a32eea1935463dc4d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2926 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://d9c8aa383174c25132e0df201ffab4e3@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2996 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu

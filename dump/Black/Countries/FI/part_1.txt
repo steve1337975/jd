@@ -1,25 +1,26 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824650481
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824651015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 15:21:21
-# servers-count: 89
+# generated-at: 10/26/2026 15:30:15
+# servers-count: 91
 
-vless://fafc7c16-f890-45ee-a856-02df225172dd@b6a968g.fi7.h1clayd.click:443?encryption=none&headerType=none&mode=gun&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&security=reality&serviceName=617ed18fb1ea&sid=ca89bd67e77b050c&sni=b6a968g.fi7.h1clayd.click&type=grpc&fp=ios#🇺🇸 США
-vless://fafc7c16-f890-45ee-a856-02df225172dd@196.196.208.14:443?encryption=none&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&security=reality&serviceName=617ed18fb1ea&sid=ca89bd67e77b050c&sni=b6a968g.fi7.h1clayd.click&type=grpc&fp=chrome#🇺🇸 США
-vless://fafc7c16-f890-45ee-a856-02df225172dd@196.196.208.14:443?type=xhttp&security=reality&fp=firefox&pbk=tvuAJSwKDxI2Zk4JiEcpxkHlKNrlXpgzVVsX50g4QXE&sid=c707137784767a42&sni=ae73dex.fi7.h1clayd.click&path=/28de7748286b#🇺🇸 США
+vless://fafc7c16-f890-45ee-a856-02df225172dd@b6a968g.fi7.h1clayd.click:443?type=grpc&headerType=none&security=reality&encryption=none&sni=b6a968g.fi7.h1clayd.click&fp=firefox&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&sid=ca89bd67e77b050c&serviceName=617ed18fb1ea&mode=gun#🇺🇸 США
 vless://fafc7c16-f890-45ee-a856-02df225172dd@ae73dex.fi7.h1clayd.click:443?type=xhttp&security=reality&fp=firefox&pbk=tvuAJSwKDxI2Zk4JiEcpxkHlKNrlXpgzVVsX50g4QXE&sid=c707137784767a42&sni=ae73dex.fi7.h1clayd.click&path=/28de7748286b&mode=auto#🇺🇸 США
+vless://fafc7c16-f890-45ee-a856-02df225172dd@196.196.208.14:443?type=xhttp&security=reality&fp=firefox&pbk=tvuAJSwKDxI2Zk4JiEcpxkHlKNrlXpgzVVsX50g4QXE&sid=c707137784767a42&sni=ae73dex.fi7.h1clayd.click&path=/28de7748286b#🇺🇸 США
 vless://fafc7c16-f890-45ee-a856-02df225172dd@direct-fi7.h1cloud.net:443?type=grpc&security=reality&fp=firefox&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&sid=ca89bd67e77b050c&sni=b6a968g.fi7.h1clayd.click&serviceName=617ed18fb1ea#🇺🇸 США
-vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none# By EbraSha 🔮
+vless://fafc7c16-f890-45ee-a856-02df225172dd@196.196.208.14:443?type=grpc&security=reality&fp=ios&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&sid=ca89bd67e77b050c&sni=b6a968g.fi7.h1clayd.click&serviceName=617ed18fb1ea#🇺🇸 США
+vless://20dd9433-389e-4573-ba7b-689619cf13da@31.77.199.147:4443?security=reality&type=tcp&packetEncoding=xudp&sni=images.unsplash.com&fp=chrome&flow=xtls-rprx-vision&sid=7da2eae792187ab9&pbk=GvkQwcZWiXQBLzEhTVfQkyPpdgo6Opc3RtLsED9sA0A&encryption=none# By EbraSha 🦂
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp# By EbraSha 🧪
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@2.29.101.158:443?encryption=none&type=grpc&serviceName=0adb9638509b&security=reality&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sni=36a466g.fi1.h1clayd.click&sid=b3c9d0c6bdd114a6#[🇫🇮] [vl-re-gr] [261026-170335.035]
 vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?encryption=none&type=grpc&serviceName=grpc_common1&security=reality&fp=chrome&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&sni=ap-author.led.samsung.com&sid=aacd5d42a33b2a4e&spx=%2Fbc0e0e3d3d4f532#[🇫🇮] [vl-re-gr] [261026-170336.476]
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&type=raw&headerType=none&security=reality&fp=firefox&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&sni=www.google.com&sid=d368b94e275ab080#[🇫🇮] [vl-re-ra] [261026-170010.648]
 vless://4ee88ef0-8922-48ce-9cd4-5f67ef201b35@31.76.102.10:12801?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=XvloQQpz3cKWJXdUdBwPUTfzeAwo7BwKJsvkG4e6ZxA&sni=nldva.normbot.ru&sid=3a2f64e6e251&spx=%2F9fb5b68b567958c#[🇫🇮] [vl-re-ra] [261026-170139.552]
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&sni=finlandlanzarotte.live#[🇫🇮] [vl-re-ra] [261026-170148.790]
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sni=www.sony.com&sid=65149fc5ba&spx=%2FEL8OY1VX47km1uf#[🇫🇮] [vl-re-ra] [261026-170451.753]
 vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&sni=fi5.silalink.sbs&sid=03#[🇫🇮] [vl-re-ra] [261026-170554.976]
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?security=none&type=ws&path=%2Fvless&host=45.144.234.157&packetEncoding=xudp#🏳[openproxylist.com] vless-
 trojan://humanity@46.62.230.149:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-5
 vless://35da102e-536b-4103-9632-58c7c4c6303b@2.27.33.216:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RUGdD-Cm83gT0pWvvagg0gxv2Ib8BjhCRR7LOiaq2zE&sid=eecfe76af97a6132&sni=fl1.originmesh.online&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-13
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?type=grpc&security=tls&serviceName=kobedin-server1-vless&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-130
@@ -78,6 +79,7 @@ vless://cb08480c-4041-4e91-a267-971e1c6a4af7@jasper53.wannexo.ir:47607?security=
 vless://35da102e-536b-4103-9632-58c7c4c6303b@fl2.originmesh.online:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=RUGdD-Cm83gT0pWvvagg0gxv2Ib8BjhCRR7LOiaq2zE&sid=eecfe76af97a6132&sni=fl1.originmesh.online&encryption=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-3039
 vless://2c1cf7c5-47e4-4eed-8b6a-59699a6c9d75@htz1.rayan-gaming.ir:34524?encryption=mlkem768x25519plus.native.0rtt.3OrJ7fxVFYKDE0c-KDfYoIfycNVyC92R69b_ugu9KSA&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&host=speedtest.net&sni=www.goo.gl&fp=chrome&pbk=Ev18sv7QCAAdtIK1Au0caOREASGzPF8pdahA9nm0bhQ&sid=ffd16b1033cad66d#%5BOpenRay%5D%20%F0%9F%8C%90XX-3043
 vless://cb08480c-4041-4e91-a267-971e1c6a4af7@jasper53.wannexo.ir:47607?encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=%2F&host=dynu.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-3045
+vless://50a87e21-f0e2-4b53-a787-91adfe748f63@177.3.214.156:443?security=reality&type=tcp&packetEncoding=xudp&sni=finlandlanzarotte.live&fp=firefox&flow=xtls-rprx-vision&pbk=6lZ5dkQN2sH9tYca374W4N1n9eCanD_F2FfghcksKSo&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-172
 trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45.149.147.213:4444?security=tls&sni=45-149-147-213.sslip.io&type=grpc&serviceName=kobedin-server1-trojan&fp=chrome&alpn=h2#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-53
 vless://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4443?security=tls&type=grpc&mode=gun&serviceName=kobedin-server1-vless&packetEncoding=xudp&alpn=h2&sni=45-149-147-213.sslip.io&fp=chrome#t.me%2Ffreekesha21 - 76 %F0%9F%87%AB%F0%9F%87%AE
 vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&host=45.144.234.157&path=/vless#t.me%2Ffreekesha21 - 133 %F0%9F%87%AB%F0%9F%87%AE
