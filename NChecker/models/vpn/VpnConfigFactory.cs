@@ -21,6 +21,7 @@ namespace NChecker.models.vpn
                 "vless" => new VlessConfigData(trimmedUrl),
                 "ss" or "shadowsocks" => new ShadowsocksConfigData(trimmedUrl),
                 "trojan" => new TrojanConfigData(trimmedUrl),
+                "hysteria2" or "hysteria" or "hy2" => new HysteriaConfigData(trimmedUrl),
                 _ => null // Если протокол не поддерживается или неизвестен
             };
         }

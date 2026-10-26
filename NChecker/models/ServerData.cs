@@ -1,6 +1,7 @@
 ﻿using MaxMind.GeoIP2.Responses;
 using NChecker.models.subscription;
 using NChecker.models.vpn;
+using NChecker.models.vpn.protocols;
 using System.Security.Cryptography;
 using System.Text;
 

@@ -4,13 +4,7 @@ namespace NChecker.models.vpn.protocols
 {
     internal class TrojanConfigData : VpnConfigBase
     {
-        private string _password;
-        private string _security = "tls";
-        private string _sni;
-        private string _type;
-        private string _host;
-        private string _path;
-        private string _allowInsecure = "false";
+        private string _password, _security, _sni, _type, _host, _path;
 
         internal TrojanConfigData(string a1) : base(a1) { }
 
@@ -48,7 +42,7 @@ namespace NChecker.models.vpn.protocols
                 if (portIndex != -1)
                 {
                     string portStr = mainPart.Substring(portIndex + 1);
-                    Address = mainPart.Substring(0, portIndex).Trim('[', ']');
+                    Address = mainPart.Substring(0, portIndex).Trim('[', ']').ToLowerInvariant();
                     if (int.TryParse(portStr, out int parsedPort))
                     {
                         Port = parsedPort;
@@ -64,32 +58,34 @@ namespace NChecker.models.vpn.protocols
                     var queryParams = HttpUtility.ParseQueryString(queryPart);
 
                     string secRaw = queryParams["security"]?.ToLowerInvariant().Trim();
-                    if (!string.IsNullOrEmpty(secRaw))
-                    {
-                        _security = secRaw;
-                    }
+                    _security = string.IsNullOrEmpty(secRaw) ? null : secRaw;
 
-                    // Убираем точки на конце, приводим к нижнему регистру
                     string sniRaw = queryParams["sni"]?.Trim().ToLowerInvariant().TrimEnd('.');
                     _sni = string.IsNullOrEmpty(sniRaw) ? null : sniRaw;
 
-                    // Нормализация транспорта (по умолчанию tls+tcp для трояна, но может быть ws или gRPC)
                     string rawType = queryParams["type"]?.ToLowerInvariant().Trim();
-                    _type = string.IsNullOrEmpty(rawType) ? "tcp" : rawType;
+                    _type = (string.IsNullOrEmpty(rawType) || rawType == "raw" || rawType == "tcp") ? "tcp" : rawType;
 
-                    // Если host не задан в ссылке, подставляем SNI по умолчанию
                     string hostRaw = queryParams["host"]?.Trim().ToLowerInvariant().TrimEnd('.');
-                    _host = string.IsNullOrEmpty(hostRaw) ? _sni : hostRaw;
+                    _host = string.IsNullOrEmpty(hostRaw) ? null : hostRaw;
 
                     _path = queryParams["path"]?.Trim();
 
-                    string insecureRaw = queryParams["allowInsecure"]?.ToLowerInvariant().Trim();
-                    _allowInsecure = string.IsNullOrEmpty(insecureRaw) ? "false" : insecureRaw;
+                    // Жесткая зачистка мусорных путей
+                    if (string.IsNullOrEmpty(_path) || _path == "/" || _path.Contains("=") || _path.Contains("%3D") || _path.Contains("metrics"))
+                    {
+                        _path = null;
+                    }
+
+                    // Если host совпадает с SNI, сбрасываем в null для чистоты сигнатуры
+                    if (_host == _sni)
+                    {
+                        _host = null;
+                    }
                 }
                 else
                 {
                     _type = "tcp";
-                    _allowInsecure = "false";
                 }
             }
             catch { }
@@ -97,14 +93,15 @@ namespace NChecker.models.vpn.protocols
 
         internal override string GetCoreSignature()
         {
-            string core = base.GetCoreSignature();
+            string core = base.GetCoreSignature(); // База: ip + port
+
             if (!string.IsNullOrEmpty(_password)) core += $"|pwd={_password}";
             if (!string.IsNullOrEmpty(_security)) core += $"|sec={_security}";
             if (!string.IsNullOrEmpty(_sni)) core += $"|sni={_sni}";
             if (!string.IsNullOrEmpty(_type)) core += $"|type={_type}";
             if (!string.IsNullOrEmpty(_host)) core += $"|host={_host}";
             if (!string.IsNullOrEmpty(_path)) core += $"|path={_path}";
-            if (!string.IsNullOrEmpty(_allowInsecure)) core += $"|insecure={_allowInsecure}";
+
             return core;
         }
     }

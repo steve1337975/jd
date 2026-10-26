@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace NChecker.models.vpn
+namespace NChecker.models.vpn.protocols
 {
     internal abstract class VpnConfigBase
     {

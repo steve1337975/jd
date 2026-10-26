@@ -1,5 +1,4 @@
 ﻿using System.Text;
-using System.Text.RegularExpressions;
 using System.Web;
 
 namespace NChecker.models.vpn.protocols
@@ -25,7 +24,6 @@ namespace NChecker.models.vpn.protocols
                     mainPart = mainPart.Substring(0, hashIndex).Trim();
                 }
 
-                // Если нет '@', вся строка до решетки — это base64
                 if (!mainPart.Contains('@'))
                 {
                     mainPart = TryDecodeBase64(mainPart);
@@ -36,7 +34,6 @@ namespace NChecker.models.vpn.protocols
                 {
                     string authPart = mainPart.Substring(0, atIndex);
 
-                    // Если вся authPart целиком является Base64 (стандарт SIP002)
                     string decodedAuth = TryDecodeBase64(authPart);
                     if (!string.IsNullOrEmpty(decodedAuth) && decodedAuth.Contains(':'))
                     {
@@ -48,7 +45,6 @@ namespace NChecker.models.vpn.protocols
                     {
                         string encPart = authPart.Substring(0, colonIndex).Trim();
 
-                        // Если шифр закодирован в Base64 (как в твоем примере YWVzLTI1Ni1nY20)
                         string decodedEnc = TryDecodeBase64(encPart);
                         if (!string.IsNullOrEmpty(decodedEnc) && !decodedEnc.Any(char.IsControl))
                         {
@@ -82,6 +78,10 @@ namespace NChecker.models.vpn.protocols
                 {
                     Address = mainPart.Trim('[', ']').ToLowerInvariant().TrimEnd('.');
                 }
+
+                // Нормализация в null
+                if (string.IsNullOrEmpty(_encryption)) _encryption = null;
+                if (string.IsNullOrEmpty(_password)) _password = null;
             }
             catch { }
         }
@@ -105,18 +105,12 @@ namespace NChecker.models.vpn.protocols
             }
         }
 
-        private bool IsBase64String(string s)
-        {
-            s = s.Trim().Replace('-', '+').Replace('_', '/');
-            return (s.Length % 4 == 0) && Regex.IsMatch(s, @"^[a-zA-Z0-9\+/]*={0,2}$", RegexOptions.None);
-        }
-
         internal override string GetCoreSignature()
         {
-            string core = base.GetCoreSignature();
+            string core = base.GetCoreSignature(); // База: ip + port
 
-            if (!string.IsNullOrEmpty(_encryption)) core += $"|enc={_encryption.Trim()}";
-            if (!string.IsNullOrEmpty(_password)) core += $"|pwd={_password.Trim()}";
+            if (!string.IsNullOrEmpty(_encryption)) core += $"|enc={_encryption}";
+            if (!string.IsNullOrEmpty(_password)) core += $"|pwd={_password}";
 
             return core;
         }

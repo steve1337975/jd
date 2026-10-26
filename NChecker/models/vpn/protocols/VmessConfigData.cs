@@ -6,7 +6,7 @@ namespace NChecker.models.vpn.protocols
 {
     internal class VmessConfigData : VpnConfigBase
     {
-        private string _id, _alterId, _security, _network, _type, _host, _path, _tls, _sni;
+        private string _id, _network, _type, _host, _path, _tls, _sni;
 
         internal VmessConfigData(string a1) : base(a1) { }
 
@@ -31,19 +31,22 @@ namespace NChecker.models.vpn.protocols
                 var jsonModel = JsonConvert.DeserializeObject<VmessJsonModel>(jsonString);
                 if (jsonModel != null)
                 {
-                    Address = jsonModel.Address?.Trim();
+                    Address = jsonModel.Address?.Trim().ToLowerInvariant();
                     Port = Convert.ToInt32(jsonModel.Port ?? 0);
 
                     string rawId = jsonModel.Id ?? string.Empty;
                     _id = new string(rawId.Where(char.IsLetterOrDigit).ToArray()).ToLowerInvariant();
+                    if (string.IsNullOrEmpty(_id)) _id = null;
 
-                    _alterId = jsonModel.AlterId?.ToString().Trim();
-                    _security = jsonModel.Security?.ToLowerInvariant().Trim();
-                    _network = jsonModel.Net?.ToLowerInvariant().Trim();
-                    _type = jsonModel.Type?.ToLowerInvariant().Trim();
-                    _tls = jsonModel.Tls?.ToLowerInvariant().Trim();
+                    string netRaw = jsonModel.Net?.ToLowerInvariant().Trim();
+                    _network = string.IsNullOrEmpty(netRaw) ? "tcp" : netRaw;
 
-                    // Без фоллбеков: оставляем как есть, убираем только точки на конце и приводя к нижнему регистру
+                    string typeRaw = jsonModel.Type?.ToLowerInvariant().Trim();
+                    _type = (string.IsNullOrEmpty(typeRaw) || typeRaw == "raw" || typeRaw == "tcp") ? null : typeRaw;
+
+                    string tlsRaw = jsonModel.Tls?.ToLowerInvariant().Trim();
+                    _tls = string.IsNullOrEmpty(tlsRaw) ? null : tlsRaw;
+
                     string sniRaw = jsonModel.Sni?.Trim().ToLowerInvariant().TrimEnd('.');
                     _sni = string.IsNullOrEmpty(sniRaw) ? null : sniRaw;
 
@@ -51,6 +54,18 @@ namespace NChecker.models.vpn.protocols
                     _host = string.IsNullOrEmpty(hostRaw) ? null : hostRaw;
 
                     _path = jsonModel.Path?.Trim();
+
+                    // Тотальная зачистка мусорных путей (метрики, хэши, трюки с `=` и `%3D`)
+                    if (string.IsNullOrEmpty(_path) || _path == "/" || _path.Contains("=") || _path.Contains("%3D") || _path.Contains("metrics"))
+                    {
+                        _path = null;
+                    }
+
+                    // Если host дублирует SNI, сбрасываем в null
+                    if (_host == _sni)
+                    {
+                        _host = null;
+                    }
 
                     if (!string.IsNullOrEmpty(jsonModel.Remarks) && string.IsNullOrEmpty(Name))
                     {
@@ -82,16 +97,16 @@ namespace NChecker.models.vpn.protocols
 
         internal override string GetCoreSignature()
         {
-            string core = base.GetCoreSignature();
+            string core = base.GetCoreSignature(); // База: ip + port
+
             if (!string.IsNullOrEmpty(_id)) core += $"|id={_id}";
-            if (!string.IsNullOrEmpty(_alterId)) core += $"|aid={_alterId}";
-            if (!string.IsNullOrEmpty(_security)) core += $"|scy={_security}";
             if (!string.IsNullOrEmpty(_network)) core += $"|net={_network}";
             if (!string.IsNullOrEmpty(_type)) core += $"|type={_type}";
             if (!string.IsNullOrEmpty(_tls)) core += $"|tls={_tls}";
             if (!string.IsNullOrEmpty(_sni)) core += $"|sni={_sni}";
             if (!string.IsNullOrEmpty(_host)) core += $"|host={_host}";
             if (!string.IsNullOrEmpty(_path)) core += $"|path={_path}";
+
             return core;
         }
     }
