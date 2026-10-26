@@ -1,20 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824650481
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824651015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 15:21:21
-# servers-count: 113
+# generated-at: 10/26/2026 15:30:15
+# servers-count: 115
 
 ss://YWVzLTI1Ni1nY206SnVENk1OZ3RYM25WcEN6RnpYWVZZakRUWjduc21hVHY=@191.223.221.53:8388#🇯🇵 Япония
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?security=none&type=tcp&packetEncoding=none#🇯🇵 Япония
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 trojan://Trojan%4082164024@jp1.zestapp778.com:443?type=tcp&security=tls&sni=jp1.zestapp778.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:443#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=fuji.etherhub.cc&fp=firefox&flow=xtls-rprx-vision&sid=bd6f67b6b2152b45&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg# By EbraSha 🎯
+ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388# By EbraSha 📼
+vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?security=reality&type=tcp&packetEncoding=xudp&sni=fuji.etherhub.cc&fp=firefox&flow=xtls-rprx-vision&sid=bd6f67b6b2152b45&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg# By EbraSha 🧨
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+Hr/Cfh7VdIFt2bS1uby13c10gWzI2MTAyNi0xNzA2MzguODIyXSJ9Cg==
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiMTcyLjExMS4xNDYuNjQiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDI2LTE3MDg0Ni45MTFdIn0K
-ss://YWVzLTI1Ni1nY206QmVhVWY5YzBBRVdINDBQdQ==@154.36.158.197:8388#🇯🇵[openproxylist.com] ss-JP
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.8.173.253:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%B9LT-1
 vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?flow=xtls-rprx-vision&fp=chrome&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&security=reality&sid=6caead99&sni=github.com&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-2
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@209.33.172.78:8443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-95
@@ -115,6 +116,7 @@ vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@fuji.etherhub.cc:443?type=raw&secur
 vless://d342d11e-d224-4463-b982-532309285094@141.11.139.215:443?type=ws&security=tls&sni=ccc.010304.xyz&path=%2Ffp%3Dchrome&host=ccc.010304.xyz#t.me%2Ffreekesha21 - 335 %F0%9F%87%AF%F0%9F%87%B5
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@fuji.etherhub.cc:443?security=reality&type=raw&packetEncoding=xudp&sni=fuji.etherhub.cc&fp=qq&flow=xtls-rprx-vision&sid=bd6f67b6b2152b45&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg#t.me%2Ffreekesha21 - 718 %F0%9F%87%AF%F0%9F%87%B5
 vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws#0817 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&sni=github.com&packetEncoding=none#1378 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://814bd064-544d-4255-a070-5705c03f6da9@103.75.118.228:11452?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&sid=48050fab&sni=www.apple.com&packetEncoding=none#2009 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 trojan://Trojan@82164024@jp1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=jp1.zestapp778.com#2090 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 vless://f61fdaa8-72fb-4a86-bed5-73f516338772@64.176.42.253:443?type=ws#2155 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
