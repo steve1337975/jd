@@ -18,7 +18,7 @@ namespace NChecker.classes
         private string[] sni_domains;
         private DatabaseReader reader;
         private MemoryStream dbMemoryStream;
-        private readonly Dictionary<SubscriptionType, HashSet<string>> _filterHashes = new Dictionary<SubscriptionType, HashSet<string>>();
+        private HashSet<string> _addedHashes = new HashSet<string>();
 
         internal NetworkingManager()
         {
@@ -28,7 +28,7 @@ namespace NChecker.classes
                 ConnectTimeout = TimeSpan.FromSeconds(3)
             };
             httpClient = new HttpClient(handler);
-            httpClient.Timeout = TimeSpan.FromSeconds(5);
+            httpClient.Timeout = TimeSpan.FromSeconds(3);
             httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
         }
 
@@ -81,7 +81,6 @@ namespace NChecker.classes
         internal async Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, SourceSubscriptionData[] a2)
         {
             List<SubscriptionData> subscriptions = new List<SubscriptionData>();
-
             foreach (SourceSubscriptionData subscriptionSourceData in a2)
             {
                 try
@@ -94,36 +93,21 @@ namespace NChecker.classes
                     catch (FormatException) { }
 
                     SubscriptionData subscriptionData = SubscriptionData.Create(subscriptionSourceData);
-
-                    // Безопасное получение или создание HashSet для конкретного FilterType
-                    if (!_filterHashes.TryGetValue(subscriptionData.FilterType, out var addedHashes))
-                    {
-                        addedHashes = new HashSet<string>();
-                        _filterHashes[subscriptionData.FilterType] = addedHashes;
-                    }
-
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
                     int i = 1;
-
                     foreach (string line in lines)
                     {
                         string trimmedLine = line.Trim();
                         if (trimmedLine.StartsWith("#")) continue;
-
                         ServerData serverData = new ServerData(trimmedLine);
                         if (!serverData.IsValid()) continue;
-
                         string hash = serverData.GetHashData();
-
-                        // Дедупликация строго внутри этого FilterType
-                        if (!addedHashes.Add(hash)) continue;
-
+                        if (!_addedHashes.Add(hash)) continue;
                         serverData.SortedIndex = i;
                         serverData.FilterType = subscriptionData.FilterType;
                         subscriptionData.Servers.Add(serverData);
                         i++;
                     }
-
                     subscriptions.Add(subscriptionData);
                     if (a1.Logging) Logger.Info($"Успешно загружено => {subscriptionData.Url} / {subscriptionData.Servers.Count} серверов");
                 }
@@ -179,12 +163,17 @@ namespace NChecker.classes
                         {
                             server.Delay = stopwatch.ElapsedMilliseconds;
                             server.IsAlive = true;
+                            //if (settings.Logging) Logger.Info($"[TCP +] {server.Address}:{server.Port} - {stopwatch.ElapsedMilliseconds} ms");
                             return;
                         }
                     }
                 }
+                //if (settings.Logging) Logger.Info($"[TCP -] {server.Address}:{server.Port} ");
             }
-            catch { }
+            catch
+            {
+                //if (settings.Logging) Logger.Info($"[TCP -] {server.Address}:{server.Port} ");
+            }
         }
 
         #endregion
