@@ -37,7 +37,8 @@ namespace NChecker
             var metrics = new ExecutionMetrics();
             var stopwatch = Stopwatch.StartNew();
 
-            var channel = Channel.CreateBounded<ServerData>(new BoundedChannelOptions(50000)
+            // Увеличиваем емкость канала до 200 000 для поддержки сотен тысяч серверов
+            var channel = Channel.CreateBounded<ServerData>(new BoundedChannelOptions(200000)
             {
                 FullMode = BoundedChannelFullMode.Wait,
                 SingleWriter = true,
@@ -65,10 +66,10 @@ namespace NChecker
                 : 1500;
 
             int maxConcurrent = isGitHub
-                ? Math.Max(baseThreads / 2, 50)
-                : baseThreads;
+                ? Math.Max(baseThreads / 2, 100)
+                : Math.Min(baseThreads, 2000); // Ограничиваем разумным пределом во избежание нехватки сокетов
 
-            ThreadPool.SetMinThreads(maxConcurrent + 100, maxConcurrent + 100);
+            ThreadPool.SetMinThreads(maxConcurrent + 200, maxConcurrent + 200);
             return maxConcurrent;
         }
 
@@ -76,26 +77,26 @@ namespace NChecker
         {
             return Task.Run(async () =>
             {
-                int globalServerIndex = 0;
                 int localTotalDiscovered = 0;
                 try
                 {
                     subscriptions = await networkingManager.ParseSubscriptions(filesManager.Settings, filesManager.GetSources());
 
-                    List<ServerData> allParsed = new List<ServerData>();
-                    foreach (var subData in subscriptions)
-                    {
-                        allParsed.AddRange(subData.Servers);
-                    }
+                    var allParsed = subscriptions
+                        .Where(sub => sub?.Servers != null)
+                        .SelectMany(sub => sub.Servers)
+                        .ToList();
 
-                    foreach (var serverData in allParsed)
+                    int totalCount = allParsed.Count;
+
+                    // Молниеносный и надежный обход гигантского списка без лишней магии
+                    for (int i = 0; i < totalCount; i++)
                     {
-                        if (globalServerIndex % totalChunks == currentChunk)
+                        if (totalChunks <= 1 || i % totalChunks == currentChunk)
                         {
                             localTotalDiscovered++;
-                            await writer.WriteAsync(serverData);
+                            await writer.WriteAsync(allParsed[i]);
                         }
-                        globalServerIndex++;
                     }
                 }
                 catch (Exception ex)
@@ -106,6 +107,7 @@ namespace NChecker
                 {
                     metrics.SetTotalDiscovered(localTotalDiscovered);
                     writer.Complete();
+                    Logger.Info($"Продюсер завершил работу. Отправлено в конвейер: {localTotalDiscovered}");
                 }
             });
         }
@@ -151,7 +153,7 @@ namespace NChecker
 
                     if (filesManager.Settings.Logging)
                     {
-                        int logStep = isGitHub ? 1000 : 5000;
+                        int logStep = isGitHub ? 5000 : 10000;
                         if (currentChecked % logStep == 0)
                         {
                             Logger.Info($"Проверено: {currentChecked} / ~{metrics.TotalDiscovered}... Время: {stopwatch.Elapsed.TotalSeconds:F0} сек.");
@@ -175,7 +177,6 @@ namespace NChecker
 
             await exporterManager.Export(filesManager.Settings, subscriptions);
         }
-
 
         private class ExecutionMetrics
         {

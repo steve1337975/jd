@@ -23,6 +23,9 @@
     "url": "https://raw.githack.com/flaafix/AetrisVPN-black-list/main/configs.txt",
     "enabled": true
   },
+
+
+
   {
     "url": "https://raw.githack.com/RKPchannel/RKP_bypass_configs/refs/heads/main/blacklist.txt",
     "enabled": true
@@ -44,7 +47,7 @@
     "enabled": true
   },
   {
-    "url": "https://raw.githack.com/mahdibland/ShadowsocksAggregator/master/Eternity.txt",
+    "url": "",
     "enabled":true
   },
   {
@@ -53,6 +56,14 @@
   },
   {
     "url": "https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/SOCKS5.txt",
+    "enabled":true
+  },
+  {
+    "url": "https://raw.githack.com/Argh94/Proxy-List/refs/heads/main/HTTP.txt",
+    "enabled":true
+  },
+  {
+    "url": "",
     "enabled":true
   },
   {

@@ -20,19 +20,20 @@ namespace NChecker.classes
         private MemoryStream dbMemoryStream;
 
         // Три независимых HashSet для каждого типа подписки
-        private readonly HashSet<string> _blackHashes = new HashSet<string>();
-        private readonly HashSet<string> _whiteHashes = new HashSet<string>();
-        private readonly HashSet<string> _universalHashes = new HashSet<string>();
+        private readonly HashSet<string> _blackHashes = new HashSet<string>(StringComparer.Ordinal);
+        private readonly HashSet<string> _whiteHashes = new HashSet<string>(StringComparer.Ordinal);
+        private readonly HashSet<string> _universalHashes = new HashSet<string>(StringComparer.Ordinal);
 
         internal NetworkingManager()
         {
             var handler = new SocketsHttpHandler
             {
                 PooledConnectionIdleTimeout = TimeSpan.FromSeconds(5),
-                ConnectTimeout = TimeSpan.FromSeconds(3)
+                ConnectTimeout = TimeSpan.FromSeconds(2),
+                MaxConnectionsPerServer = 500
             };
             httpClient = new HttpClient(handler);
-            httpClient.Timeout = TimeSpan.FromSeconds(3);
+            httpClient.Timeout = TimeSpan.FromSeconds(4);
             httpClient.DefaultRequestHeaders.UserAgent.ParseAdd(ProviderFakeUserAgent.Random);
         }
 
@@ -73,7 +74,6 @@ namespace NChecker.classes
                     }
                 }
                 reader = new DatabaseReader(dbMemoryStream);
-
                 Logger.Info("База GeoLite2 успешно загружена в память и готова к работе!");
             }
             catch (Exception ex)
@@ -86,6 +86,7 @@ namespace NChecker.classes
         {
             List<SubscriptionData> subscriptions = new List<SubscriptionData>();
 
+            // Жесткий, честный и последовательный цикл — порядок подписок нарушить невозможно
             foreach (SourceSubscriptionData subscriptionSourceData in a2)
             {
                 try
@@ -93,13 +94,13 @@ namespace NChecker.classes
                     string data = await httpClient.GetStringAsync(subscriptionSourceData.Url);
                     try
                     {
-                        data = Encoding.UTF8.GetString(Convert.FromBase64String(data));
+                        byte[] bytes = Convert.FromBase64String(data);
+                        data = Encoding.UTF8.GetString(bytes);
                     }
                     catch (FormatException) { }
 
                     SubscriptionData subscriptionData = SubscriptionData.Create(subscriptionSourceData);
 
-                    // Выбираем правильный HashSet в зависимости от типа подписки
                     HashSet<string> targetHashSet = subscriptionData.FilterType switch
                     {
                         SubscriptionType.Black => _blackHashes,
@@ -137,6 +138,9 @@ namespace NChecker.classes
                     Logger.Error($"Ошибка парсинга подписки => {subscriptionSourceData.Url} / {exc.Message}");
                 }
             }
+
+            int totalCount = subscriptions.Sum(s => s.Servers.Count);
+            Logger.Info($"Всего уникальных серверов после дедупликации => {totalCount}");
             return subscriptions.ToArray();
         }
 
@@ -144,13 +148,13 @@ namespace NChecker.classes
 
         internal async Task ExecuteCountryTestAsync(ServerData server)
         {
-            if (!server.IsValid()) return;
+            if (!server.IsValid() || reader == null) return;
             CountryResponse response = null;
             try
             {
                 if (!IPAddress.TryParse(server.Address, out IPAddress ip))
                 {
-                    using (CancellationTokenSource cts = new CancellationTokenSource(800))
+                    using (CancellationTokenSource cts = new CancellationTokenSource(500))
                     {
                         IPAddress[] addresses = await Dns.GetHostAddressesAsync(server.Address, cts.Token);
                         ip = addresses.FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork) ?? addresses.FirstOrDefault();
@@ -175,7 +179,9 @@ namespace NChecker.classes
                 {
                     client.LingerState = new LingerOption(true, 0);
                     Stopwatch stopwatch = Stopwatch.StartNew();
-                    using (CancellationTokenSource cts = new CancellationTokenSource(TimeSpan.FromSeconds(settings.Timeout)))
+
+                    int timeoutSec = (int)Math.Min(settings.Timeout, 2);
+                    using (CancellationTokenSource cts = new CancellationTokenSource(TimeSpan.FromSeconds(timeoutSec)))
                     {
                         await client.ConnectAsync(server.Address, server.Port, cts.Token);
                         stopwatch.Stop();
@@ -184,17 +190,12 @@ namespace NChecker.classes
                         {
                             server.Delay = stopwatch.ElapsedMilliseconds;
                             server.IsAlive = true;
-                            //if (settings.Logging) Logger.Info($"[TCP +] {server.Address}:{server.Port} - {stopwatch.ElapsedMilliseconds} ms");
                             return;
                         }
                     }
                 }
-                //if (settings.Logging) Logger.Info($"[TCP -] {server.Address}:{server.Port} ");
             }
-            catch
-            {
-                //if (settings.Logging) Logger.Info($"[TCP -] {server.Address}:{server.Port} ");
-            }
+            catch { }
         }
 
         #endregion
