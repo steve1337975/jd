@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ TROJAN — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824651015
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824654093
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 15:30:15
-# servers-count: 653
+# generated-at: 10/26/2026 16:21:33
+# servers-count: 657
 
 trojan://humanity@141.193.213.172:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=android#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
@@ -18,20 +18,18 @@ trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls
 trojan://humanity@45.131.4.38:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%2B%5B%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%22tlshello%22%2C%2B%22lengths%22%3A%2B%5B%220%22%2C%2B%22104%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%220%22%5D%2C%2B%22maxSplit%22%3A%2B%220%22%7D%7D%2C%7B%22type%22%3A%2B%22fragment%22%2C%2B%22settings%22%3A%2B%7B%22packets%22%3A%2B%221-1%22%2C%2B%22lengths%22%3A%2B%5B%22114%22%2C%2B%221%22%5D%2C%2B%22delays%22%3A%2B%5B%221%22%5D%2C%2B%22maxSplit%22%3A%2B%2211%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
 trojan://mitivpn@199.232.78.160:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=community.fastly.steamstatic.com&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%A9%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AA%20%7C%20%5BBL%5D
 trojan://mitivpn@151.101.36.244:443?allowInsecure=1&alpn=http%2F1.1&host=mitivpn-mitivpn.ac.ir&path=%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2FNLSus---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1%2F---%40VPNine1---%40VPNine1&security=tls&sni=ns2.firefox.com&type=ws&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%B8%F0%9F%87%AA%20%F0%9F%87%BA%F0%9F%87%B8%20%7C%20%5BBL%5D
-trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&fp=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-trojan://humanity@104.17.147.22:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20AetrisVPN
-trojan://humanity@139.28.240.24:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io#%F0%9F%87%AD%F0%9F%87%B0%20AetrisVPN
 trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-trojan://Trojan%4082164024@jp1.zestapp778.com:443?type=tcp&security=tls&sni=jp1.zestapp778.com&fp=chrome#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&sni=tjmg2.m2k699.com&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 trojan://f0eb8c92ce8946aaba856569cff1a16b@216.106.186.33:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com&fp=&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443# By EbraSha ♠️
-trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=2.27.109.179.sslip.io# By EbraSha 🦇
-trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.findlocaljobnetworkandbuildcommunityconnections.com# By EbraSha 🧿
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0# By EbraSha 🌍
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=resources.findlocaljobnetworkandbuildcommunityconnections.com# By EbraSha 🤖
-trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.trusteeforward.com&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com# By EbraSha 🎯
+trojan://WvH8ooM9hom4KOOJHFJz1x5umE0aV4R0@43.156.36.253:443# By EbraSha 🧠
+trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=2.27.109.179.sslip.io# By EbraSha 🧊
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=blog.findlocaljobnetworkandbuildcommunityconnections.com# By EbraSha 🛸
+trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0# By EbraSha 🌀
+trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=resources.findlocaljobnetworkandbuildcommunityconnections.com# By EbraSha 🔋
+trojan://humanity@188.114.97.6:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.trusteeforward.com&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com# By EbraSha 🧬
+trojan://humanity@92.42.99.143:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org# By EbraSha 🌑
 trojan://humanity@172.64.150.28:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&alpn=h2&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-1
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?security=tls&sni=de9.dedushka.top&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-2
 trojan://humanity@162.159.133.152:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-6
@@ -52,11 +50,11 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de4.dedushka.top:443?allowInsecure=1&s
 trojan://humanity@212.227.144.37:8443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%B8ES-3
 trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&path=%2FYaujaGsyr&security=tls&alpn=h2%2Chttp%2F1.1%2Ch3&sni=fin.netvia.ir&fp=ios#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-159
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?allowInsecure=1&sni=de12.dedushka.top&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-102
+trojan://humanity@139.28.240.24:443?security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-6
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=1&sni=de7.dedushka.top#%5BOpenRay%5D%20%F0%9F%8C%90XX-108
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@pl1.dedushka.top:443?sni=pl1.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-109
 trojan://humanity@31.57.190.71:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AAAE-3
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@jp3.998998.best:443?type=ws&path=%2Fw4e5yh0p945y3%3Fed%3D2560&security=tls&sni=nat11.outsidemyheart.space#%5BOpenRay%5D%20%F0%9F%8C%90XX-143
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-144
 trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-3
 trojan://humanity@172.66.1.36:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-152
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjrb.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-167
@@ -79,6 +77,7 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de7.dedushka.top:443?allowInsecure=0&s
 trojan://humanity@193.23.202.65:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-16
 trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BBLV-3
 trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?allowInsecure=1&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-280
+trojan://humanity@104.17.147.22:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-29
 trojan://humanity@188.114.98.0:443?type=ws&host=www.pleadcourt.org&path=%2Fassignment&security=tls&alpn=http%2F1.1&fp=chrome&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-291
 trojan://humanity@188.114.97.4:443?path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-299
 trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-319
@@ -118,6 +117,7 @@ trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de9.dedushka.top:443?allowInsecure=1&s
 trojan://humanity@172.66.40.99:443?security=tls&sni=www.trusteeforward.com&type=ws&path=%252Fassignment&host=www.trusteeforward.com&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-489
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxjp.m2k699.com:24999?allowInsecure=1&sni=#%5BOpenRay%5D%20%F0%9F%8C%90XX-490
 trojan://3aa78b49-5530-45a2-93cb-b093745824f1@www.visa.com.sg:2096?sni=au4.yang-1989.xyz&type=ws&path=%2Fya87&host=au4.yang-1989.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-494
+trojan://humanity@144.31.205.106:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-686
 trojan://humanity@104.16.72.50:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%5BOpenRay%5D%20%F0%9F%8C%90XX-506
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-522
 trojan://e0303a31-0daf-4d45-ae1e-2bc0544f0ad2@x.com:2083?security=tls&type=ws&host=au2.yang-1989.xyz&path=%2Fas2u&sni=au2.yang-1989.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-523
@@ -218,6 +218,7 @@ trojan://humanity@5.44.46.142:443?sni=www.calmlunch.com&type=ws&path=%2Fassignme
 trojan://humanity@104.16.7.70:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1017
 trojan://humanity@172.64.145.133:443?security=tls&sni=www.pleadcourt.org&insecure=1&allowInsecure=1&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%8C%90XX-1022
 trojan://humanity@188.114.97.6:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2F%2Fassignment%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D512&security=tls&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-127
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?security=tls&fp=chrome&sni=tjmg2.m2k699.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-1033
 trojan://humanity@188.114.97.6:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-132
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de2.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de2.dedushka.top#%5BOpenRay%5D%20%F0%9F%8C%90XX-1041
 trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-117
@@ -253,8 +254,8 @@ trojan://humanity@www.calmlunch.com:443?fp=firefox&path=%2Fassignment&security=t
 trojan://humanity@45.38.3.25:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=android#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1780
 trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@104.18.65.57:443?allowInsecure=1&sni=nat3.xxai.dpdns.org&type=ws&host=nat3.xxai.dpdns.org&path=/anyway#%5BOpenRay%5D%20%F0%9F%8C%90XX-1175
 trojan://humanity@104.18.37.228:443?security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome&alpn=h2&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-1177
+trojan://humanity@144.31.205.106:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1801
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de12.dedushka.top:443?security=tls&alpn=http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=de12.dedushka.top#%5BOpenRay%5D%20%F0%9F%8C%90XX-1182
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&sni=www.findlocaljobnetworkandbuildcommunityconnections.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-1185
 trojan://humanity@162.159.36.20:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&path=/assignment#%5BOpenRay%5D%20%F0%9F%8C%90XX-1190
 trojan://humanity@45.38.3.25:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&alpn=http%2F1.1&fp=unsafe#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1844
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@us3.dedushka.top:443?security=tls&fp=firefox&sni=us3.dedushka.top&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%8C%90XX-1201
@@ -322,6 +323,7 @@ trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjadly.m2k699.com:24999?allowInsec
 trojan://humanity@104.16.72.41:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-1587
 trojan://e7TTceggMwUMg%2BaFN%3AF4@172.66.47.18:443?security=tls&type=ws&path=%2Ftr%2FSIeRkg2QvR2Zcpu0SeEMow%3Fed%3D2560&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-1588
 trojan://5j3xqsajt1474jb3@104.21.65.43:2087?security=tls&sni=uwu.dianaw.cc.cd&type=ws&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&fp=chrome&alpn=h2&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-1590
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1592
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-1606
 trojan://humanity@104.18.12.149:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%8C%90XX-1608
 trojan://040870be-ae04-43d7-b265-bbe7b64b60db@www.visa.com.sg:2053?security=tls&sni=au1.yang-1989.xyz&type=ws&path=/872y&Host=au1.yang-1989.xyz#%5BOpenRay%5D%20%F0%9F%8C%90XX-1616
@@ -373,7 +375,6 @@ trojan://gHQP0D7D15@104.25.239.113:2053?allowInsecure=1&sni=marvdasht.phonecompa
 trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?security=tls&type=ws&host=jiangjc.pages.dev&path=%2F&sni=jiangjc.pages.dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-1985
 trojan://018b8e7b-7813-4dcb-84a5-3c98f1521e00@188.114.97.6:443?security=tls&type=ws&host=id1.nathaya.web.id&path=%2Ftrojan&sni=id1.nathaya.web.id&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-251
 trojan://e7TTceggMwUMg+aFN:F4@172.66.47.18:443?security=tls&sni=APkD964o1oghlTghHt0L0Of.pAgeS.Dev&type=ws&path=/tr/SIeRkg2QvR2Zcpu0SeEMow?ed=2560&Host=APkD964o1oghlTghHt0L0Of.pAgeS.Dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-2011
-trojan://XuMweB2PWs@2.27.109.179:45464?security=tls&sni=2.27.109.179.sslip.io&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-254
 trojan://humanity@104.20.61.103:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-2027
 trojan://0y7hid61k3k2vuy1@104.21.65.43:2087?security=tls&sni=uwu.dianaw.cc.cd&type=ws&host=uwu.dianaw.cc.cd&path=%2F%40BlueKnight_net--%40BlueKnight_net--%40BlueKnight_net&fp=chrome&alpn=h2&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%8C%90XX-2049
 trojan://humanity@141.193.213.172:443?path=%2Fassignment%3Fed%23Telegram---v2ray_configs_pools&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3097
@@ -502,13 +503,13 @@ trojan://humanity@209.38.99.120:443?sni=www.pleadcourt.org&type=ws&path=%2Fassig
 trojan://humanity@104.27.201.80:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-2999
 trojan://humanity@172.64.150.28:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%8C%90XX-3003
 trojan://humanity@45.130.125.190:443?allowInsecure=1&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-52
+trojan://dba20dcb635e430fa4d3bfc303a149d2@216.106.186.32:443?sni=blog.findlocaljobnetworkandbuildcommunityconnections.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4656
 trojan://123456@162.159.152.81:443?security=tls&type=ws&path=%2F%3Fed%3D2560&sni=now-pages-sub-em4.pages.dev#%5BOpenRay%5D%20%F0%9F%8C%90XX-3019
 trojan://humanity@168.235.125.93:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4685
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de5.dedushka.top:443?allowInsecure=0&sni=de5.dedushka.top&alpn=http/1.1#%5BOpenRay%5D%20%F0%9F%8C%90XX-3035
 trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45.149.147.213:4444?security=tls&sni=45-149-147-213.sslip.io&type=grpc&serviceName=kobedin-server1-trojan&fp=chrome&alpn=h2#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-53
 trojan://nwilryafgkyvuxauc8pz@69.164.240.85:50875?sni=69.164.240.85&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4717
 trojan://humanity@45.130.125.160:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-54
-trojan://Trojan@82164024@155.138.138.2:443?sni=ca.tronsg.com&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-362
 trojan://ae7eb4dwyaz25pxwgq59@66.23.203.21:59689?sni=66.23.203.21&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-4767
 trojan://humanity@45.130.125.126:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-56
 trojan://humanity@45.130.125.69:443?type=ws&security=tls&path=%2Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=0#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%A8SC-57
@@ -520,143 +521,146 @@ trojan://1710442808@188.114.97.6:443?security=tls&type=ws&host=subb.nrshop198.wo
 trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-3112
 trojan://humanity@188.114.97.6:443?security=tls&type=ws&host=www.calmlunch.com&path=/assignment&sni=www.calmlunch.com&alpn=http/1.1&fp=unsafe&cs=TLS_AES_256_GCM_SHA384:TLS_CHACHA20_POLY1305_SHA256:TLS_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384:TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256:TLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256:TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA:TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256:TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm={#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6CA-365
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@de8.dedushka.top:443?allowInsecure=1&sni=de8.dedushka.top&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-3122
-trojan://humanity@191.96.94.226:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AADE-368
 trojan://humanity@8.47.69.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-3123
 trojan://humanity@31.57.190.40:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%AAAE-77
 trojan://76c84031f490a7ecf94f66bee5fa2ad1@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#0049 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
 trojan://970cff306f67f10cb3aa6cad2f73c2e2@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#0084 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://da5051376e910e2b7c371ef039ab6a28@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#0148 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0149 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@212.183.88.136:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#0154 | 🇦🇹 Austria | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@141.193.213.172:443?type=ws&security=tls&fp=android&sni=www.calmlunch.com&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8#0162 | ☁️ Cloudflare | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
-trojan://d7f4b46d9e42ad4a6519bde2ff7ce43c@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0182 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://da3c48a15e533f81d5286f6c58e51745@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#0242 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.18.250.245:443?type=ws&sni=www.calmlunch.com#0283 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://2ce88088024f525d77c2bda96e81d737@ja262.magiclampcloud.cn:59443?type=tcp#0355 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@138.68.131.253:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#0383 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@64.227.115.28:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#0386 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@sg2.998998.best:443?type=ws&security=tls&fp=chrome&sni=nat6.outsidemyheart.space#0394 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://396b684da7e944a8f439669e24e8afed@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#0410 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ab2327f92ff95dd8f8ec190cb0528ee6@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0451 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ecb1c69fa0997abfe3965a2f343d4d52@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0458 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com#0487 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@109.234.211.232:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&host=www.pleadcourt.org&alpn=http/1.1#0501 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@45.130.125.18:443?type=ws&sni=www.calmlunch.com#0503 | Seychelles | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://7547490bb96d371033b58baf91772254@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0531 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@164.92.200.68:443?allowInsecure=0&type=ws&sni=www.pleadcourt.org&host=www.pleadcourt.org&alpn=http/1.1#0540 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@8.47.69.0:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#0543 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.27.203.207:443?type=ws&sni=www.pleadcourt.org#0559 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0577 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@95.85.54.197:443?type=ws&sni=www.pleadcourt.org#0578 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#0612 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1&type=tcp#0629 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://f58156a6-ae2d-4b9b-beaf-da0b289e1469@m.nebservers.com:443?security=tls&fp=chrome&sni=m.nebservers.com#0657 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@31.57.190.34:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#0695 | 🇲🇪 Montenegro | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://a6667237f0272b408e55cec8c3ebde8e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0754 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://77c2c63b9b3081a8deab212050ba5472@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0789 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://e6a5cbbde3aae828e180b1fb4026841a@ja304.magiclampcloud.cn:59443?type=tcp#0828 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0829 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0857 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://bdbc9026183061770d64c6db2eab4ac7@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0859 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://d66e65fd90c2be0f94fa27adc0e5e088@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0901 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=fin.netvia.ir&host=fin.netvia.ir&alpn=h2,http/1.1,h3#0919 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&path=/#0999 | 🇨🇳 HongKong | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@77.239.121.232:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#1005 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@164.92.223.252:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#1006 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@31.57.190.40:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#1023 | 🇲🇪 Montenegro | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://1a4dbf8b75346468b85c8d7f70c0cc75@ja304.magiclampcloud.cn:59443?type=tcp#1024 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.36.141.81:443?type=ws&sni=www.calmlunch.com#1031 | 🇪🇪 Estonia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://beb0854f651380331623d79eb06d87be@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1064 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://bb611501dbb9aea577fd803fe11e945d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1117 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@45.131.4.38:443?type=ws&sni=www.pleadcourt.org#1126 | 🇮🇷 Iran | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.18.250.252:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1130 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@95.85.32.57:443?type=ws&sni=www.pleadcourt.org#1133 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://4d8e20bdae228d69021cdac530a5ce6d@tyy129.magiclampcloud.com:59443?type=tcp#1166 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://aea165cb7f5890ff234bc2b8a7fb0de8@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1177 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.97.4:443?type=ws&sni=www.pleadcourt.org#1179 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.144.82:443?type=ws&security=tls&fp=chrome&sni=server41.9966338.xyz&host=server41.9966338.xyz#1200 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://2bec9594deabbce4b0030700e6e916f0@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#1212 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://53d52598e15eda0daad99ec7d3461f06@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1222 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://b3dc9daaf39804635c99dc0a296926b4@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1232 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.21.33.59:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#1253 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@172.66.40.99:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1#1271 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?type=tcp&security=tls&fp=chrome&sni=www.itunes.com#1284 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.17.121.9:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#1337 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tjtw.m2k699.com#1351 | Taiwan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@212.227.144.37:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#1363 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://e956be48-3c09-4bf3-9737-83049e07d58b@m.nebservers.com:443?security=tls&fp=chrome&sni=m.nebservers.com#1377 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://d453daeb7e9b5fb9cad882763bd71d85@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1385 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://x6x80rh7lr7jjqo6@cdn.ir53.indevs.in:2087?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=cdn.ir53.indevs.in&host=cdn.ir53.indevs.in&alpn=http/1.1#1521 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://6eef2727659a8135ac79419c64aa2f87@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1562 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ed0ac307c27a5b8cd06c9712949a3b0e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1563 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@82.117.245.125:2053?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1642 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://2ddeb5f43bbb897b13db728b2dfbef92@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#1643 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome#1698 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@108.162.194.134:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#1707 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://123456@104.18.35.86:2096?allowInsecure=1&type=ws&security=tls&fp=chrome&host=321dfbc6.uir-9i6.pages.dev#1720 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ce9e02e876e32eca66d901eb4d07461c@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#1805 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.17.121.9:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=http/1.1#1810 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://08340a533092e321470fbe21b3407694@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1837 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?type=ws&security=tls&fp=chrome&host=jiangjc.pages.dev#1860 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://d518716100e9e02b425f760d9219844e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1880 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://5abea49277813a05e58f337a5afa1f31@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#1892 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://c9e7641fa78aebca32be5f8da87a79ec@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#1912 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&host=www.calmlunch.com#1953 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://aa47bc798fe7d60f6e1e56fb32d2954a@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#1972 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.18.37.228:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2#2011 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2040 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@212.227.144.37:8443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus#2045 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#2049 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ec9eae88bafe1b2e84f2fcd0d646c976@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2059 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.220.100.168:443?type=ws&sni=www.calmlunch.com&host=www.calmlunch.com#2086 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@191.96.94.226:443?type=ws&sni=www.calmlunch.com#2087 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@jp1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=jp1.zestapp778.com#2090 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://b84de87320ca97b4ff862f916cc67eaa@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2142 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ad2ac27a9fa52023755a961d77632f23@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#2171 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://43deb843e3f5da502d0b394995fc42d2@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2187 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@172.67.203.46:443?type=ws&security=tls&fp=chrome&sni=www.cordweave.com&host=www.cordweave.com&alpn=http/1.1#2207 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.16.6.70:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org&host=www.pleadcourt.org#2291 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@77.221.138.199:8443?type=ws&sni=www.calmlunch.com#2296 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://d306137cdbd55eac0d79ca7d1e3904a4@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2314 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@195.181.244.216:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2325 | 🇱🇹 Lithuania | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@104.18.45.38:443?allowInsecure=1&type=ws&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1#2341 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@chat.openai.com:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2#2345 | 🇦🇹 Austria | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@104.21.33.59:443?path=/assignment?ed#2368 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.16.72.2:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#2419 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@162.159.91.211:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2456 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@83.217.222.170:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#2474 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.97.2:443?type=ws&sni=www.pleadcourt.org#2482 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://881ff9e8588eaf4a7dd8352005921fa5@ja262.magiclampcloud.cn:59443?type=tcp#2515 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://c72fb0394432d4ae5e5b2de915f646c8@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2532 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.16.122.175:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#2535 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://123456@104.17.234.157:2096?type=ws&security=tls&fp=random&host=321dfbc6.uir-9i6.pages.dev&ed=2560#2556 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2561 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?type=ws&security=tls&fp=chrome&sni=uwu.dianaw.cc.cd&Host=uwu.dianaw.cc.cd#2581 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://53e00b660ad5da37f677dafeee646c9b@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2609 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@46.62.230.149:443?type=ws&sni=www.pleadcourt.org#2666 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://fa74fc619c26978ad3585426d06fbde6@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#2691 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2718 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@88.216.69.253:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org&alpn=http/1.1#2741 | 🇱🇹 Lithuania | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@in.tronsg.com:443?security=tls&fp=chrome&sni=in.tronsg.com#2773 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.97.7:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#2782 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://9f08b5c59e0e0f5235d111cab8a3fe1b@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#2803 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://gHQP0D7D15@104.25.239.113:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org#2863 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://b6fde90b3a0080e7547099633e8d4a32@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2901 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&security=tls&fp=android&sni=fin.netvia.ir&alpn=h2,http/1.1,h3#2912 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@188.226.181.61:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#2921 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@45.130.125.126:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#2923 | Seychelles | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://493b3d1b5d6a298a32eea1935463dc4d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2926 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@185.255.179.166:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2931 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@8.6.112.206:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1#2946 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@165.215.250.14:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2975 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@188.114.97.6:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1#2993 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://d9c8aa383174c25132e0df201ffab4e3@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2996 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg1.m2k699.com:24999?type=tcp&sni=www.itunes.com#3025 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://0892f6ae870db484a45a82524b45903d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#3050 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://13e6b9f9497485cdedfdc59328e6a8ad@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#3053 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@104.18.8.83:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#3074 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
-trojan://d86931c3cdedaae00c34a0ef62f744c6@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#3082 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://ffaac02033b3fd3458f2aec9386da59b@tyy129.magiclampcloud.com:59443?type=tcp#3145 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://humanity@62.60.152.14:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#3288 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@178.128.45.156:443?type=ws&sni=www.pleadcourt.org#3295 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://74577e02978f5758d19f276a502b24b5@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#3320 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://da5051376e910e2b7c371ef039ab6a28@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#0150 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@ca.tronsg.com:443?security=tls&fp=chrome#0151 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@212.183.88.136:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#0156 | 🇦🇹 Austria | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@141.193.213.172:443?type=ws&security=tls&fp=android&sni=www.calmlunch.com&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8#0164 | ☁️ Cloudflare | TROJAN | 🔐 Stable | TG: @YoutubeUnBlockRu
+trojan://d7f4b46d9e42ad4a6519bde2ff7ce43c@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0184 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://da3c48a15e533f81d5286f6c58e51745@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#0244 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.18.250.245:443?type=ws&sni=www.calmlunch.com#0286 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://2ce88088024f525d77c2bda96e81d737@ja262.magiclampcloud.cn:59443?type=tcp#0357 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@138.68.131.253:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#0385 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@64.227.115.28:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#0388 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@sg2.998998.best:443?type=ws&security=tls&fp=chrome&sni=nat6.outsidemyheart.space#0396 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://396b684da7e944a8f439669e24e8afed@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#0412 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ab2327f92ff95dd8f8ec190cb0528ee6@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0453 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ecb1c69fa0997abfe3965a2f343d4d52@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0460 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com#0489 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@109.234.211.232:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&host=www.pleadcourt.org&alpn=http/1.1#0503 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@45.130.125.18:443?type=ws&sni=www.calmlunch.com#0505 | Seychelles | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://7547490bb96d371033b58baf91772254@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0533 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@164.92.200.68:443?allowInsecure=0&type=ws&sni=www.pleadcourt.org&host=www.pleadcourt.org&alpn=http/1.1#0542 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@8.47.69.0:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#0545 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.27.203.207:443?type=ws&sni=www.pleadcourt.org#0561 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://4c1511d220e1437b234fa40571c43810@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0579 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@95.85.54.197:443?type=ws&sni=www.pleadcourt.org#0580 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#0614 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@ca.tronsg.com:443?allowInsecure=1&type=tcp#0632 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://f58156a6-ae2d-4b9b-beaf-da0b289e1469@m.nebservers.com:443?security=tls&fp=chrome&sni=m.nebservers.com#0660 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@31.57.190.34:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#0699 | 🇲🇪 Montenegro | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://lk59gDrTm2@www.777061.xyz:18603?sni=www.777061.xyz#0720 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://a6667237f0272b408e55cec8c3ebde8e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0758 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://77c2c63b9b3081a8deab212050ba5472@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0795 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://cc41caea9689c07168b9e3cb8cc3d7c3@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0814 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://e6a5cbbde3aae828e180b1fb4026841a@ja304.magiclampcloud.cn:59443?type=tcp#0835 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://0255972f1b5cc33c6f87fbc561085684@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#0836 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://06cf12a7fab279375e55e2f0cfdef381@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0864 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://bdbc9026183061770d64c6db2eab4ac7@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#0866 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d66e65fd90c2be0f94fa27adc0e5e088@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#0908 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=fin.netvia.ir&host=fin.netvia.ir&alpn=h2,http/1.1,h3#0926 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://XuMweB2PWs@2.27.109.179:45464?sni=2.27.109.179.sslip.io&path=/#1008 | 🇨🇳 HongKong | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@77.239.121.232:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#1014 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@164.92.223.252:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#1015 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@31.57.190.40:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#1033 | 🇲🇪 Montenegro | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://1a4dbf8b75346468b85c8d7f70c0cc75@ja304.magiclampcloud.cn:59443?type=tcp#1034 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.36.141.81:443?type=ws&sni=www.calmlunch.com#1041 | 🇪🇪 Estonia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://beb0854f651380331623d79eb06d87be@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1074 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://bb611501dbb9aea577fd803fe11e945d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1129 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@45.131.4.38:443?type=ws&sni=www.pleadcourt.org#1138 | 🇮🇷 Iran | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.18.250.252:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1142 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@95.85.32.57:443?type=ws&sni=www.pleadcourt.org#1145 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://4d8e20bdae228d69021cdac530a5ce6d@tyy129.magiclampcloud.com:59443?type=tcp#1179 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://aea165cb7f5890ff234bc2b8a7fb0de8@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#1190 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.97.4:443?type=ws&sni=www.pleadcourt.org#1192 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://5504eaa8-1395-402f-8e0e-75ecd762e627@172.64.144.82:443?type=ws&security=tls&fp=chrome&sni=server41.9966338.xyz&host=server41.9966338.xyz#1213 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://2bec9594deabbce4b0030700e6e916f0@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#1226 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://53d52598e15eda0daad99ec7d3461f06@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1236 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://b3dc9daaf39804635c99dc0a296926b4@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1246 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.21.33.59:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#1267 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@172.66.40.99:443?type=ws&security=tls&fp=chrome&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1#1285 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg2.m2k699.com:24999?type=tcp&security=tls&fp=chrome&sni=www.itunes.com#1298 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.17.121.9:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#1351 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tjtw.m2k699.com#1366 | Taiwan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@212.227.144.37:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus#1378 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://e956be48-3c09-4bf3-9737-83049e07d58b@m.nebservers.com:443?security=tls&fp=chrome&sni=m.nebservers.com#1392 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d453daeb7e9b5fb9cad882763bd71d85@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1400 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://x6x80rh7lr7jjqo6@cdn.ir53.indevs.in:2087?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=cdn.ir53.indevs.in&host=cdn.ir53.indevs.in&alpn=http/1.1#1536 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://6eef2727659a8135ac79419c64aa2f87@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#1577 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ed0ac307c27a5b8cd06c9712949a3b0e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1578 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@82.117.245.125:2053?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1658 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://2ddeb5f43bbb897b13db728b2dfbef92@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#1659 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://242a3d8eee5e4ed1a6bfa4141d549a25@www.findlocaljobnetworkandbuildcommunityconnections.com:443?type=tcp&security=tls&fp=chrome#1714 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@108.162.194.134:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org#1723 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://123456@104.18.35.86:2096?allowInsecure=1&type=ws&security=tls&fp=chrome&host=321dfbc6.uir-9i6.pages.dev#1736 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ce9e02e876e32eca66d901eb4d07461c@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#1821 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.17.121.9:443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=http/1.1#1826 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://08340a533092e321470fbe21b3407694@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1853 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ec1fa47d-4eac-4b3f-8cae-4a2982d43e2f@www.wto.org:8443?type=ws&security=tls&fp=chrome&host=jiangjc.pages.dev#1876 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d518716100e9e02b425f760d9219844e@ja262.magiclampcloud.cn:59443?type=tcp&sni=ja262.magiclampcloud.cn#1897 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://5abea49277813a05e58f337a5afa1f31@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#1909 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://c9e7641fa78aebca32be5f8da87a79ec@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#1930 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.98.0:443?type=ws&security=tls&fp=chrome&host=www.calmlunch.com#1971 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://aa47bc798fe7d60f6e1e56fb32d2954a@tyy129.magiclampcloud.com:59443?type=tcp&sni=tyy129.magiclampcloud.com#1990 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.18.37.228:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2#2029 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://a967a0bdb0a9aee1d9581130a2dcd19a@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2057 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@212.227.144.37:8443?allowInsecure=1&type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com&alpn=v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus--v2raynplus#2062 | 🇪🇸 Spain | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?type=tcp#2066 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ec9eae88bafe1b2e84f2fcd0d646c976@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2076 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.220.100.168:443?type=ws&sni=www.calmlunch.com&host=www.calmlunch.com#2105 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@191.96.94.226:443?type=ws&sni=www.calmlunch.com#2106 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@jp1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=jp1.zestapp778.com#2109 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://b84de87320ca97b4ff862f916cc67eaa@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2160 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ad2ac27a9fa52023755a961d77632f23@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#2190 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://43deb843e3f5da502d0b394995fc42d2@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2206 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@172.67.203.46:443?type=ws&security=tls&fp=chrome&sni=www.cordweave.com&host=www.cordweave.com&alpn=http/1.1#2226 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.16.6.70:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org&host=www.pleadcourt.org#2310 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@77.221.138.199:8443?type=ws&sni=www.calmlunch.com#2315 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://d306137cdbd55eac0d79ca7d1e3904a4@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2333 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@195.181.244.216:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2344 | 🇱🇹 Lithuania | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://f12507bcc9bbae297ed77b94d9232ae6@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#2357 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.18.45.38:443?allowInsecure=1&type=ws&sni=www.trusteeforward.com&host=www.trusteeforward.com&alpn=http/1.1#2361 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@chat.openai.com:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&alpn=h2#2365 | 🇦🇹 Austria | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@104.21.33.59:443?path=/assignment?ed#2388 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.16.72.2:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#2438 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@162.159.91.211:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2475 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@83.217.222.170:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#2493 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.97.2:443?type=ws&sni=www.pleadcourt.org#2501 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://881ff9e8588eaf4a7dd8352005921fa5@ja262.magiclampcloud.cn:59443?type=tcp#2535 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://c72fb0394432d4ae5e5b2de915f646c8@ja262.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja262.magiclampcloud.cn#2552 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.16.122.175:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#2555 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://123456@104.17.234.157:2096?type=ws&security=tls&fp=random&host=321dfbc6.uir-9i6.pages.dev&ed=2560#2575 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://53b0c468a3ef95de5ec22f517072bdcd@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2580 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://0y7hid61k3k2vuy1@uwu.blueknightnet.qzz.io:2087?type=ws&security=tls&fp=chrome&sni=uwu.dianaw.cc.cd&Host=uwu.dianaw.cc.cd#2600 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://53e00b660ad5da37f677dafeee646c9b@ja304.magiclampcloud.cn:59443?type=tcp&sni=ja304.magiclampcloud.cn#2628 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@46.62.230.149:443?type=ws&sni=www.pleadcourt.org#2685 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://fa74fc619c26978ad3585426d06fbde6@ja304.magiclampcloud.cn:59443?allowInsecure=0&type=tcp&sni=ja304.magiclampcloud.cn#2710 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2737 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@88.216.69.253:443?type=ws&security=tls&fp=chrome&sni=www.pleadcourt.org&alpn=http/1.1#2761 | 🇱🇹 Lithuania | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@in.tronsg.com:443?security=tls&fp=chrome&sni=in.tronsg.com#2795 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.97.7:443?type=ws&security=tls&fp=unsafe&sni=www.pleadcourt.org&alpn=http/1.1#2804 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://9f08b5c59e0e0f5235d111cab8a3fe1b@ja304.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja304.magiclampcloud.cn#2826 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://gHQP0D7D15@104.25.239.113:2053?type=ws&security=tls&fp=chrome&sni=marvdasht.phonecomparisonblog.org#2887 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://b6fde90b3a0080e7547099633e8d4a32@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2925 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://6f4b67c2bcc27761d176e830f9a1e92b@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2928 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://8yup05o4lz0csoxb@216.24.57.225:2083?type=ws&security=tls&fp=android&sni=fin.netvia.ir&alpn=h2,http/1.1,h3#2937 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@188.226.181.61:443?type=ws&sni=www.pleadcourt.org&alpn=http/1.1#2946 | 🇳🇱 Netherlands | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@45.130.125.126:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&Host=www.calmlunch.com#2948 | Seychelles | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://493b3d1b5d6a298a32eea1935463dc4d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#2951 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@185.255.179.166:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2956 | 🇩🇪 Germany | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@8.6.112.206:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1#2971 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@165.215.250.14:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#3000 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@188.114.97.6:443?type=ws&sni=www.trusteeforward.com&alpn=http/1.1#3018 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d9c8aa383174c25132e0df201ffab4e3@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#3021 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmg1.m2k699.com:24999?type=tcp&sni=www.itunes.com#3051 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://0892f6ae870db484a45a82524b45903d@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#3076 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://13e6b9f9497485cdedfdc59328e6a8ad@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#3079 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@104.18.8.83:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#3100 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://d86931c3cdedaae00c34a0ef62f744c6@tyy129.magiclampcloud.com:59443?allowInsecure=0&type=tcp&sni=tyy129.magiclampcloud.com#3108 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://ffaac02033b3fd3458f2aec9386da59b@tyy129.magiclampcloud.com:59443?type=tcp#3172 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://humanity@62.60.152.14:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#3315 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@178.128.45.156:443?type=ws&sni=www.pleadcourt.org#3322 | 🇬🇧 United Kingdom | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://74577e02978f5758d19f276a502b24b5@tyy129.magiclampcloud.com:59443?allowInsecure=1&type=tcp&sni=tyy129.magiclampcloud.com#3347 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu

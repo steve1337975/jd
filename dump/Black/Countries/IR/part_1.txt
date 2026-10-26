@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824651015
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824654093
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 15:30:15
-# servers-count: 30
+# generated-at: 10/26/2026 16:21:33
+# servers-count: 22
 
 vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?encryption=none&type=tcp&security=reality&sni=play.google.com&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&sid=66ded2&allowInsecure=1&fp=android#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
 vless://4bffd59b-fe75-4d67-667f-0111436214d5@s10.memqexa.ir:2087?mode=auto&pcs=b9497d3c9f713f938718d760ddb19930089483c3f5b2aa2be4debdcd95dd8337&path=%2FBetForward&security=tls&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=s10.memqexa.ir&type=xhttp&allowInsecure=0&sni=s10.memqexa.ir&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Falkenstein%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
@@ -15,25 +15,17 @@ vless://e7e1e726-b30f-477a-a308-3138e62a8d21@VipTun-Conf.korluma.ir:8010?encrypt
 trojan://mitivpn@b2n.ir:443?allowInsecure=1&sni=de.mitivpn.in.net&type=ws&host=de.mitivpn.in.net&path=#%5BOpenRay%5D%20%F0%9F%8C%90XX-197
 vless://b20f71dc-13da-4142-845f-10c9da190215@de5.premiumsell.ir:80?encryption=none&path=/&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-246
 vless://689e46e9-dcc2-4c5c-8301-8623024ad6f0@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-255
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?path=/?Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-309
+vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-283
 ss://YWVzLTEyOC1nY206ZGIyY2YzZTIxYzgzNDgzYzkwODRiOWRiMWJkNDY5ZmI@87.107.114.105:900#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B7IR-5
 vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-562
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?&security=tls&fp=chrome&sni=lucasjow.us.ci&type=ws&headerType=&host=lucasjow.us.ci&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-583
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?allowInsecure=0&sni=lucasjow.us.ci&alpn=http/1.1&type=ws&host=lucasjow.us.ci&path=/Chanel0111Netfp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%8C%90XX-693
 trojan://mitivpn@b2n.ir:443?security=tls&type=ws&host=de.mitivpn.in.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F--%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=de.mitivpn.in.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-736
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?alpn=http%2F1.1&encryption=none&fp=chrome&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-949
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1049
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4SlVpdjZRMW1CUHVSdjF5UTgtZHFGRXNzMEhvNEZ0RQ==@irnamh.g44mozgh.ir:1001#%5BOpenRay%5D%20%F0%9F%8C%90XX-1164
 vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:40285?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1265
 vless://689e46e9-dcc2-4c5c-8301-8623024ad6f0@tun2.w-ert.org:40289?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1405
-vless://560ecca1-7e20-4b41-b4d6-781fb3bc179d@dnld.chaqalli.com:8180?security=none&type=ws&path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&host=dnld.chaqalli.com&encryption=mlkem768x25519plus.native.0rtt.PdwZJuxIVUGHGbEzz3Q39ZoRqqxfF0lFg22yCLQvaWk#%5BOpenRay%5D%20%F0%9F%8C%90XX-1544
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjWl9CRUF3c3FFdEhDRXh0SXRJck9SRk9kQXd4aWMwRw==@irnamh.g44mozgh.ir:1001#%5BOpenRay%5D%20%F0%9F%8C%90XX-1550
 trojan://mitivpn@b2n.ir:443?allowInsecure=0&sni=de.mitivpn.in.net&alpn=http/1.1&type=ws&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/--@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN#%5BOpenRay%5D%20%F0%9F%8C%90XX-1708
 trojan://mitivpn@b2n.ir:443?host=de.mitivpn.in.net&path=/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1/--@VPNine1---@VPNine1/---@VPNine1---@VPNine1/---@VPNine1---@VPNine1&sni=de.mitivpn.in.net&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1785
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?alpn=http%2F1.1&fp=chrome&host=lucasjow.us.ci&path=%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-1847
 vless://9d356fd5-cf3f-4e73-b424-414e78c911bf@tun2.w-ert.org:23196?security=tls&encryption=mlkem768x25519plus.native.0rtt.g4zPsP8_Ju17nfVQ9cRaBqzWPbv0Ve4ELGpzE9yf8CA&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=ask.w-ert.org#%5BOpenRay%5D%20%F0%9F%8C%90XX-1860
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?&security=tls&fp=chrome&alpn=http%2F1.1&sni=lucasjow.us.ci&type=ws&headerType=none&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23#%5BOpenRay%5D%20%F0%9F%8C%90XX-2028
-vless://e6df2095-a73c-4043-8693-8d5a03686870@b2n.ir:443?fp=chrome&host=lucasjow.us.ci&path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132%3Fed%23Telegram---bored_vpn&security=tls&sni=lucasjow.us.ci&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-2306
 trojan://mitivpn@b2n.ir:443?sni=de.mitivpn.in.net&type=ws#%5BOpenRay%5D%20%F0%9F%8C%90XX-2713
 trojan://mitivpn@b2n.ir:443?type=ws&host=de.mitivpn.in.net&path=%2F&security=tls&sni=de.mitivpn.in.net#%5BOpenRay%5D%20%F0%9F%8C%90XX-2721
-trojan://humanity@62.60.152.14:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#3288 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@62.60.152.14:8443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com&host=www.calmlunch.com#3315 | 🇫🇷 France | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
