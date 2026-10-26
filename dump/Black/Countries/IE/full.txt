@@ -1,15 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824635843
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824650481
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 11:17:23
-# servers-count: 6
+# generated-at: 10/26/2026 15:21:21
+# servers-count: 7
 
 vless://caf3d607-95c9-4ea0-98b5-864027056ba0@46.16.131.178:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1TtWNQhTJr_3H7-ypMw4EiLzVxy22AzUtMiE5JmQMl4&sid=1c5869a95671bcb0&sni=ie1.accessboy.com&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-2
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.141.234.138:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-8
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-19
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.211.233.134:443?security=tls&alpn=http%2F1.1&insecure=0&fp=firefox&type=tcp&allowInsecure=0&sni=ie1.dedushka.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-32
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.141.234.138:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-7
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@166.1.221.39:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-16
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@188.211.233.134:443?security=tls&alpn=http%2F1.1&insecure=0&fp=firefox&type=tcp&allowInsecure=0&sni=ie1.dedushka.top#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-27
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4eqSUUtMzAiLCJhZGQiOiI1NC4yMjkuMTUxLjk3IiwicG9ydCI6IjU5MjM2IiwiaWQiOiIyMzg3YmZiYy0xMGE2LTRiZDctZGM1NS03Y2JhOTU0Y2U2ZTgiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCIsInR5cGUiOiJodHRwIiwidGxzIjoiIiwiYWxwbiI6IiIsInBhdGgiOiIvIiwiaG9zdCI6InRtcy5kaW5ndGFsay5jb20ifQ==
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?sni=ie1.dedushka.top&allowInsecure=1&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%8C%90XX-1772
-trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=ie1.dedushka.top#%5BOpenRay%5D%20%F0%9F%8C%90XX-2591
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@ie1.dedushka.top:443?alpn=http%2F1.1&security=tls&sni=ie1.dedushka.top#%5BOpenRay%5D%20%F0%9F%8C%90XX-2581
