@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824673832
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824674201
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 21:50:32
-# servers-count: 26
+# generated-at: 10/26/2026 21:56:41
+# servers-count: 20
 
 vless://fafc7c16-f890-45ee-a856-02df225172dd@196.196.208.14:443?encryption=none&pbk=p5CJCuZrNdf84dMWI-w-t6veMqQzaN6BLM41FxSHBlM&security=reality&serviceName=617ed18fb1ea&sid=ca89bd67e77b050c&sni=b6a968g.fi7.h1clayd.click&type=grpc&fp=chrome#🇺🇸 США
 vless://701ea834-7c31-4544-95d6-f0a4dfe40b36@66.234.150.151:443?security=reality&encryption=none&pbk=KYlgK96xPZJq10GbhF-BaCXRxXc9XzxzfICdooYvMlg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=d020b987f84eb78a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
@@ -27,9 +27,3 @@ vless://86a234ff-59d6-43ad-81ba-73d3f49f6fbb@65.21.122.30:443?allowInsecure=1&en
 vless://5adaf80e-2347-481f-84cb-46109d582c95@2.26.9.243:3454?type=grpc&security=reality&sni=yandex.ru&fp=chrome&pbk=Bz2EFAfox-uD9nn8qAVKy86A1kDKO2OpYQhMO4fCrCg&sid=159b4efc#gRPC%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://408c51e8-9246-483d-ba73-34ab4e202eb9@finkawwwbroy5.qcloud.surf:20324?flow=xtls-rprx-vision&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&security=reality&sid=a9391e22&sni=metrika.yandex.ru&type=tcp&fp=chrome&encryption=none#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://4fe214fb-048e-431f-b939-4518dc9df6a2@144.31.19.106:8443?alpn=h2%2Chttp%2F1.1&encryption=none&host=chat.speedload.ru&path=%2Fws&security=tls&sni=chat.speedload.ru&type=ws#TLS, Speedload [V.O.I.D]
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@samgeez.online:8443?security=reality&encryption=none&pbk=RcXsA7OGsbBAG_4Xs5jQ1YaLlq3oglNHEvyRphqbHko&headerType=none&fp=chrome&spx=/0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=26c4e208f355#t.me%2Ffreekesha21 - 138 %F0%9F%87%B7%F0%9F%87%BA
-vless://4ad3dbf5-2005-4d96-b56c-a0ca9905cab6@finkawwwbroy5.qcloud.surf:20324?encryption=none&flow=xtls-rprx-vision&pbk=RK2g-bLoaa9GD9cJRRk2ktU9nAvP4-YmUPnBs1-UC1A&security=reality&sid=a9391e22&sni=metrika.yandex.ru&type=tcp&fp=chrome#t.me%2Ffreekesha21 - 143 %F0%9F%87%BA%F0%9F%87%B8
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@fl1.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=fl1.balancer.vbuste-bot.com&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#t.me%2Ffreekesha21 - 299 %F0%9F%87%AB%F0%9F%87%AE
-vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?encryption=none&flow=xtls-rprx-vision&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&security=reality&sid=03&sni=fi5.silalink.sbs&type=tcp&fp=firefox#t.me%2Ffreekesha21 - 49 %F0%9F%87%AB%F0%9F%87%AE
-vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@one.alpheratzz.org:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=api-6ad3c751.adhil.uk&fp=firefox&flow=xtls-rprx-vision#t.me%2Ffreekesha21 - 386 %F0%9F%87%AA%F0%9F%87%AA
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@fi-p1.h1cloud.net:25481?security=reality&sni=www.bing.com&fp=firefox&pbk=mhIAHuZIEr2NpdGGSeOxar7VRSgEfVoNwb_G8Y0073E&sid=3b84fc70657725af&type=grpc&serviceName=8cb5baa18cd7&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 406 %F0%9F%87%B7%F0%9F%87%BA
