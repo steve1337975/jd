@@ -4,10 +4,7 @@ namespace NChecker.models.vpn.protocols
 {
     internal class HysteriaConfigData : VpnConfigBase
     {
-        private string _auth;
-        private string _sni;
-        private string _obfs;
-        private string _obfsPassword;
+        private string _auth, _sni, _obfs, _obfsPassword;
 
         internal HysteriaConfigData(string a1) : base(a1) { }
 

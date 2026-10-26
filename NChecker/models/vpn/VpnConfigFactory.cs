@@ -11,18 +11,17 @@ namespace NChecker.models.vpn
             string trimmedUrl = url.Trim();
             int schemeBounds = trimmedUrl.IndexOf("://", StringComparison.Ordinal);
             if (schemeBounds == -1) return null;
-
             string scheme = trimmedUrl.Substring(0, schemeBounds).ToLowerInvariant();
-
-            // Создаем нужного наследника в зависимости от схемы
             return scheme switch
             {
+                "socks4" => new Socks4ConfigData(trimmedUrl),
+                "socks5" => new Socks5ConfigData(trimmedUrl),
                 "vmess" => new VmessConfigData(trimmedUrl),
                 "vless" => new VlessConfigData(trimmedUrl),
                 "ss" or "shadowsocks" => new ShadowsocksConfigData(trimmedUrl),
                 "trojan" => new TrojanConfigData(trimmedUrl),
                 "hysteria2" or "hysteria" or "hy2" => new HysteriaConfigData(trimmedUrl),
-                _ => null // Если протокол не поддерживается или неизвестен
+                _ => null
             };
         }
     }

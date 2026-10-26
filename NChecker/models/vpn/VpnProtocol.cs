@@ -3,6 +3,8 @@
     internal enum VpnProtocol
     {
         Unknown,
+        Socks4,
+        Socks5,
         Vmess,
         Vless,
         Shadowsocks,

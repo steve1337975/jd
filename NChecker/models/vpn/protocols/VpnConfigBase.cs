@@ -22,7 +22,6 @@ namespace NChecker.models.vpn.protocols
             string scheme = Url.Substring(0, schemeBounds).ToLowerInvariant();
             Protocol = ParseProtocolScheme(scheme);
 
-            // Вызываем абстрактный метод парсинга, который реализует конкретный протокол
             Parse(Url);
         }
         protected abstract void Parse(string url);
@@ -62,6 +61,8 @@ namespace NChecker.models.vpn.protocols
         {
             return scheme switch
             {
+                "socks4" => VpnProtocol.Socks4,
+                "socks5" => VpnProtocol.Socks5,
                 "vmess" => VpnProtocol.Vmess,
                 "vless" => VpnProtocol.Vless,
                 "ss" or "shadowsocks" => VpnProtocol.Shadowsocks,
