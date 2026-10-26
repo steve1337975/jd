@@ -18,7 +18,11 @@ namespace NChecker.classes
         private string[] sni_domains;
         private DatabaseReader reader;
         private MemoryStream dbMemoryStream;
-        private HashSet<string> _addedHashes = new HashSet<string>();
+
+        // Три независимых HashSet для каждого типа подписки
+        private readonly HashSet<string> _blackHashes = new HashSet<string>();
+        private readonly HashSet<string> _whiteHashes = new HashSet<string>();
+        private readonly HashSet<string> _universalHashes = new HashSet<string>();
 
         internal NetworkingManager()
         {
@@ -81,6 +85,7 @@ namespace NChecker.classes
         internal async Task<SubscriptionData[]> ParseSubscriptions(SettingsData a1, SourceSubscriptionData[] a2)
         {
             List<SubscriptionData> subscriptions = new List<SubscriptionData>();
+
             foreach (SourceSubscriptionData subscriptionSourceData in a2)
             {
                 try
@@ -93,21 +98,37 @@ namespace NChecker.classes
                     catch (FormatException) { }
 
                     SubscriptionData subscriptionData = SubscriptionData.Create(subscriptionSourceData);
+
+                    // Выбираем правильный HashSet в зависимости от типа подписки
+                    HashSet<string> targetHashSet = subscriptionData.FilterType switch
+                    {
+                        SubscriptionType.Black => _blackHashes,
+                        SubscriptionType.White => _whiteHashes,
+                        _ => _universalHashes
+                    };
+
                     string[] lines = data.Split(new[] { "\r\n", "\n" }, StringSplitOptions.RemoveEmptyEntries);
                     int i = 1;
+
                     foreach (string line in lines)
                     {
                         string trimmedLine = line.Trim();
                         if (trimmedLine.StartsWith("#")) continue;
+
                         ServerData serverData = new ServerData(trimmedLine);
                         if (!serverData.IsValid()) continue;
+
                         string hash = serverData.GetHashData();
-                        if (!_addedHashes.Add(hash)) continue;
+
+                        // Дедупликация строго внутри соответствующего списка
+                        if (!targetHashSet.Add(hash)) continue;
+
                         serverData.SortedIndex = i;
                         serverData.FilterType = subscriptionData.FilterType;
                         subscriptionData.Servers.Add(serverData);
                         i++;
                     }
+
                     subscriptions.Add(subscriptionData);
                     if (a1.Logging) Logger.Info($"Успешно загружено => {subscriptionData.Url} / {subscriptionData.Servers.Count} серверов");
                 }

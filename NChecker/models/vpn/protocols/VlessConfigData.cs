@@ -4,8 +4,7 @@ namespace NChecker.models.vpn.protocols
 {
     internal class VlessConfigData : VpnConfigBase
     {
-        private string _uuid, _encryption, _security, _sni, _type, _host, _path, _publicKey, _shortId, _flow, _packetEncoding;
-        // Поле _fp намеренно исключено, чтобы отпечатки пальцев не плодили дубликаты
+        private string _uuid, _security, _sni, _type, _host, _path, _publicKey, _shortId, _flow;
 
         internal VlessConfigData(string a1) : base(a1) { }
 
@@ -66,10 +65,7 @@ namespace NChecker.models.vpn.protocols
                     _sni = string.IsNullOrEmpty(sniRaw) ? null : sniRaw;
 
                     string secRaw = queryParams["security"]?.ToLowerInvariant().Trim();
-                    _security = string.IsNullOrEmpty(secRaw) ? "none" : secRaw;
-
-                    string encRaw = queryParams["encryption"]?.ToLowerInvariant().Trim();
-                    _encryption = string.IsNullOrEmpty(encRaw) ? "none" : encRaw;
+                    _security = string.IsNullOrEmpty(secRaw) ? null : secRaw;
 
                     string rawType = queryParams["type"]?.ToLowerInvariant().Trim();
                     _type = (string.IsNullOrEmpty(rawType) || rawType == "raw" || rawType == "tcp") ? "tcp" : rawType;
@@ -79,26 +75,22 @@ namespace NChecker.models.vpn.protocols
                     _publicKey = queryParams["pbk"]?.Trim();
                     _shortId = queryParams["sid"]?.Trim();
                     _flow = queryParams["flow"]?.ToLowerInvariant().Trim();
-                    _packetEncoding = queryParams["packetEncoding"]?.ToLowerInvariant().Trim();
 
-                    // Нормализация и очистка мусорных host/path для Reality и TCP нод
-                    if (_security == "reality")
+                    // Тотальная зачистка мусорных путей (метрики, хэши, трюки с `=` и `%3D`)
+                    if (string.IsNullOrEmpty(_path) || _path == "/" || _path.Contains("=") || _path.Contains("%3D") || _path.Contains("metrics") || _path.Contains("telegram") || _path.Contains("marambashi"))
                     {
-                        if (string.IsNullOrEmpty(_host) || _host == _sni || _host.Contains("telegram") || _host.Contains("marambashi"))
-                        {
-                            _host = null;
-                        }
-                        if (string.IsNullOrEmpty(_path) || _path == "/" || _path.Contains("telegram") || _path.Contains("marambashi"))
-                        {
-                            _path = null;
-                        }
+                        _path = null;
+                    }
+
+                    // Очистка host, если он дублирует SNI или забит спамом
+                    if (string.IsNullOrEmpty(_host) || _host == _sni || _host.Contains("telegram") || _host.Contains("marambashi"))
+                    {
+                        _host = null;
                     }
                 }
                 else
                 {
                     _type = "tcp";
-                    _encryption = "none";
-                    _security = "none";
                 }
             }
             catch { }
@@ -106,10 +98,10 @@ namespace NChecker.models.vpn.protocols
 
         internal override string GetCoreSignature()
         {
-            string core = base.GetCoreSignature();
+            string core = base.GetCoreSignature(); // База: ip + port
 
+            // Оставляем только критический костяк подключения
             if (!string.IsNullOrEmpty(_uuid)) core += $"|uuid={_uuid}";
-            if (!string.IsNullOrEmpty(_encryption)) core += $"|enc={_encryption}";
             if (!string.IsNullOrEmpty(_security)) core += $"|sec={_security}";
             if (!string.IsNullOrEmpty(_sni)) core += $"|sni={_sni}";
             if (!string.IsNullOrEmpty(_type)) core += $"|type={_type}";
@@ -118,8 +110,6 @@ namespace NChecker.models.vpn.protocols
             if (!string.IsNullOrEmpty(_publicKey)) core += $"|pbk={_publicKey}";
             if (!string.IsNullOrEmpty(_shortId)) core += $"|sid={_shortId}";
             if (!string.IsNullOrEmpty(_flow)) core += $"|flow={_flow}";
-            if (!string.IsNullOrEmpty(_packetEncoding)) core += $"|pe={_packetEncoding}";
-            // _fp намеренно исключен, чтобы отпечатки (chrome/android/edge) не плодили дубликаты
 
             return core;
         }
