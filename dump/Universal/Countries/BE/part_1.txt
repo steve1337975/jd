@@ -1,24 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BE] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824725183
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 12:06:23
-# servers-count: 15
+# generated-at: 10/27/2026 22:04:46
+# servers-count: 2
 
-vless://d64ac545-bd16-49ca-b9c0-c90faa2b620c@109.69.218.164:443?type=tcp&headerType=none&security=reality&encryption=none&sni=zealous-vortex.cdn.cachefleet.com&fp=firefox&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#Full #651 @FreeCFGHub
-vless://88bc511b-c912-4745-86e8-685fd3f381bf@109.69.218.166:443?flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3657 @FreeCFGHub
-vless://2a12bb81-f3a3-41bb-99ab-36febf676b4a@109.69.218.217:443?security=reality&encryption=none&pbk=8hse7wRRL-F66rQ-aAeetKTw0MSeJC7Rr6EaDeLzdCU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=kind-wolf.cdn.cachefleet.com#Full #3659 @FreeCFGHub
-vless://913e7701-b4f0-4568-8f2f-79a8e71e14aa@109.69.218.164:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3682 @FreeCFGHub
-vless://181da4ca-bbce-4854-b9b5-eaea067ea206@109.69.218.164:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3689 @FreeCFGHub
-vless://e704d1f1-cbe6-417e-8b93-5b2d8635c4a1@109.69.218.166:443?flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3694 @FreeCFGHub
-vless://e704d1f1-cbe6-417e-8b93-5b2d8635c4a1@109.69.218.167:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3723 @FreeCFGHub
-vless://e704d1f1-cbe6-417e-8b93-5b2d8635c4a1@109.69.218.165:443?flow=xtls-rprx-vision&fp=chrome&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3739 @FreeCFGHub
-vless://913e7701-b4f0-4568-8f2f-79a8e71e14aa@109.69.218.166:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3747 @FreeCFGHub
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@109.69.218.168:443?security=reality&encryption=none&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=agile-raptor.cdn.cachefleet.com#Full #3752 @FreeCFGHub
-vless://f305eedf-ef6d-4402-ae86-f70e6c38fd65@109.69.218.167:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3781 @FreeCFGHub
-vless://e8485150-d10e-4271-b2fb-dd37c9bd44f4@109.69.218.165:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3785 @FreeCFGHub
-vless://88bc511b-c912-4745-86e8-685fd3f381bf@109.69.218.165:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3804 @FreeCFGHub
-vless://e8485150-d10e-4271-b2fb-dd37c9bd44f4@109.69.218.166:443?flow=xtls-rprx-vision&fp=randomized&pbk=6rnKHCkFuVeaJjiXLnJhfzQpQRSlPt-i6USvnRFiUBg&security=reality&sid=223d6eafc6c6e894&sni=lerua.xyz&type=tcp#Full #3812 @FreeCFGHub
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&headerType=&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%A7%F0%9F%87%AA%20%5BVL%5D%20%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F%20%234436%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://d64ac545-bd16-49ca-b9c0-c90faa2b620c@109.69.218.164:443?type=tcp&headerType=none&security=reality&encryption=none&sni=zealous-vortex.cdn.cachefleet.com&fp=firefox&pbk=cv_KJnMzQUZruACPbH-BCgLWrYqPm2dbUymg-gW_sVc&flow=xtls-rprx-vision#Full #533 @FreeCFGHub
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@141.98.233.6:443?&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&headerType=&host=snip.edgeoneai.cc.cd&path=%2F#%F0%9F%87%A7%F0%9F%87%AA%20%5BVL%5D%20%D0%91%D0%B5%D0%BB%D1%8C%D0%B3%D0%B8%D1%8F%20%234348%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
