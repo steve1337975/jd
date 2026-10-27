@@ -1,52 +1,33 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ID] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824685100
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824703554
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 00:58:20
-# servers-count: 43
+# generated-at: 10/27/2026 06:05:54
+# servers-count: 24
 
-trojan://idc117okt@103.226.139.201:443?security=tls# By EbraSha 🐺
-vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd# By EbraSha 🦂
-vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiQnkgRWJyYVNoYSDwn46b77iPIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1NTM4NiIsInBzIjoiQnkgRWJyYVNoYSDwn5ucIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWlvLnVubGltaXRlZC5iaXouaWQiLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9haW9wcm94eWJvdC8xMjkuMTUwLjQ5LjU4LTE4NjUwIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5C6Iiwic2N5IjoiemVybyIsInNuaSI6ImFpby51bmxpbWl0ZWQuYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJ3YWlmdS5rdXJ1bWkuYml6LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMzM5M2NjOWUtNzQ5OC00OTQyLTliYzQtYzZkYTczMDgwZmQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5e/Iiwic2N5IjoiYXV0byIsInNuaSI6ImRpc2NvcmQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@147.139.189.225:443?type=ws&security=tls&host=proxy-1cu.pages.dev&fp=android#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A6%F0%9F%87%B7%20%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@147.139.189.225:443?security=tls&type=ws&path=%2F&host=proxy-1cu.pages.dev&packetEncoding=xudp&sni=proxy-1cu.pages.dev&fp=android&encryption=none#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AE%F0%9F%87%AA%20%F0%9F%87%B8%F0%9F%87%AC%20%7C%20%5BBL%5D
+trojan://idc117okt@103.226.139.201:443?security=tls# By EbraSha 🕶️
+vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd# By EbraSha 🩸
+vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1MzQzNyIsInBzIjoiQnkgRWJyYVNoYSDwn5OfIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJhei0xLmxpbmthYS54eXoiLCJhaWQiOjAsImhvc3QiOiJhei0xLmxpbmthYS54eXoiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI1NTM4NiIsInBzIjoiQnkgRWJyYVNoYSDwn6epIiwic25pIjoiYXotMS5saW5rYWEueHl6IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJhaW8udW5saW1pdGVkLmJpei5pZCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWlvLnVubGltaXRlZC5iaXouaWQiLCJpZCI6ImYyODJiODc4LTg3MTEtNDVhMS04YzY5LTU1NjQxNzIxMjNjMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9haW9wcm94eWJvdC8xMjkuMTUwLjQ5LjU4LTE4NjUwIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5ObIiwic2N5IjoiemVybyIsInNuaSI6ImFpby51bmxpbWl0ZWQuYml6LmlkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ3YWlmdS5rdXJ1bWkuYml6LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMzM5M2NjOWUtNzQ5OC00OTQyLTliYzQtYzZkYTczMDgwZmQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn46b77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImRpc2NvcmQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3YWlmdS5rdXJ1bWkuYml6LmlkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJkaXNjb3JkLmNvbSIsImlkIjoiMzM5M2NjOWUtNzQ5OC00OTQyLTliYzQtYzZkYTczMDgwZmQ5IiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzIiwicG9ydCI6IjgwIiwicHMiOiJCeSBFYnJhU2hhIPCfjIMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJpa2Qud2ViLmlkIiwiYWlkIjoiMCIsImhvc3QiOiJpa2Qud2ViLmlkIiwiaWQiOiI4ZTVhNDU5YS0wNzg3LTQxZTEtYWU5MS05NjFkMzVjMWUyOWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWZmb3JkYWJsZS1jcmVhdGUtdG8tZmludGVjaC1zb2x1dGlvbnMvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDimaDvuI8iLCJzbmkiOiJpa2Qud2ViLmlkIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-socks4://103.87.81.86:5678
+vmess://eyJhZGQiOiJpa2Qud2ViLmlkIiwiYWlkIjoiMCIsImhvc3QiOiJpa2Qud2ViLmlkIiwiaWQiOiI4ZTVhNDU5YS0wNzg3LTQxZTEtYWU5MS05NjFkMzVjMWUyOWIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYWZmb3JkYWJsZS1jcmVhdGUtdG8tZmludGVjaC1zb2x1dGlvbnMvYnV5LXZtZXNzLXdzLXBtLXRlbGVncmFtLWF0LXN5bnJpY2hhIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5C6Iiwic25pIjoiaWtkLndlYi5pZCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 socks4://103.61.116.138:5678
-socks4://103.18.47.79:4145
-socks4://117.102.101.52:5678
-socks4://210.79.141.226:2081
-socks4://41.216.186.68:80
-socks4://103.148.201.74:1089
-socks4://103.102.13.107:8080
-socks4://123.231.230.58:31196
-socks4://182.16.171.65:51459
+socks4://36.66.170.25:4153
+socks4://115.85.86.114:5678
+socks4://59.153.81.234:5678
 socks4://103.25.167.177:4153
-socks4://36.95.82.69:1080
-socks4://103.161.62.184:1080
-socks4://103.158.13.191:100
-socks4://149.129.255.179:5060
-socks4://149.129.255.179:9091
-socks4://8.215.12.103:5000
-socks4://8.215.12.103:8448
-socks4://8.215.12.103:5060
-socks4://149.129.255.179:3129
-socks4://8.215.12.103:90
-socks4://8.215.12.103:8060
-socks4://8.215.12.103:8009
-socks4://8.215.25.3:2080
+socks4://103.154.76.52:8080
+socks4://103.23.100.9:1080
+socks4://119.18.156.245:1080
+socks4://202.46.78.82:4145
+socks4://8.215.12.103:8181
 socks4://8.215.12.103:88
-socks4://8.215.12.103:82
-socks4://119.18.156.242:1080
-socks4://36.64.27.123:5678
-socks4://103.105.78.207:1092
-socks5://103.67.244.220:20001
-socks5://8.215.15.163:9999
-socks5://8.215.15.163:111
-socks5://160.22.200.60:69
-socks5://8.215.15.163:50
-vless://273bdcb8-a130-4497-b5d8-06200c2b3724@go.gogofly.dev:443?type=tcp&security=reality&fp=qq&pbk=tPuka_YR19bUsTlwaS9Cez9qBdZ39165WSWUBYjX6Ug&sid=cc0ec392ca767ec1&sni=go.gogofly.dev#3371 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+socks4://202.162.219.12:1080
+socks5://103.189.63.149:53053
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz&host=ccc.010304.xyz#1622 | 🇮🇩 Indonesia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
