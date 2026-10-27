@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 11
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 16
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Япония
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Япония
@@ -18,3 +18,8 @@ vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087?type=grpc&security
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:10583?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&host=Telegram-Leviko_v2ray&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#121.%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:19645?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#142.%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
 vless://814bd064-544d-4255-a070-5705c03f6da9@3.114.220.22:18007?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&encryption=none#145.%F0%9F%87%AF%F0%9F%87%B5%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@154.19.187.190:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 279 %F0%9F%87%AF%F0%9F%87%B5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@209.33.172.78:8443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 350 %F0%9F%87%AF%F0%9F%87%B5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@3.113.232.245:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 362 %F0%9F%87%AF%F0%9F%87%B5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.76.208.253:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 381 %F0%9F%87%AF%F0%9F%87%B5
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@139.180.194.242:443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#t.me%2Ffreekesha21 - 393 %F0%9F%87%AF%F0%9F%87%B5

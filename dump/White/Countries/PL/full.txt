@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PL] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 30
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 31
 
 vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@2.27.244.94:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇺🇸 США
 vless://8c105407-82fb-4dd1-8df4-916d34a7d3fe@2.27.244.94:443?encryption=none&type=xhttp&path=%2F&host=www.google.com&mode=auto&security=reality&sni=www.google.com&fp=qq&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE#AetrisVPN White list ┃ ✅ SNI: www.google.com ┃ 🇵🇱 Польша
@@ -37,3 +37,4 @@ vless://438b4dc4-57a4-4c09-a32a-6730ca071ca8@82.22.41.125:443?type=tcp&security=
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?type=tcp&security=reality&sni=pl.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=f189d91760bb6663#TCP, JoJack [V.O.I.D]
 vless://16403c2a-541f-4215-9bd5-b43a32f089d0@45.66.11.167:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8fXNiQXCGEDSkgXAQWVpdC7dh4ORt3BeF_BOR2FxdCg&security=reality&sni=www.amd.com&type=tcp#44.%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%40LimeVPNFREE
 vless://4d852af3-a121-41aa-9aed-4ca40a6f7b4d@177.1.192.72:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=addons.mozilla.org&fp=randomized&pbk=y3YCXTqEVks0nGfiSwJ43ol4pY69-mWFUZsdmveoVDM&sid=46455ff0&type=tcp&headerType=none#148.%F0%9F%87%B5%F0%9F%87%B1%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%20%7C%20%40LimeVPNFREE
+vless://88281d02-b387-4fe3-918e-26ed331e6d08@201.7.25.100:24446?mode=gun&security=reality&encryption=none&pbk=w9JCByLSU3NGciCv2iceOz4TRL4swv8jfIAYoaKSyEw&fp=chrome&type=grpc&serviceName=telegram-bridge&sni=willow.cdn.cachefleet.com&sid=a0938b702257f780#t.me%2Ffreekesha21 - 115 %F0%9F%87%AA%F0%9F%87%AA

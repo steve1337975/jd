@@ -1,17 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LV] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 35
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 36
 
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#Lite #164 @FreeCFGHub
 vless://bb1985eb-bb3b-418a-968a-13b7ff23d347@104.253.25.106:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=5jRhbyWh1T_J61Ro-7J4L5QFR2PkqNyXS4841VphYn0&sni=www.max.ru#Lite #942 @FreeCFGHub
 vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#Lite #1022 @FreeCFGHub
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&type=tcp#Full #022 @FreeCFGHub
-vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&security=reality&sid=67ece882d65d0f1a&sni=m.vk.com&type=tcp&fp=chrome#Full #057 @FreeCFGHub
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@lv.monkora.org:443?encryption=none&security=reality&sni=example.org&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&type=tcp&headerType=none#Full #349 @FreeCFGHub
 vless://454431fc-71e2-42b1-b375-5b55dd06666a@85.159.228.223:443?encryption=none&fp=firefox&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&security=reality&sni=example.org&type=tcp#Full #356 @FreeCFGHub
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@185.81.129.197:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lites.3apes.online&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#Full #528 @FreeCFGHub
@@ -34,11 +33,13 @@ vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryptio
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?flow=xtls-rprx-vision&fp=safari&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&security=reality&sid=b28db60d77c50b4f&sni=yandex.ru&type=tcp#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%232012%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@185.81.129.201:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&sni=lite.3apes.online&encryption=none&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20%5BVL%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%238207%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@185.81.129.202:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&security=reality&sni=lt.3apes.online&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20%5BVL%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%23392%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-vless://02fcc1a4-ee90-4970-8bbb-4ffaa8109d24@195.123.213.28:443?security=reality&type=tcp&packetEncoding=none&allowInsecure=1&sni=www.cloudflare.com&fp=chrome&flow=xtls-rprx-vision&sid=5c256336e3b673fa&pbk=NMgy1XgCSXExOg6Tg8xG9lCWttMF6sjdpB41lZy6FWo#%F0%9F%87%B1%F0%9F%87%BB%20%5BVL%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%2311214%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://042b12d8-bac4-4b3a-b661-79e333f08e4e@45.43.79.92:443?flow=xtls-rprx-vision&fp=firefox&pbk=M4Y9h339sntl5wEpiCa7f4IKhJ_8JLzPnAz2IzKlngM&security=reality&sid=af4ca5d16438c938&sni=vikt659.isgood.host&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20%5BVL%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%234498%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-vless://eb6ba095-8184-4a85-992f-7a42049124cc@www.zeenvio.ir:49054?security=reality&encryption=mlkem768x25519plus.native.0rtt.Bg4V8F4h98igrHnu5gErCiQUAqJr1DAJWKhoFNh0ZEc&pbk=4vWyTSLXJwt3k3nHFM7o6I5xzV8QijATPS_THsiUlQM&headerType=none&fp=chrome&type=tcp&sni=token.safebrowsing.apple&sid=2c98412b4dc3fed0#%F0%9F%87%BA%F0%9F%87%BF%20%5BVL%5D%20%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%239525%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://humanity@185.22.172.249:443?security=tls&type=ws&host=www.pleadcourt.org&path=%2Fassignment&sni=www.pleadcourt.org#%F0%9F%87%B1%F0%9F%87%BB%20%5BTR%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%236491%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://humanity@94.158.219.126:443?sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20%5BTR%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%237511%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://humanity@85.31.102.163:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#%F0%9F%87%B1%F0%9F%87%BB%20%5BTR%5D%20%D0%9B%D0%B0%D1%82%D0%B2%D0%B8%D1%8F%20%231126%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20%5B%D0%91%D0%A1-VL%5D%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B%20%2316170%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://0d93b787-b66b-4696-a036-a0f549764f69@46.183.216.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9ged75OhdD4P8yzPPXDESnRkdFM4br4I44OwXLWd_iY&security=reality&sid=0a50b13e8fa3a7ef&sni=rblx.fasti.win&type=tcp#%F0%9F%87%B8%F0%9F%87%AE%20%5B%D0%91%D0%A1-VL%5D%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F%20%2316306%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@146.19.128.4:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=english.videoticher.com#0290 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://30572b57-f5ab-4eb8-82d4-a24d399b99f6@146.19.128.62:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=Buy9pirx5Ih_LHwc6R3BCmvRL4g4Ljx6B3MEsZfIZhU&sni=englishdop2.videoticher.com#0536 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@94.158.219.126:443?type=ws&sni=www.pleadcourt.org#0561 | 🇱🇻 Latvia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@185.22.172.249:443?type=ws&sni=www.pleadcourt.org#3030 | 🇱🇻 Latvia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu

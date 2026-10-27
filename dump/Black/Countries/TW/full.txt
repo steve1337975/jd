@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TW] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 49
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 62
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@2.58.241.42:443# By EbraSha 🧩
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp0MHNybWR4cm0zeHlqbnZxejlld2x4YjJteXE3cmp1dg@118.163.198.43:2377# By EbraSha 📶
@@ -50,9 +50,22 @@ vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?security=tls&type=
 vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1# By EbraSha ♠️
 vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjowLCJob3N0IjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsImlkIjoiMjUwYzAxNWQtYmFiMC00ZWQzLWI2MzgtYjRlZGE0OGY1ODQwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfk58iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
 vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCfpbciLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjowLCJob3N0IjoiOTY0MTY4NC5zZGY2NWg0LnRvcCIsImlkIjoiMjUwYzAxNWQtYmFiMC00ZWQzLWI2MzgtYjRlZGE0OGY1ODQwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIOKaoSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJtZGsubWRtZWtqbGwuYmVzdCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoibWRrLm1kbWVramxsLmJlc3QiLCJpZCI6IjZFNTcxNDg0LTQxNjYtNDY5OS04RjU4LUIzNEExODIzNjkxRiIsIm5ldCI6IndzIiwicGF0aCI6Ii9nYW1lL3Jlc291cmNlcyIsInBvcnQiOiI4MCIsInBzIjoiQnkgRWJyYVNoYSDwn5OfIiwic2N5IjoiYXV0byIsInNuaSI6Im1kay5tZG1la2psbC5iZXN0IiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiYWlkIjoiMCIsImhvc3QiOiI5NjQxNjg0LnNkZjY1aDQudG9wIiwiaWQiOiIyNTBjMDE1ZC1iYWIwLTRlZDMtYjYzOC1iNGVkYTQ4ZjU4NDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5O8Iiwic2N5IjoiYXV0byIsInNuaSI6Ijk2NDE2ODQuc2RmNjVoNC50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI2ZTU3MTQ4NC00MTY2LTQ2OTktOGY1OC1iMzRhMTgyMzY5MWYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdmlkZW8iLCJwb3J0IjoiNTIzMDAiLCJwcyI6IkJ5IEVicmFTaGEg8J+bnCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://4a270d3e-27b4-497d-8c8c-28f1f54958d9@83.147.14.168:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&sni=www.amazon.com#1842 | Taiwan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=tjtw.m2k699.com#2467 | Taiwan | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vmess://eyJhZGQiOiJoaS5ub3J0aGNsdXN0ZXIuaW5mbyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaGkubm9ydGhjbHVzdGVyLmluZm8iLCJpZCI6IjZlNTcxNDg0LTQxNjYtNDY5OS04ZjU4LWIzNGExODIzNjkxZiIsIm5ldCI6IndzIiwicGF0aCI6Ii92aWRlbyIsInBvcnQiOiI1MjMwMCIsInBzIjoiQnkgRWJyYVNoYSDwn5qoIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+https://211.72.236.159:443
+https://114.33.6.158:443
+https://107.167.191.95:8443
+http://34.81.160.132:80
+socks5://116.118.147.196:1080
+socks5://223.165.10.15:1080
+socks5://223.165.10.17:1080
+socks5://223.165.10.13:1080
+http://164.52.11.194:18080
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?sni=tjtw.m2k699.com&peer=tjtw.m2k699.com&security=tls#TW   TROJAN-TCP-TLS - Akari Networks  188.253.7.44
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-220.128.135.193-3372
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443?security=tls#%F0%9F%87%B9%F0%9F%87%BCTW-60.250.152.229-3394
+http://220.128.223.136:8082
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?sni=tjtw.m2k699.com&type=tcp&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%BCTW-20
+vless://4a270d3e-27b4-497d-8c8c-28f1f54958d9@83.147.14.168:9443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0hIFPaEn4RdFib8_eP8HYxMywR5izEwM3JA2W1Zo8U4&sid=b390142456517acc&sni=www.amazon.com#1864 | Taiwan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

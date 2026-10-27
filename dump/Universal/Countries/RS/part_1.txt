@@ -1,13 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 15
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 16
 
-vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.google.co.uk&fp=firefox&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&flow=xtls-rprx-vision#%F0%9F%87%B7%F0%9F%87%B8%20%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F%20%E2%80%94%20Belgrade
+vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&sni=www.google.co.uk&encryption=none#Lite #119 @FreeCFGHub
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.24:443?encryption=none&fp=firefox&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&security=reality&serviceName=gw.v1.ObjectService&sid=4872856d5489c37d&sni=rs5.univesalsrv.com&type=grpc#Lite #314 @FreeCFGHub
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?type=grpc&headerType=none&security=reality&encryption=none&sni=rs2.univesalsrv.com&fp=chrome&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&sid=1469af2040b7c323&serviceName=media.v1.ObjectService&mode=gun#Full #504 @FreeCFGHub
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?type=grpc&headerType=none&security=reality&encryption=none&fp=chrome&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&sid=ed0cd5cc2e26e6e7&serviceName=node.v2.ObjectService&mode=gun#Full #511 @FreeCFGHub
@@ -22,3 +22,4 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@150.40.126.22:443?encryption=none&s
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=chrome&type=grpc&serviceName=gw.v1.ObjectService&sni=&sid=4872856d5489c37d#%F0%9F%87%B7%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F%20%23611%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&authority=/?BIA_TELEGRAMIâ@V2rayNG_SPDNet&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&fp=chrome&type=grpc&serviceName=media.v1.StreamService&sid=861ac7d66953e55f#%F0%9F%87%B7%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%B5%D1%80%D0%B1%D0%B8%D1%8F%20%23555%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&spx=/&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%2313%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&sni=rs4.univesalsrv.com&serviceName=media.v1.StreamService#1937 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu

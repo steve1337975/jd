@@ -1,17 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [US] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 49
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 63
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 США
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 США
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 США
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🇺🇸 США
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 США
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTZjNDk3ZS0wMmJjLTRiNDYtODgzZi0wNjc0N2NhYmRmYmQ=@107.172.219.230:2096#🇺🇸 США
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 США
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 США
 ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@15.204.247.175:8008#🇺🇸 США
@@ -31,7 +32,6 @@ ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@15.204.246.107:8888#%F0%9F%87%BA%F0%9F%
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@15.204.246.132:7307#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://7c464358-6c89-4623-bd20-7c7bcd51bc55@vd2.outlinevpn.cc:12213?security=reality&type=tcp&allowInsecure=1&sni=music.yandex.ru&fp=chrome&flow=xtls-rprx-vision&sid=6a29a03b21&pbk=kTKM-s7XF0s878Ydmq1KeZFiGT6k1Bw_rLE79s1l1jI#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%D0%9C%D1%83%D0%B7%D1%8B%D0%BA%D0%B0%20%5BV.O.I.D%5D
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443?security=reality&encryption=none&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=bbe46bd8f6b96839#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://7d40449f-92df-4256-9607-679241455d49@79.141.172.184:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=5DrNWT7Q8J_9XU8XJjJV0S9KF6OIM3cdg7MWsE9f-EI&sid=e84357d853e378a3&sni=stats.vk-portal.net&path=&host=#TCP, VK [V.O.I.D]
 vless://84124a40-4b02-4762-a3a6-6cf43f297724@fimain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#TCP, VK [V.O.I.D]
@@ -49,10 +49,24 @@ vless://37cec958-22ac-4d99-aee2-48facd8d84d7@144.31.57.48:4143?type=grpc&securit
 vless://0f894d8f-cb0c-407e-a047-41353cf9dbd7@msc1.serverslocal.ru:443?security=reality&encryption=none&pbk=qPh1iuwpELosLWTxOXyfCiMghs_sjSzCOGbkiF0gdkk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=msc1.serverslocal.ru&sid=f7e66e308136e1a1#8.%F0%9F%87%BA%F0%9F%87%A6%D0%A3%D0%BA%D1%80%D0%B0%D0%B8%D0%BD%D0%B0%20%7C%20%40LimeVPNFREE
 vless://1c332eae-7e02-4acd-996d-4eb3e652401c@prep.wwwinternetvideo.click:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yandex.ru&fp=firefox&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839&type=tcp&headerType=none&host=yandex.ru&path=%2F%2B#58.%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
 vless://352ff568-f971-4613-bf48-92997a5d44ed@23.95.222.127:8443?flow=xtls-rprx-vision&fp=chrome&pbk=ribQDOlZ69PzvZ1EDF0EcmMvbq_T5RQrVRBSGUU2riU&security=reality&sid=35cd899f8de04801&sni=www.apple.com&type=tcp#101.%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%7C%20%40LimeVPNFREE
-vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:18662?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#109.%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%7C%20%40LimeVPNFREE
 vless://f79cb3fa-70b7-4dc5-86ce-a02e9528c3c3@23.172.40.108:20808?encryption=none&security=reality&type=tcp&sni=shop-eu-en.amd.com&flow=xtls-rprx-vision&fp=chrome&pbk=WIZniiSMNsJ82J5Ee4YthKavyreqYxxz1PyqKbWbQQI&sid=b4#110.%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%7C%20%40LimeVPNFREE
 vless://3cd1770d-f285-4cf4-8979-e9dd8f4be36a@23.134.76.212:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us.dark-bit.cc&fp=chrome&pbk=cYmfBXsDs1sqQ2ZBW3xsFroB7JHV_ufFT5m7ab7STnU&sid=9ab513f082d4c6e1&spx=%2F&type=tcp#111.%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%7C%20%40LimeVPNFREE
 vless://c96f941e-dd8a-006e-89d5-740b79202ed0@13.143.137.180:8443?encryption=none&fp=firefox&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&security=reality&sid=187eea0acfb7f778&sni=x5club.ru&type=tcp#177.%F0%9F%87%B7%F0%9F%87%BA%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%7C%20%40LimeVPNFREE
 vless://814bd064-544d-4255-a070-5705c03f6da9@67.220.73.204:16016?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&security=reality&sid=48050fab&sni=www.apple.com&type=tcp#178.%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%7C%20%40LimeVPNFREE
-hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=vk.com#1254 | 🇺🇸 USA | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
-vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1328 | 🇺🇸 USA | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@saas.sin.fan:443?path=/fdip=sstp://vpn:vpn@vpn748359672.opengw.net:1458?ed=2560&security=tls&alpn=h3,h2&encryption=none&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#t.me%2Ffreekesha21 - 1 %F0%9F%87%B7%F0%9F%87%BA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.135.234:443?path=/&security=tls&alpn=h3,h2&encryption=none&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#t.me%2Ffreekesha21 - 12 %F0%9F%87%B7%F0%9F%87%BA
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@162.159.130.234:443?&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&headerType=&host=snip.edgeoneai.cc.cd&path=%2F#t.me%2Ffreekesha21 - 87 %F0%9F%87%B8%F0%9F%87%B0
+vless://a32eb03a-c0fe-434d-af9b-7a28070ab840@151.101.173.81:443?encryption=none&security=tls&sni=accounts.fastly.com&alpn=h3&type=xhttp&mode=packet-up&host=dayka-unkepravber.net&path=%2F&fp=ios#t.me%2Ffreekesha21 - 192 %F0%9F%87%BA%F0%9F%87%B8
+vless://8a9c586c-4b2c-49e5-9e78-97408bf58500@direct-nl.bachidze.com:443?flow=xtls-rprx-vision&pbk=E12wXXagR8xuql7KlWCLTgMaXj74JcU__lg66yz6iTw&security=reality&sni=direct-nl.bachidze.com&type=raw&fp=safari#t.me%2Ffreekesha21 - 26 %F0%9F%87%B3%F0%9F%87%B1
+vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443?&security=reality&flow=xtls-rprx-vision&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&sid=9c56fddf237e8eaf&fp=chrome&sni=www.cloudflare.com&type=tcp&headerType=none&path=%2F#t.me%2Ffreekesha21 - 29 %F0%9F%87%BA%F0%9F%87%B8
+vless://732ec777-bf4a-4fee-835a-25d6a8b58563@usandvipnewpnlsz.mamadhpbot.ir:8080?path=/real&security=none&encryption=none&host=www.goo.gl&type=ws#t.me%2Ffreekesha21 - 37 %F0%9F%87%BA%F0%9F%87%B8
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t17.qifei.app:443?type=tcp&security=reality&encryption=none&sni=www.amazon.com&fp=ios&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&flow=xtls-rprx-vision&headerType=none#t.me%2Ffreekesha21 - 109 %F0%9F%87%BA%F0%9F%87%B8
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.videobereg.cc:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=a8&sni=api.videobereg.cc&encryption=none#t.me%2Ffreekesha21 - 123 %F0%9F%87%BA%F0%9F%87%B8
+vless://ef841361-5a82-0096-887c-3be03f6eac99@31.76.6.160:8443?encryption=none&pbk=7T9ZSCdUh4IUlx17R1Vbzk8kjiopA3j5mI7-inh6aQU&security=reality&sid=187eea0acfb7f778&sni=x5club.ru&type=tcp&fp=ios#t.me%2Ffreekesha21 - 157 %F0%9F%87%B7%F0%9F%87%BA
+vless://082f5694-9019-4110-b67b-8125dbb9bab8@api.mediasvyaz.cc:443?encryption=none&flow=xtls-rprx-vision&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&security=reality&sid=a8&sni=api.mediasvyaz.cc&type=raw&fp=firefox#t.me%2Ffreekesha21 - 163 %F0%9F%87%AC%F0%9F%87%A7
+vless://1a11d3a8-f327-4f97-81b2-f776c138dec7@45.128.60.127:443?type=tcp&security=reality&sni=www.nokia.com&fp=chrome&flow=xtls-rprx-vision&pbk=kb93iSFmgqH_hIEAL15LZdrB9E-QfGFYG1mspAYJUzI&sid=557d83da1a36996f#t.me%2Ffreekesha21 - 327 %F0%9F%87%B3%F0%9F%87%B1
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@149.104.5.126:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 346 %F0%9F%87%AD%F0%9F%87%B0
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@45.61.149.205:8443?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome#t.me%2Ffreekesha21 - 391 %F0%9F%87%BA%F0%9F%87%B8
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@23.158.233.2:2096?security=tls&type=ws&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none#t.me%2Ffreekesha21 - 392 %F0%9F%87%BA%F0%9F%87%B8
+hysteria2://gf1:gfhysteria2024@66.94.121.46:443?sni=vk.com#1274 | 🇺🇸 USA | 🏳️ SNI-VK | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+vless://ae908ff5-f749-402c-af25-e6e9aef4d6bb@45.138.100.248:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru#1348 | 🇺🇸 USA | 🏳️ SNI-X5 | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

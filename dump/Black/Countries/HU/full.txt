@@ -1,12 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761086
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:04:46
-# servers-count: 3
+# generated-at: 10/27/2026 22:18:18
+# servers-count: 12
 
 trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha ⚔️
 vmess://eyJhZGQiOiIxODUuMTI4LjI2LjcwIiwiYWlkIjo2NCwiaG9zdCI6Ind3dy45NjQzNzY1OC54eXoiLCJpZCI6IjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii9wYXRoLzE5MTAxOTA3MjkyNyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfjI0iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+socks4://178.48.13.177:80
+https://80.77.112.216:443
+https://193.201.185.68:443
+https://193.201.185.155:443
+https://193.201.185.63:443
+https://46.29.140.237:443
+https://193.226.205.54:443
 socks4://109.61.117.11:1080
+http://84.2.239.42:4153
+trojan://humanity@185.225.68.232:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#HU   TROJAN-TCP-TLS - 23VNet Kft.  185.225.68.232
