@@ -1,10 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MD] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824674201
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824685101
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 21:56:41
-# servers-count: 1
+# generated-at: 10/27/2026 00:58:21
+# servers-count: 2
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sid=8e07337954f9823f#🇲🇩 Молдова
+vless://3fcec4e4-a674-44d2-8cae-c253cec43b9c@ns.l90909l.vip:2096?encryption=none&security=reality&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=grpc&authority=&serviceName=vless-grpc-reality&mode=gun#gRPC, VK [V.O.I.D]
