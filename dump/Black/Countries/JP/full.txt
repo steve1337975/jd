@@ -1,16 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746376
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824751593
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 17:59:36
-# servers-count: 156
+# generated-at: 10/27/2026 19:26:33
+# servers-count: 176
 
 ss://YWVzLTI1Ni1nY206M2VPRmVOc3NkZTdQWVlNdg@84.247.155.196:80#🇯🇵 Япония
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?type=tcp#🇯🇵 Япония
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=bing.com&security=tls#🇯🇵 Япония
 hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?sni=8.209.247.109#🇯🇵 Япония
+vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878?allowInsecure=0&sni=152.69.195.67#🇯🇵 Япония
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@fuji.etherhub.cc:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fuji.etherhub.cc&fp=qq&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&sid=bd6f67b6b2152b45&flow=xtls-rprx-vision#%F0%9F%87%AF%F0%9F%87%B5%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%E2%80%94%20Tokyo
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443# By EbraSha 🌑
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443# By EbraSha 🛸
@@ -80,6 +80,25 @@ vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?&security=tls&fp
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@64.176.34.130:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome# By EbraSha 🛰️
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@152.69.200.216:443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws# By EbraSha ⚙️
 vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?&security=tls&fp=unsafe&sni=jp3.yohototo.top&type=ws&headerType=none&host=jp3.yohototo.top&path=%2Ftyxyws# By EbraSha 🌍
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us1p1.xn--ghq880n3na965a.com&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&sid=3d31326f95&type=tcp&headerType=none# By EbraSha 🕷️
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&amp;encryption=none&amp;pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=us1p1.xn--ghq880n3na965a.com&amp;sid=3d31326f95# By EbraSha 🥷
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=%&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95# By EbraSha 🛜
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:30892?security=reality&encryption=none&pbk=YinI5MijeZpRatg6QNDvP0qXEif-6VHC6gV5yoji4i4&host=Copy___Shode__az__Chanel0111Net&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=3d31326f95# By EbraSha 🃏
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&amp;encryption=none&amp;pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=us1p1.xn--ghq880n3na965a.com&amp;sid=e51285e3# By EbraSha 👑
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:34379?security=reality&encryption=none&pbk=KfOrtENkHAXDFlsCluw6fv62Q-WuJXCKI98XZihtemA&headerType=&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=e51285e3# By EbraSha 🖥️
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&amp;encryption=none&amp;pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=iosapps.itunes.apple.com&amp;sid=25c79e5856c7# By EbraSha 🌑
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7# By EbraSha 🌪️
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?security=reality&encryption=none&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&host=%2F%3F---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---%40Fear_Config---&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=iosapps.itunes.apple.com&sid=25c79e5856c7# By EbraSha 🧲
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?&security=reality&flow=xtls-rprx-vision&pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&sid=28f5c1f8f98a&fp=safari&sni=www.lamer.com.sg&type=tcp&headerType=none&host=www.lamer.com.sg&path=%2F# By EbraSha 🧠
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:46105?security=reality&amp;encryption=none&amp;pbk=Lk5nwDxC2tr3J7hT8emhUUiMX8cHyKX9TiRj_EnAiik&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.lamer.com.sg&amp;sid=28f5c1f8f98a# By EbraSha 🦇
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47672?security=reality&encryption=none&pbk=tBvlo8F8hKRXSK-EHRAfzEH-x3e4uvheGloO-9bPKx4&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=us1p1.xn--ghq880n3na965a.com&sid=70ab6d813e# By EbraSha 🕹️
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:47691?security=reality&encryption=none&pbk=6PbC7GxOg_YdXya-53llPReUzoU_yknQbkDvI4uorBg&headerType=&type=tcp&flow=xtls-rprx-vision&sni=m.media-amazon.com&sid=2905326a# By EbraSha ⚡
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?flow=xtls-rprx-vision&fp=firefox&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&security=reality&sid=54cca3c1c1c7&sni=www.apple.com&type=tcp# By EbraSha 🦾
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&amp;encryption=none&amp;pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.apple.com&amp;sid=54cca3c1c1c7# By EbraSha 🌑
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:54528?security=reality&encryption=none&pbk=7GvJVbR6BRhtrc8-rcZvB8qTFUF1LPeM_MmoZ04mBxo&host=Copy___Shode__az__Chanel0111Net&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=54cca3c1c1c7# By EbraSha ♣️
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:55688?encryption=none&security=reality&pbk=KeV1nArisy7FO5DjqTSmn0hBnlNd38rzhbIMMpe-MBw&sid=a46bb5972cf50671&flow=xtls-rprx-vision&sni=bilibili-vn.biliimg.com&fp=chrome# By EbraSha 👾
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56415?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.kaidee.com&pbk=EG-jzQw1RyOwAM4L9rMKondSx7cyFmPyv1OP7xXkIk4&sid=cbd39bea0805e2&type=tcp&headerType=none# By EbraSha 👾
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:56656?security=reality&encryption=none&pbk=QFM3jTzb5n-E9L2cfFo6GHqioGmIkjmG60l8wXA4IXc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=cdn-dynmedia-1.microsoft.com&sid=aae6d935# By EbraSha 🚨
 vless://5dc56757-458e-4df2-9e71-2a14ce47e8af@jp-ak.astralweb.tech:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=jp-ak.astralweb.tech&fp=chrome&pbk=Z2c9dK70_0OWBEZGgeaXJyt9dup9h2-hZlCCvIGLg1Q&sid=496ee75c2f91f51d&type=tcp&headerType=none# By EbraSha 💻
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.70:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&security=reality&sid=bd6f67b6b2152b45&sni=fuji.etherhub.cc&type=tcp# By EbraSha 💣
 vless://7072eeba-94fd-4fb3-92f2-a4506dd84cd8@31.76.91.98:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ejx56dFtS4LK_Th6HSLFFdm7v7zqRpv8KfjrWAw4Sjg&security=reality&sid=bd6f67b6b2152b45&sni=fuji.etherhub.cc&type=tcp# By EbraSha 🐉
@@ -135,8 +154,6 @@ vmess://eyJhZGQiOiJjYzI4LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzI4Lmdv
 vmess://eyJhZGQiOiJnMDMuanAwMi1lMy12bTAuZW50cnkuZnIwNTI4LmFydCIsImFpZCI6IjEiLCJpZCI6ImE4NTE1MGJhLWRhZTMtMzA1NS04OTg0LTcwMGZhY2E0ZDU3NiIsIm5ldCI6InRjcCIsInBvcnQiOiIxMTc3NSIsInBzIjoiQnkgRWJyYVNoYSDwn6aCIiwic2N5IjoiYXV0byIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJnejEucG9seW1hcmtldC5wYXJ0eSIsImFpZCI6MCwiaWQiOiJhZWM4ZTVlMy1iYjgxLTRiMjItODgwMi0wYjg4YzU0OTk3YjMiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozNjAxMSwicHMiOiJCeSBFYnJhU2hhIPCfg48iLCJzY3kiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJoaHo0cXhzLWcwNC5qcDAzLWo3LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwiYWlkIjoiMSIsImlkIjoiZDY4N2IwMjQtYTVjZi0zNDMzLThkMDYtMWM5OWUyZTI4ODIxIiwibmV0IjoidGNwIiwicG9ydCI6IjIxNTg0IiwicHMiOiJCeSBFYnJhU2hhIPCfjIAiLCJzY3kiOiJhdXRvIiwic25pIjoiaGh6NHF4cy1nMDQuanAwMy1qNy12bTAuZW50cnkuZnIwNTI4LmFydCIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJqcC42ODA3MjUxLnh5eiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI3YWEzYTAyNC1lMzMzLTRiNjMtOTlhMi0zZGI5ZDNiMjA1NGUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6IjQ3NDMxIiwicHMiOiJCeSBFYnJhU2hhIPCfqpYiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJqcC42ODA3MjUxLnh5eiIsImFpZCI6IjAiLCJob3N0IjoiYS4xODkuY24iLCJpZCI6IjdhYTNhMDI0LWUzMzMtNGI2My05OWEyLTNkYjlkM2IyMDU0ZSIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNjIyODMiLCJwcyI6IkJ5IEVicmFTaGEg8J+apyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJqcC52cG4udGFpYWlzZS5jbiIsImFpZCI6IjAiLCJob3N0IjoianAudnBuLnRhaWFpc2UuY24iLCJpZCI6IjA2MGFlZGU3LTExZWEtNDAzMi1iMDI1LTZjNDE2OGE1MTgyZSIsIm5ldCI6IndzIiwicGF0aCI6Ii9qcCIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg4pqZ77iPIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiJrUW92N1VLYURrblhiOGEzLnYuM2Rucy52aXAiLCJhaWQiOjAsImhvc3QiOiJrUW92N1VLYURrblhiOGEzLnYuM2Rucy52aXAiLCJpZCI6ImYwYjdiYmQ2NmFhZDQ1OGFhZWMwZTlhY2FhYjc2OGI2IiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn5SQIiwic2N5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6ImtRb3Y3VUthRGtuWGI4YTMudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 vmess://eyJhZGQiOiJvci41MjExNjYueHl6IiwiYWlkIjoiMCIsImlkIjoiYWMyNTEyMzctNTc2Zi00MGM4LWE1NDMtNTU0OTYwYzk1OGIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL29yMyIsInBvcnQiOiIyMDgzIiwicHMiOiJCeSBFYnJhU2hhIPCflJAiLCJzY3kiOiJhdXRvIiwic25pIjoib3IuNTIxMTY2Lnh5eiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
@@ -148,6 +165,8 @@ vmess://eyJhZGQiOiJ2dDUway1nMDEuanAwNS02Nzg2LXZtMC5lbnRyeS5mcjAzMDdhLmFydCIsImFp
 vmess://eyJhZGQiOiJ3bzZhaDBmLWcwNi5qcDA2LWp6LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwiYWlkIjoiMSIsImlkIjoiYTNiNWE2ZmMtMGI5Mi0zYjY2LWJlZGEtZWIyYTQ5MzYxYTIxIiwibmV0IjoidGNwIiwicG9ydCI6IjI4Nzg4IiwicHMiOiJCeSBFYnJhU2hhIOKZpu+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3bzZhaDBmLWcwNi5qcDA2LWp6LXZtMC5lbnRyeS5mcjA1MjguYXJ0IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxMDMuMTI3LjI0My42NiIsImFpZCI6MCwiYWxwbiI6IiIsImlkIjoiYzU4NTZlMGItNWNhNi00OWJmLTg1MjUtZDAyYWY5YzM3Y2Y1IiwibmV0IjoidGNwIiwicGF0aCI6Ii9BQkNERSIsInBvcnQiOjU0MjkxLCJwcyI6IkJ5IEVicmFTaGEg8J+mhSIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIxNjguMTM4LjQzLjc1IiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDI3LTE5MTA0OC41MDldIn0K
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJOb25lIiwicGF0aCI6Ii9jY3R2MTMubTN1OCIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDI3LTE5MTEyMC4zOTBdIn0K
+vmess://eyJhZGQiOiIxNjguMTM4LjQzLjc1IiwiaWQiOiIxMWMzNjI3Zi0zMWU4LTQ2OTUtZGZiZC0zNDA3NmUyZjFmNWQiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL2NjdHYxMy5tM3U4IiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh6/wn4e1XSBbdm0tbm8td3NdIFsyNjEwMjctMTkxMTIwLjQ1NF0ifQo=
 vmess://eyJhZGQiOiIxNzIuMTExLjE0Ni42NCIsImlkIjoiMDViOGM3ODMtN2Y1OS00N2Y5LTk5MjMtMDZhNDY1Njc5ZjZhIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiMTcyLjExMS4xNDYuNjQiLCJwYXRoIjoiL3ZtZXNzLyIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ev8J+HtV0gW3ZtLW5vLXdzXSBbMjYxMDI3LTE5MTEyMC45NjldIn0K
 socks4://8.221.139.222:111
 socks4://43.165.135.162:60000
@@ -157,9 +176,10 @@ socks5://101.36.104.239:10808
 socks5://103.100.158.115:10809
 socks5://43.165.135.162:60000
 socks5://139.162.78.109:1080
-vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&sni=www.sony.com&host=v2raynplus--v2raynplus--v2raynplus--#1064 | 🇯🇵 Japan | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@jp1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=jp1.zestapp778.com#1351 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws#1370 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?sni=bing.com#1813 | 🇯🇵 Japan | HYSTERIA2 | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?type=ws&security=tls&fp=firefox&sni=jp3.yohototo.top&host=jp3.yohototo.top#2637 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#2976 | 🇯🇵 Japan | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+vless://871bfce7-8440-4394-8d82-56b51f20fdad@18.183.215.124:28573?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1DJr9toke7FRuSXjibBVuNvRnLnJnN5kXwUBG6Romzg&sid=03653bc03be10c97&sni=www.sony.com&host=v2raynplus--v2raynplus--v2raynplus--#1072 | 🇯🇵 Japan | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@jp1.zestapp778.com:443?type=tcp&security=tls&fp=chrome&sni=jp1.zestapp778.com#1363 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://904f8ffa-4652-4076-8f2f-e586807840ec@172.111.146.64:80?type=ws#1384 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?sni=bing.com#1828 | 🇯🇵 Japan | HYSTERIA2 | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@funagfrdfs.alixxplay.com:35544?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HrcXRHtsitc_AVlN-_8fZuRgaP-Mqa_9JJotI9OnkVc&sid=25c79e5856c7&sni=iosapps.itunes.apple.com&host=/?@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config@fear_config#2220 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@154.31.114.162:8443?type=ws&security=tls&fp=firefox&sni=jp3.yohototo.top&host=jp3.yohototo.top#2655 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?insecure=1#2998 | 🇯🇵 Japan | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu

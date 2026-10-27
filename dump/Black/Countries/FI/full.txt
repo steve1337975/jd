@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746376
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824751593
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 17:59:36
-# servers-count: 143
+# generated-at: 10/27/2026 19:26:33
+# servers-count: 141
 
-vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?encryption=none&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&security=reality&serviceName=grpc_common1&sid=aacd5d42a33b2a4e&sni=ap-author.led.samsung.com&spx=%2Fbc0e0e3d3d4f532&type=grpc&fp=chrome#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@263651t.fi3.h1clayd.click:443?type=tcp&security=reality&fp=edge&pbk=nNe5Y8_G7L0_VO5lqlee3h5UmRH4RXjaRYGCDUkbQz4&sid=2892e611785bafd1&sni=263651t.fi3.h1clayd.click&host=263651t.fi3.h1clayd.click#🇫🇮 Финляндия
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@3f8efdt.fi1.h1clayd.click:443?encryption=none&security=reality&sni=3f8efdt.fi1.h1clayd.click&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&sid=023a1e6ffc32be10&type=tcp&headerType=none&fp=safari#🇫🇮 Финляндия
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@36a466g.fi1.h1clayd.click:443?type=grpc&security=reality&fp=chrome&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&serviceName=0adb9638509b#🇫🇮 Финляндия
@@ -16,6 +15,7 @@ vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?encryption=none
 vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?encryption=none&pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&security=reality&sid=d368b94e275ab080&sni=www.google.com&type=tcp#🇫🇮 Финляндия
 vless://fe551942-d6e5-4361-ae5c-1f2e9077cd79@83.219.97.18:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=32XFmS-ifqooBFY89KNP3ZrqgSBOd3vel9GlNinL6yw&sid=03&sni=fi5.silalink.sbs&host=/?telegram---marambashi---marambashi---marambashi---marambashi#🇫🇮 Финляндия
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@196.196.204.174:443?type=grpc&security=reality&fp=firefox&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&sid=09d0a94a1c6fc9d5&sni=8fc752g.fi3.h1clayd.click&serviceName=f345a414c040#🇫🇮 Финляндия
+vless://9b12b97f-e185-41a3-ad50-a31a092f35c9@31.76.46.221:10851?type=grpc&security=reality&fp=chrome&pbk=nTNsyJaBeqGkLNk4lbqRiKQd993pRt2QSmYNfeUhRXs&sid=aacd5d42a33b2a4e&sni=ap-author.led.samsung.com&mode=gun&serviceName=grpc_common1&spx=/bc0e0e3d3d4f532#🇺🇸 США
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@2.29.101.158:443?type=grpc&security=reality&fp=random&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&serviceName=0adb9638509b#🇩🇪 Германия
 vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443?type=grpc&security=reality&fp=firefox&pbk=pAgrBKJCmuSJHIzYkEJTqsOBOVBK_DMtEqFPo-PaTkg&sid=b3c9d0c6bdd114a6&sni=36a466g.fi1.h1clayd.click&serviceName=0adb9638509b#🇫🇮 Финляндия
 hysteria2://0ce6e041-b701-4dd0-a82a-96b287abc4bf@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru&alpn=h3# By EbraSha 🗿
@@ -24,12 +24,13 @@ hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?sni=fl
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com# By EbraSha 🥷
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5Wmg4RW91aElMWjRKWkNRZGFYczBj@195.96.156.9:14847# By EbraSha 🚨
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@65.109.181.194:56134# By EbraSha 🧨
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1dktOdWRWLU44QVVDcnlrUGl5em5B@location8.cpanel-host10.ir:56134# By EbraSha 🩸
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUbVhTcGNSQmJodkhEZzY2Ym8ydzg5YlRveFFzYk1vYQ@31.76.30.79:10808# By EbraSha 🌍
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWMjlCcGJ0a2hXWnI@185.204.1.253:443# By EbraSha 🖥️
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ=@185.103.110.68:18283# By EbraSha 🧲
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@185.103.110.66:18280# By EbraSha 🪐
 ss://YWVzLTEyOC1nY206ZjkzMDBhOWJmMzlhZTAzNDdjM2EzYmZiYzRkZDc3NTQ@77.83.247.207:18285# By EbraSha 📼
-trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@vvbgh.131.pp.ua:443?security=tls# By EbraSha 🚀
+trojan://98b419ef-83a2-4d1b-a23d-566b7f24477b@bbbnnmj.131.pp.ua:443?security=tls# By EbraSha 🧿
 trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45-149-147-213.sslip.io:4444?type=grpc&security=tls&serviceName=kobedin-server1-trojan&mode=gun&fp=chrome&sni=45-149-147-213.sslip.io&alpn=h2# By EbraSha 🧲
 trojan://9b347a9b-d7a6-4b51-9890-eff62b832834@45.149.147.213:4444?security=tls&sni=45-149-147-213.sslip.io&type=grpc&serviceName=kobedin-server1-trojan&fp=chrome&alpn=h2# By EbraSha 🪖
 trojan://WFer-5gN21nfHbVB2N8s71Z74EPUfzVj@fi.zhabulik.ru:443?security=tls&alpn=h2,http/1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=fi.zhabulik.ru# By EbraSha 🩸
@@ -43,7 +44,6 @@ vless://042d2d08-2973-5d10-97ad-3b75f16bbe54@212.147.245.198:443?encryption=none
 vless://047466dd-05aa-4331-abf7-322c5aaecf97@96.62.103.24:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=fi.viralforge.ru&type=tcp# By EbraSha 📱
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@77.42.12.225:443?encryption=none&fp=firefox&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&security=reality&serviceName=f345a414c040&sid=09d0a94a1c6fc9d5&sni=8fc752g.fi3.h1clayd.click&type=grpc# By EbraSha ✨
 vless://056405e8-de9f-4d0d-8145-956f13cc34da@8fc752g.fi3.h1clayd.click:443?encryption=none&pbk=GJzag9Wrvz_bO9AQaA-Oq0P1kV9btmxxAdzPV-uQB18&security=reality&serviceName=f345a414c040&sid=09d0a94a1c6fc9d5&sni=8fc752g.fi3.h1clayd.click&spx=%2F&type=grpc&fp=random# By EbraSha 🤖
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@faf318x.fi3.h1clayd.click:443?encryption=none&mode=auto&path=%2F30ed746037ba&pbk=iZD9niaCQZpjG_ndVq8N2pY4hLNg0n7_oT7qJUMkDEI&security=reality&sid=248965340b604f9c&sni=faf318x.fi3.h1clayd.click&spx=%2F&type=xhttp&fp=edge# By EbraSha 🩸
 vless://05bfcbaa-cba0-4bce-9103-09fe3f5f0667@65.109.238.140:443?path=%2Fapi%2Fv3%2Fstream%2F&security=tls&alpn=h2&encryption=none&insecure=0&fp=firefox&type=xhttp&allowInsecure=0&sni=hel1.nordlinkcloud.com# By EbraSha 🔥
 vless://109ce6c1-e188-44df-bf63-6795261f793b@fi.salfetkastroy.ru:443?security=reality&encryption=none&pbk=QTTneNQLYl_-Q0JbPyQWe2GpLUeL7JPl4P-5h0El6S8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fi.salfetkastroy.ru&sid=f9989b69a77d0f3c# By EbraSha 🚨
 vless://1ef7d97f-3aa5-4fe6-8521-84cf4794bf7a@2.27.203.251:443?security=reality&encryption=none&pbk=QYdQmsVvUj4jwo9gH20nJA5x015gaAL0nGipORe6ZmY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=edge-fi2.lovely.my# By EbraSha 🥷
@@ -110,7 +110,6 @@ vless://cb08480c-4041-4e91-a267-971e1c6a4af7@jasper53.wannexo.ir:47607?security=
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@78.17.176.174:11515?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&security=reality&sid=65149fc5ba&sni=www.sony.com&type=tcp# By EbraSha 🧿
 vless://cb8fbad5-4f14-55bc-a24a-3510f47f4b1b@assets.halyvanedorogo.ru:11515?&security=reality&flow=xtls-rprx-vision&pbk=A826RSu-yeVM_t6v7kwHKasHSdfI9KOzUw3WaIa9SWc&sid=65149fc5ba&fp=chrome&sni=www.sony.com&type=tcp&headerType=none&host=www.sony.com&path=%2F# By EbraSha ♠️
 vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:2096?&security=tls&fp=chrome&sni=st4834a.rumedia-cdn.com&type=ws&headerType=none&host=st4834a.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive# By EbraSha ⚡
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@fi17-node.rumedia-cdn.com:8443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&sni=www.nokia.com# By EbraSha 🧩
 vless://d40fdcdb-8d6f-406d-a050-12e196fe8804@2.26.97.189:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=JhutTb8LnJILjPU2SVKR45BQlu7iq1-snyEu06Cs9z4&sni=video.sream-video.shop&encryption=none&type=tcp# By EbraSha 🌌
 vless://e75ad2eb-6c1f-45ce-8023-f5f10875df66@w907rj.orbitacorp.dev:443?mode=gun&security=reality&encryption=none&pbk=wkOdDtGijULUqkGSJv2aHGctI7Ss8GnOE1iS8QNwwjo&fp=firefox&type=grpc&serviceName=1f251e273f&sni=fi9.eu-cdn294.com&sid=98e90c117acf8155# By EbraSha ⛓️
 vless://ef328563-cda1-4530-9b0a-988cc5a74d78@176.125.254.9:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=initialcase.net&type=tcp&fp=firefox# By EbraSha 🧊
@@ -132,21 +131,20 @@ vmess://eyJhZGQiOiIxODUuMjMyLjIwNC4yMjIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vmess://eyJhZGQiOiIxOTMuMTI0LjE4MS4xMjMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0yLTYyLm1pcnJhLm5vdyIsImlkIjoiZGI1MGEyMGUtN2ZmNS00ZTcwLTk0OGYtMTdjYzljYTdjMTU0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+QiSIsInNjeSI6ImF1dG8iLCJzbmkiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiI5MS4yMTcuNzYuMjM3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCfm5wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiI5NS44MS4xMjYuMTE5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJyZW5kZXJlci1zdHJlYW0tMi02Mi5taXJyYS5ub3ciLCJpZCI6ImRiNTBhMjBlLTdmZjUtNGU3MC05NDhmLTE3Y2M5Y2E3YzE1NCIsIm5ldCI6IndzIiwicGFja2V0RW5jb2RpbmciOiJ4dWRwIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCfk5siLCJzY3kiOiJhdXRvIiwic25pIjoicmVuZGVyZXItc3RyZWFtLTItNjIubWlycmEubm93IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJOTm5NSkp1LjEzMS5QUC51YSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Ik5Obm1KSnUuMTMxLlBQLlVhIiwiaWQiOiI5OGI0MTllZi04M2EyLTRkMWItYTIzZC01NjZiN2YyNDQ3N2IiLCJuYW1lIjoiRkkg8J+Hq/Cfh64gfCBAUmF5ZGlrYWx4IHwgRkY0QzYxIiwibmV0Ijoid3MiLCJwYXRoIjoiL0l1NDE1RnBmNVJFWXhXTHBUR0E1QXF6WjJNaiIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCflKUiLCJzY3kiOm51bGwsInNuaSI6bnVsbCwidGxzIjoidGxzIiwidHlwZSI6bnVsbCwidiI6bnVsbH0=
-vless://1c81f6d3-5771-4c5d-9fdd-1655eff50634@95.216.27.15:2053?security=reality&amp;encryption=none&amp;pbk=4nfogj5mHqNowtSn_2sXS3xTX8vcH75rFEU2BWvyekM&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=www.google.com&amp;sid=d368b94e275ab080#🇫🇮[openproxylist.com] vless-FI
-hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?hop_interval=10#0149 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@fin2.pad-sservice.lat:8443?type=ws&security=tls&fp=firefox&sni=fin2.pad-sservice.lat&host=fin2.pad-service.com#0195 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&sni=45.144.234.157&host=45.144.234.157&packetEncoding=none#0331 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws#0411 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.10:2083?type=ws&security=tls&fp=random&sni=speedtestmark.com#0583 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@213.176.17.28:8443?type=ws&security=tls&fp=firefox&sni=fin.pad-sservice.lat&host=fin.pad-service.com#0595 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&sid=0f47ff9aa15e3e30&sni=www.nokia.com#0987 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&sni=www.nokia.com#1009 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@46.62.204.134:443?type=ws&sni=www.pleadcourt.org#1159 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://35da102e-536b-4103-9632-58c7c4c6303b@fi3.h1cloud.net:25090?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&sid=36e15949603e0e6e&sni=www.samsung.com#1234 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://35da102e-536b-4103-9632-58c7c4c6303b@196.196.204.174:25090?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&sid=36e15949603e0e6e&sni=www.samsung.com#1237 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:2096?type=ws&security=tls&fp=chrome&sni=st4834a.rumedia-cdn.com&host=st4834a.rumedia-cdn.com#1744 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@92.242.165.40:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#2100 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@46.62.230.149:443?type=ws&sni=www.pleadcourt.org#2366 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#3126 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@213.176.17.159:8443?allowInsecure=1&type=ws&security=tls&fp=firefox&sni=fin2.pad-sservice.lat&host=fin2.pad-service.com#3298 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vmess://eyJhZGQiOiJOTm5NSkp1LjEzMS5QUC51YSIsImFpZCI6IjAiLCJhbHBuIjpudWxsLCJmcCI6bnVsbCwiaG9zdCI6Ik5Obm1KSnUuMTMxLlBQLlVhIiwiaWQiOiI5OGI0MTllZi04M2EyLTRkMWItYTIzZC01NjZiN2YyNDQ3N2IiLCJuYW1lIjoiRkkg8J+Hq/Cfh64gfCBAUmF5ZGlrYWx4IHwgODkxRUNEIiwibmV0Ijoid3MiLCJwYXRoIjoiL0l1NDE1RnBmNVJFWXhXTHBUR0E1QXF6WjJNaiIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfpr4iLCJzY3kiOiJhdXRvIiwic25pIjoiTk5ubUpKdS4xMzEuUFAuVWEiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjpudWxsLCJ2IjpudWxsfQ==
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@fl.solomon-planet.ru:443?hop_interval=10#0152 | 🌐 Unknown | HYSTERIA2 | TG: @YoutubeUnBlockRu
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@fin2.pad-sservice.lat:8443?type=ws&security=tls&fp=firefox&sni=fin2.pad-sservice.lat&host=fin2.pad-service.com#0198 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws&sni=45.144.234.157&host=45.144.234.157&packetEncoding=none#0335 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://59b0d30e-9b29-4fda-a35c-b2901ec32db7@45.144.234.157:14430?type=ws#0415 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.10:2083?type=ws&security=tls&fp=random&sni=speedtestmark.com#0589 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@213.176.17.28:8443?type=ws&security=tls&fp=firefox&sni=fin.pad-sservice.lat&host=fin.pad-service.com#0601 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&sid=0f47ff9aa15e3e30&sni=www.nokia.com#0994 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:8443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=14YyFG_j2yPEUu-gO_G9GqCqRiZ0DIUgzReV9CZvOAk&sni=www.nokia.com#1016 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@46.62.204.134:443?type=ws&sni=www.pleadcourt.org#1168 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://35da102e-536b-4103-9632-58c7c4c6303b@fi3.h1cloud.net:25090?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&sid=36e15949603e0e6e&sni=www.samsung.com#1246 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://35da102e-536b-4103-9632-58c7c4c6303b@196.196.204.174:25090?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=biCk-kVr64zr2Vm6PRkrt3egFtuVXdJF5buWaG4wA1Y&sid=36e15949603e0e6e&sni=www.samsung.com#1249 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d1641bc6-3757-43db-815a-9b3f4d9b0d7e@2.27.13.152:2096?type=ws&security=tls&fp=chrome&sni=st4834a.rumedia-cdn.com&host=st4834a.rumedia-cdn.com#1759 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2f0fccb6-4a86-4d9f-9e03-a2dfee6ed7f5@92.242.165.40:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#2117 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@46.62.230.149:443?type=ws&sni=www.pleadcourt.org#2384 | 🇫🇮 Finland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#3150 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2b0e5676-fb62-4bf0-9607-6e7818421e8e@213.176.17.159:8443?allowInsecure=1&type=ws&security=tls&fp=firefox&sni=fin2.pad-sservice.lat&host=fin2.pad-service.com#3323 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
