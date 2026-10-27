@@ -15,7 +15,6 @@ namespace NChecker.models
         private string m_countryCode = "UNK", m_country = "Unknown";
         private ServerCountryCode m_registeredCountryCode;
 
-        internal long Delay { get; set; } = -1;
         internal bool IsAlive { get; set; }
         internal int SortedIndex { get; set; }
         internal SubscriptionType FilterType { get; set; }

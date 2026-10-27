@@ -35,19 +35,13 @@ namespace NChecker.classes
             try
             {
                 if (string.IsNullOrWhiteSpace(resourceContent)) return;
-                SourceSubscriptionData[] items = JsonConvert.DeserializeObject<SourceSubscriptionData[]>(resourceContent);
+                string[] items = JsonConvert.DeserializeObject<string[]>(resourceContent);
                 if (items == null) return;
-                int localSubIndex = 1;
-                foreach (SourceSubscriptionData ssd in items)
+                for (int i = 0; i < items.Length; i++)
                 {
-                    if (ssd != null && ssd.IsEnabled())
-                    {
-                        ssd.FilterType = filterType;
-                        ssd.SortedIndex = localSubIndex;
-
-                        m_sources.Add(ssd);
-                        localSubIndex++;
-                    }
+                    SourceSubscriptionData ssd = new SourceSubscriptionData(i + 1, items[i]);
+                    ssd.FilterType = filterType;
+                    if (ssd.Enabled) m_sources.Add(ssd);
                 }
             }
             catch (Exception exc)

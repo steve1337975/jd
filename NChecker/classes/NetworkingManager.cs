@@ -154,7 +154,8 @@ namespace NChecker.classes
             {
                 if (!IPAddress.TryParse(server.Address, out IPAddress ip))
                 {
-                    using (CancellationTokenSource cts = new CancellationTokenSource(500))
+                    // Сокращаем DNS таймаут до 400мс, чтобы не залипать на мертвых доменах
+                    using (CancellationTokenSource cts = new CancellationTokenSource(400))
                     {
                         IPAddress[] addresses = await Dns.GetHostAddressesAsync(server.Address, cts.Token);
                         ip = addresses.FirstOrDefault(a => a.AddressFamily == AddressFamily.InterNetwork) ?? addresses.FirstOrDefault();
@@ -170,7 +171,7 @@ namespace NChecker.classes
         internal async Task ExecuteTcpPingTestAsync(ServerData server, SettingsData settings)
         {
             server.IsAlive = false;
-            server.Delay = -1;
+            //server.Delay = -1;
             if (!server.IsValid()) return;
 
             try
@@ -180,15 +181,17 @@ namespace NChecker.classes
                     client.LingerState = new LingerOption(true, 0);
                     Stopwatch stopwatch = Stopwatch.StartNew();
 
-                    int timeoutSec = (int)Math.Min(settings.Timeout, 2);
-                    using (CancellationTokenSource cts = new CancellationTokenSource(TimeSpan.FromSeconds(timeoutSec)))
+                    // РЕЖЕМ ТАЙМ-АУТ ДО 700 МС! 
+                    // Рабочий сервер отзовется сразу. Мертвый отсечется мгновенно вместо того, чтобы тормозить всю очередь.
+                    int timeoutMs = (int)Math.Min(settings.Timeout * 1000, 700);
+                    using (CancellationTokenSource cts = new CancellationTokenSource(timeoutMs))
                     {
                         await client.ConnectAsync(server.Address, server.Port, cts.Token);
                         stopwatch.Stop();
 
                         if (client.Connected)
                         {
-                            server.Delay = stopwatch.ElapsedMilliseconds;
+                            //server.Delay = stopwatch.ElapsedMilliseconds;
                             server.IsAlive = true;
                             return;
                         }

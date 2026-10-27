@@ -61,6 +61,8 @@ namespace NChecker.models.vpn.protocols
         {
             return scheme switch
             {
+                "http" => VpnProtocol.Http,
+                "https" => VpnProtocol.Https,
                 "socks4" => VpnProtocol.Socks4,
                 "socks5" => VpnProtocol.Socks5,
                 "vmess" => VpnProtocol.Vmess,

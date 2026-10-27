@@ -14,8 +14,8 @@ namespace NChecker.models.vpn
             string scheme = trimmedUrl.Substring(0, schemeBounds).ToLowerInvariant();
             return scheme switch
             {
-                "socks4" => new Socks4ConfigData(trimmedUrl),
-                "socks5" => new Socks5ConfigData(trimmedUrl),
+                "http" or "https" => new HttpConfigData(trimmedUrl),
+                "socks4" or "socks5" => new SocksConfigData(trimmedUrl),
                 "vmess" => new VmessConfigData(trimmedUrl),
                 "vless" => new VlessConfigData(trimmedUrl),
                 "ss" or "shadowsocks" => new ShadowsocksConfigData(trimmedUrl),

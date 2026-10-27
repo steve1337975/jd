@@ -5,10 +5,16 @@ namespace NChecker.models
 {
     internal class SourceSubscriptionData
     {
-        [JsonProperty("index")] internal int SortedIndex { get; set; } = 1;
-        [JsonProperty("url")] internal string Url { get; set; } = string.Empty;
-        [JsonProperty("enabled")] internal bool Enabled { get; private set; }
+        internal int SortedIndex { get; set; } = 1;
+        internal string Url { get; set; } = string.Empty;
+        internal bool Enabled { get; set; }
         [JsonIgnore] internal SubscriptionType FilterType { get; set; }
-        internal bool IsEnabled() => !string.IsNullOrEmpty(Url) && Enabled;
+        internal SourceSubscriptionData() { }
+        internal SourceSubscriptionData(int a1, string a2)
+        {
+            SortedIndex = a1;
+            Url = a2;
+            Enabled = !string.IsNullOrEmpty(a2) && !a2.StartsWith("#");
+        }
     }
 }
