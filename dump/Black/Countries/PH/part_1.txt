@@ -1,17 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824703554
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824725183
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 06:05:54
-# servers-count: 8
+# generated-at: 10/27/2026 12:06:23
+# servers-count: 13
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 🧠
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha ♣️
-vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDimpTvuI8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-socks4://180.191.22.50:4153
-socks4://8.220.141.8:8889
-socks4://8.220.141.8:8123
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 🕹️
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 🌍
+vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDinKgiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.51:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com#🇵🇭[openproxylist.com] vless-PH
+socks4://119.93.123.229:4145
+socks4://119.93.82.236:1080
+socks4://8.212.168.170:1000
+socks4://8.212.168.170:1081
+socks4://8.212.168.170:8443
+socks4://8.212.168.170:3389
+socks4://8.212.168.170:8082
 socks5://8.212.168.170:623
 socks5://8.212.168.170:1111
