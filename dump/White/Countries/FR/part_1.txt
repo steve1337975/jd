@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FR] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746092
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746376
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 17:54:52
+# generated-at: 10/27/2026 17:59:36
 # servers-count: 22
 
+vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080?security=none&sni=milo.rubinaz.xyz&type=tcp#🇩🇪 Германия
 vless://9ff5db63-88ff-4276-ab71-ac2b5cb2a740@45.92.218.130:443?security=reality&encryption=none&pbk=I0vZxWIjZYvtzlcvGaW01Q1U3M-vHD8iI8BM5KTuuiM&headerType=none&fp=chrome&spx=%2Fa38e5cd3c84c243&type=tcp&sni=delivery.mp.microsoft.com&sid=d3feff5d570d6b#🇫🇷 Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl140.vpnbook.com:443#🇫🇷 Франция
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.networkforexir.site:8080?&type=tcp&headerType=none&host=milo.networkforexir.site&path=%2F#🇩🇪 Германия
@@ -16,7 +17,6 @@ vless://086bf957-9cd0-4e55-8280-bbef10435b41@161.97.66.16:443?type=tcp&security=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@54.36.174.134:443#🇫🇷 Франция
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2aGVleHl6@pl134.vpnbook.com:443#🇫🇷 Франция
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?path=/vless/&security=none&encryption=none&type=ws#🇫🇷 Франция
-vless://a05ecf37-c661-4247-ab09-4432cf0f3cc1@connect.wecantos.site:10000?security=none&fp=&type=tcp&packetEncoding=xudp&encryption=none#🇫🇷 Франция
 vless://b81b4d1b-7f20-48f1-82dc-d24bef898cab@161.97.160.224:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=33zaT3jHXjtynSQ0Ucw9bK92-XH2zolJmuIeZ1XyZB0&sid=e6&sni=passport.yandex.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: passport.yandex.ru ┃ 🇫🇷 Франция
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.2.245:8443?type=tcp&security=reality&sni=ozon.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#TCP, Ozon [V.O.I.D]
 vless://8a1f8853-9a71-4ef2-a64c-4f0a94c2e14b@54.37.5.203:8443?security=reality&type=tcp&sni=ozon.ru&fp=firefox&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#TCP, Ozon [V.O.I.D]

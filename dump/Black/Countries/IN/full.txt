@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746092
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824746376
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 17:54:52
-# servers-count: 31
+# generated-at: 10/27/2026 17:59:36
+# servers-count: 33
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HrfCfh7AgSG9uZyBLb25nLCBIb25nIEtvbmcgfCBbQkxdIiwiYWRkIjoiMjAuMjM1LjIyMC4xODkiLCJwb3J0IjoiNDQzIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwic25pIjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwicGF0aCI6Ii93cy12bWVzcyIsImhvc3QiOiIiLCJzY3kiOiJhdXRvIiwiYWxwbiI6IiIsImZwIjoiIn0=
 vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJob3N0IjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwiaWQiOiJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfh63wn4ewIEhvbmcgS29uZywgSG9uZyBLb25nIHwgW0JMXSIsInNlY3VyaXR5IjoiYXV0byIsInRscyI6InRscyIsInYiOiIyIiwidHlwZSI6Im5vbmUiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
@@ -13,28 +13,30 @@ ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#🇮🇳 Инди�
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?type=tcp&security=reality&fp=firefox&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sid=9980e0609b0d3891&sni=www.apple.com#🇮🇳 Индия
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?type=raw&security=reality&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&sni=www.cloudflare.com#🇮🇳 Индия
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?type=tcp&security=reality&fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&sni=www.cloudflare.com#🇮🇳 Индия
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990# By EbraSha 🔐
-trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome# By EbraSha 🕹️
-trojan://Trojan@82164024@in.tronsg.com:443?sni=127.0.0.1&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🖥️
-trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp# By EbraSha 🧿
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com# By EbraSha 🎯
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.233.229.128:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none# By EbraSha 📟
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.10.243.159:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha ♦️
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless# By EbraSha ⚙️
-vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1# By EbraSha 🧬
-vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfm7giLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxNTIuNjcuMTkwLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg4pmj77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImUxMzA5MTdjLTFiNTgtNDEzNi1iMmQ5LTc2ZGM5MjBlMGFkZC5hZGQ5N2VlOC0wZjE0LTQ4YTMtYjJjZC05NzljNTY3NDJlNjQubG9zZXlvdXJpcC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiODk5OCIsInBzIjoiQnkgRWJyYVNoYSDwn4yq77iPIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990# By EbraSha 📱
+trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome# By EbraSha ✨
+trojan://Trojan@82164024@in.tronsg.com:443?sni=127.0.0.1&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🌐
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp# By EbraSha 🦇
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com# By EbraSha 👑
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.233.229.128:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none# By EbraSha 📼
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@216.10.243.159:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha 🛰️
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless# By EbraSha 🔐
+vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1# By EbraSha 🪬
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIOKbk++4jyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiIxNTIuNjcuOC4yMDUiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfp6wiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxNTIuNjcuMTkwLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+TsSIsInNjeSI6ImF1dG8iLCJzbmkiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiODk5OCIsInBzIjoiQnkgRWJyYVNoYSDwn5al77iPIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh67wn4ezXSBbdm0tbm8td3NdIFsyNjEwMjctMTkwOTAxLjU3NV0ifQo=
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMTc5IiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyNy0xOTExMTcuMDIzXSJ9Cg==
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjQyIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyNy0xOTExMTcuMTU5XSJ9Cg==
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&sni=13.140.56.100#🏳[openproxylist.com] vless-
-socks4://123.253.124.28:5678
 socks4://45.116.230.79:4673
-socks4://119.235.50.78:4153
-socks4://45.249.79.190:3629
+socks4://136.232.116.2:43314
+socks4://103.137.148.253:1080
 socks5://82.180.146.251:10800
-socks5://103.84.166.37:1080
 socks5://144.24.111.128:1088
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws#0124 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&sni=13.140.56.100#0357 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=chrome&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0470 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@139.84.132.62:443?security=tls&fp=chrome&sni=in.tronsg.com#0506 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#1681 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&sni=13.140.56.100#0361 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=chrome&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0476 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@139.84.132.62:443?security=tls&fp=chrome&sni=in.tronsg.com#0511 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#1705 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
