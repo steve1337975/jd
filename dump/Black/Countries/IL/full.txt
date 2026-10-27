@@ -1,14 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824673832
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824725183
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 21:50:32
-# servers-count: 5
+# generated-at: 10/27/2026 12:06:23
+# servers-count: 6
 
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp# By EbraSha 📛
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net# By EbraSha 📀
-vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/# By EbraSha 🦇
-vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c# By EbraSha 🕹️
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@64.177.66.9:8443?type=ws&security=tls&fp=firefox&sni=vp7.1145678.xyz&host=vp7.1145678.xyz#2116 | 🇮🇱 Israel | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://5bb82f6f-e5b1-2bcf-6584-1abc8a3ec21f@83.143.106.9:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome#🇮🇱 Израиль
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?flow=xtls-rprx-vision&fp=chrome&path=%2F&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp# By EbraSha 🗿
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net# By EbraSha 🕷️
+vless://d342d11e-d224-4463-b982-532309285094@185.253.75.119:443?&security=tls&fp=chrome&sni=ccc.010304.xyz&type=ws&headerType=none&host=ccc.010304.xyz&path=/# By EbraSha 🧲
+vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c# By EbraSha 🥷
+socks4://31.168.143.90:1080

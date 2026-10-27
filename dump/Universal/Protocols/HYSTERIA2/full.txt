@@ -1,28 +1,43 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ HYSTERIA2 — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824673832
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824725183
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/26/2026 21:50:32
-# servers-count: 19
+# generated-at: 10/27/2026 12:06:23
+# servers-count: 34
 
-hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#%F0%9F%87%A7%F0%9F%87%BE%20%5BHY%5D%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D1%8C%20%235344%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://0ce6e041-b701-4dd0-a82a-96b287abc4bf@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20%5BHY%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%2312525%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?security=tls&sni=s3.huhiuh.space&alpn=h3&insecure=1#%F0%9F%87%A6%F0%9F%87%B9%20%5BHY%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%233985%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?insecure=1&sni=www.linux.com#%F0%9F%87%A9%F0%9F%87%AA%20%5BHY%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%2312180%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?allowInsecure=1&sni=css.rbxcdn.com&upmbps=10&insecure=1&type=tcp&downmbps=50&nonce=e98RZ2Wn&_t=227da4f0#%F0%9F%87%B3%F0%9F%87%B4%20%5BHY%5D%20%D0%9D%D0%BE%D1%80%D0%B2%D0%B5%D0%B3%D0%B8%D1%8F%20%23631%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?security=tls&sni=bing.com&alpn=h3&insecure=1#%F0%9F%87%B8%F0%9F%87%AE%20%5BHY%5D%20%D0%A1%D0%BB%D0%BE%D0%B2%D0%B5%D0%BD%D0%B8%D1%8F%20%232405%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://dongtaiwang.com@62.210.124.146:22000?insecure=1&sni=www.microsoft.com#%F0%9F%87%A9%F0%9F%87%B0%20%5BHY%5D%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%20%2312582%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@noway.luxes.network:2053?sni=noway.luxes.network#%F0%9F%87%A6%F0%9F%87%BA%20%5BHY%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D1%8F%20%235916%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#%F0%9F%87%A7%F0%9F%87%B7%20%5BHY%5D%20%D0%91%D1%80%D0%B0%D0%B7%D0%B8%D0%BB%D0%B8%D1%8F%20%232137%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#%F0%9F%87%AE%F0%9F%87%A9%20%5BHY%5D%20%D0%98%D0%BD%D0%B4%D0%BE%D0%BD%D0%B5%D0%B7%D0%B8%D1%8F%20%238002%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#%F0%9F%87%B9%F0%9F%87%BC%20%5BHY%5D%20%D0%A2%D0%B0%D0%B9%D0%B2%D0%B0%D0%BD%D1%8C%20%235012%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#%F0%9F%87%BB%F0%9F%87%B3%20%5BHY%5D%20%D0%92%D1%8C%D0%B5%D1%82%D0%BD%D0%B0%D0%BC%20%2310542%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#%F0%9F%87%AD%F0%9F%87%B7%20%5BHY%5D%20%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F%20%238682%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#%F0%9F%87%B2%F0%9F%87%BE%20%5BHY%5D%20%D0%9C%D0%B0%D0%BB%D0%B0%D0%B9%D0%B7%D0%B8%D1%8F%20%2310322%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@45.88.12.26:443?sni=crt.onecloudstream.com#%F0%9F%87%B9%F0%9F%87%AF%20%5BHY%5D%20%D0%A2%D0%B0%D0%B4%D0%B6%D0%B8%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%2314399%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#%F0%9F%87%BA%F0%9F%87%BF%20%5BHY%5D%20%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%234398%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org&alpn=h3#%F0%9F%87%BA%F0%9F%87%B8%20%5BHY%5D%20%D0%A1%D0%A8%D0%90%20%23910%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#%F0%9F%87%BA%F0%9F%87%B8%20%5BHY%5D%20%D0%A1%D0%A8%D0%90%20%23424%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@45.88.12.122:443?sni=crt.onecloudstream.com#%F0%9F%87%AF%F0%9F%87%B5%20%5BHY%5D%20%D0%AF%D0%BF%D0%BE%D0%BD%D0%B8%D1%8F%20%232072%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+hysteria2://36cd82d2-50b1-400d-b520-2acc9a8a6b40@194.180.189.43:443?sni=fi.northvale.cloud#Lite #144 @FreeCFGHub
+hysteria2://HowdyHysteria2023w0W@51.15.19.206:8443?sni=vk.com&obfs=salamander&obfs-password=HysteriaHowdy#Full #168 @FreeCFGHub
+hysteria2://gf1:gfhysteria2024@185.156.44.99:443?sni=vk.com#Full #192 @FreeCFGHub
+hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@217.60.72.225:443?sni=forshynewh.duckdns.org#Full #1798 @FreeCFGHub
+hysteria2://329e13e4-ee7c-4802-ac72-5fcab79c2402@forshynewh.duckdns.org:443?sni=forshynewh.duckdns.org&alpn=h3#Full #1997 @FreeCFGHub
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443?security=tls&descriptions=люби_себя014a40&seq=you_are_beautiful7216&_t=6462b95f&descriptions=СвободуИнтернету713&obfs-password=c1b4086fea89914496c7e10967a419216566&seq=you_are_beautiful4603&obfs=salamander&freeinternet=kizyak_vpn1782335286121&sni=hy2-new.aspidnet.xyz&nonce=fLqAwvwP#Full #2014 @FreeCFGHub
+hysteria2://46c16b68-2553-4e5e-8176-f63d6bf6ec0c@91.103.140.6:443?sni=fl.solomon-planet.ru#Full #2064 @FreeCFGHub
+hysteria2://1953e43b-605c-4262-83eb-41a80646b801@31.185.105.12:443?sni=fr.song69.fun#Full #2072 @FreeCFGHub
+hysteria2://b3d079ff-b775-4ffe-bac9-41228b08b15b@185.139.215.41:443?sni=nl.gorobsub.com#Full #2098 @FreeCFGHub
+hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#Full #2272 @FreeCFGHub
+hysteria2://gf1%3Agfhysteria2024@5.129.235.85:443?sni=www.linux.com&insecure=1&allowInsecure=1#Full #2277 @FreeCFGHub
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=css.rbxcdn.com&insecure=1&allowInsecure=1#Full #2291 @FreeCFGHub
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=google.com&insecure=1&allowInsecure=1#Full #2294 @FreeCFGHub
+hysteria2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1#Full #3101 @FreeCFGHub
+hysteria2://user317_windows:c70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?insecure=1&sni=s3.huhiuh.space#Full #3102 @FreeCFGHub
+hysteria2://4291c983-c520-46ac-82cc-48f14bef573f@129.213.91.185:35013?insecure=1&sni=129.213.91.185#Full #3230 @FreeCFGHub
+hysteria2://78559873-84ef-4cab-a0b2-46d4cd20de4a@noway.luxes.network:2053?sni=noway.luxes.network#Full #3341 @FreeCFGHub
+hysteria2://70043bfa-d6fb-4980-b27e-773e9e8b2004@141.0.187.15:443?sni=crt.onecloudstream.com#Full #3394 @FreeCFGHub
+hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?__rand=f5d9643c&sni=nl.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#Full #3402 @FreeCFGHub
+hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#Full #3413 @FreeCFGHub
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@64.188.98.171:443?insecure=1&sni=germany3.h2corp.local#Full #3468 @FreeCFGHub
+hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@45.88.12.122:443?sni=crt.onecloudstream.com#Full #3518 @FreeCFGHub
+hysteria2://e5ec2586-59b3-40fa-91b7-bb37a2f7744e@45.88.12.26:443?sni=crt.onecloudstream.com#Full #3526 @FreeCFGHub
+hysteria2://https%3A%2F%2Fxship.2fa.cat@starlink-ft.251313.xyz:443?insecure=1&security=tls&sni=xship.top#Full #3541 @FreeCFGHub
+hysteria2://gf1:gfhysteria2024@66.94.121.46:443?insecure=1&sni=www.broadcom.com#Full #3543 @FreeCFGHub
+hysteria2://gf1%3Agfhysteria2024@185.156.44.99:443?sni=speedtest.tinkoff.ru&insecure=1&allowInsecure=1#Full #3568 @FreeCFGHub
+hysteria2://10550754-cf62-3d3b-ba6a-50be27a275d7@195.133.53.33:443?allowInsecure=1&sni=s516.okgfw.top#Full #3599 @FreeCFGHub
+hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@de.1.23.h2corp.org:443?insecure=1&sni=germany3.h2corp.local#Full #3611 @FreeCFGHub
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@hy2.aspidnet.xyz:443?obfs=salamander&insecure=0&allowInsecure=0&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&sni=hy2.aspidnet.xyz&nonce=ga_cqvgU#Full #3615 @FreeCFGHub
+hysteria2://653m8mmiy7048p0f@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb&seq=you_are_beautiful6335#Full #3653 @FreeCFGHub
+hysteria2://usqmqUKJFIlCmvkCNSY64L3k@8.209.247.109:443?security=tls&sni=bing.com&alpn=h3&insecure=1#Full #3940 @FreeCFGHub
+hysteria2://0ce6e041-b701-4dd0-a82a-96b287abc4bf@fl.solomon-planet.ru:443?sni=fl.solomon-planet.ru&alpn=h3#Full #4421 @FreeCFGHub
+hysteria2://user317_windows%3Ac70565e9-a99f-40ef-b96c-469a3949eed2@s3.huhiuh.space:18642?security=tls&sni=s3.huhiuh.space&alpn=h3&insecure=1#%F0%9F%87%A6%F0%9F%87%B9%20%5BHY%5D%20%D0%90%D0%B2%D1%81%D1%82%D1%80%D0%B8%D1%8F%20%233852%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+hy2://wvA0PtDIuFbSqooIC2goKzFr@38.175.202.26:443?insecure=1&sni=bing.com#%F0%9F%87%AD%F0%9F%87%B7%20%5BHY%5D%20%D0%A5%D0%BE%D1%80%D0%B2%D0%B0%D1%82%D0%B8%D1%8F%20%238380%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
