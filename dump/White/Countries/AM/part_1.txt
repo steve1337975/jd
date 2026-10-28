@@ -1,17 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824852705
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 19:29:05
-# servers-count: 8
+# generated-at: 10/28/2026 23:31:45
+# servers-count: 5
 
-vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?encryption=none&fp=chrome&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&security=reality&sid=0e&sni=yahoo.com&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%20%E2%80%94%20%23108%20t.me%2Frjsxrd
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru17.oshost.network:443?type=raw&flow=xtls-rprx-vision&security=reality&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&sni=ru17.oshost.network&fp=firefox&sid=3d41300b11960f87&encryption=none#Бесплатный VPN tg:VLESSFORU 🇷🇺%20t.me%2Frjsxrd
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@92.246.138.68:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&security=reality&sid=3d41300b11960f87&sni=ru17.oshost.network&type=tcp#🇺🇸 США 80 NetCrafters OU%20t.me%2Frjsxrd
-vless://75145a81-e1e5-4112-92a8-e06655703d30@fr.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=qq&sni=fr.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[301ms Франция FR 🇫🇷 @vlesstrojan]
-vless://b2bf3e70-e99f-47ed-9802-5c8d264ecc0c@185.202.113.108:443?encryption=none&fp=chrome&pbk=SfZ0hMKMM1KUDFQnnrDLRGru6d4tlWdOBjCtC9R9V3s&security=reality&sid=b6&sni=www.microsoft.com&spx=/1a1aadd83ce8b74&type=tcp#[341ms Германия DE 🇩🇪 @vlesstrojan]
-vless://f7376394-cd54-11f1-bb6a-bff6d0326f6a@194.36.37.59:10004?security=none&type=ws&path=%2Fvpnjantit&packetEncoding=xudp&encryption=none#[787ms AM AM  @vlesstrojan]
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@it.x8lab.org:443?sni=eh.vk.com&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=669d7ae5e1611511#1663.%20%F0%9F%87%AE%F0%9F%87%B9%20VLESS%20%7C%20SNI%3A%20eh.vk.com%20%7C%20TG%3A%20%40wlrustg
-vless://4b1be712-774c-4b65-8491-a3339e124a70@194.36.36.152:443?security=reality&encryption=none&pbk=v36yrZJ-5Zikx9eh_SXaoDS2GuobOA4_WLagBVO0vxk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=am1.pc-nodalys.top&sid=a9c3f7e2#6747.%20VLESS%20%7C%20SNI%3A%20am1.pc-nodalys.top%20%7C%20TG%3A%20%40wlrustg
+vless://75145a81-e1e5-4112-92a8-e06655703d30@fr.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=qq&sni=fr.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[421ms Франция FR 🇫🇷 @vlesstrojan]
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@92.246.138.68:443?encryption=none&flow=xtls-rprx-vision&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&security=reality&sid=3d41300b11960f87&sni=ru17.oshost.network&type=tcp&fp=ios#[635ms Россия RU 🇷🇺 @vlesstrojan]
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@it.x8lab.org:443?sni=eh.vk.com&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=669d7ae5e1611511#3932.%20%F0%9F%87%AE%F0%9F%87%B9%20VLESS%20%7C%20SNI%3A%20eh.vk.com%20%7C%20TG%3A%20%40wlrustg
+vless://b2bf3e70-e99f-47ed-9802-5c8d264ecc0c@185.202.113.108:443?encryption=none&fp=chrome&pbk=SfZ0hMKMM1KUDFQnnrDLRGru6d4tlWdOBjCtC9R9V3s&security=reality&sid=b6&sni=www.microsoft.com&spx=/1a1aadd83ce8b74&type=tcp#7987.%20VLESS%20%7C%20SNI%3A%20www.microsoft.com%20%7C%20TG%3A%20%40wlrustg
+vless://c18b978e-1c4e-415c-8bea-07942b563a64@2.56.204.183:443?security=tls&sni=shuma.ccwu.cc&type=ws&fp=chrome&path=/#8133.%20%F0%9F%87%AE%F0%9F%87%B7%20VLESS%20%7C%20SNI%3A%20shuma.ccwu.cc%20%7C%20TG%3A%20%40wlrustg
