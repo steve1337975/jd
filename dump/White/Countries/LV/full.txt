@@ -1,13 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LV] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 07:00:41
-# servers-count: 4
+# generated-at: 10/28/2026 14:00:14
+# servers-count: 14
 
+vless://cebc5f19-18d9-48e6-9029-fb4b04caf393@45.38.143.210:30584?type=tcp&security=reality&fp=chrome&pbk=2hV4TY2ygvQ7ISa5o4u_FUKXzlIhLgbsScE8M1h0m3Y&sid=67ece882d65d0f1a&sni=m.vk.com#🇱🇻 Латвия
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sni=yandex.ru&fp=chrome&sid=b28db60d77c50b4f#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
+vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@31.57.28.180:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=vk.ru&fp=&pbk=rPKoMLxs2XIPOaNZlIq2YduNiWSxS3CveQUsmw-3IVc&sid=#TCP, VK [V.O.I.D]
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=tls&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
-vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?type=tcp&security=reality&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@185.81.129.197:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lites.3apes.online&fp=firefox&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#262.%20VLESS%20%7C%20SNI%3A%20lites.3apes.online%20%7C%20TG%3A%20%40wlrustg
+vless://c31dc85a-747e-4dac-94b9-2d5ca7791367@lites.3apes.online:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lites.3apes.online&fp=chrome&pbk=q4_o7NvD6vQg4hYsyO29Q6PVufjTJHDUbQTqstre9EQ&flow=xtls-rprx-vision#289.%20VLESS%20%7C%20SNI%3A%20lites.3apes.online%20%7C%20TG%3A%20%40wlrustg
+vless://3d0b6533-d3ba-4a0d-a46e-27c258ca5c3e@46.183.216.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9ged75OhdD4P8yzPPXDESnRkdFM4br4I44OwXLWd_iY&security=reality&sid=0a50b13e8fa3a7ef&sni=rblx.fasti.win#🌐 [AS52048] SIA RixHost #1340.%20VLESS%20%7C%20SNI%3A%20rblx.fasti.win%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.23.98:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2651.%20%F0%9F%87%B1%F0%9F%87%BB%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@195.123.211.204:81?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2693.%20%F0%9F%87%B1%F0%9F%87%BB%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.43.76.184:2053?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2820.%20%F0%9F%87%B1%F0%9F%87%BB%20VLESS%20%7C%20SNI%3A%20sni.111000.v6.navy%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@5.34.211.103:443?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2862.%20%F0%9F%87%B2%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.v6.navy%20%7C%20TG%3A%20%40wlrustg
+trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#5837.%20%F0%9F%87%B1%F0%9F%87%BB%20TROJAN%20%7C%20SNI%3A%20lv1.dedushka.top%20%7C%20TG%3A%20%40wlrustg
+vless://17acda85-dada-41dd-8add-ad0ad179fc91@31.56.177.95:8445?security=none&encryption=mlkem768x25519plus.native.0rtt.Qstm6A6j4WgPdkX1VSxeIfZM3YrgtWTcWIX3y5edpUc&headerType=none&type=tcp#6349.%20VLESS%20%7C%20TG%3A%20%40wlrustg

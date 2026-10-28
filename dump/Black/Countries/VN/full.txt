@@ -1,167 +1,93 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VN] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 07:00:41
-# servers-count: 158
+# generated-at: 10/28/2026 14:00:14
+# servers-count: 84
 
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp#🇻🇳 Вьетнам
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990# By EbraSha 🪖
-ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388# By EbraSha 🕹️
-vless://1e5ea6b0-a2cf-4363-98c1-0bdecac54195@hallo.crackerbinam.org:18694?encryption=none&type=raw&headerType=http&host=technolife.com&path=%2F&security=reality&fp=chrome&pbk=kzb3qkKdLDFnGHMFRxfim3Sg1JSPIow1SEG253gH9HM&sni=www.technolife.com&sid=899787cc&spx=%2F# By EbraSha 🗿
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.72:443?&security=tls&fp=chrome&sni=snip.edgeoneai.cc.cd&type=ws&headerType=none&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha 🌃
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome# By EbraSha 📀
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=firefox&type=ws&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha 🦈
-vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?&security=reality&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&sid=4710d669&fp=chrome&sni=api.receptivity.io&type=tcp&headerType=none&host=api.receptivity.io&path=%2F# By EbraSha 🕷️
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=raw&encryption=none# By EbraSha 📀
-vmess://eyJhZGQiOiIxMDMuMTY2LjE4My4yMjYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn4yMIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
-vmess://eyJhZGQiOiIxMDMuNTYuMTYwLjE4NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfp4oiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxMDMuNzUuMTg2LjE1MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfk7EiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5SlIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-socks5://103.182.22.86:9000
-socks5://171.236.130.227:41821
-socks5://27.69.71.250:1116
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp&packetEncoding=none#🇻🇳 Вьетнам
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990# By EbraSha 🛰️
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388# By EbraSha 🛸
+vless://1e5ea6b0-a2cf-4363-98c1-0bdecac54195@hallo.crackerbinam.org:18694?encryption=none&type=raw&headerType=http&host=technolife.com&path=%2F&security=reality&fp=chrome&pbk=kzb3qkKdLDFnGHMFRxfim3Sg1JSPIow1SEG253gH9HM&sni=www.technolife.com&sid=899787cc&spx=%2F# By EbraSha 📶
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.178.72:443?&security=tls&sni=snip.edgeoneai.cc.cd&type=ws&headerType=&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha 🌪️
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.161.179.36:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome# By EbraSha 🧠
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@103.38.236.248:443?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=firefox&type=ws&host=snip.edgeoneai.cc.cd&path=%2F# By EbraSha 🚧
+vless://608af979-75ff-4480-b1fd-9c4a36962835@163.61.182.194:34646?&security=reality&pbk=UuXUXzPnZM8IY-D5bQPy4iBIzEpK4PJFEOJzeObISRA&sid=4710d669&fp=chrome&sni=api.receptivity.io&type=tcp&headerType=none&host=api.receptivity.io&path=%2F# By EbraSha 👾
+vmess://eyJhZGQiOiIxMDMuMTY2LjE4My4yMjYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5W377iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+vmess://eyJhZGQiOiIxMDMuNTYuMTYwLjE4NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCflKUiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxMDMuNzUuMTg2LjE1MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfmqwiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6e/Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#🇻🇳[openproxylist.com] vless-VN
 socks5://183.80.59.62:1083
-socks5://171.245.71.144:1045
-socks4://14.241.182.44:5678
-socks4://171.242.14.54:1080
-socks4://23.141.116.9:9000
-socks4://103.182.22.18:9000
-socks4://27.69.71.250:1063
 https://103.70.115.234:8443
 https://14.225.19.28:8443
 https://14.225.71.128:8443
 https://14.225.71.128:443
 https://157.66.81.25:8443
-https://103.20.102.155:2083
-http://103.20.102.155:2900
-http://27.69.71.250:2065
-http://116.105.24.222:4000
-socks4://171.245.71.236:1049
-socks4://117.0.76.112:1063
-http://116.101.84.186:2112
-http://103.20.102.155:2083
-socks4://116.101.84.186:1054
-socks4://171.245.71.144:1063
-socks5://171.245.71.217:1085
-socks4://171.247.245.54:1080
-socks5://117.0.76.112:1085
-http://203.205.49.2:10219
-socks5://171.245.71.194:1085
-socks5://103.182.22.189:9000
-http://203.205.49.2:10045
-socks4://171.236.130.227:56967
-socks4://103.166.184.104:9191
-socks4://171.245.71.194:1048
+http://14.241.231.13:8080
+socks4://27.68.170.205:1080
+http://14.225.205.152:3128
+http://113.176.92.71:3128
+socks4://171.236.130.227:58470
+socks4://171.236.130.227:53091
+socks4://117.4.26.246:1080
+http://110.172.28.217:3128
+socks5://103.182.22.18:9000
 socks5://103.182.22.175:9000
-socks4://116.106.108.240:1080
-socks4://115.74.152.190:1080
-socks5://1.52.139.146:1080
-http://14.224.183.185:8080
-socks4://171.245.71.194:1116
-http://171.245.71.144:2037
-socks4://118.71.99.233:5678
-socks4://171.245.71.217:1042
-socks5://171.238.101.122:1099
-http://203.205.49.2:10165
-socks4://103.182.22.58:9000
+socks5://103.182.22.223:9000
 socks5://103.166.184.104:9191
-http://117.0.77.231:2112
-socks5://171.245.71.236:1080
-socks5://117.0.76.112:1048
-socks5://171.245.71.144:1063
-socks5://171.245.71.144:1105
-socks5://171.245.71.217:1063
-socks5://171.245.71.194:1048
+socks5://103.182.22.197:9000
+socks5://103.182.22.224:9000
+socks5://118.70.151.55:1080
+socks5://103.182.22.198:9000
 socks5://103.182.22.244:9000
-socks5://116.101.84.186:1089
-socks5://117.0.76.112:1063
-socks5://27.69.71.250:1106
-socks5://171.238.101.122:1051
 socks5://103.182.22.200:9000
-socks5://171.236.130.227:38346
-socks5://117.0.77.231:1101
-socks5://171.238.101.122:1101
-socks5://171.245.71.217:1112
-socks5://171.245.71.144:1072
-socks5://171.238.101.122:1106
+socks5://171.236.130.227:53091
+socks5://103.182.22.187:9000
+socks5://103.182.22.179:9000
 socks5://160.187.1.225:9050
 socks5://103.82.193.105:9191
 socks5://14.225.68.207:1337
 socks5://171.244.199.151:1337
 socks5://160.25.83.52:1081
 socks5://103.200.22.28:1080
-http://203.205.49.2:10190
-http://171.238.101.122:2107
-http://203.205.49.2:10096
-http://203.205.49.2:10089
+http://203.205.49.2:10131
 http://157.66.218.214:22222
 http://157.66.218.214:22276
 http://203.205.49.2:10069
-http://103.182.22.221:8000
+http://203.205.49.2:10109
 http://157.66.218.214:22269
-http://113.176.92.71:3128
-http://116.101.84.186:2086
+http://203.205.49.2:10099
+http://103.82.20.76:8080
+http://171.236.130.227:13594
 http://157.66.218.214:22263
-http://103.182.22.179:8000
-http://203.205.49.2:10015
-http://117.0.77.231:2085
-http://203.205.49.2:10117
-http://171.245.71.217:2104
-http://117.0.77.231:2034
-http://171.245.71.236:2102
-http://171.245.71.236:2030
-http://171.245.71.194:2072
-http://171.245.71.236:2040
-http://171.238.101.122:2026
-http://203.205.49.2:10010
-http://103.182.22.85:8000
-http://203.205.49.2:10151
-http://117.0.76.112:2026
-http://123.58.199.232:8168
+http://103.182.22.57:8000
+http://203.205.49.2:10052
+http://14.245.166.183:8080
+http://103.182.22.48:8000
+http://103.20.102.155:2924
+http://203.205.49.2:10157
+http://203.205.49.2:10132
 http://183.80.59.62:1083
-http://203.205.49.2:10022
-http://125.234.90.88:1080
-http://203.205.49.2:10090
-http://103.56.163.147:3128
 http://103.166.184.104:9191
-http://117.0.76.112:2104
-http://116.106.108.240:1080
 http://103.182.22.175:8000
-http://117.0.77.231:2104
-http://116.97.117.27:4153
+http://103.182.22.54:8000
 http://203.205.49.2:10171
-http://103.182.22.197:8000
-http://203.205.49.2:10160
-http://171.245.71.144:2102
-http://116.101.84.186:2103
+http://103.20.102.155:2083
 http://14.225.205.152:3129
-http://203.205.49.2:10198
-http://171.245.71.236:2109
-http://203.205.49.2:10105
-http://103.20.102.155:2929
-http://203.205.49.2:10056
-http://116.101.84.186:2109
+http://171.244.129.3:3128
 http://115.74.152.190:1080
-http://171.238.101.122:1058
-http://117.0.76.112:1058
+http://14.241.182.44:5678
+http://103.82.23.129:8888
 socks4://27.72.122.228:51067
-http://14.225.17.6:8080#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-3
-http://203.205.49.2:10107#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-9
-http://171.245.71.194:2028#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-23
-http://203.205.49.2:10214#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-35
-http://103.20.102.155:2927#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-48
-http://203.205.49.2:10108#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-60
-http://203.205.49.2:10027#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-86
-socks5://27.69.71.250:1033#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-95
-http://171.245.71.217:2028#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-138
-http://203.205.49.2:10227#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-141
-http://203.205.49.2:10118#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-175
-socks5://171.238.101.122:1058#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-223
-http://203.205.49.2:10236#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-226
-http://27.76.212.102:8000#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-244
-http://203.205.49.2:10154#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-249
-http://203.205.49.2:10142#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-258
-http://203.205.49.2:10076#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-268
+socks4://115.74.152.190:1080
+http://14.225.17.6:8080#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-2
+http://203.205.49.2:10027#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-81
+http://203.205.49.2:10227#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-134
+http://203.205.49.2:10189#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-143
+http://103.20.102.155:2900#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-148
+http://203.205.49.2:10039#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-197
+http://203.205.49.2:10142#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-244
+http://203.205.49.2:10076#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-253
