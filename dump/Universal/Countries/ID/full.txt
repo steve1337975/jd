@@ -1,14 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ID] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:00:14
-# servers-count: 5
+# generated-at: 10/28/2026 14:33:06
+# servers-count: 4
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?type=tcp&security=tls&fp=chrome&sni=in001.zestapp778.com#Full #251 @FreeCFGHub
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?type=tcp&security=tls&fp=firefox&sni=in001.zestapp778.com#Full #337 @FreeCFGHub
-vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd#Full #438 @FreeCFGHub
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@147.139.189.225:443?type=ws&security=tls&host=proxy-1cu.pages.dev&fp=android#Full #1116 @FreeCFGHub
-vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz&host=ccc.010304.xyz#2496 | 🇮🇩 Indonesia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.95.198:57353?type=tcp&security=tls&fp=firefox&sni=in001.zestapp778.com#Full #152 @FreeCFGHub
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in001.zestapp778.com:57353?fp=chrome&security=tls&sni=in001.zestapp778.com&type=tcp#Full #1299 @FreeCFGHub
+vless://5a380395-9c91-4174-8330-475d1235ed61@202.10.40.89:8443?security=reality&encryption=none&pbk=GcraWawjMdjBJLD_HvSZ3BQuHvFnSWjbesCkMeCaITY&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=amproject.my.id&sid=5b4a12ef7e1694dd#Full #3673 @FreeCFGHub
+vless://d342d11e-d224-4463-b982-532309285094@43.173.1.153:8443?type=ws&security=tls&fp=chrome&sni=ccc.010304.xyz&host=ccc.010304.xyz#2519 | 🇮🇩 Indonesia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

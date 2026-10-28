@@ -1,39 +1,33 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:00:14
-# servers-count: 134
+# generated-at: 10/28/2026 14:33:06
+# servers-count: 128
 
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?type=tcp&security=reality&fp=firefox&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&sid=9980e0609b0d3891&sni=www.apple.com#🇮🇳 Индия
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?type=tcp&security=reality&fp=firefox&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&sni=www.cloudflare.com#🇮🇳 Индия
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?type=raw&security=reality&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&sni=www.cloudflare.com#🇮🇳 Индия
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#%F0%9F%87%AE%F0%9F%87%B3%20AetrisVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990# By EbraSha 🧲
-trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome# By EbraSha 🌑
-trojan://Trojan@82164024@in.tronsg.com:443?sni=127.0.0.1&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🧨
-trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp# By EbraSha 🧪
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com# By EbraSha 🔐
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@13.233.229.128:443?security=tls&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&packetEncoding=xudp&sni=snip.edgeoneai.cc.cd&fp=chrome&encryption=none# By EbraSha 🌀
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless# By EbraSha 🥷
-vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1# By EbraSha 🐉
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox# By EbraSha 💻
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in002.zestapp778.com:46362?security=tls&type=tcp&sni=in002.zestapp778.com&fp=chrome# By EbraSha 🌑
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfm6HvuI8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiMTUyLjY3LjguMjA1IiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfp6AiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMSIsImFscG4iOiIiLCJmcCI6InJhbmRvbSIsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+MkSIsInNjeSI6ImF1dG8iLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNTIuNjcuMTkwLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg4pmj77iPIiwic2N5IjoiYXV0byIsInNuaSI6ImUxMzA5MTdjLTFiNTgtNDEzNi1iMmQ5LTc2ZGM5MjBlMGFkZC5hZGQ5N2VlOC0wZjE0LTQ4YTMtYjJjZC05NzljNTY3NDJlNjQubG9zZXlvdXJpcC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiODk5OCIsInBzIjoiQnkgRWJyYVNoYSDwn5G+Iiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@134.209.147.198:990# By EbraSha ⚡
+trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome# By EbraSha 💣
+trojan://Trojan@82164024@in.tronsg.com:443?sni=127.0.0.1&allowInsecure=1&type=tcp&fp=chrome# By EbraSha 🃏
+trojan://Trojan@82164024@in.tronsg.com:443?sni=in.tronsg.com&allowInsecure=1&type=tcp# By EbraSha 🔋
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless# By EbraSha 🔮
+vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1# By EbraSha 🕷️
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@139.84.145.241:46362?security=tls&type=raw&sni=in002.zestapp778.com&fp=firefox# By EbraSha 🔥
+vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfpogiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoiMTUyLjY3LjguMjA1IiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiIxNTUuMjQ4LjI0MS41MiIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODFkOTNmNjItMTVhMi00OTk0LWFkYjktMGI1ZDkwNmFhYzdlIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCflK4iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6IjAiLCJhbGxvd0luc2VjdXJlIjoiMSIsImFscG4iOiIiLCJmcCI6InJhbmRvbSIsImhvc3QiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii93cy12bWVzcyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+mviIsInNjeSI6ImF1dG8iLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNTIuNjcuMTkwLjEwNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZTEzMDkxN2MtMWI1OC00MTM2LWIyZDktNzZkYzkyMGUwYWRkLmFkZDk3ZWU4LTBmMTQtNDhhMy1iMmNkLTk3OWM1Njc0MmU2NC5sb3NleW91cmlwLmNvbSIsImlkIjoiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IkJ5IEVicmFTaGEg8J+agCIsInNjeSI6ImF1dG8iLCJzbmkiOiJlMTMwOTE3Yy0xYjU4LTQxMzYtYjJkOS03NmRjOTIwZTBhZGQuYWRkOTdlZTgtMGYxNC00OGEzLWIyY2QtOTc5YzU2NzQyZTY0Lmxvc2V5b3VyaXAuY29tIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiYWlkIjoiMCIsImhvc3QiOiJjYzM1LmdvaW5nc2lkZS5zaXRlIiwiaWQiOiI0YjAxOWZhYS0zOGIwLTQ3M2QtYmM0OS02MGJiNjgxNTFjMzQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvaGxzL2NjdHY1cGhkLm0zdTgiLCJwb3J0IjoiODk5OCIsInBzIjoiQnkgRWJyYVNoYSDwn5al77iPIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6IiIsInBhdGgiOiIvIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh67wn4ezXSBbdm0tbm8td3NdIFsyNjEwMjgtMTMzODE2Ljc2Nl0ifQo=
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMTc5IiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyOC0xMzQwNTAuOTczXSJ9Cg==
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMTg0IiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyOC0xMzQwNTEuMDE5XSJ9Cg==
 vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjQyIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyOC0xMzQwNTEuMDY1XSJ9Cg==
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsInBvcnQiOiI4MCIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6IndzIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjAwIiwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwicHMiOiJb8J+HrvCfh7NdIFt2bS1uby13c10gWzI2MTAyOC0xMzQwNTEuMTExXSJ9Cg==
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&encryption=none#🇮🇳[openproxylist.com] vless-IN
 socks5://82.180.146.251:10800
 socks5://140.238.243.61:1080
-socks4://103.41.32.250:51951
 https://45.114.142.178:443
 https://34.93.103.38:443
 https://203.193.169.112:443
@@ -46,7 +40,6 @@ https://5.178.98.214:443
 https://210.89.42.108:443
 https://4.240.88.77:443
 https://163.223.186.141:443
-https://14.99.141.239:443
 https://4.213.225.50:443
 https://20.235.106.55:443
 https://20.219.163.207:443
@@ -59,6 +52,7 @@ https://35.154.0.137:443
 https://65.1.30.113:443
 https://3.110.20.129:443
 https://98.70.81.29:443
+https://202.162.232.76:443
 https://65.0.68.234:443
 https://13.232.233.63:443
 https://3.111.253.23:443
@@ -76,19 +70,19 @@ http://154.201.127.46:8080
 socks5://144.24.111.128:1088
 socks4://140.238.243.61:1080
 http://154.201.126.245:8080
-socks4://43.242.227.10:9053
+http://103.178.160.149:3128
+http://103.230.150.58:8080
 http://45.194.90.194:8080
-http://144.24.111.128:3129
+http://122.176.158.103:80
 socks5://139.59.1.14:1080
 socks5://43.242.227.10:9052
 socks5://178.92.72.205:1080
 socks5://43.242.227.10:9051
-socks5://103.84.166.37:1080
-socks5://43.242.227.10:9053
 socks5://103.215.216.13:9050
 socks5://103.72.101.51:1020
-http://103.48.68.82:84
 http://154.201.126.44:8080
+http://20.40.43.171:3131
+http://103.195.252.2:84
 http://45.194.41.155:8080
 http://45.194.91.7:8080
 http://45.194.41.16:8080
@@ -96,48 +90,48 @@ http://45.194.41.141:8080
 http://154.201.127.158:8080
 http://45.194.3.132:8080
 http://40.192.70.191:11223
+http://103.143.214.77:5678
 http://103.204.54.50:1080
 http://45.194.41.231:8080
+http://103.143.214.81:5678
 http://154.201.127.230:8080
 http://20.204.43.57:80
 http://178.92.72.205:1080
+http://123.253.124.28:5678
+http://103.143.8.126:51951
 http://103.146.170.244:5678
 http://45.194.90.225:8080
 http://151.185.58.17:80
 http://139.59.1.14:8080
-http://103.178.176.14:8080
-http://43.249.227.186:82
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJob3N0IjogImluLTE1Mi42Ny44LjIwNS0wMjAwIiwgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiAiODAiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgInNuaSI6ICIiLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidiI6ICIyIn0=
+http://103.125.154.1:8080
+http://103.48.68.30:83
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHVkODNkXHVkZDI1Sm9pbitUZWxlZ3JhbTpARmFyYWhfVlBOXHVkODNkXHVkZmUzIiwgImFkZCI6ICIyMC4yMzUuMjIwLjE4OSIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICJmMjNiYjQyN2MxZjk0MzczODc2YzJmNDNlOWY3OTBmMyIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAiaG9zdCI6ICI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCAicGF0aCI6ICIvd3Mtdm1lc3MiLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAic25pIjogIiIsICJhbHBuIjogIiIsICJmcCI6ICIifQ==
 trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?security=tls#%F0%9F%87%AE%F0%9F%87%B3IN-152.67.160.174-1378
-http://45.116.230.79:4673
-http://103.49.166.117:84
+http://103.60.136.129:4153
+http://45.194.41.70:8080
+http://64.227.134.137:80
+http://182.95.79.172:3128
 http://144.24.111.128:1088
 http://82.180.146.251:10800
 http://139.59.1.14:1080
-http://43.242.227.10:9052
-socks4://43.242.227.10:9052
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100#t.me%2Ffreekesha21 - 522 %F0%9F%87%B8%F0%9F%87%AC
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless#t.me%2Ffreekesha21 - 607 %F0%9F%87%B8%F0%9F%87%AC
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&sni=13.140.56.100#t.me%2Ffreekesha21 - 641 %F0%9F%87%AE%F0%9F%87%B3
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&security=false&fp=chrome&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#t.me%2Ffreekesha21 - 646 %F0%9F%87%AE%F0%9F%87%B3
-vmess://eyJ2IjpudWxsLCJwcyI6IklOIPCfh67wn4ezIHwgQFJheWRpa2FseCB8IDQ4QjU1NSIsImFkZCI6IjE1Mi42Ny44LjIwNSIsInBvcnQiOjgwLCJpZCI6IjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoiaW4tMTUyLjY3LjguMjA1LTAyMDQiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiSU4g8J+HrvCfh7MgfCBAUmF5ZGlrYWx4IHwgNDhCNTU1In0=
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI4MCIsInBzIjoiSU4g8J+HrvCfh7MgfCBAUmF5ZGlrYWx4IHwgRUEzMThDIiwic2N5IjoiYXV0byIsInNuaSI6IjE1Mi42Ny44LjIwNSIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoiSU4g8J+HrvCfh7MgfCBAUmF5ZGlrYWx4IHwgRDcwOTk5IiwiYWRkIjoiMTUyLjY3LjguMjA1IiwicG9ydCI6IjgwIiwiaWQiOiI5ZGI0YzcwOC1hZWY4LTQzNTktODIxYi0zOGU0Nzk5MGJlMGQiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6IiIsInRscyI6IiIsInBhdGgiOiIvIiwiaG9zdCI6ImluLTE1Mi42Ny44LjIwNS0wMjAyIn0=
-vmess://eyJhZGQiOiIxNTIuNjcuOC4yMDUiLCJhaWQiOjAsImhvc3QiOiJpbi0xNTIuNjcuOC4yMDUtMDI0MiIsImlkIjoiOWRiNGM3MDgtYWVmOC00MzU5LTgyMWItMzhlNDc5OTBiZTBkIiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjgwIiwicHMiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCBFRDM3QUIiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+http://139.59.1.14:3128
+http://115.187.50.40:5678
+http://45.117.29.137:10888
 vmess://eyJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsImFpZCI6MCwiaG9zdCI6IjZKRHZBcmF6Z1UzcVFSNlEudi4zZG5zLnZpcCIsImlkIjoiZjIzYmI0MjdjMWY5NDM3Mzg3NmMyZjQzZTlmNzkwZjMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3Mtdm1lc3MiLCJwb3J0IjoiNDQzIiwicHMiOiJJTiDwn4eu8J+HsyB8IEBSYXlkaWthbHggfCBEQThFRkEiLCJzY3kiOiJhdXRvIiwic2VydmljZU5hbWUiOiIiLCJzbmkiOiI2SkR2QXJhemdVM3FRUjZRLnYuM2Rucy52aXAiLCJ0bHMiOiJ0bHMiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiAiMTUyLjY3LjguMjA1IiwgImFpZCI6IDAsICJob3N0IjogImluLTE1Mi42Ny44LjIwNS0wMTc5IiwgImlkIjogIjlkYjRjNzA4LWFlZjgtNDM1OS04MjFiLTM4ZTQ3OTkwYmUwZCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJcdWQ4M2RcdWRkMjVKb2luK1RlbGVncmFtOkBGYXJhaF9WUE5cdWQ4M2RcdWRmZTMiLCAic25pIjogIiIsICJ0bHMiOiAiIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/ws/16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&amp;security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;host=app-6ada5023.deploy.meerasolution.com&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=app-6ada5023.deploy.meerasolution.com#🔥Join+Telegram:@Farah_VPN🟣
 http://13.126.183.60:40128#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-1
+http://182.78.36.218:83#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-3
 http://40.192.70.191:35433#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-5
-http://139.59.1.14:3128#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-23
 http://40.192.70.191:4083#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-36
+http://103.150.152.27:83#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-38
 http://40.192.70.191:33641#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-42
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?path=%2Fvless&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-1944
+http://129.159.239.33:3128#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-47
 http://18.61.230.250:3318#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-69
 http://13.126.183.60:28269#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-89
-http://45.194.3.119:8080#%5BOpenRay%5D%20%F0%9F%87%B2%F0%9F%87%BAMU-6
-vless://d18c6897-2849-456a-8c46-d7ecece47c20@144.24.140.37:443?type=ws&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#0438 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=firefox&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0532 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@in.tronsg.com:443?security=tls&fp=chrome#1650 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#1757 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&sni=13.140.56.100&host=13.140.56.100#2045 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d18c6897-2849-456a-8c46-d7ecece47c20@144.24.140.37:443?type=ws&security=tls&fp=chrome&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#0440 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=firefox&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0534 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://Trojan@82164024@in.tronsg.com:443?security=tls&fp=chrome#1662 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#1774 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&sni=13.140.56.100&host=13.140.56.100#2066 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
