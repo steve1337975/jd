@@ -1,34 +1,33 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MD] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824772926
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 01:22:06
-# servers-count: 25
+# generated-at: 10/28/2026 07:00:41
+# servers-count: 24
 
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&sni=md1.univesalsrv.com&serviceName=hub.v1.RelayService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&security=reality&serviceName=hub.v1.RelayService&sid=221ba6174224ca5b&sni=md1.univesalsrv.com&type=grpc#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.31:443?type=grpc&security=reality&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&sni=md2.univesalsrv.com&serviceName=hub.v1.SyncService&spx=/HesarWeb#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&mode=gun&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md1.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&sni=md1.univesalsrv.com&serviceName=hub.v1.RelayService#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&mode=gun&serviceName=app.v1.PushService#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&mode=gun&serviceName=app.v1.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&sni=md4.univesalsrv.com&mode=gun&serviceName=hub.v1.ApiService#🇲🇩 Молдова
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.34:443?type=grpc&security=reality&fp=firefox&pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&sid=aa9884f2982b7d3c&sni=md5.univesalsrv.com&mode=gun&serviceName=app.v1.PushService#🇲🇩 Молдова
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.30:443?encryption=none&type=grpc&security=reality&sni=md1.univesalsrv.com&fp=chrome&pbk=xWejOQUn2koOUorUPSrHMLM-lyHlZ441KzxKc9bLmkY&sid=221ba6174224ca5b&authority=TELEGRAM@MARAMBASHI_MARAMBASHI&serviceName=hub.v1.RelayService&mode=gun# By EbraSha 🤖
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?encryption=none&security=reality&sni=md4.univesalsrv.com&fp=chrome&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&type=grpc&authority=%2F%3FTELEGRAM---TOOTFFARANGI&serviceName=hub.v1.ApiService&mode=gun# By EbraSha 🧊
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=&sid=d36a38659ce106cb# By EbraSha 🩸
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?encryption=none&security=reality&sni=md2.univesalsrv.com&fp=firefox&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&sid=d36a38659ce106cb&type=grpc&authority=&serviceName=hub.v1.SyncService&mode=gun# By EbraSha 🌌
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=chrome&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb# By EbraSha 💻
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sid=8e07337954f9823f# By EbraSha 📱
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c# By EbraSha 🌌
-vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;fp=firefox&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c# By EbraSha 🌍
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&mode=gun&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&sni=md4.univesalsrv.com&mode=gun&serviceName=hub.v1.ApiService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md3.univesalsrv.com:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.32:443?type=grpc&security=reality&fp=firefox&pbk=q38CddDj2g-XNDc0uW1m6S6b8iGY_Bne2RwX7C_FYCQ&sid=9a72d40f1ff882b3&sni=md3.univesalsrv.com&serviceName=stats.v2.PushService#🇲🇩 Молдова
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@185.153.198.86:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com# By EbraSha 🤖
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@89.35.14.33:443?encryption=none&security=reality&sni=md4.univesalsrv.com&fp=chrome&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&sid=8e07337954f9823f&type=grpc&authority=%2F%3FTELEGRAM---TOOTFFARANGI&serviceName=hub.v1.ApiService&mode=gun# By EbraSha 🧪
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&fp=chrome&type=grpc&serviceName=hub.v1.SyncService&sni=&sid=d36a38659ce106cb# By EbraSha 🦾
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md2.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=JXFsWHYjhAcR-7yz9tuCTMdcfuiyC9a-C9ewA55Z63o&amp;fp=chrome&amp;type=grpc&amp;serviceName=hub.v1.SyncService&amp;sni=md2.univesalsrv.com&amp;sid=d36a38659ce106cb# By EbraSha 🛜
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md4.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=TZVMqglhHzteJ6t34mtku75LKzXNq0CB6glKYMAH6zg&fp=chrome&type=grpc&serviceName=hub.v1.ApiService&sid=8e07337954f9823f# By EbraSha 🤖
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@md5.univesalsrv.com:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=99MRki6b93wC-hhDHe9yq3IXE3KtPGw4RkFAnpI-8gg&amp;type=grpc&amp;serviceName=app.v1.PushService&amp;sni=md5.univesalsrv.com&amp;sid=aa9884f2982b7d3c# By EbraSha 🧠
+vmess://eyJhZGQiOiIxNzguMTc1LjEzNS4xNTUiLCJhaWQiOjY0LCJob3N0Ijoid3d3LjIyODYwNjkyLnh5eiIsImlkIjoiN2U0MjE5YWUtOGJmMS00Zjc5LTkwMmItNGYyNTljNjQ1MzNkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg8J+qrCIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiJhdXRvIn0=
+https://178.175.142.7:443
+https://178.175.142.7:9443
 http://143.246.222.184:3128
-http://176.125.242.58:3128
-http://85.121.149.232:18080
 socks5://85.121.179.160:1089
 socks5://5.181.158.54:1080
-vmess://ewogICAgImFkZCI6ICIxNzguMTc1LjEzNS4xNTUiLAogICAgImFpZCI6IDY0LAogICAgImhvc3QiOiAid3d3LjIyODYwNjkyLnh5eiIsCiAgICAiaWQiOiAiN2U0MjE5YWUtOGJmMS00Zjc5LTkwMmItNGYyNTljNjQ1MzNkIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3BhdGgvMTkxMDE5MDcyOTI3IiwKICAgICJwb3J0IjogNDQzLAogICAgInBzIjogIvCfh7Lwn4epTUQtMTc4LjE3NS4xMzUuMTU1LTEzMjIiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://4b1be712-774c-4b65-8491-a3339e124a70@37.221.66.135:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f&sni=md-x3n8.youtub-arvelys.top#1446 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4b1be712-774c-4b65-8491-a3339e124a70@md-x3n8.youtub-arvelys.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=vIfPrMro2GFmeRpxEEt2Q1lJUYO-bRDK2y7WdBaekQs&sid=37d5880f&sni=md-x3n8.youtub-arvelys.top#3185 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+http://85.121.149.232:18080
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@132.243.165.215:2083?encryption=none&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40public-vpn-200.opengw.net%3A443#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%91109
