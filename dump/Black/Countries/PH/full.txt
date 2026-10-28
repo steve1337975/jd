@@ -1,23 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 07:00:41
-# servers-count: 148
+# generated-at: 10/28/2026 14:00:14
+# servers-count: 151
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 💻
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com# By EbraSha 🐺
-vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn4yAIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
-socks4://180.191.22.50:4153
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 🌀
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com# By EbraSha 🌑
+vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5OAIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 https://202.183.37.129:443
 https://202.183.37.188:443
 https://202.183.37.189:443
 https://8.212.178.252:8000
-http://119.94.183.78:8082
-http://120.28.169.31:5050
-socks5://61.9.32.30:58765
+socks5://8.212.165.164:5008
+socks5://8.212.165.164:8085
 socks5://8.220.141.8:5060
 socks5://8.212.168.170:623
 socks5://8.212.168.170:1111
@@ -78,7 +76,6 @@ socks5://8.220.141.8:8045
 socks5://8.220.141.8:8047
 socks5://8.212.168.170:3389
 socks5://8.212.168.170:100
-socks5://8.212.165.164:443
 socks5://8.220.136.174:4145
 socks5://8.220.136.174:30001
 socks5://8.212.168.170:9080
@@ -122,7 +119,6 @@ socks5://8.220.136.174:9080
 socks5://8.220.136.174:9098
 socks5://8.220.136.174:89
 socks5://8.220.136.174:31281
-socks5://8.212.165.164:8085
 socks5://8.212.165.164:808
 socks5://8.212.168.170:8443
 socks5://8.212.165.164:5050
@@ -135,23 +131,30 @@ socks5://8.212.168.170:35561
 socks5://8.212.151.166:8018
 socks5://8.212.165.164:4369
 socks5://8.212.165.164:10000
+http://180.190.24.49:8082
 http://8.212.165.164:1081
 http://8.212.165.164:5094
-http://49.145.58.197:8082
-http://58.69.196.149:8345
+http://119.92.188.29:8080
+http://49.144.20.20:8082
 http://8.212.165.164:5080
 http://8.220.141.8:8443
+http://126.209.105.226:5050
 http://8.212.165.164:5061
 http://8.212.151.166:8080
 http://8.220.136.174:6379
 http://8.212.165.164:86
 http://8.212.168.170:9080
-http://8.220.136.174:5800
-http://8.220.136.174:8084
-http://58.69.61.79:8082
+http://180.191.233.218:2020
+http://8.212.151.166:1081
+http://8.212.151.166:4100
+http://8.212.151.166:8081
+http://8.212.168.170:4431
+http://8.212.168.170:2080
+http://112.208.173.248:8081
 http://202.57.46.138:4145
+http://49.151.120.81:8080
 http://8.220.141.8:9098
-http://161.49.100.131:1080
+http://49.145.62.154:8080
 http://8.220.136.174:8008
-http://180.191.0.205:8081#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-11
-http://119.92.70.75:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-17
+http://119.94.124.90:8081#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-60
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.52.94:15656?type=tcp&security=tls&fp=firefox&sni=ph001.zestapp778.com#1044 | 🇵🇭 Philippines | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

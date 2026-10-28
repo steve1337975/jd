@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 07:00:41
-# servers-count: 7
+# generated-at: 10/28/2026 14:00:14
+# servers-count: 11
 
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#🇮🇳 Индия
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320&type=tcp#🇮🇳 Индия
@@ -14,3 +14,7 @@ vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&t
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless&host=13.140.56.100&packetEncoding=xudp&encryption=none#t.me%2Ffreekesha21 - 217 %F0%9F%87%AE%F0%9F%87%B3
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#t.me%2Ffreekesha21 - 226 %F0%9F%87%BA%F0%9F%87%B8
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&type=ws&path=%2Fvless#t.me%2Ffreekesha21 - 6 %F0%9F%87%B8%F0%9F%87%AC
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#603.%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@152.70.76.104:46000?encryption=none&security=tls&sni=sni.111000.v6.navy&insecure=0&allowInsecure=0&type=ws&host=sni.111000.v6.navy&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2489.%20%F0%9F%87%B8%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.v6.navy%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@216.10.243.159:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%AE%F0%9F%87%B7%2B%40ShadowProxy66%3D#2747.%20%F0%9F%87%AE%F0%9F%87%B3%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
+vless://99de7aac-d2a5-48fd-92cb-d1e6c3c719a4@172.105.252.35:443?security=tls&flow=xtls-rprx-vision&sni=in-full.privateip.net&type=tcp&path=/&allowInsecure=1#7852.%20VLESS%20%7C%20SNI%3A%20in-full.privateip.net%20%7C%20TG%3A%20%40wlrustg
