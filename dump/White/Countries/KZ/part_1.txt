@@ -1,12 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824793241
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 07:00:41
-# servers-count: 3
+# generated-at: 10/28/2026 14:00:14
+# servers-count: 16
 
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=web.max.ru&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81#TCP, Max [V.O.I.D]
 vless://419e8d73-db47-4614-b54b-e707cf7df35c@5.180.43.242:443?encryption=none&security=reality&sni=ya.ru&fp=firefox&pbk=k7dworBISiOlCzqSKN29SWJoYDLN71QT6uS14v86pEo&sid=a1b2c3d4&type=tcp&flow=xtls-rprx-vision#TCP%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
+vless://84124a40-4b02-4762-a3a6-6cf43f297724@kzmain.fgnconnection.life:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&pbk=H46I56wuurV9oQyn2irq5ZleWz_FBpHWmWoqz1Hc-Qc&sid=53c8004fa34e8724#TCP, VK [V.O.I.D]
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@194.87.138.159:443?encryption=none&flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=web.max.ru&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&sid=45ba18f116ad1f81#TCP, Max [V.O.I.D]
 vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@one.alpheratzz.org:8443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2&sni=api-6ad3c751.adhil.uk&fp=firefox&flow=xtls-rprx-vision#t.me%2Ffreekesha21 - 386 %F0%9F%87%AA%F0%9F%87%AA
+vless://1a25f8ad-cad2-4e93-b5bf-34e42bcac02a@31.43.179.158:2096?encryption=none&host=sni.111000.de5.net&security=tls&sni=sni.111000.de5.net&type=ws#🌐 [AS209242] "Cloudflare London #1250.%20VLESS%20%7C%20SNI%3A%20sni.111000.de5.net%20%7C%20TG%3A%20%40wlrustg
+vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065?encryption=none&fp=chrome&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&security=reality&sid=fa&sni=yahoo.com&type=tcp#🌐 [AS205516] NLS ASTANA LLP #1335.%20VLESS%20%7C%20SNI%3A%20yahoo.com%20%7C%20TG%3A%20%40wlrustg
+vless://45e3b7ad-03b6-42fc-b616-1e92bdd0a5b3@91.147.92.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#🌐 [AS48716] PS Internet Company LLP #1336.%20VLESS%20%7C%20SNI%3A%20hls-svod.itunes.apple.com%20%7C%20TG%3A%20%40wlrustg
+vless://0305b974-3c5b-418e-be2e-d752fa4050db@test.soft-blade.test-cdn-kkk.com:443?flow=xtls-rprx-vision&sni=tradingview.com&security=reality&pbk=-tePObR3oZwGAUOb5kqTYkNWl6rtUKl0RFuzuu06wgw&sid=50&fp=qq#3466.%20%F0%9F%87%B0%F0%9F%87%BF%20VLESS%20%7C%20SNI%3A%20tradingview.com%20%7C%20TG%3A%20%40wlrustg
+vless://9463dae0-cb92-4d8e-93ae-b690456c35fe@kz.adrenaline-fast.ru:443?flow=xtls-rprx-vision&sni=www.cloudflare.com&security=reality&pbk=oL_5X9oIPHjUBjNTxxYJOk--hilANokOzUnerzeckBE&sid=84ba23f181dd9a15#4004.%20%F0%9F%87%B0%F0%9F%87%BF%20VLESS%20%7C%20SNI%3A%20www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#4201.%20%F0%9F%87%B0%F0%9F%87%BF%20VLESS%20%7C%20SNI%3A%20api.gosuslugi.ru%20%7C%20TG%3A%20%40wlrustg
+vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#6764.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20kz1.vpnjantit.com%20%7C%20TG%3A%20%40wlrustg
+vless://b3441cc7-1e5f-4eb6-8207-90788eeca21e@196.198.111.138:8443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=api-6ad3c751.adhil.uk#8242.%20VLESS%20%7C%20SNI%3A%20api-6ad3c751.adhil.uk%20%7C%20TG%3A%20%40wlrustg
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?security=reality&encryption=none&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=83#8256.%20%F0%9F%87%B0%F0%9F%87%BF%20VLESS%20%7C%20SNI%3A%20yahoo.com%20%7C%20TG%3A%20%40wlrustg
+vless://probabblynot-ch@194.76.18.126:2087?alpn=http/1.1&encryption=none&fp=chrome&host=probabblynot.fazelextremeisreal.com&path=/@probabblynot&security=tls&sni=probabblynot.fazelextremeisreal.com&type=ws#9153.%20VLESS%20%7C%20SNI%3A%20probabblynot.fazelextremeisreal.com%20%7C%20TG%3A%20%40wlrustg
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg&encryption=none#9717.%20VLESS%20%7C%20SNI%3A%20rAyAn-cOnFiG-fr-1.pArSa.dPdNs.oRg%20%7C%20TG%3A%20%40wlrustg
+vless://e65a5cbc-5663-4f7d-ad7d-800e86ba487d@194.76.18.25:443?security=tls&sni=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg&encryption=none#9718.%20VLESS%20%7C%20SNI%3A%20rAyAn-cOnFiG-fr-1.pAriSa.dPdNs.oRg%20%7C%20TG%3A%20%40wlrustg

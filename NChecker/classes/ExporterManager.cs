@@ -123,7 +123,7 @@ namespace NChecker.classes
 
         private async Task ExportByCountriesFull(SubscriptionType filterType, ServerData[] servers, SettingsData settings)
         {
-            var countryGroups = servers.GroupBy(x => x.GetCountryCode());
+            var countryGroups = servers.GroupBy(x => x.CountryCode);
             string typeLabel = filterType.ToString().ToUpper();
 
             foreach (var group in countryGroups)

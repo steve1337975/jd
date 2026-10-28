@@ -149,7 +149,6 @@ namespace NChecker.classes
         internal async Task ExecuteCountryTestAsync(ServerData server)
         {
             if (!server.IsValid() || reader == null) return;
-            CountryResponse response = null;
             try
             {
                 if (!IPAddress.TryParse(server.Address, out IPAddress ip))
@@ -162,10 +161,15 @@ namespace NChecker.classes
                     }
                 }
                 if (ip == null) return;
-                response = reader.Country(ip);
+                if (reader.TryCountry(ip, out CountryResponse v1))
+                {
+                    server.CountryCode = v1.RegisteredCountry.IsoCode ?? ServerCountryCode.UNK.ToString();
+                    server.Country = v1.Country.Name ?? "Unknown";
+
+                }
+                if (reader.TryCity(ip, out CityResponse v2)) server.City = v2.City.Name ?? "Unknown";
             }
             catch { }
-            server.SetCountry(response);
         }
 
         internal async Task ExecuteTcpPingTestAsync(ServerData server, SettingsData settings)

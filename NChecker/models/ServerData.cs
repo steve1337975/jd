@@ -1,5 +1,4 @@
-﻿using MaxMind.GeoIP2.Responses;
-using NChecker.models.subscription;
+﻿using NChecker.models.subscription;
 using NChecker.models.vpn;
 using NChecker.models.vpn.protocols;
 using System.Security.Cryptography;
@@ -12,8 +11,9 @@ namespace NChecker.models
         // Конфиг конкретного протокола (Vless, Vmess, Shadowsocks, Trojan и т.д.)
         internal VpnConfigBase Config { get; private set; }
 
-        private string m_countryCode = "UNK", m_country = "Unknown";
-        private ServerCountryCode m_registeredCountryCode;
+        private string _countryCode = "UNK", _country = "Unknown";
+        string _city = "Unknown";
+        private ServerCountryCode _registeredCountryCode;
 
         internal bool IsAlive { get; set; }
         internal int SortedIndex { get; set; }
@@ -26,6 +26,22 @@ namespace NChecker.models
         internal int Port => Config?.Port ?? 0;
         internal string Name => Config?.Name;
 
+        internal string Country { get; set; }
+        internal string CountryCode
+        {
+            get
+            {
+                if (_registeredCountryCode != ServerCountryCode.UNK) return _registeredCountryCode.ToString();
+                return _countryCode;
+            }
+            set
+            {
+                _countryCode = value;
+                _registeredCountryCode = Enum.TryParse(_countryCode, out ServerCountryCode country) ? country : ServerCountryCode.UNK;
+            }
+        }
+        internal string City { get; set; }
+
         internal ServerData(string url)
         {
             // Используем фабричный метод для создания правильного конфига
@@ -33,19 +49,6 @@ namespace NChecker.models
         }
 
         internal bool IsValid() => Config?.IsValid() ?? false;
-
-        internal string GetCountryCode()
-        {
-            if (m_registeredCountryCode != ServerCountryCode.UNK) return m_registeredCountryCode.ToString();
-            return m_countryCode;
-        }
-
-        internal void SetCountry(CountryResponse response)
-        {
-            m_countryCode = response?.Country.IsoCode ?? "UNK";
-            m_registeredCountryCode = Enum.TryParse(m_countryCode, out ServerCountryCode country) ? country : ServerCountryCode.UNK;
-            m_country = response?.Country.Name ?? "Unknown";
-        }
 
         internal string GetHashData()
         {
