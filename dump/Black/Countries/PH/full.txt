@@ -1,24 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824761898
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824772926
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/27/2026 22:18:18
-# servers-count: 153
+# generated-at: 10/28/2026 01:22:06
+# servers-count: 169
 
-vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6qQIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5GRIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 https://202.183.37.129:443
 https://202.183.37.188:443
 https://202.183.37.189:443
 https://8.212.178.252:8000
-http://122.52.157.209:8081
-http://203.177.217.221:8082
-http://49.145.58.197:8082
-http://165.101.102.27:8083
-http://115.147.56.101:8080
-http://119.93.94.108:8080
-http://160.250.6.18:8082
+http://143.44.244.111:8081
+socks4://8.220.136.174:3128
 socks5://8.220.141.8:5060
 socks5://8.212.168.170:623
 socks5://8.212.168.170:1111
@@ -138,25 +133,46 @@ socks5://8.212.165.164:4369
 socks5://8.212.165.164:10000
 http://8.212.165.164:1081
 http://8.212.165.164:5094
-http://126.209.107.170:8082
+http://122.53.48.41:8080
+http://180.191.142.241:8081
+http://49.149.119.38:8081
+http://222.127.232.128:9999
+http://180.191.23.171:8081
 http://112.198.22.122:80
-http://58.69.196.149:8345
+http://82.22.54.135:5050
+http://119.93.69.83:8081
 http://8.212.165.164:5080
+http://180.191.153.75:2020
 http://8.220.141.8:8443
 http://8.212.165.164:5061
 http://8.212.151.166:8080
 http://8.220.136.174:6379
 http://8.212.165.164:86
 http://8.212.168.170:9080
-http://8.220.189.51:8118
-http://49.145.62.154:8080
-http://112.198.138.29:8082
-http://8.220.141.8:9098
+http://115.147.56.101:8080
+http://161.49.84.3:8081
+http://49.145.189.114:8081
+http://120.28.82.207:8082
+http://112.208.174.83:8080
+http://180.191.0.205:8081
+http://8.212.168.170:3129
+http://126.209.13.2:8085
+http://112.203.107.197:7080
+http://8.212.168.170:20
+http://180.191.127.195:5050
+http://122.54.139.32:5050
+http://112.207.166.195:8082
 http://202.57.46.138:4145
+http://120.28.189.133:8100
+http://119.93.94.108:8080
 http://180.191.232.80:3128
+http://8.220.141.8:9098
+http://154.18.196.6:8083
 http://8.220.136.174:8008
-http://119.93.123.229:4145
-http://122.3.103.17:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-2
-http://222.127.53.72:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-37
-http://161.49.84.3:8081#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-46
-http://124.107.57.235:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-48
+http://160.187.221.162:5050#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-3
+http://210.5.93.253:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-26
+http://203.177.217.221:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-30
+http://180.190.238.62:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-44
+http://103.167.116.166:8087#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-59
+http://180.191.229.72:5050#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-62
+http://122.52.157.170:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-76
