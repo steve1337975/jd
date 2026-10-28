@@ -1,23 +1,27 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 156
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 155
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 🔌
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com# By EbraSha 🧩
-vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5C6Iiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?fp=chrome&security=tls&sni=ph001.zestapp778.com&type=tcp# By EbraSha 📀
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=ph001.zestapp778.com# By EbraSha 🧿
+vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6qsIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+socks4://161.49.100.131:1080
+socks4://124.105.40.93:1080
 https://202.183.37.129:443
 https://202.183.37.188:443
 https://202.183.37.189:443
 https://8.212.178.252:8000
-socks4://119.93.82.236:1080
+http://8.212.151.166:1081
+http://203.177.217.221:8082
+http://8.212.168.170:1000
+http://8.212.151.166:80
 socks5://8.212.165.164:5008
 socks5://8.212.165.164:8085
-http://124.105.236.145:9090
 socks5://8.220.141.8:5060
 socks5://8.212.168.170:623
 socks5://8.212.168.170:1111
@@ -135,31 +139,26 @@ socks5://8.212.151.166:8018
 socks5://8.212.165.164:4369
 socks5://8.212.165.164:10000
 http://8.212.165.164:1081
-http://180.190.187.41:5050
 http://8.212.165.164:5094
-http://122.52.110.142:5050
-http://112.201.227.236:5050
-http://119.94.119.26:8081
+http://122.3.77.27:8082
+http://180.191.142.241:8081
+http://49.144.20.20:8082
+http://122.52.202.231:8080
 http://8.212.165.164:5080
 http://8.220.141.8:8443
-http://180.191.22.50:4153
 http://8.212.165.164:5061
 http://8.212.151.166:8080
 http://8.220.136.174:6379
 http://8.212.165.164:86
-http://119.93.82.236:1080
 http://8.212.168.170:9080
-http://8.212.151.166:1081
-http://8.212.151.166:4100
-http://8.212.151.166:8081
-http://8.212.168.170:4431
-http://8.212.168.170:2080
-http://126.209.13.2:8085
-http://161.49.116.131:1337
+http://180.191.0.205:8081
+http://180.191.127.195:5050
 http://202.57.46.138:4145
-http://139.135.182.132:8081
+http://160.250.6.18:8082
 http://8.220.136.174:8008
 http://8.220.136.174:8443
-http://49.149.215.58:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-45
-http://61.245.9.172:5050#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-90
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.52.94:15656?type=tcp&security=tls&fp=firefox&sni=ph001.zestapp778.com#1053 | 🇵🇭 Philippines | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+http://112.198.138.14:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-13
+http://203.177.139.12:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-14
+http://180.191.152.146:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-55
+http://124.83.43.145:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-81
+http://180.191.124.206:8081#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-82

@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [NG] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 3
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 4
 
-http://154.113.18.189:9779
+socks4://196.1.182.130:1080
+http://41.184.92.220:80
+http://41.184.92.221:80
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@103.97.91.17:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=la.freeguard.org#NG
-socks4://102.36.231.77:1080

@@ -1,19 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 10
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 13
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990# By EbraSha 🕹️
-trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0# By EbraSha 🧠
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@156.59.243.6:990# By EbraSha 📟
+trojan://S.ibYdZshHTF-ne.M%2B.Fznp_-hyFFnCSix@149.104.104.58:443?security=tls&amp;insecure=0&amp;headerType=none&amp;type=tcp&amp;allowInsecure=0# By EbraSha 🌀
+socks4://103.115.198.39:5678
 https://110.38.225.213:443
-socks4://103.4.94.124:1080
+socks4://103.125.243.142:1080
 socks4://202.142.170.115:1080
-socks4://110.39.135.194:1080
-socks4://58.27.200.225:1080
-socks5://182.184.30.96:1080
-http://58.27.200.225:1080
-http://110.39.135.194:8080
+socks4://103.4.94.124:1080
+socks4://103.146.137.249:1081
+socks5://110.93.205.254:1080
+http://58.27.213.133:8080
+http://103.146.137.137:1081
+http://103.125.243.142:1080
+http://103.4.94.124:1080

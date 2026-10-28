@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 34
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 40
 
 vless://c0dd6d59-1573-43af-8b70-1470b2632a6d@208.69.78.217:2053?encryption=none&type=tcp&security=reality&sni=www.apple.com&fp=firefox&pbk=A49ue7zXSusJZdErPAewg3jqGdUFIO1a9xOunEKJfC0&sid=ad86e2d52ff40ebd#🇨🇭 Швейцария
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplOEtnUzhmRDB5RHFZRnBnTjRHNXBpQ090OWFGeXFBMw==@132.243.175.144:8388#🇨🇭 Швейцария
@@ -20,12 +20,11 @@ vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.66:8082?encryption=none&
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.174:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.253:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.198:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#Reality, VK [V.O.I.D]
-vless://3950b45e-740d-4dca-ac95-505ec8534592@45.90.59.15:443?&security=reality&flow=xtls-rprx-vision&pbk=P7S4UPFlQbmiBr4txyy8NZIMTrmO3UdxyH16WBU-YzY&sid=19253fae84102271&fp=firefox&sni=www.cloudflare.com&type=tcp&headerType=none&host=www.cloudflare.com&path=%2F#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%7C%20TG%3A%20%40HardVpn_robot
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ch.viralforge.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20%5BVL%5D%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F%20%233070%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
-vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#%F0%9F%87%B7%F0%9F%87%BA%20%5BVL%5D%20%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F%20%237098%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C%20t.me%2Frjsxrd
+vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#🇨🇭 Швейцария 1 ROUTE 95 LLC%20t.me%2Frjsxrd
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@176.65.144.42:443?flow=xtls-rprx-vision&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&security=reality&sid=a1b2c3d4b5&sni=ch.viralforge.ru&type=raw&fp=safari#[295ms Швейцария CH 🇨🇭 @vlesstrojan]
 vless://8007dda2-aed2-4514-8299-6e3edbdb015b@179.43.170.84:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=si2.greenzone12.com&pbk=hyOYRfDSIYyqALQt3N2H0RjK8gbV1JvPTkNACC4PJF8&sid=8718c58d3d51db59&type=tcp&headerType=none#[316ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://f5e70ce3-cfb4-4df1-b25c-d19bfae627c0@45.90.57.119:8443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=L6DeK_a25_ZjPKFOrQLoCPWuXi5KCIH_EcRpARmCwkI&security=reality&sid=16036bbef04d0509&sni=twitch.tv&type=tcp#[323ms Швейцария CH 🇨🇭 @vlesstrojan]
 vless://7709550d-d2f1-67b1-b268-614431b073c5@83.228.251.63:8080?encryption=none&fp=chrome&pbk=j7qXqDT_IDpoN1CiO_TN6GZsWbvykcc5w_usWPTfyhw&security=reality&sid=15a0582e&sni=play.google.com&spx=/&type=tcp#[325ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://047466dd-05aa-4331-abf7-322c5aaecf97@ch.viralforge.ru:443?security=reality&encryption=none&pbk=HLKQ0JvyaZ16JNdl0pbEPkiVRYJDiZNzGz9prDMiw2s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ch.viralforge.ru&sid=a1b2c3d4b5#[329ms Швейцария CH 🇨🇭 @vlesstrojan]
 vless://7f6adf9d-42f1-4fec-ab22-fb7f66bf3adc@31.76.4.127:443?type=grpc&security=tls&fp=firefox&sni=php40jqz.hat.onl&serviceName=v1.segment.uHufVoVr0HirlYHLcxq0s9CO0TL38pQraVE.ts&encryption=none#[341ms Швейцария CH 🇨🇭 @vlesstrojan]
 vless://21f5ba17-28ea-4fd0-9c8f-80e2b91df5f1@151.241.217.160:443?type=tcp&headerType=none&security=reality&encryption=none&sni=lstu.ru&fp=firefox&pbk=e0RV9wRJdsQbQ0ugn5QUhJcTgWsSTVsKQTXMKweMDUg&flow=xtls-rprx-vision#[345ms Швейцария CH 🇨🇭 @vlesstrojan]
 vless://054362fb-e485-4a3f-9568-4c5b0f60e074@149.33.15.213:443?encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#[357ms Швейцария CH 🇨🇭 @vlesstrojan]
@@ -38,6 +37,13 @@ vless://5131b5e9-2c3c-44a0-8f18-0641f3f21cac@lv5.himoy.space:443?security=realit
 vless://345e0ef7-6861-4722-ab44-799c37507b24@farm.lf2.iki-servers.com:8443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ZPOv9ovM61KHt39yIQStmKH3LBbMNt7piTeLAm42LXk&sid=0c&sni=widgets.kinopoisk.ru#[443ms Финляндия FI 🇫🇮 @vlesstrojan]
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@clips.blog-forme.ru:2083?mode=auto&path=%2Fv2%2Fsync%2Faf2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=chrome&type=http&sni=clips.blog-forme.ru&sid=fb3a5f2d4ca346ed#[659ms Германия DE 🇩🇪 @vlesstrojan]
 vless://721bacfe-ff09-4e63-a735-686015bc1351@ch-plr-xh-pilot.tcp-reset-club.net:8443?security=reality&type=http&path=%2Fassets%2Fv2%2Fpkg&packetEncoding=xudp&sni=s3.netavex.com&fp=chrome&sid=e0&pbk=Gu_QdtOX6E8pZcYvDWgHKA5dxcit7hrpU27sizCEWXg&mode=stream-one&encryption=none#[700ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://7c4e57be-ff6f-4ef7-ba17-f839351d9af9@areal5.greewebservices.ir:5455?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&type=tcp&sni=amp-api-edge.apps.apple.com&sid=e3085d4fc679ba12#[736ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://054362fb-e485-4a3f-9568-4c5b0f60e074@swz.proxyplankton.ru:443?alpn=h2,http/1.1&encryption=none&fp=firefox&security=tls&sni=swz.proxyplankton.ru&type=tcp#[821ms Швейцария CH 🇨🇭 @vlesstrojan]
 trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 [WL] Сервер 27
 vless://6da2c981-8c77-4340-bda3-93399b7aea26@138.124.36.136:2083?type=xhttp&security=reality&fp=firefox&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&sid=fb3a5f2d4ca346ed&sni=clips.blog-forme.ru&path=%2Fv2%2Fsync%2Faf2c0c&encryption=none#🇩🇪 [BL] Сервер 266
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#🇫🇷 [BL] Сервер 604
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.18.250.238:2096?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=sni.jpmj.dev&type=ws&sni=sni.jpmj.dev#1230.%20%F0%9F%87%B7%F0%9F%87%BA%20VLESS%20%7C%20SNI%3A%20sni.jpmj.dev%20%7C%20TG%3A%20%40wlrustg
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#6052.%20VLESS%20%7C%20SNI%3A%20crm.lotussec.com%20%7C%20TG%3A%20%40wlrustg
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#6053.%20VLESS%20%7C%20SNI%3A%20crm.lotussec.com%20%7C%20TG%3A%20%40wlrustg
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?security=tls&allowInsecure=0&encryption=none&type=ws&host=69565ce3109804e7813f98ee.mmdbay.blog&path=/graphql&sni=69565ce3109804e7813f98ee.mmdbay.blog&fp=chrome&alpn=h2,http/1.1#6329.%20%F0%9F%87%A8%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%2069565ce3109804e7813f98ee.mmdbay.blog%20%7C%20TG%3A%20%40wlrustg
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@clips.blog-forme.ru:2083?mode=auto&path=/v2/sync/af2c0c&security=reality&encryption=none&pbk=nalACuCZjV1sZx7QOH6yAIDio8mFI0FgVKYQvQHBKS4&fp=chrome&type=xhttp&sni=clips.blog-forme.ru&sid=fb3a5f2d4ca346ed#7199.%20VLESS%20%7C%20SNI%3A%20clips.blog-forme.ru%20%7C%20TG%3A%20%40wlrustg

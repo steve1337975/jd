@@ -1,22 +1,26 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IE] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 14
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 18
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443# By EbraSha 📱
-vless://b0a100ee-c397-43f2-bdae-2adfb7a0d4e5@185.18.221.188:443?path=%2Fb0a100ee-c397-43f2-bdae-2adfb7a0d4e5&security=tls&encryption=none&insecure=0&host=rnxq-1lpi3m.linmeisoft.com&fp=firefox&type=ws&allowInsecure=0&sni=rnxq-1lpi3m.linmeisoft.com# By EbraSha 👾
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?encryption=none&security=tls&sni=ir-new-ded.failspace.top&fp=firefox&alpn=h2&type=tcp&flow=xtls-rprx-vision# By EbraSha ⚡
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC41NyIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJwb3J0IjozMDAwMCwicHMiOiJCeSBFYnJhU2hhIPCfk7YiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8zMDAwMjIxMTMzMjkiLCJwb3J0IjoiMzAwMDAiLCJwcyI6IkJ5IEVicmFTaGEg8J+XvyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuMTQ2MDExNzYueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
-vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkyMzYiLCJwcyI6IkJ5IEVicmFTaGEg8J+SuyIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6bkV0amdITFhINEZCTGlj@74.234.59.81:443# By EbraSha 📛
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6emlYSERPRlhjNHFSam9q@20.107.184.151:443# By EbraSha 🌪️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsbUc0NXJmYmt0OERBUGZQ@20.123.12.228:443# By EbraSha ⌨️
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@ir-new-ded.failspace.top:443?alpn=h2&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ir-new-ded.failspace.top&type=tcp# By EbraSha 🕹️
+vmess://eyJhZGQiOiIxODUuMTA4LjEyOC41NyIsImFpZCI6NjQsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJwb3J0IjozMDAwMCwicHMiOiJCeSBFYnJhU2hhIPCfkLoiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxODUuMTA4LjEyOC4xMzciLCJhaWQiOiI2NCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJ3d3cuMTQ2MDExNzYueHl6IiwiaWQiOiI1YWFiMzkzNi0xNmQ3LTQzNzctOGMzMy0wZDc3ZjJkMjk1ZWUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8zMDAwMjIxMTMzMjkiLCJwb3J0IjoiMzAwMDAiLCJwcyI6IkJ5IEVicmFTaGEg8J+nqSIsInNjeSI6ImF1dG8iLCJzbmkiOiJ3d3cuMTQ2MDExNzYueHl6IiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
+vmess://eyJhZGQiOiI1NC4yMjkuMTUxLjk3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0IjoidG1zLmRpbmd0YWxrLmNvbSIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkyMzYiLCJwcyI6IkJ5IEVicmFTaGEg8J+UkCIsInNjeSI6ImF1dG8iLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 https://18.200.158.139:443
 https://34.249.214.108:443
+https://34.248.251.170:443
+https://54.229.246.142:443
+https://52.214.92.206:8586
 http://20.223.124.87:3128
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?flow=xtls-rprx-vision&security=tls&sni=ir-new-ded.failspace.top&type=raw#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-14
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.188:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&security=tls&sni=ir-new-ded.failspace.top&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 http://52.214.92.206:8060#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-22
 http://108.131.152.118:43#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-34
 http://108.131.152.118:8818#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%AAIE-54

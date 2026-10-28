@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824820386
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824838145
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:33:06
-# servers-count: 16
+# generated-at: 10/28/2026 19:29:05
+# servers-count: 18
 
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs3.univesalsrv.com:443?encryption=none&security=reality&sni=rs3.univesalsrv.com&fp=firefox&pbk=gHDoSWGWMVZKWNKONWHw-Cpl0-bdI6GaKusgJIQ-vWQ&sid=35d05b666e2c6cdf&type=grpc&authority=&serviceName=edge.v2.FeedService&mode=gun#🇷🇸 Сербия
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&mode=gun&security=reality&encryption=none&pbk=X8mPYnsoTd8QCnvFZKSy7VvpSn_nrt_NWJkCUJhFCyE&fp=chrome&type=grpc&serviceName=gw.v1.ObjectService&sni=&sid=4872856d5489c37d#🇷🇸 Сербия
@@ -23,3 +23,5 @@ vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs5.univesalsrv.com:443?type=grpc&h
 vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@nld3.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[537ms RS RS  @vlesstrojan]
 vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs4.univesalsrv.com:443?encryption=none&type=grpc&security=reality&sni=rs4.univesalsrv.com&fp=chrome&pbk=sXsJ4ET-50TYqlhKZf03nPQr2JIy1F0D4m6lOsI0cAs&sid=861ac7d66953e55f&authority=/t.me/V2rayBaaz&serviceName=media.v1.StreamService&mode=gun#[5107ms RS RS  @vlesstrojan]
 vless://689a62e4-37e7-41de-9e6a-f2a56368c9e2@185.105.108.176:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=U9O1sbuPwoTowF3Ka7CIgUZlRjokulxSwsYohEGCLA8&sid=0d87fec579&sni=www.google.co.uk&encryption=none#🇷🇸 [WL] Сервер 69
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs1.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=upIzyaSbVz2ZK6KfGtXmPl_-sCwn8XLDyFDH5CsL9iY&fp=chrome&type=grpc&serviceName=node.v2.ObjectService&sni=rs1.univesalsrv.com&sid=ed0cd5cc2e26e6e7#6357.%20VLESS%20%7C%20SNI%3A%20rs1.univesalsrv.com%20%7C%20TG%3A%20%40wlrustg
+vless://2f35965a-9a9b-45fd-ba32-987296dfb6be@rs2.univesalsrv.com:443?mode=gun&security=reality&encryption=none&pbk=tL16MVY08r-7YDXb1_gxuBBWInpSFp97ZLJ_ax3R2iE&fp=chrome&type=grpc&serviceName=media.v1.ObjectService&sid=1469af2040b7c323#6358.%20%F0%9F%87%BA%F0%9F%87%B2%20VLESS%20%7C%20SNI%3A%20rs2.univesalsrv.com%20%7C%20TG%3A%20%40wlrustg
