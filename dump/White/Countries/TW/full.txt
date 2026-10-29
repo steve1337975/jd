@@ -1,17 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TW] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824864552
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824887136
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 02:49:12
+# generated-at: 10/29/2026 09:05:36
 # servers-count: 8
 
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?security=tls&sni=tjtw.m2k699.com&type=tcp&headerType=none#[319ms Италия IT 🇮🇹 @vlesstrojan]
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#[380ms Испания ES 🇪🇸 @vlesstrojan]
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#[448ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[641ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#[646ms TW TW  @vlesstrojan]
-vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&allowInsecure=1#[666ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[694ms TW TW  @vlesstrojan]
-vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?sni=48afa0c5c9.shopify.com&type=ws&path=/db102448afa0c5c9&host=48afa0c5c9.shopify.com&security=tls&fp=chrome#3554.%20%F0%9F%87%AD%F0%9F%87%B0%20VLESS%20%7C%20SNI%3A%2048afa0c5c9.shopify.com%20%7C%20TG%3A%20%40wlrustg
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@188.253.7.44:24999?security=tls&sni=tjtw.m2k699.com&type=tcp&headerType=none#[390ms TW TW  @vlesstrojan]
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjtw.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com#[390ms TW TW  @vlesstrojan]
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.amazon.com&fp=firefox&flow=xtls-rprx-vision&sid=cff998a4&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4#[475ms TW TW  @vlesstrojan]
+vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&allowInsecure=1#[760ms TW TW  @vlesstrojan]
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[761ms TW TW  @vlesstrojan]
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[762ms TW TW  @vlesstrojan]
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#[763ms TW TW  @vlesstrojan]
+vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?sni=48afa0c5c9.shopify.com&type=ws&path=/db102448afa0c5c9&host=48afa0c5c9.shopify.com&security=tls&fp=chrome#3705.%20%F0%9F%87%AD%F0%9F%87%B0%20VLESS%20%7C%20SNI%3A%2048afa0c5c9.shopify.com%20%7C%20TG%3A%20%40wlrustg

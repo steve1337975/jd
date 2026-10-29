@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824864552
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824887136
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 02:49:12
-# servers-count: 17
+# generated-at: 10/29/2026 09:05:36
+# servers-count: 13
 
 vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&alpn=h2&encryption=none&insecure=0&host=app-6ada5023.deploy.meerasolution.com&fp=chrome&type=ws&allowInsecure=0&sni=app-6ada5023.deploy.meerasolution.com#Full #300 @FreeCFGHub
 vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?security=none&fp=&type=ws&path=/vless&host=13.140.56.100&packetEncoding=xudp&encryption=none#Full #550 @FreeCFGHub
@@ -13,14 +13,10 @@ vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@in.smrtai.top:443?security=reality&
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#Full #1003 @FreeCFGHub
 vless://1d4e18bd-1f26-4915-b35a-7ace4826e76a@194.61.31.126:2053?fp=chrome&pbk=PuAGLfJy6cu1TNoHuKIKSxPetCbZI41fc8hQDjWPIAU&security=reality&sid=9980e0609b0d3891&sni=www.apple.com&type=tcp#Full #2958 @FreeCFGHub
 vless://6bdc8320-7eae-46fc-be08-f5f54e65dfc8@178.212.35.198:443?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=3LbVuwKpQv55GngyRhvGl9KyAHIDAgvJx_VRM5mUD2Q&sid=6bdc8320#Full #2964 @FreeCFGHub
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in002.zestapp778.com:46362?security=tls&type=tcp&sni=in002.zestapp778.com&fp=chrome#Full #3049 @FreeCFGHub
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%231182%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4ezSU4tMjQiLCJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwic25pIjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwiZnAiOiJyYW5kb20iLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIn0=#%F0%9F%87%AE%F0%9F%87%B3%20%5BVM%5D%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20%233159%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-trojan://Trojan@82164024@139.84.132.62:443?sni=in.tronsg.com&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20%5BTR%5D%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20%236101%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-trojan://Trojan@82164024@in.tronsg.com:443?sni=127.0.0.1&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%BA%F0%9F%87%B8%20%5BTR%5D%20%D0%A1%D0%A8%D0%90%20%233082%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws#0224 | 🇮🇳 India | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=firefox&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0729 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://Trojan@82164024@in.tronsg.com:443?security=tls&fp=chrome#2235 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#2381 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@in002.zestapp778.com:42733?type=tcp&security=tls&fp=chrome&sni=in002.zestapp778.com#2614 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://d18c6897-2849-456a-8c46-d7ecece47c20@144.24.140.37:443?type=ws&security=tls&fp=firefox&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#2750 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?&sni=13.140.56.100&type=ws&headerType=none&host=13.140.56.100&path=%2Fvless#%F0%9F%87%BA%F0%9F%87%B8%20%5BVL%5D%20%D0%A1%D0%A8%D0%90%20%231151%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vmess://eyJ2IjoiMiIsInBzIjoiW09wZW5SYXldIPCfh67wn4ezSU4tMjQiLCJhZGQiOiIyMC4yMzUuMjIwLjE4OSIsInBvcnQiOiI0NDMiLCJpZCI6ImYyM2JiNDI3LWMxZjktNDM3My04NzZjLTJmNDNlOWY3OTBmMyIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwic25pIjoiNkpEdkFyYXpnVTNxUVI2US52LjNkbnMudmlwIiwiZnAiOiJyYW5kb20iLCJwYXRoIjoiL3dzLXZtZXNzIiwiaG9zdCI6IiIsInNjeSI6ImF1dG8iLCJhbHBuIjoiIn0=#%F0%9F%87%AE%F0%9F%87%B3%20%5BVM%5D%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20%233085%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+trojan://Trojan@82164024@139.84.132.62:443?sni=139.84.132.62&allowInsecure=1&type=tcp&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20%5BTR%5D%20%D0%98%D0%BD%D0%B4%D0%B8%D1%8F%20%233253%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws#0231 | 🇮🇳 India | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=firefox&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0750 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://68512eac-cd53-4de3-8d1e-08f6e04af1a9@13.140.56.100:14430?type=ws&host=13.140.56.100&packetEncoding=none#2445 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d18c6897-2849-456a-8c46-d7ecece47c20@144.24.140.37:443?type=ws&security=tls&fp=firefox&sni=wzs.echo.net.eu.org&host=wzs.echo.net.eu.org#2827 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
