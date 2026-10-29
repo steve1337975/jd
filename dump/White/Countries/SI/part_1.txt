@@ -1,12 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917994
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824930554
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 17:39:54
-# servers-count: 3
+# generated-at: 10/29/2026 21:09:14
+# servers-count: 5
 
-vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@194.33.34.108:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net#[411ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@194.33.34.108:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net&encryption=none#TCP, VK [V.O.I.D]
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&security=reality&sid=7be1e9c243451b14&sni=b.fi-1.bnc-gt.co.uk&type=tcp#🇫🇮 Финляндия 19 H2NEXUS CLOUD SERVICES - FZCO%20t.me%2Frjsxrd
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&fp=firefox&security=tls&serviceName=grpc&sni=b.fi-1.bnc-gt.co.uk&type=grpc#🇫🇮 Финляндия 18 H2NEXUS CLOUD SERVICES - FZCO%20t.me%2Frjsxrd
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sni=www.tradingview.com&sid=9917d2350096#[🇫🇮] [vl-re-ra] [260106-103543.225]
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23261

@@ -1,22 +1,29 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917993
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824930554
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 17:39:53
-# servers-count: 13
+# generated-at: 10/29/2026 21:09:14
+# servers-count: 20
 
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#🇰🇷 Южная Корея
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?encryption=none&flow=xtls-rprx-vision&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&security=reality&sni=vextor.win&type=tcp&fp=firefox#t.me%2Ffreekesha21 - 412 %F0%9F%87%B7%F0%9F%87%BA
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#%F0%9F%87%B7%F0%9F%87%BA%20RU%20%7C%20VLESS%20t.me%2Frjsxrd
-vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=japan.geodema.network&type=tcp#[204ms Швеция SE 🇸🇪 @vlesstrojan]
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?type=http&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=%2Fapi_v3%2F&host=jp.vpber.info&mode=auto#[252ms Швеция SE 🇸🇪 @vlesstrojan]
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#[255ms Швеция SE 🇸🇪 @vlesstrojan]
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#[258ms Швеция SE 🇸🇪 @vlesstrojan]
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#[881ms Швеция SE 🇸🇪 @vlesstrojan]
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#[166ms KR KR  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#[187ms KR KR  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#[228ms KR KR  @vlesstrojan]
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=japan.geodema.network&type=tcp#[283ms JP JP  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#[293ms KR KR  @vlesstrojan]
+vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#[319ms KR KR  @vlesstrojan]
+vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?type=http&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=%2Fapi_v3%2F&host=jp.vpber.info&mode=auto#[339ms JP JP  @vlesstrojan]
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#[365ms KR KR  @vlesstrojan]
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#[386ms KR KR  @vlesstrojan]
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#[1192ms KR KR  @vlesstrojan]
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&allowInsecure=1#[3074ms Россия RU 🇷🇺 @vlesstrojan]
 vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws&encryption=none#🇯🇵 [WL/CF] Сервер 123
 vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&fp=firefox&sid=725e6ea0#🇬🇧 [BL] Сервер 139
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.22:20443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#2198.%20VLESS%20%7C%20SNI%3A%20sni.jpmj.dev%20%7C%20TG%3A%20%40wlrustg
-vmess://eyJ2IjoiMiIsInBzIjoiNzU3Mi4gVk1FU1MgfCBTTkk6IHNlb3VsMDIuemdqb2suY29tIHwgVEc6IEB3bHJ1c3RnIiwiYWRkIjoic2VvdWwwMi56Z2pvay5jb20iLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwidGxzIjoidGxzIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@jp1.fixpr.top:443?flow=xtls-rprx-vision&sni=jp1.fixpr.top&security=reality&pbk=C2tddMrF_IUfUWSL9Povqr0wA7PJijAkiKSx3eKSFAs&sid=9d13d0b1675dcb99&spx=/&fp=chrome#8445.%20%F0%9F%87%AF%F0%9F%87%B5%20VLESS%20%7C%20SNI%3A%20jp1.fixpr.top%20%7C%20TG%3A%20%40wlrustg
-vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@jp1.fixpr.top:443?flow=xtls-rprx-vision&sni=jp1.fixpr.top&security=reality&pbk=C2tddMrF_IUfUWSL9Povqr0wA7PJijAkiKSx3eKSFAs&sid=9d13d0b1675dcb99&spx=/&fp=chrome#8569.%20%F0%9F%87%AF%F0%9F%87%B5%20VLESS%20%7C%20SNI%3A%20jp1.fixpr.top%20%7C%20TG%3A%20%40wlrustg
+vless://00bc53ff-c447-42fd-8b85-1843985e729a@jp1.fixpr.top:443?flow=xtls-rprx-vision&sni=jp1.fixpr.top&security=reality&pbk=C2tddMrF_IUfUWSL9Povqr0wA7PJijAkiKSx3eKSFAs&sid=9d13d0b1675dcb99&spx=/&fp=chrome#1992.%20%F0%9F%87%AF%F0%9F%87%B5%20VLESS%20%7C%20SNI%3A%20jp1.fixpr.top%20%7C%20TG%3A%20%40wlrustg
+vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@jp1.fixpr.top:443?flow=xtls-rprx-vision&sni=jp1.fixpr.top&security=reality&pbk=C2tddMrF_IUfUWSL9Povqr0wA7PJijAkiKSx3eKSFAs&sid=9d13d0b1675dcb99&spx=/&fp=chrome#2116.%20%F0%9F%87%AF%F0%9F%87%B5%20VLESS%20%7C%20SNI%3A%20jp1.fixpr.top%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@146.56.99.22:20443?encryption=none&security=tls&sni=sni.jpmj.dev&insecure=0&allowInsecure=0&type=ws&host=sni.jpmj.dev&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#3615.%20VLESS%20%7C%20SNI%3A%20sni.jpmj.dev%20%7C%20TG%3A%20%40wlrustg
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888#5213.%20%F0%9F%87%B0%F0%9F%87%B7%20SS%20%7C%20TG%3A%20%40wlrustg
+vmess://eyJhZGQiOiIxNDYuNTYuMTY2LjE1MyIsImFpZCI6MCwiaG9zdCI6ImNjLjE4MDguY2YiLCJpZCI6ImFjYzk0YmY0LTk0YzEtNGEwOC04Yjc5LTliZTJiNzY0OTliNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8yeWV2d3MiLCJwb3J0Ijo0NDMsInBzIjoiOTczNy4gVk1FU1MgfCBTTkk6IGNjLjE4MDguY2YgfCBURzogQHdscnVzdGciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9

@@ -1,14 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [ZA] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917993
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824930554
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 17:39:53
-# servers-count: 5
+# generated-at: 10/29/2026 21:09:14
+# servers-count: 6
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphZHVCOUhHeFFIakEyU0JNUmprSFg2@102.37.156.224:443#🇿🇦 ЮАР
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYc3k4T3g0eU9WM3hMbHB4dGp6czNY@102.133.165.160:16233#🇿🇦 ЮАР
-vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#[305ms Швеция SE 🇸🇪 @vlesstrojan]
-vless://bdf81711-3d6e-4790-9785-cfee0a70ed3d@deir.fars-remen.ir:32545?encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=/&host=play.google.com#[379ms Люксембург LU 🇱🇺 @vlesstrojan]
-vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCJwb3J0IjoiNDQzIiwicHMiOiI3NzE0LiBWTUVTUyB8IFNOSTogNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IHwgVEc6IEB3bHJ1c3RnIiwic2N5IjoiYXV0byIsInNuaSI6IjRmYzEyOGNlLTQ4NDUtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+hysteria2://a0052f4f-4c63-0002-a16f-ab2d5d718cd3@192.142.23.46:443?sni=diffoscope.com#🇸🇪 Швеция 12 Need, L.L.C.-FZ%20t.me%2Frjsxrd
+vless://365de9e9-ba29-0004-af2d-766f9638e3be@192.142.12.175:443?security=reality&encryption=none&pbk=6VMgXXhZdJCiOG05EyK_zTHh00kpFGrZJeZIEPgqhjY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=diffoscope.com&sid=1c3e8241a8743df9#[271ms Германия DE 🇩🇪 @vlesstrojan]
+vless://bdf81711-3d6e-4790-9785-cfee0a70ed3d@deir.fars-remen.ir:32545?encryption=mlkem768x25519plus.native.0rtt.wEMv3eEkpWQa-oN5bV6hCNIERCjk36LRVPptafIW_l8&security=none&type=tcp&headerType=http&flow=xtls-rprx-vision&path=/&host=play.google.com#[320ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vmess://eyJhZGQiOiIxMDIuMTc3LjE4OS4xMDEiLCJhaWQiOiIwIiwiYWxwbiI6ImgyLGh0dHAvMS4xIiwiZnAiOiJjaHJvbWUiLCJob3N0IjoiNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IiwiaWQiOiI4Zjc0ZWM4YS05NzFjLTExZWQtYThmYy0wMjQyYWMxMjAwMDIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyP2VkPTIzNjUiLCJwb3J0IjoiNDQzIiwicHMiOiI5MDkzLiBWTUVTUyB8IFNOSTogNGZjMTI4Y2UtNDg0NS0xMWYwLWE5NDgtNmE3NWY2NjdiNDcyLlNob21hUGFydmF6Um9ZYWRldG9uTmlzdC1CeXBhc3NJc0hlcmUubGF0IHwgVEc6IEB3bHJ1c3RnIiwic2N5IjoiYXV0byIsInNuaSI6IjRmYzEyOGNlLTQ4NDUtMTFmMC1hOTQ4LTZhNzVmNjY3YjQ3Mi5TaG9tYVBhcnZhelJvWWFkZXRvbk5pc3QtQnlwYXNzSXNIZXJlLmxhdCIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
