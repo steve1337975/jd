@@ -1,14 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824887136
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 09:05:36
-# servers-count: 5
+# generated-at: 10/29/2026 16:07:10
+# servers-count: 3
 
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls#🇵🇭 Join+Telegram:@SolVPN 🇵🇭%20t.me%2Frjsxrd
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ph001.zestapp778.com#🇵🇭 Join+Telegram:@SolVPN 🇵🇭%20t.me%2Frjsxrd
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@149.104.109.33:15656?encryption=none&fp=firefox&security=tls&sni=ph001.zestapp778.com&type=tcp#🇵🇭 Филиппины 1 LIGHT NODE LIMITED%20t.me%2Frjsxrd
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.13:15656?encryption=none&fp=firefox&security=tls&sni=ph001.zestapp778.com&type=tcp#🇵🇭 Филиппины 2 LIGHT NODE LIMITED%20t.me%2Frjsxrd
-trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46293?type=tcp&security=tls&fp=chrome&sni=ph001.zestapp778.com#Бесплатный VPN tg:VLESSFORU 🇵🇭%20t.me%2Frjsxrd
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@ph001.zestapp778.com:15656?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=ph001.zestapp778.com#[444ms Швеция SE 🇸🇪 @vlesstrojan]
+trojan://5t6i121em5lkmsmk@ph001.zestapp778.com:46293?allowInsecure=1&sni=ph001.zestapp778.com&type=tcp#[468ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@130.94.53.13:15656?fp=firefox&security=tls&sni=ph001.zestapp778.com&type=raw#%F0%9F%87%B5%F0%9F%87%AD%20%D0%A4%D0%B8%D0%BB%D0%B8%D0%BF%D0%BF%D0%B8%D0%BD%D1%8B%202%20LIGHT%20NODE%20LIMITED%20t.me%2Frjsxrd

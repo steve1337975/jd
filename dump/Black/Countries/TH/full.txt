@@ -1,32 +1,37 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824887136
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 09:05:36
-# servers-count: 157
+# generated-at: 10/29/2026 16:07:10
+# servers-count: 162
 
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?&packet-encoding=xudp&type=ws&headerType=none&host=aIs.SpEeDtEsT.nEt&path=%2Fws# By EbraSha 🌌
-vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?host=support.zoom.us.v2ray.simspeedup.com&path=%2Fws&security=none&type=ws# By EbraSha 🪐
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?fp=firefox&host=ais.speedtest.net&path=%2Fws&security=none&sni=v2ray.simspeedup.com&type=ws# By EbraSha 🖥️
-vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws# By EbraSha 🧲
-vless://c9c219dc-50da-4135-8e5b-67020291f0ec@103.80.48.158:443?encryption=none&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=6ba85179e30d4fc2&spx=%2F&sni=xy4l6bpbjk.xeltrona-host26.sbs&fp=firefox&type=tcp&flow=xtls-rprx-vision# By EbraSha 🌌
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&type=tcp&security=tls&sni=th001.zestapp778.com# By EbraSha 🚀
-vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&allowInsecure=1# By EbraSha 🛜
-vmess://eyJhZGQiOiIxMTkuNTkuOTguMzkiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljk4NjY2NTk4Lnh5eiIsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwicG9ydCI6MzAwMDEsInBzIjoiQnkgRWJyYVNoYSDwn5W277iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-socks5://125.27.147.150:9999
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?&packet-encoding=xudp&type=ws&headerType=none&host=aIs.SpEeDtEsT.nEt&path=%2Fws# By EbraSha 🧠
+vless://3c52e091-6714-4915-949f-2149fe69951b@V2rAy.SiMsPeEdUp.CoM:80?&packet-encoding=xudp&type=ws&headerType=none&host=aIs.SpEeDtEsT.nEt&path=%2Fws# By EbraSha 🦇
+vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?fp=firefox&host=support.zoom.us.v2ray.simspeedup.com&path=%2Fws&security=none&sni=support.zoom.us.v2ray.simspeedup.com&type=ws# By EbraSha 🔥
+vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?host=support.zoom.us.v2ray.simspeedup.com&path=%2Fws&security=none&type=ws# By EbraSha ⚔️
+vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?path=%2Fws&security=none&type=ws# By EbraSha 📱
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?fp=firefox&host=ais.speedtest.net&path=%2Fws&security=none&sni=v2ray.simspeedup.com&type=ws# By EbraSha 📟
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?host=v2ray.simspeedup.com&path=%2Fws&security=none&sni=v2ray.simspeedup.com&type=ws# By EbraSha 🔐
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?security=none&type=ws&path=%2Fws&host=v2ray.simspeedup.com&packetEncoding=xudp# By EbraSha 🦾
+vless://3c52e091-6714-4915-949f-2149fe69951b@v2ray.simspeedup.com:80?type=ws&security=none&path=/ws# By EbraSha 🖥️
+vless://c9c219dc-50da-4135-8e5b-67020291f0ec@103.80.48.158:443?encryption=none&security=reality&pbk=fJnm6-PhJGSwHaAdJOzXkYOfCPPCWSlaZrtfm1XsqhA&sid=6ba85179e30d4fc2&spx=%2F&sni=xy4l6bpbjk.xeltrona-host26.sbs&fp=firefox&type=tcp&flow=xtls-rprx-vision# By EbraSha 🕹️
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?encryption=none&type=tcp&security=tls&sni=th001.zestapp778.com# By EbraSha 🌀
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=MiQ5B4j6In71lWvCi0vO_DkVSDb7sii34bh5efBMswk&sid=3c032a7e&allowInsecure=1# By EbraSha 🎯
+vmess://eyJhZGQiOiIxMTkuNTkuOTguMzkiLCJhaWQiOjY0LCJob3N0Ijoid3d3Ljk4NjY2NTk4Lnh5eiIsImlkIjoiNGQyNGZiZGUtY2IwZS00MDI1LTk4ZWMtMjIyOTMzODQ3ZDNkIiwibmV0Ijoid3MiLCJwYXRoIjoiL3BhdGgvMTkxMDE5MDcyOTI3IiwicG9ydCI6MzAwMDEsInBzIjoiQnkgRWJyYVNoYSDwn6qWIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 https://103.40.138.14:443
 https://47.81.15.95:8800
-http://1.4.141.42:80
-http://1.0.171.213:8080
-http://1.10.248.242:8080
-http://180.180.156.111:80
-socks5://125.24.156.113:7080
+http://1.20.101.25:80
+http://1.20.101.33:8080
+http://1.10.248.236:8080
+http://1.20.101.35:8080
+socks5://125.27.147.150:9999
 socks5://8.213.215.187:41890
 socks5://8.213.215.187:30000
 socks5://8.213.215.187:8001
 socks5://8.213.215.187:194
+socks5://47.87.97.94:1080
 socks5://8.213.215.187:202
 socks5://8.213.222.247:9080
 socks5://8.213.222.247:8118
@@ -116,28 +121,26 @@ socks5://8.213.222.247:1080
 socks5://8.213.222.247:9091
 socks5://8.213.222.157:3129
 socks5://8.213.195.191:80
-http://182.52.136.44:80
-http://182.53.143.200:8180
-http://125.25.167.188:80
-http://182.52.136.68:80
-http://182.53.202.217:8080
+http://182.52.113.106:80
+http://182.52.136.62:80
+http://49.48.110.152:8080
 http://8.213.197.208:4002
 http://8.213.195.191:8081
 http://1.20.178.212:80
-http://1.20.101.24:80
 http://8.213.222.157:8119
 http://8.213.195.191:202
 http://8.213.215.187:1081
 http://8.213.222.247:30000
-http://61.7.147.227:4145
+http://101.109.245.200:4153
+http://1.10.248.235:80
 http://27.254.99.183:8118
-http://1.20.101.18:80
 http://223.204.176.122:3128
-http://182.52.113.105:80
-http://125.25.167.124:443
-http://8.213.195.191:37
-http://184.82.172.192:8080
-http://110.238.113.119:8080
+http://184.82.164.23:8080
+http://106.0.168.138:8080
+http://110.164.175.110:8080
+http://180.180.156.68:80
+vless://ff85e702-b605-4109-884d-2c1f065d0954@45.154.26.63:443?sni=www.cloudflare.com&flow=xtls-rprx-vision&fp=chrome&security=tls#%F0%9F%87%B9%F0%9F%87%AD%5Bwww.v2nodes.com%5D%20vless-TH-1...
+http://49.229.36.170:4153
 http://8.213.215.187:8888
 http://182.52.136.44:443
 http://8.213.222.247:9098
@@ -149,18 +152,20 @@ http://8.213.197.208:1080
 http://8.213.222.247:8080
 http://8.213.215.187:202
 http://8.213.222.247:666
-http://1.20.101.26:80
+socks4://171.4.85.65:5678
 vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&encryption=none&host=aIs.SpEeDtEsT.nEt&type=ws#🔥Join+Telegram:@Farah_VPN🟣
-http://1.20.101.16:443#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-15
+http://184.82.165.88:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-13
 http://103.10.231.189:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-17
-http://1.2.248.34:443#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-52
 http://49.229.100.235:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-53
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?host=v2ray.simspeedup.com&path=%2Fws&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-109
-http://1.10.248.226:443#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-122
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-126
-http://182.52.149.42:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-130
-trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#0334 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws&host=v2ray.simspeedup.com#1717 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?type=tcp&security=tls&fp=firefox&sni=th001.zestapp778.com#1806 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws#2689 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws&host=ais.speedtest.net#4505 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+http://125.27.241.98:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-60
+http://43.229.79.239:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-107
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?host=v2ray.simspeedup.com&path=%2Fws&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-108
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?path=%2Fws&security=none&type=ws#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-124
+http://171.103.19.126:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%ADTH-126
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@38.60.233.38:22222?type=raw&security=tls&fp=firefox&sni=th001.zestapp778.com#0113 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://5t6i121em5lkmsmk@th001.zestapp778.com:33079?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=th001.zestapp778.com#0189 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@th001.zestapp778.com:22222?type=tcp&security=tls&fp=chrome#0238 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws&host=v2ray.simspeedup.com#1573 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws#1620 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://3c52e091-6714-4915-949f-2149fe69951b@support.zoom.us.v2ray.simspeedup.com:80?type=ws#2253 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://3c52e091-6714-4915-949f-2149fe69951b@103.86.49.57:80?type=ws&host=ais.speedtest.net#2737 | 🇹🇭 Thailand | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
