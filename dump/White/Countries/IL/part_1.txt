@@ -1,13 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:00:14
-# servers-count: 4
+# generated-at: 10/29/2026 16:07:10
+# servers-count: 9
 
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#5803.%20TROJAN%20%7C%20SNI%3A%20exploreeducationsectoropportunitiestodayandadvancecareers.com%20%7C%20TG%3A%20%40wlrustg
-vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?security=reality&encryption=none&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=a3a578ab#6415.%20VLESS%20%7C%20SNI%3A%20www.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#8167.%20VLESS%20%7C%20SNI%3A%20res.cdn.office.net%20%7C%20TG%3A%20%40wlrustg
-vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#9000.%20VLESS%20%7C%20SNI%3A%20yahoo.com%20%7C%20TG%3A%20%40wlrustg
+vless://1f8cf47a-b66a-4916-979f-26edfcf44eea@185.95.231.156:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=8eXftARun6KH38UZhuqIfPR1VF2DLS9RMBZEnF5k6To&security=reality&sid=a3a578ab&sni=www.apple.com&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇺🇸 США
+vless://9fce18f0-6837-4f19-84a5-4710c54ba562@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[347ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://24ebe7f7-653f-4fd9-95ba-a9ddbba51cdf@ch1.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch1.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#[357ms Швеция SE 🇸🇪 @vlesstrojan]
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@64.176.163.182:443?allowInsecure=1&sni=exploreeducationsectoropportunitiestodayandadvancecareers.com#[372ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://d3957e08-04d5-4275-9eb7-eaec20d65741@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[382ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://f0b144bd-4c44-440d-b630-d79ec82cad3a@77.91.69.169:19226?security=reality&encryption=none&pbk=PQjgf7GxBd2tDXf0zl9Z5rTZo7LdsWj0hGZLH-lJ-Uk&headerType=none&fp=firefox&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=7c#[864ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://5ef5d3e4-3cf3-4e0d-9342-6758d0a702c1@il2.c2horizon.app:443?security=reality&encryption=none&echfq=none&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&headertype=none&fp=qq&allowInsecure=1&type=tcp&flow=xtls-rprx-vision&sni=il2.c2horizon.app&sid=122218f4c1f172e4#[1089ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://5bb82f6f-e5b1-2bcf-6584-1abc8a3ec21f@83.143.106.9:8443?security=reality&type=grpc&serviceName=TunService&mode=gun&sni=res.cdn.office.net&fp=chrome&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&encryption=none#🇮🇱 [BL] Сервер 270
+vless://adf1fac3-cf57-ff40-574c-cf514457eb3f@83.143.106.4:443?mode=auto&path=/&security=reality&encryption=none&pbk=4g8R0-Acc1LjppgvUopldH0Wg3JA2tPXvYB96aJnigo&fp=chrome&type=xhttp&sni=res.cdn.office.net#6496.%20VLESS%20%7C%20SNI%3A%20res.cdn.office.net%20%7C%20TG%3A%20%40wlrustg

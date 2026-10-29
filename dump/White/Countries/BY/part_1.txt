@@ -1,15 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BY] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824818414
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 14:00:14
-# servers-count: 6
+# generated-at: 10/29/2026 16:07:10
+# servers-count: 9
 
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=firefox&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=firefox&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
 vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=safari&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@by.x8lab.org:443?flow=xtls-rprx-vision&sni=storage.yandexcloud.net&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754&fp=randomized#4197.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20SNI%3A%20storage.yandexcloud.net%20%7C%20TG%3A%20%40wlrustg
-vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=/vless&security=none&type=ws#6381.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#8267.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=firefox&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
+vless://6c713691-3ca2-4446-ad25-113d1bed6b03@46.243.183.2:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=lrbP-ePUk7nbeLS8vBLbP5yyld7ZLmTB4_VQWRO31T8&security=reality&sid=8a68df3a93c63ac8&sni=stream.indigo.ru&type=tcp#🇧🇾 Беларусь 4 ITGLOBALCOM BEL LLC%20t.me%2Frjsxrd
+vless://488fa2ff-440b-46b7-b0e0-211bcf923d5e@144.31.131.0:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J5ITJbg5FQFembAfkogKHHQB6DigsFXQxK7xu-QMWUs&security=reality&sid=a20d3ed244c76426&sni=bel.speedload.online&type=tcp#[428ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=/vless&security=none&type=ws#[528ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&security=none&type=ws&host=95.128.71.79&path=%2Fvless&sni=95.128.71.79&fp=chrome#[538ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#[540ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@by.x8lab.org:443?flow=xtls-rprx-vision&sni=storage.yandexcloud.net&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754&fp=randomized#[791ms Швеция SE 🇸🇪 @vlesstrojan]
