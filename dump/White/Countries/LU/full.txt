@@ -1,11 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LU] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917993
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 16:07:10
-# servers-count: 2
+# generated-at: 10/29/2026 17:39:53
+# servers-count: 11
 
-vless://4970c1cd-13e1-498a-920a-61d07be2fa65@107.189.7.176:32752?type=tcp&encryption=none&security=reality&pbk=pfFcQxKv4EPhCDUoZMCmTjj4FK7HHQg_me-In3bOejA&fp=chrome&sni=www.apple.com&sid=d758a643034ad90e&spx=/#🇱🇺 Люксембург
+vless://6206cb76-491d-4237-baf1-8c29eea4eafb@cl-glb6e059ee.gcdn.co:443?security=tls&type=ws&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&host=node-3.wt419.site&packetEncoding=xudp&alpn=http%2F1.1&sni=node-3.wt419.site&fp=random#t.me%2Ffreekesha21 - 131 %F0%9F%87%A8%F0%9F%87%BF
+vless://6206cb76-491d-4237-baf1-8c29eea4eafb@81.28.12.12:443?security=tls&type=ws&path=%2FqVnRkTxmLwBzHjYpFaDgUcSeNrKxMtVbWqZhPcLsJfGy&host=node-3.wt419.site&packetEncoding=xudp&sni=node-3.wt419.site&fp=chrome#t.me%2Ffreekesha21 - 383 %F0%9F%87%A8%F0%9F%87%BF
+vless://4ab6a76a-c147-47cc-be30-7678401ffd5b@gcore.com:443?encryption=none&security=tls&type=http&headerType=none&path=%2Fsakeneko%3Fed%3D2048&host=reza-0wuppjbl2e.gcorecdn.net&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22scMinPostsIntervalMs%22%3A%2210%22%2C%22xmux%22%3A%7B%22maxConcurrency%22%3A%228-16%22%2C%22cMaxReuseTimes%22%3A%2264-128%22%2C%22hMaxRequestTimes%22%3A%22800-900%22%2C%22hKeepAlivePeriod%22%3A10%7D%7D&sni=gcore.com&fp=chrome&pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&pinSHA256=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&alpn=h2&allowInsecure=1#[120ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://a1fc7c12-0b68-44b4-adba-f4d31bc0051c@31.184.244.30:443?security=reality&encryption=mlkem768x25519plus.native.0rtt.5hu39t_ZGRmLQwFS2yRUgQagbd2biV8vUglFYD3mzxU&pbk=fXv9p2DMpLXa9mlF912vZNLPOmSZk44Rx2Y0nXXGigE&headerType=&fp=chrome&spx=%2F83be4a2dca4dd5b&type=tcp&sni=play.google.com&sid=1f3b87#[312ms Люксембург LU 🇱🇺 @vlesstrojan]
+vless://93a24369-e986-43f3-a5f0-1eabb83c2d72@nln12.mobileemdad.top:443?security=reality&encryption=none&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&sid=08#[338ms Люксембург LU 🇱🇺 @vlesstrojan]
+vless://be21521c-ab53-473e-9041-f51888c9906f@frn10.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=cbe2503ffd040d#[357ms Люксембург LU 🇱🇺 @vlesstrojan]
+vless://be21521c-ab53-473e-9041-f51888c9906f@trn33.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&sni=delivery.mp.microsoft.com&fp=chrome&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=9ed2fa#[478ms Люксембург LU 🇱🇺 @vlesstrojan]
 trojan://humanity@188.42.145.180:443?path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#4240.%20%F0%9F%87%BA%F0%9F%87%B2%20TROJAN%20%7C%20SNI%3A%20www.volumeroot.com%20%7C%20TG%3A%20%40wlrustg
+vless://4ab6a76a-c147-47cc-be30-7678401ffd5b@gcore.com:443?encryption=none&security=tls&type=xhttp&headerType=none&path=/sakeneko?ed=2048&host=reza-0wuppjbl2e.gcorecdn.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"10","xmux":{"maxConcurrency":"8-16","cMaxReuseTimes":"64-128","hMaxRequestTimes":"800-900","hKeepAlivePeriod":10}}&sni=gcore.com&fp=chrome&pcs=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&pinSHA256=2f46da1aa616ddbabd59b4ddd2338505dd0c0ed52fbabac6fa3eedc14117a06b&alpn=h2&allowInsecure=1#5296.%20VLESS%20%7C%20SNI%3A%20gcore.com%20%7C%20TG%3A%20%40wlrustg
+vless://8bd0e682-3927-409d-81fe-bb860424ce2e@Gcore.com:443?mode=auto&path=/&security=tls&alpn=h2&encryption=none&insecure=0&host=xxxshjhbhzxxxx44x.gcorecdn.net&fp=chrome&type=xhttp&allowInsecure=0&sni=img.jsdelivr.com#6046.%20VLESS%20%7C%20SNI%3A%20img.jsdelivr.com%20%7C%20TG%3A%20%40wlrustg
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?type=tcp&security=tls&sni=#16 %7C TLS %7C IN%3A ES OUT%3A ES %7C RATING%3A 7%2F10

@@ -7,7 +7,7 @@ namespace NChecker.classes
 {
     internal class FilesManager
     {
-        private readonly List<SourceSubscriptionData> m_sources = new List<SourceSubscriptionData>();
+        private readonly List<SourceSubscriptionData> _sources = new List<SourceSubscriptionData>();
         internal SettingsData Settings { get; private set; }
         internal FilesManager()
         {
@@ -16,8 +16,8 @@ namespace NChecker.classes
             LoadList(Properties.Resources.white, SubscriptionType.White);
             LoadList(Properties.Resources.universal, SubscriptionType.Universal);
         }
-        internal int GetSourcesCount() => m_sources.Count;
-        internal SourceSubscriptionData[] GetSources() => m_sources.ToArray();
+        internal int GetSourcesCount() => _sources.Count;
+        internal SourceSubscriptionData[] GetSources() => _sources.ToArray();
         private void InitSettings()
         {
             try
@@ -39,9 +39,10 @@ namespace NChecker.classes
                 if (items == null) return;
                 for (int i = 0; i < items.Length; i++)
                 {
+                    if (items[i] == "-") break;
                     SourceSubscriptionData ssd = new SourceSubscriptionData(i + 1, items[i]);
                     ssd.FilterType = filterType;
-                    if (ssd.Enabled) m_sources.Add(ssd);
+                    if (ssd.Enabled) _sources.Add(ssd);
                 }
             }
             catch (Exception exc)

@@ -6,7 +6,7 @@ namespace NChecker.models.vpn.protocols
     {
         private string _username;
         private string _password;
-        bool _tls;
+        private bool _tls;
 
         internal HttpConfigData(string a1) : base(a1) { }
 

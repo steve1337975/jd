@@ -12,7 +12,7 @@ namespace NChecker.models
         internal VpnConfigBase Config { get; private set; }
 
         private string _countryCode = "UNK", _country = "Unknown";
-        string _city = "Unknown";
+        private string _city = "Unknown";
         private ServerCountryCode _registeredCountryCode;
 
         internal bool IsAlive { get; set; }

@@ -1,34 +1,50 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824912430
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917993
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 16:07:10
-# servers-count: 25
+# generated-at: 10/29/2026 17:39:53
+# servers-count: 41
 
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=raw&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#🇺🇦 Украина
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#🇺🇦 Украина
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@104.253.216.227:49917# By EbraSha 🤖
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHOVp1TE41REU5cXFvdVRad1lVY3ZZc0RKeDhneUwxbkN1M043eVJaRmpQbVlLaHpTaThHa3BWdWV4bVRIQXoydXZjRXJLa2V4MUsyY2VSMkdIM0w0NDRIUk5uTjFZcFA=@staging.lastilhame.monster:49917# By EbraSha 🧪
-ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443# By EbraSha 🃏
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999# By EbraSha 📼
-vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@edge-pl01.onvanet.com:443?security=reality&encryption=none&pbk=Mz9CMB-ETb9PDYuXgE5ze5Qner6pcNWu_Uur3bzKAU0&headerType=none&fp=chrome&type=tcp&sni=googleapis.com&sid=1acae32041107991# By EbraSha 🚬
-vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?&security=tls&fp=firefox&sni=indigostar.click&type=ws&headerType=none&path=%2Fws# By EbraSha 🔋
-socks5://212.3.127.242:10801
-socks5://81.162.123.152:10808
-socks5://46.35.247.23:1080
-http://81.162.123.152:10808
-http://193.106.57.96:5678
-http://31.202.49.61:33761
-http://80.92.227.185:5678
-http://95.182.78.10:5678
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872#🇺🇦 Украина
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990# By EbraSha 🩸
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990# By EbraSha ♣️
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990# By EbraSha 🦅
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443# By EbraSha 🕹️
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999# By EbraSha 🎯
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjadly.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha ⚡
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjflb.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🧬
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjflb.m2k699.com:24999?security=tls&sni=www.itunes.com# By EbraSha 📀
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjjnd.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1# By EbraSha 🧩
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjmlxy.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🗿
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?allowInsecure=1&sni=# By EbraSha 🗿
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🔋
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🖥️
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyg.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🚀
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjyn.m2k699.com:24999?allowInsecure=1&sni=www.itunes.com# By EbraSha 🧪
+vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@185.153.198.86:443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com# By EbraSha 💣
+vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@edge-pl01.onvanet.com:443?security=reality&encryption=none&pbk=Mz9CMB-ETb9PDYuXgE5ze5Qner6pcNWu_Uur3bzKAU0&headerType=none&fp=chrome&type=tcp&sni=googleapis.com&sid=1acae32041107991# By EbraSha 👑
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com# By EbraSha 🧿
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com# By EbraSha 🔌
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none# By EbraSha 🛡️
+vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?&security=tls&fp=firefox&sni=indigostar.click&type=ws&headerType=none&path=%2Fws# By EbraSha 🦾
+vmess://eyJhZGQiOiI0NS45NC4xNjkuMTQyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzMTM4ODkiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn4yRIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+socks4://31.129.253.30:39540
+http://185.27.144.74:999
+socks4://185.132.1.221:4145
+http://91.210.117.184:8080
+socks5://178.92.72.205:1080
+http://178.92.72.205:1080
+http://46.202.67.2:8009
+http://46.202.78.10:8272
 http://134.249.128.111:1080
 vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@173.242.51.189:443?sni=snip.edgeoneai.cc.cd&type=ws&host=snip.edgeoneai.cc.cd&path=/fdip=sstp://vpn:vpn@public-vpn-200.opengw.net:443fp=chrome&security=tls#UA%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%915
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=android&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%237
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@213.111.148.137:443?sni=proxy-1cu.pages.dev&type=ws&host=proxy-1cu.pages.dev&path=/fp=androidsecurity=tls#%F0%9F%87%A6%F0%9F%87%B9%5Bwww.v2nodes.com%5D%20vless-AT-3...%20%232
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@178.93.160.236:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2F&sni=snip.edgeoneai.cc.cd&fp=chrome#UN%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9159
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chrome&security=tls#%F0%9F%87%B2%F0%9F%87%A9%5Bwww.v2nodes.com%5D%20vless-MD-4...
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...%20%231
-http://37.52.13.164:5678
-http://185.132.1.221:4145
-socks4://31.43.33.56:4153
-vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?type=ws&security=tls&fp=chrome&sni=indigostar.click#0014 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+http://195.138.65.34:5678
+http://195.140.226.32:5678
+http://31.43.63.70:4145
+http://92.113.7.218:6944
+vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?type=ws&security=tls&fp=chrome&sni=indigostar.click#0015 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
