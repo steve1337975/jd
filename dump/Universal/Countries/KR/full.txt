@@ -1,32 +1,26 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KR] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824852705
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824864552
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/28/2026 23:31:45
-# servers-count: 23
+# generated-at: 10/29/2026 02:49:12
+# servers-count: 17
 
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&type=tcp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Lite #180 @FreeCFGHub
-vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Lite #386 @FreeCFGHub
-vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HsPCfh7cgUy4gS29yZWEgLSBNSUZBIiwKICAgICJhZGQiOiAiMjE3LjE0Mi4xMzguNjEiLAogICAgInBvcnQiOiAiODAiLAogICAgImlkIjogImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsCiAgICAiYWlkIjogIjAiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJ0eXBlIjogImh0dHAiLAogICAgImhvc3QiOiAiIiwKICAgICJwYXRoIjogIi8iLAogICAgInRscyI6ICIiLAogICAgInNuaSI6ICIiLAogICAgImFscG4iOiAiIiwKICAgICJmcCI6ICIiLAogICAgImluc2VjdXJlIjogIjAiCn0=#Full #728 @FreeCFGHub
-ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.234:4652#Full #914 @FreeCFGHub
-vmess://eyJhZGQiOiIxNDAuMjM4LjIuMjUwIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0IjoicmF3IiwidHlwZSI6Im5vbmUiLCJ0bHMiOiJub25lIiwicHMiOiJbT3BlblJheV0g8J+HsPCfh7dLUi00MyJ9#Full #1047 @FreeCFGHub
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsPCfh7df6Z+p5Zu9ICgyKSIsImFkZCI6IjE0MC4yMzguMi4yNTAiLCJwb3J0IjoiNDQzIiwiaWQiOiI0MWE3MDg5YS0wNDBiLTQ1MzgtOGI4ZC0wMTA5MDI0MDViZGUiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6InRjcCJ9#Full #1060 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002#Full #1302 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #2584 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001#Full #2588 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #2610 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Full #2619 @FreeCFGHub
-vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?security=none&type=tcp#Full #2795 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#Full #2864 @FreeCFGHub
-trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&insecure=1&type=tcp&security=tls#Full #2959 @FreeCFGHub
-vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none&fp=&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&security=reality&sid=7ef3a8ab2886&sni=amazon.com&type=tcp#Full #2997 @FreeCFGHub
-trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=safari#Full #3151 @FreeCFGHub
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#Full #3237 @FreeCFGHub
-vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#Full #3391 @FreeCFGHub
-vless://27c5483f-17f4-48ae-9a04-def53d88440d@152.69.226.63:25555?&type=ws&headerType=none&path=%2F#Full #3598 @FreeCFGHub
-vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&type=tcp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3c4041d3&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms#Full #3783 @FreeCFGHub
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3915 @FreeCFGHub
-vless://26524cce-d514-4014-a426-365fb266a14d@119.196.39.18:27017?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfengfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20%5BVL%5D%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%2314721%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-vmess://eyJhZGQiOiI0My4xMDguMTAzLjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWFhMGZkYS0xNzVhLTRhZWMtYzQ2OC0wMjMxZGVlMWExMjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMjMiLCJwcyI6IltPcGVuUmF5XSDwn4ew8J+Ht0tSLTkiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9#%F0%9F%87%B0%F0%9F%87%B7%20%5BVM%5D%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F%20%23462%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:13672?security=reality&encryption=none&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=48050fab#Lite #097 @FreeCFGHub
+vless://814bd064-544d-4255-a070-5705c03f6da9@3.39.4.109:18967?security=reality&type=raw&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=48050fab&pbk=k2hPp0tTW0Da-HK94wYpSCLbuK44LfGqC2MSJIM1Ti0#Lite #160 @FreeCFGHub
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HsPCfh7cgUy4gS29yZWEgLSBNSUZBIiwKICAgICJhZGQiOiAiMjE3LjE0Mi4xMzguNjEiLAogICAgInBvcnQiOiAiODAiLAogICAgImlkIjogImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsCiAgICAiYWlkIjogIjAiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJ0eXBlIjogImh0dHAiLAogICAgImhvc3QiOiAiIiwKICAgICJwYXRoIjogIi8iLAogICAgInRscyI6ICIiLAogICAgInNuaSI6ICIiLAogICAgImFscG4iOiAiIiwKICAgICJmcCI6ICIiLAogICAgImluc2VjdXJlIjogIjAiCn0=#Full #779 @FreeCFGHub
+ss://YWVzLTI1Ni1jZmI6cXdlclJFV1FAQA==@218.237.185.234:4652#Full #965 @FreeCFGHub
+vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6Ilx1ZDgzY1x1ZGRmMFx1ZDgzY1x1ZGRmNyBKb2luK1RlbGVncmFtOkBTb2xWUE4gXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9#Full #1129 @FreeCFGHub
+vless://bd2fb303-b4c7-49af-a8e3-5c6f11b005dd@112.169.175.199:31157?security=none&type=tcp#Full #2323 @FreeCFGHub
+ss://YWVzLTI1Ni1jZmI6MTIzNCFAIyQ=@49.254.204.134:1774#Full #2326 @FreeCFGHub
+vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#Full #2519 @FreeCFGHub
+vless://cdb7d825-9892-4d6f-80b8-7add83159dac@43.108.48.169:40701?encryption=none&fp=&pbk=TWuVILeiSXfCSMZPsqNHtRquNALPRaW5Z51I63zdLEA&security=reality&sid=7ef3a8ab2886&sni=amazon.com&type=tcp#Full #2525 @FreeCFGHub
+trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjhg.m2k699.com:24999?security=tls&sni=www.itunes.com&insecure=1&allowInsecure=1&type=tcp&fp=safari#Full #2526 @FreeCFGHub
+trojan://p5jTPcffLgi4gaNOJd2KUTb9YEPBBD5B@154.90.62.70:56127?allowInsecure=1&insecure=1&type=tcp&security=tls#Full #2531 @FreeCFGHub
+vless://a2de9567-9646-45a9-a410-7303a43bdb6c@151.245.106.49:2053?security=reality&type=raw&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=429499c03d4cc8a0&pbk=F6C33iIbfmt1mUsuLTarIC8ygdHKMqsaGvrSQltyxUo#Full #2957 @FreeCFGHub
+vless://319d5ffb-57e8-4bbd-ac0c-5d55d0c253de@47.80.19.173:2053?security=reality&type=tcp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=3c4041d3&pbk=DfFU5OG93GxB1x25Dl2BTkxKsBTFF4Su4PXYPbYvmms#Full #3161 @FreeCFGHub
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@43.108.37.107:443?fp=chrome&host=edg-2oo.pages.dev&path=%2Fgroups%3Fed%3D2560&security=tls&sni=edg-2oo.pages.dev&type=ws#%F0%9F%87%B0%F0%9F%87%BF%20%5BVL%5D%20%D0%9A%D0%B0%D0%B7%D0%B0%D1%85%D1%81%D1%82%D0%B0%D0%BD%20%2313855%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vless://26524cce-d514-4014-a426-365fb266a14d@119.196.39.18:27017?allowInsecure=0&sni=mug.support.gfw.hidns.co&type=ws&host=mug.support.gfw.hidns.co&path=/danfengfp=chrome&security=tls#%F0%9F%87%AE%F0%9F%87%B9%20%5BVL%5D%20%D0%98%D1%82%D0%B0%D0%BB%D0%B8%D1%8F%20%2314758%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+vmess://eyJhZGQiOiI0My4xMDguMTAzLjE2NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIzNWFhMGZkYS0xNzVhLTRhZWMtYzQ2OC0wMjMxZGVlMWExMjEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiIxMjMiLCJwcyI6IltPcGVuUmF5XSDwn4ew8J+Ht0tSLTgiLCJzY3kiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiIsInZjbiI6IiJ9#%F0%9F%87%B0%F0%9F%87%B7%20%5BVM%5D%20%D0%AE%D0%B6%D0%BD%D0%B0%D1%8F%20%D0%9A%D0%BE%D1%80%D0%B5%D1%8F%20%23449%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+trojan://b4453f5ff3af4873@ikr100b.zxom.eu.org:20005?encryption=chacha20#2732 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
