@@ -1,10 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824991116
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 06:57:50
-# servers-count: 1
+# generated-at: 10/30/2026 13:58:36
+# servers-count: 2
 
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=firefox&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0421 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome#Full #105 @FreeCFGHub
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?type=ws&security=tls&fp=chrome&sni=app-6ada5023.deploy.meerasolution.com&host=app-6ada5023.deploy.meerasolution.com#0679 | 🇮🇳 India | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

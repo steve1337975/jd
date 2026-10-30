@@ -1,15 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824991116
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 06:57:50
-# servers-count: 6
+# generated-at: 10/30/2026 13:58:36
+# servers-count: 4
 
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?encryption=none&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&security=reality&sid=c7&sni=www.microsoft.com&spx=/9b60bd12144d6a5&support-x25519mlkem768=true&type=tcp#AetrisVPN White list ┃ ✅ SNI: www.microsoft.com ┃ 🇳🇱 Нидерланды
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[61ms US US  @vlesstrojan]
-vless://7c730089-1791-4828-89b2-86e7e1663063@fr.privatevip.ir:451?encryption=none&host=fr.privatevip.ir&path=/&security=none&type=ws#4626.%20VLESS%20%7C%20SNI%3A%20fr.privatevip.ir%20%7C%20TG%3A%20%40wlrustg
-vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?encryption=none&host=gb.privatevip.ir&path=/&security=none&type=ws#4627.%20VLESS%20%7C%20SNI%3A%20gb.privatevip.ir%20%7C%20TG%3A%20%40wlrustg
-vless://7c730089-1791-4828-89b2-86e7e1663063@tr.privatevip.ir:448?encryption=none&host=tr.privatevip.ir&path=/&security=none&type=ws#4630.%20VLESS%20%7C%20SNI%3A%20tr.privatevip.ir%20%7C%20TG%3A%20%40wlrustg
-vless://8bab5583-04b1-4b83-96e8-4ed46062eeb7@185.188.30.203:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=c7optVlBfMEFMJXWwouWqvGWNRkqj4BWIs2laDdXTEg&sid=e1016da3&sni=fi-f1.netfix.app#4800.%20VLESS%20%7C%20SNI%3A%20fi-f1.netfix.app%20%7C%20TG%3A%20%40wlrustg
+vless://7c730089-1791-4828-89b2-86e7e1663063@94.237.125.175:444?encryption=none&fp=firefox&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&security=reality&sid=c7&sni=www.microsoft.com&type=tcp#🇳🇱 Нидерланды 152 UpCloud Ltd%20t.me%2Frjsxrd
+vless://79247bff-828f-41f7-b733-968eeb0742aa@185.188.30.67:444?type=tcp&security=reality&flow=xtls-rprx-vision&sni=fl.vrsvpn.com&fp=edge&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&encryption=none#Бесплатный VPN tg:VLESSFORU 🇫🇮%20t.me%2Frjsxrd
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[20ms US US  @vlesstrojan]
+vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?encryption=none&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&security=reality&sid=c7&sni=www.microsoft.com&spx=/9b60bd12144d6a5&support-x25519mlkem768=true&type=tcp#[102ms US US  @vlesstrojan]
