@@ -1,20 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825009497
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825023645
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 19:04:57
-# servers-count: 11
+# generated-at: 10/30/2026 23:00:45
+# servers-count: 10
 
-vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1093 @FreeCFGHub
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?encryption=none&fp=firefox&path=/vless-ws&security=tls&sni=speedtestmark.com&type=ws#Full #1433 @FreeCFGHub
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2699 @FreeCFGHub
-vless://8bab5583-04b1-4b83-96e8-4ed46062eeb7@185.188.30.203:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=c7optVlBfMEFMJXWwouWqvGWNRkqj4BWIs2laDdXTEg&sid=e1016da3&sni=fi-f1.netfix.app#0176 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:447?type=ws&host=nl.privatevip.ir#0292 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:447?type=ws&sni=nl.privatevip.ir&host=nl.privatevip.ir#0511 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://79247bff-828f-41f7-b733-968eeb0742aa@185.188.30.67:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&sni=fl.vrsvpn.com#0759 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?type=tcp&security=reality&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&sid=c7&sni=www.microsoft.com&support-x25519mlkem768=true#0816 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#1320 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?type=ws&host=gb.privatevip.ir#3733 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?type=ws&security=tls&fp=chrome&sni=vp5.1145678.xyz&host=vp5.1145678.xyz#4338 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #919 @FreeCFGHub
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2471 @FreeCFGHub
+vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?encryption=none&fp=chrome&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&security=reality&sid=c7&sni=www.microsoft.com&spx=/9b60bd12144d6a5&support-x25519mlkem768=true&type=tcp#Full #2658 @FreeCFGHub
+vless://8bab5583-04b1-4b83-96e8-4ed46062eeb7@185.188.30.203:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=c7optVlBfMEFMJXWwouWqvGWNRkqj4BWIs2laDdXTEg&sid=e1016da3&sni=fi-f1.netfix.app#0183 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://79247bff-828f-41f7-b733-968eeb0742aa@185.188.30.67:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&sni=fl.vrsvpn.com#0782 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#1363 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7c730089-1791-4828-89b2-86e7e1663063@tr.privatevip.ir:448?type=ws#2779 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://7c730089-1791-4828-89b2-86e7e1663063@ae.privatevip.ir:450?type=ws&host=ae.privatevip.ir#2897 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?type=ws&host=gb.privatevip.ir#3843 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?type=ws&security=tls&fp=chrome&sni=vp5.1145678.xyz&host=vp5.1145678.xyz#4465 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

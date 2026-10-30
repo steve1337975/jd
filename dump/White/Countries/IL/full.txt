@@ -1,18 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825009497
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825023645
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 19:04:57
-# servers-count: 9
+# generated-at: 10/30/2026 23:00:45
+# servers-count: 10
 
-vless://b1da2601-ff93-46d6-af87-04af3f541fde@server15.duckvpn.app:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-16.userapi.com#TCP, VK [V.O.I.D]
 vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-19.userapi.com#TCP, VK [V.O.I.D]
-vless://9fce18f0-6837-4f19-84a5-4710c54ba562@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[225ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://24ebe7f7-653f-4fd9-95ba-a9ddbba51cdf@ch1.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch1.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#[226ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://d3957e08-04d5-4275-9eb7-eaec20d65741@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[229ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.35:25548?security=reality&encryption=none&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=bceb5b2197b76818#[230ms IL IL  @vlesstrojan]
+vless://b1da2601-ff93-46d6-af87-04af3f541fde@server15.duckvpn.app:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-16.userapi.com#TCP, VK [V.O.I.D]
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.57:443?encryption=none&fp=firefox&pbk=5-9YzvyXcZ4J5Z4OaVTUbxUU2InvnwT17m0XY-Jse1E&security=reality&sid=257420d9d430152a&sni=a0688bt.us4.h1clayd.click&type=tcp#🇺🇸 США 47 Interserver, Inc%20t.me%2Frjsxrd
+vless://9fce18f0-6837-4f19-84a5-4710c54ba562@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[330ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://d3957e08-04d5-4275-9eb7-eaec20d65741@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#[338ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://24ebe7f7-653f-4fd9-95ba-a9ddbba51cdf@ch1.cyphervpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ch1.cyphervpn.pro&fp=firefox&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&type=tcp&headerType=none#[338ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.35:25548?security=reality&encryption=none&pbk=lceynvFy326oU4ew9OPR7079m-L5ZcFELgCl0sqxU2M&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=bceb5b2197b76818#[359ms IL IL  @vlesstrojan]
+vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?security=reality&encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&headerType=none&fp=chrome&type=tcp&sni=www.samsung.com&sid=6c5c7900406a1ae7#[1253ms IL IL  @vlesstrojan]
 vless://5a519754-a673-4462-83f6-5eb25d2af141@79.182.39.57:443?type=tcp&security=reality&sni=f36f5ft.us4.h1clayd.click&fp=firefox&pbk=5KZVzOFqMgdL47--JzLlg5HmPlAYp-cmQsXxkTXngS0&sid=8d50d3a4df71468c&encryption=none#🇺🇸 [BL] Сервер 362
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@79.182.39.37:27591?type=tcp&security=reality&sni=www.samsung.com&fp=firefox&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&encryption=none#🇵🇱 [BL] Сервер 554
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=/fdip#TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#6748.%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@62.182.192.195:443?path=/fdip#TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#4495.%20VLESS%20%7C%20TG%3A%20%40wlrustg

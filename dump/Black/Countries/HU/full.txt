@@ -1,19 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825009497
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825023644
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 19:04:57
-# servers-count: 10
+# generated-at: 10/30/2026 23:00:44
+# servers-count: 11
 
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha ⌨️
-vless://04c808e2-0b59-47b0-a54b-32fc7ef1c902@37.221.210.113:8443?&security=tls&fp=chrome&sni=free.cndyw.ggff.net&type=ws&headerType=none&host=free.cndyw.ggff.net&path=pyip=bpb.yousef.isegaro.com# By EbraSha 👑
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 🧊
 trojan://humanity@185.225.68.232:443?security=tls&sni=www.calmlunch.com#⚡ b2n.ir/v2ray-configs | 660
-trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2430 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-socks4://109.61.117.11:1080
+http://89.43.133.116:8080#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BAHU-26
+http://85.66.19.69:18080#%5BOpenRay%5D%20%F0%9F%87%AD%F0%9F%87%BAHU-42
+trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2497 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 https://193.201.185.68:443
 https://193.201.185.155:443
 https://193.201.185.63:443
 https://46.29.140.237:443
-http://84.1.150.79:8080
+https://193.226.205.54:443
+http://84.2.239.42:4153
