@@ -1,53 +1,54 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
+# generated-at: 10/30/2026 06:57:50
 # servers-count: 55
 
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.100:2087?type=ws&security=tls&fp=random&host=proxy-34l.pages.dev&ed=2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.220:2096?type=ws&security=tls&fp=edge&host=proxy-34l.pages.dev&ed=2560#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%87%B7%F0%9F%87%BA%20%7C%20%5BBL%5D
 vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?mode=auto&path=%2Fapi_v3%2F&security=reality&encryption=none&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&host=jp.vpber.info&fp=firefox&type=xhttp&sni=jp.vpber.info&sid=9be4130078ebed0a#%F0%9F%87%AF%F0%9F%87%B5%20AetrisVPN
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?security=reality&sni=www.samsung.com&fp=ios&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&type=tcp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
-trojan://5t6i121em5lkmsmk@158.247.227.152:48851?security=tls&sni=kr002.zestapp778.com&fp=firefox#%F0%9F%87%B0%F0%9F%87%B7%20AetrisVPN
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@south-korea-2.keenvpn.me:443# By EbraSha 📟
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000# By EbraSha 🚨
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001# By EbraSha 🌑
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679# By EbraSha 🎯
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697# By EbraSha 🎯
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@141.164.45.187:8008# By EbraSha 🪐
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:5001# By EbraSha 🎯
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090# By EbraSha 🔌
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888# By EbraSha ♣️
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119# By EbraSha 🔥
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@141.164.45.187:9101# By EbraSha 🌑
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498# By EbraSha ✨
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=0&sni=kr002.zestapp778.com&type=tcp# By EbraSha 💻
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com# By EbraSha 🎯
-vless://0985e268-5c1c-4141-9d96-139f8046c47c@203.137.165.164:57554?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi# By EbraSha 🧿
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&fp=random&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&type=tcp# By EbraSha 📱
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?security=reality&encryption=none&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=ca193e889d958f81# By EbraSha ⌨️
-vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.109.149:443?security=tls&type=ws&path=%2F&host=vp10.pages.dev&packetEncoding=xudp&sni=vp10.pages.dev&fp=firefox# By EbraSha 🔐
-vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&encryption=none&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&headerType=none&fp=random&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com&sid=1a# By EbraSha 📼
-vmess://eyJhZGQiOiIxNDYuNTYuMTY2LjE1MyIsImFpZCI6MCwiaG9zdCI6ImNjLjE4MDguY2YiLCJpZCI6ImFjYzk0YmY0LTk0YzEtNGEwOC04Yjc5LTliZTJiNzY0OTliNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8yeWV2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn5KOIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IkJ5IEVicmFTaGEg8J+nsiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
-vmess://eyJhZGQiOiIyMTAuMTM4LjM3LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6eyIiwic2N5IjoiYXV0byIsInNuaSI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMi56Z2pvay5jb20iLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIOKMqO+4jyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJzZW91bDAyLnpnam9rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWExZTUxOTYtZWFiNC00NzcyLTkwMTItNjVjMjdmMTlhNTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6e/Iiwic25pIjoic2VvdWwwMi56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwiaWQiOiIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg8J+MkCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyYWZiYzk3NDAwY2E3MWM4ZjMzMDZmOTg0M2E2ZTFjMg@south-korea-2.keenvpn.me:443# By EbraSha 🖥️
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000# By EbraSha 🔮
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@141.164.45.187:8091# By EbraSha 🌐
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7001# By EbraSha 🔥
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@141.164.45.187:7002# By EbraSha 🌪️
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679# By EbraSha 🥷
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697# By EbraSha 🗿
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@141.164.45.187:8008# By EbraSha 🎯
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:5001# By EbraSha 🌍
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090# By EbraSha 📼
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:8888# By EbraSha 🔥
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119# By EbraSha 📼
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@141.164.45.187:9101# By EbraSha 🔥
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@141.164.45.187:5498# By EbraSha 🛜
+trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls# By EbraSha ✨
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=0&sni=kr002.zestapp778.com&type=tcp# By EbraSha 🔐
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com# By EbraSha 📟
+vless://0985e268-5c1c-4141-9d96-139f8046c47c@203.137.165.164:57554?encryption=none&security=tls&sni=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&fp=chrome&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&type=ws&host=kqjifhg9rw.tradsc8p9xp7wxyqmc1wy0ah.workers.dev&path=%2F%40Marisa_kristi# By EbraSha 🐉
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&fp=random&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&type=tcp# By EbraSha 🦂
+vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none# By EbraSha 🧿
+vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.109.149:443?security=tls&type=ws&path=%2F&host=vp10.pages.dev&packetEncoding=xudp&sni=vp10.pages.dev&fp=firefox# By EbraSha ⚙️
+vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@t9.qifei.app:443?security=reality&type=tcp&allowInsecure=1&sni=www.amazon.com&fp=random&flow=xtls-rprx-vision&sid=1a&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo# By EbraSha 🛸
+vmess://eyJhZGQiOiIxNDYuNTYuMTY2LjE1MyIsImFpZCI6MCwiaG9zdCI6ImNjLjE4MDguY2YiLCJpZCI6ImFjYzk0YmY0LTk0YzEtNGEwOC04Yjc5LTliZTJiNzY0OTliNiIsIm5ldCI6IndzIiwicGF0aCI6Ii8yeWV2d3MiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn5ObIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJlN2MzMDJmMy05MGQ2LTQyZGQtOWQ3ZC05NGEzNjgzYTM3MDciLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6Ijg4ODgiLCJwcyI6IkJ5IEVicmFTaGEg8J+SuyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwidmNuIjoiIn0=
+vmess://eyJhZGQiOiIyMTAuMTM4LjM3LjUzIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJEckJLZzE2ZUdmM0ZabE0zLnYuM2Rucy52aXAiLCJpZCI6ImYyM2JiNDI3YzFmOTQzNzM4NzZjMmY0M2U5Zjc5MGYzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3dzLXZtZXNzIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6aIIiwic2N5IjoiYXV0byIsInNuaSI6IkRyQktnMTZlR2YzRlpsTTMudi4zZG5zLnZpcCIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0Ijoic2VvdWwwMi56Z2pvay5jb20iLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIOKZo++4jyIsInNjeSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiJzZW91bDAyLnpnam9rLmNvbSIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiMWExZTUxOTYtZWFiNC00NzcyLTkwMTItNjVjMjdmMTlhNTI0IiwibmV0Ijoid3MiLCJwYXRoIjoiIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6eyIiwic25pIjoic2VvdWwwMi56Z2pvay5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJzZW91bDAyLnpnam9rLmNvbSIsImFpZCI6MCwiaG9zdCI6InNlb3VsMDIuemdqb2suY29tIiwiaWQiOiIxYTFlNTE5Ni1lYWI0LTQ3NzItOTAxMi02NWMyN2YxOWE1MjQiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg8J+apyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNDYuNTYuMTEyLjExMCIsImlkIjoiZTdjMzAyZjMtOTBkNi00MmRkLTlkN2QtOTRhMzY4M2EzNzA3IiwicG9ydCI6Ijg4ODgiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJyYXciLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJwcyI6Ilvwn4ew8J+Ht10gW3ZtLW5vLXJhXSBbMjYxMDMwLTA0NTgxMC43NzFdIn0K
 vless://980df025-74b9-4853-93e8-fb813006d7e5@203.137.165.164:57554?path=/@Marisa_kristi&security=tls&encryption=none&host=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&fp=chrome&type=ws&sni=d-l28t5-65-b.pbe40wmcujaw726h7cpqernzmawz4stwtrnqve0n1s5reht.workers.dev&ech=cloudflare-ech.com#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-58
 vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-75
 vless://fb4c1c39-2204-43bb-853c-f8579a77feb4@203.137.165.164:57554?host=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=mw5qisav.wjwqvie0wb1eqhb8e83clqdoq3m5p9a4on.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-110
 vless://a2336cca-3fd0-45cb-8ac5-1de6d17692b2@203.137.165.164:57554?fp=chrome&host=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&path=%2F%40Marisa_kristi&security=tls&sni=woc0zvrf11w2endu.dphdlc1u77bs3y4kvussbuap4p576f1ws7igthq8zbf3.workers.dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-127
-http://180.53.81.127:8080#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-140
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&sid=725e6ea0&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3042
-socks5://141.164.58.134:1080#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-95
+http://180.53.81.127:8080#%5BOpenRay%5D%20%F0%9F%87%AF%F0%9F%87%B5JP-141
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?security=reality&type=tcp&packetEncoding=xudp&fp=chrome&flow=xtls-rprx-vision&sid=725e6ea0&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-3133
 vmess://ewogICAgImFkZCI6ICIxNDYuNTYuMTY2LjE1MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogImxnMzAuY2ZjZG4zLnh5eiIsCiAgICAiaWQiOiAiOTE2NDZmOWEtYjRlOS00YWNhLWJmZTMtODg5MmIzZTU4ZmU3IiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiLyIsCiAgICAicG9ydCI6IDQ0MywKICAgICJwcyI6ICLwn4ew8J+Ht0tSLTE0Ni41Ni4xNjYuMTUzLTAzMDYiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-trojan://14bdba6dede262387ebdebaa706e1c90@trs12.bolab.net:443?security=tls#%F0%9F%87%AF%F0%9F%87%B5JP-153.125.148.41-4942
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@142.91.106.172:443?type=xhttp&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=/api_v3/&host=jp.vpber.info#0616 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@60.130.209.253:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffp%3Dchrome&sni=snip.edgeoneai.cc.cd&fp=chrome#JP%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9121
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@146.56.151.92:443?encryption=none&security=tls&type=ws&host=snip.edgeoneai.cc.cd&path=%2Ffdip%3Dsstp%3A%2F%2Fvpn%3Avpn%40vpn748359672.opengw.net%3A1458%3Fed%3D2560fp%3Dchrome&sni=snip.edgeoneai.cc.cd#KR%E3%80%90%E6%9C%BA%E5%9C%BA%E6%8E%A8%E8%8D%90%EF%BC%9Ahttps%3A//a9a.xyz%E3%80%9138
+vmess://eyJ2IjoiMiIsInBzIjoiS1IgXHVkODNjXHVkZGYwXHVkODNjXHVkZGY3IFx1MjUwNyBWTUVTUy1XUy1UTFMgLSBPUkFDTEUtQk1DLTMxODk4IFx1MjUwNyAxNDYuNTYuMTM2LjIzNyIsImFkZCI6InNlb3VsMDIuemdqb2suY29tIiwicG9ydCI6NDQzLCJpZCI6IjFhMWU1MTk2LWVhYjQtNDc3Mi05MDEyLTY1YzI3ZjE5YTUyNCIsImFpZCI6MCwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJwYXRoIjoiLyIsInRscyI6InRscyJ9
 trojan://600421cf-11d7-429f-a65b-c30397f1bc03@158.247.222.240:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kr.freeguard.org#KR
+socks5://103.100.158.115:10809
 https://133.242.152.27:443
 https://133.167.87.173:443
 https://175.134.18.237:443
@@ -55,10 +56,9 @@ https://160.16.144.120:443
 https://14.137.237.91:443
 https://150.95.26.146:7081
 https://141.164.39.178:443
-https://133.18.200.207:343
-socks5://103.100.158.115:10809
+http://85.131.243.125:3128
+socks5://43.246.198.172:1080
 socks5://158.247.231.94:1080
 socks5://146.56.158.84:22222
 http://160.16.105.145:8080
-http://157.101.165.36:80
 http://103.100.158.115:10809

@@ -1,15 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
-# servers-count: 6
+# generated-at: 10/30/2026 06:57:50
+# servers-count: 9
 
-http://190.97.243.20:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-2
+http://190.97.250.230:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-9
+http://45.190.85.4:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-12
 http://190.97.232.128:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-18
-http://138.118.203.152:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-23
-http://200.59.191.27:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-34
-http://186.167.83.182:999
-http://161.22.33.213:999
+http://200.59.191.27:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-35
+socks4://200.8.235.10:4145
+http://181.225.44.46:999
+http://161.22.33.150:999
+http://161.22.33.93:999
+http://186.167.53.178:8282

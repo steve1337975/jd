@@ -1,28 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
-# servers-count: 19
+# generated-at: 10/30/2026 06:57:50
+# servers-count: 9
 
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?encryption=none&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&security=reality&sid=6c5c7900406a1ae7&type=tcp#Full #134 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@141.164.45.187:8000#Full #1457 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@141.164.45.187:8119#Full #2713 @FreeCFGHub
-vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=japan.geodema.network&type=tcp#Full #2998 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#Full #3004 @FreeCFGHub
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?type=http&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=%2Fapi_v3%2F&host=jp.vpber.info&mode=auto#Full #3045 @FreeCFGHub
-vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#Full #3052 @FreeCFGHub
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#Full #3058 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#Full #3245 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #3324 @FreeCFGHub
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0&allowInsecure=1#Full #3774 @FreeCFGHub
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #4157 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #4241 @FreeCFGHub
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=144.48.11.97&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#Full #1353 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #2976 @FreeCFGHub
+vless://a11ab9c5-4155-430b-9efc-7a7122531382@142.91.106.176:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=EltWI8AOqkN8lMjRycweRRoFRah5hu6xiKtgBmQOdE8&security=reality&sid=1ed136481e0ede74&sni=japan.geodema.network&type=tcp#Full #3280 @FreeCFGHub
+vless://583cc910-b57c-4dd0-a4a7-cea51a30b032@141.164.43.178:443?type=tcp&security=reality&encryption=none&sni=www.apple.com&fp=chrome&pbk=GR_zPAgxF9PZ70Z9UpSmMlcd2STyoAC0fZTSHkTTCGE&sid=ca193e889d958f81&flow=xtls-rprx-vision&headerType=none#Full #3431 @FreeCFGHub
+vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?type=http&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=%2Fapi_v3%2F&host=jp.vpber.info&mode=auto#Full #3534 @FreeCFGHub
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?sni=kr002.zestapp778.com&allowInsecure=1&type=tcp&fp=chrome#Full #3616 @FreeCFGHub
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #4105 @FreeCFGHub
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?security=reality&sni=vextor.win&fp=random&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&flow=xtls-rprx-vision&type=tcp&headerType=none&host=vextor.win&path=%2F&encryption=none#BUNKER Free × 73 ×
-vless://056405e8-de9f-4d0d-8145-956f13cc34da@pl1.h1cloud.net:27591?type=raw&security=reality&fp=qq&pbk=LY0H47MWx87_L_JBzxFAuTzKZB53U7MrZQK8-dNnMxM&sid=6c5c7900406a1ae7&sni=www.samsung.com#0062 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@142.91.106.172:443?type=xhttp&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=/api_v3/&host=jp.vpber.info#0616 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#0895 | 🇷🇺 Russia | VLESS | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?type=xhttp&security=reality&fp=firefox&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&sid=9be4130078ebed0a&sni=jp.vpber.info&path=/api_v3/&host=jp.vpber.info&mode=auto#1340 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#2374 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?allowInsecure=1&type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#0435 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu

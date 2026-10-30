@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
-# servers-count: 2
+# generated-at: 10/30/2026 06:57:50
+# servers-count: 1
 
-vless://6179ce37-97b2-4ac7-9591-b4b2bfaca09d@109.121.44.81:443?&security=reality&flow=xtls-rprx-vision&pbk=b4n1pcO8ST3JkGtj8YymXVrW17LEe2EHec5wY7hMMR4&sid=0a4b7c3d&fp=firefox&sni=www.amd.com&type=tcp&headerType=&host=www.amd.com&path=%2F#[236ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@nld3.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[554ms RS RS  @vlesstrojan]
+vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@nld3.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[673ms RS RS  @vlesstrojan]

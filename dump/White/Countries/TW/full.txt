@@ -1,15 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TW] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
-# servers-count: 6
+# generated-at: 10/30/2026 06:57:50
+# servers-count: 2
 
-vless://06e177f7-240d-4687-bd85-235505801a5e@60.248.219.54:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&allowInsecure=1#[672ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.53:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[680ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@59.125.69.23:443?type=ws&security=tls&sni=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&fp=chrome&allowInsecure=1#[681ms TW TW  @vlesstrojan]
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443?security=tls&type=ws&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530&host=ty986gfazs.cainiaohub.xyz&packetEncoding=none&allowInsecure=1&sni=ty986gfazs.cainiaohub.xyz#[733ms TW TW  @vlesstrojan]
-vless://2ea68849-7639-4eec-8af8-102e692fa8e6@60.249.101.79:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=e1L9v1a3tkmHMzrdv9q5-lMXKhTtXcjot8pKFHZD8Vo&sid=c7f12faf&sni=mcs.zijieapi.com#2914%20|%20Taiwan%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
-vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?sni=48afa0c5c9.shopify.com&type=ws&path=/db102448afa0c5c9&host=48afa0c5c9.shopify.com&security=tls&fp=chrome#8816.%20%F0%9F%87%AD%F0%9F%87%B0%20VLESS%20%7C%20SNI%3A%2048afa0c5c9.shopify.com%20%7C%20TG%3A%20%40wlrustg
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@103.148.73.173:8443?&security=tls&fp=chrome&sni=ty986gfazs.cainiaohub.xyz&type=ws&headerType=none&host=ty986gfazs.cainiaohub.xyz&path=/81574b6b-c9d7-44a0-b83d-dad56e8cb530#[660ms HK HK  @vlesstrojan]
+vless://75d4d24d-ba8d-3676-a5c6-edd6ea6dbfb6@s5.db-link.in:17820?sni=48afa0c5c9.shopify.com&type=ws&path=/db102448afa0c5c9&host=48afa0c5c9.shopify.com&security=tls&fp=chrome#8792.%20%F0%9F%87%AD%F0%9F%87%B0%20VLESS%20%7C%20SNI%3A%2048afa0c5c9.shopify.com%20%7C%20TG%3A%20%40wlrustg

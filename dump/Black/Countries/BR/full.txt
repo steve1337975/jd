@@ -1,40 +1,31 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824965870
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 01:00:52
-# servers-count: 31
+# generated-at: 10/30/2026 06:57:50
+# servers-count: 22
 
-vless://2445edef-76b7-4713-87b9-ed6aa0b1a2c9@185.133.35.56:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=titp.iranroyalzhin.ir&fp=chrome&type=ws&allowInsecure=0&sni=titp.iranroyalzhin.ir# By EbraSha 🎯
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws# By EbraSha 🧿
-http://168.194.147.142:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-14
-http://179.48.80.9:8085#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-69
-http://191.5.126.28:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-133
-socks4://143.208.130.155:5678
+vless://2445edef-76b7-4713-87b9-ed6aa0b1a2c9@185.133.35.56:2083?path=/&security=tls&alpn=h3,h2,http/1.1&encryption=none&insecure=0&host=titp.iranroyalzhin.ir&fp=chrome&type=ws&allowInsecure=0&sni=titp.iranroyalzhin.ir# By EbraSha 🎛️
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws# By EbraSha 🔥
+http://186.250.202.104:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-57
+http://170.246.146.192:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-99
+socks4://186.224.225.82:42648
 https://181.191.209.142:443
 https://200.133.218.122:443
 https://168.205.255.238:443
 https://179.96.182.182:443
-socks4://179.189.249.137:5432
-http://170.246.202.150:8080
-http://190.83.40.166:3128
-http://143.0.203.173:8080
-http://168.228.176.12:3139
-http://179.189.248.125:5432
+socks4://143.208.130.155:5678
+socks4://170.80.221.192:4153
+socks4://190.89.104.88:5432
+socks5://186.26.95.249:61445
+http://177.12.140.108:8080
 http://186.235.255.22:8080
-http://177.125.212.244:4145
-http://45.175.59.17:61950
-http://179.184.163.133:44443
-http://143.137.116.72:1080
-http://187.95.136.46:5678
-http://200.162.129.165:1080
-http://190.89.104.76:5432
-socks4://201.218.189.212:4153
-socks4://143.137.116.72:1080
-socks4://177.91.35.202:4153
-socks4://177.131.118.123:5432
-socks4://179.189.248.125:5432
-socks4://138.255.240.66:40736
-socks4://179.189.254.217:5432
+http://170.244.64.198:31476
+http://45.168.244.16:1080
+http://177.85.65.177:4153
+http://168.232.213.9:4153
+http://187.103.105.20:8085
+http://170.244.0.179:4145
+socks4://179.189.243.245:5432
