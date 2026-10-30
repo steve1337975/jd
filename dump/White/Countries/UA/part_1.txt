@@ -1,15 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824930554
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 21:09:14
-# servers-count: 16
+# generated-at: 10/30/2026 01:00:52
+# servers-count: 20
 
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇺🇦 Украина
 vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Reality%2C%20%D0%AF%D0%BD%D0%B4%D0%B5%D0%BA%D1%81%20%5BV.O.I.D%5D
 vless://dbda40e2-25b5-416c-8d35-56d07e8dcdbc@92.113.107.120:443?encryption=none&security=tls&sni=indigostar.click&fp=qq&insecure=0&type=ws&path=%2Fws#%F0%9F%87%BA%F0%9F%87%A6_%E4%B9%8C%E5%85%8B%E5%85%B0%20t.me%2Frjsxrd
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇮🇹 Join+Telegram:@SolVPN 🇮🇹%20t.me%2Frjsxrd
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[221ms AZ AZ  @vlesstrojan]
 vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[225ms AZ AZ  @vlesstrojan]
 vless://ad0fe7ae-3f8b-4586-b692-ca115e4a137f@edge-pl01.onvanet.com:443?security=reality&encryption=none&pbk=Mz9CMB-ETb9PDYuXgE5ze5Qner6pcNWu_Uur3bzKAU0&headerType=none&fp=chrome&type=tcp&sni=googleapis.com&sid=1acae32041107991#[304ms Нидерланды NL 🇳🇱 @vlesstrojan]
@@ -23,3 +23,7 @@ trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjterq.m2k699.com:24999?sni=www.it
 trojan://29086912-33e4-4e06-ba2b-60f1a195864f@tjxg.m2k699.com:24999?sni=www.itunes.com&allowInsecure=1&type=tcp&fp=chrome#[436ms HK HK  @vlesstrojan]
 vless://a90c6d1c-5f63-4f9c-bd9b-cc29705c9689@178.92.205.63:11167?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tesla.com&pbk=zrwJjaWEAfAZ3QCgnLnLoPE-edB_3wvKCqIz9maP02g&sid=ac&fp=qq#🇧🇷 [WL] Сервер 103
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&encryption=none#🇺🇦 [BL] Сервер 558
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443#3746.%20SS%20%7C%20SNI%3A%20kyiv02.npvnot.com%20%7C%20TG%3A%20%40wlrustg
+vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@netvia2.extraservices.ir:65018?encryption=none&security=none&type=tcp&headerType=http&path=/&host=amp-api-edge.apps.apple.com#6684.%20%F0%9F%87%B9%F0%9F%87%B7%20VLESS%20%7C%20SNI%3A%20netvia2.extraservices.ir%20%7C%20TG%3A%20%40wlrustg
+vless://bf6feeab-e24d-444a-80c8-418aceabbe9f@netvia3.extraservices.ir:10005?encryption=none&security=none&type=tcp&headerType=none&host=amp-api-edge.apps.apple.com#6685.%20%F0%9F%87%B9%F0%9F%87%B7%20VLESS%20%7C%20SNI%3A%20netvia3.extraservices.ir%20%7C%20TG%3A%20%40wlrustg
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#7027.%20%F0%9F%87%BA%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%20www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg

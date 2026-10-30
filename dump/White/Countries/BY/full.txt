@@ -1,10 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BY] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824930554
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824944452
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 21:09:14
+# generated-at: 10/30/2026 01:00:52
 # servers-count: 7
 
 vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=firefox&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
@@ -12,5 +12,5 @@ vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:10444?encryption=no
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:10444?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sni=ads.x5.ru&fp=firefox&sid=8debcf36f1cc69ff#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇧🇾 Беларусь
 vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&security=none&type=ws&host=95.128.71.79&path=%2Fvless&sni=95.128.71.79&fp=chrome#[419ms BY BY  @vlesstrojan]
 vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@by.x8lab.org:443?flow=xtls-rprx-vision&sni=storage.yandexcloud.net&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=cd0b563c7e0ea754&fp=randomized#[2249ms BY BY  @vlesstrojan]
-vless://8cef7621-c6f0-486e-b51d-59c30c5b0b25@95.128.71.79:14430?encryption=none&host=95.128.71.79&path=/vless&security=none&type=ws#7484.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://8d42d29a-ed53-4684-a9ff-6b33826149de@95.130.84.36:8443?&security=tls&fp=unsafe&sni=aio.eth0.dpdns.org&type=ws&headerType=none&host=aio.eth0.dpdns.org&path=/aioproxybot/94.23.144.99-2053#7486.%20%F0%9F%87%B5%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20aio.eth0.dpdns.org%20%7C%20TG%3A%20%40wlrustg
+vless://1af36694-b548-4b18-89a0-bc076eab4ed7@178.172.227.124:14430?encryption=none&host=178.172.227.124&path=/vless&security=none&type=ws#4673.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://b6e5dc56-836f-48c1-9163-b0b0b43b647d@178.172.227.228:14430?security=none&type=ws&path=/vless&host=178.172.227.228&packetEncoding=xudp#6597.%20%F0%9F%87%A7%F0%9F%87%BE%20VLESS%20%7C%20TG%3A%20%40wlrustg
