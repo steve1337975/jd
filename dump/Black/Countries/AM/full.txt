@@ -1,18 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824991116
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825009497
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 13:58:36
-# servers-count: 9
+# generated-at: 10/30/2026 19:04:57
+# servers-count: 11
 
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@92.246.138.68:443?encryption=none&flow=xtls-rprx-vision&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&security=reality&sid=3d41300b11960f87&sni=ru17.oshost.network&type=tcp&fp=chrome# By EbraSha 🧨
-vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru17.oshost.network:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru17.oshost.network&sid=3d41300b11960f87# By EbraSha 🧿
-vless://cd72e2d2-3272-48e7-89da-f7ce120346a8@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=vpv5d3rgk1.imgshelf.sbs#1652 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@92.246.138.68:443?encryption=none&flow=xtls-rprx-vision&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&security=reality&sid=3d41300b11960f87&sni=ru17.oshost.network&type=tcp&fp=chrome# By EbraSha 🔥
+vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru17.oshost.network:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&encryption=none&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ru17.oshost.network&sid=3d41300b11960f87# By EbraSha 🎛️
+vless://cd72e2d2-3272-48e7-89da-f7ce120346a8@92.246.138.161:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jFqwGpIrZSPqlvF4XglDWhsuHxljBLeiaMtESLsZsVk&sni=vpv5d3rgk1.imgshelf.sbs#1696 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://0192c3d3-18d5-4b95-8eb3-598e18de6918@2.56.207.68:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=www.slovarik.xyz#3284 | 🇦🇲 Armenia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 https://80.86.231.109:443
 https://91.221.229.86:443
+socks4://130.193.123.34:5678
 socks5://46.226.165.82:8443
 http://89.249.193.30:5768
 http://89.249.193.136:5874
-socks4://130.193.123.34:5678
+http://212.42.199.199:5938
