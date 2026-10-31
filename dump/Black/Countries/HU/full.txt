@@ -1,16 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 7
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 10
 
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 🗿
-trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#1775 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha 🚧
+trojan://humanity@185.225.68.232:443?type=ws&security=tls&fp=chrome&sni=www.calmlunch.com#2255 | 🇭🇺 Hungary | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@185.225.68.232:443?sni=www.calmlunch.com&peer=www.calmlunch.com&security=tls#HU   TROJAN-TCP-TLS - 23VNet Kft.  185.225.68.232
 https://193.201.185.68:443
 https://193.201.185.155:443
 https://193.201.185.63:443
 https://46.29.140.237:443
 https://193.226.205.54:443
+http://89.43.135.68:8080
+http://84.2.239.42:4153

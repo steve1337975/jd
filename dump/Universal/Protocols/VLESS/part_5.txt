@@ -1,17 +1,43 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: ⚡ VLESS — UNIVERSAL #5
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 8
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 34
 
+vless://92d67828-4c56-4795-af5a-f387651380dc@trackydev.site:443?&security=tls&fp=chrome&sni=trackydev.site&type=ws&headerType=none&host=trackydev.site&path=/#Full #3756 @FreeCFGHub
+vless://49256b8d-83c0-5553-8b15-62b2a7a3c6f0@x.zahar.top:443?path=/websocket?ed=2560&security=tls&encryption=none&insecure=1&host=x.zahar.top&fp=chrome&type=ws&allowInsecure=1&sni=x.zahar.top#Full #3758 @FreeCFGHub
+vless://daf0c4cb-3541-4f20-bc71-cc9d94bb17bc@128.1.12.19:443?security=reality&encryption=none&pbk=BF9aCRIeWaFADnCRCeEKsX1SSRaqAPrXttdD9eFCl0k&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=96b6483bfb4ac526#Full #3759 @FreeCFGHub
+vless://cdc86ade-9bc3-41eb-a7b9-879130378820@118.26.59.85:443?security=reality&encryption=none&pbk=-Ngz1wsLiTc5fP1MdkFMS2oor1jRoFLAYD8oOgybGFw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.bing.com&sid=e6d2c443d8f7702a#Full #3760 @FreeCFGHub
+vless://c4f2dee2-14e3-4c02-91e9-31c7917e239c@fi-bridge.sbrf-cdn342.ru:443?type=tcp&security=tls&flow=xtls-rprx-vision&sni=sub.sbrf-cdn342.ru&fp=qq&alpn=http/1.1#Full #3761 @FreeCFGHub
+vless://e3479472-3d5d-4142-842a-44a32b501bd7@tr1.cvs-a.com:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=tr1.cvs-a.com&fp=chrome&pbk=vgmo5AxgVJfSME3mlK4ulM4HeVAn6eS2UO9wYEPNFiY&sid=bb55683efa59799d#Full #3763 @FreeCFGHub
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@cluster-usa.zmeet.video:443?sni=cluster-usa.zmeet.video&security=tls&fp=safari#Full #3764 @FreeCFGHub
+vless://b93c7771-fd89-4b72-8f00-8fd20e3cbd22@faka28.parsfa123.com:443?path=/vr1028?ed=2560&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=faka28.parsfa123.com#Full #3767 @FreeCFGHub
+vless://9bf4e75a-cb13-45c5-ba43-c4c0ccf6fffc@mojif.fusetea.ir:1080?mode=packet-up&path=%2F&security=reality&encryption=none&pbk=u3EnhSlPtnsjoA4OQwRa8Pk5mQCnBXHYWSP1bfdjYm8&fp=chrome&type=http&sni=www.aparat.com&sid=a17c76d6a2f35aaf#Full #3768 @FreeCFGHub
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3769 @FreeCFGHub
+vless://c11c9a87-ef2c-4329-adbc-3bcd8d3b4b05@01-ir.nimhubnet.ir:1001?encryption=mlkem768x25519plus.native.0rtt.3IGhcIYDxMlgfOc-Zz667EBP9OhYiyx_v-dm_G48gDI&security=reality&sni=myket.ir&fp=chrome&pbk=WhhDDr5dbpu-MKir-ituefFelzPYJ3aI_XUnAPItZnk&sid=9f87d005b13ec024&type=tcp&headerType=none#Full #3770 @FreeCFGHub
+vless://6af3f2a8-6b20-4b01-95c6-43c5ce1d2c3f@dgiehywg.sanprime.ir:310?path=/&security=tls&encryption=none&insecure=0&host=tun.berfexa.ir&fp=chrome&type=ws&allowInsecure=0&sni=tun.berfexa.ir#Full #3772 @FreeCFGHub
+vless://162b16b2-e032-475d-8460-a400e3d5fa6f@gr.v2xpin.top:8443?path=/&security=tls&encryption=none&insecure=0&host=gr.anten2.com&type=ws&allowInsecure=0&sni=me.anten2.com#Full #3773 @FreeCFGHub
+vless://16423c7c-2c18-435b-8bbd-2bd3d5700628@tus.velqarion.ir:2053?alpn=http/1.1&encryption=none&fp=chrome&host=&path=/speed&security=tls&sni=tus.qorvantis.ir&type=ws#Full #3775 @FreeCFGHub
+vless://54692ec9-fd24-41c8-9677-6db0e345c2b0@frank20.zarghamweb.ir:31915?encryption=none&security=tls&sni=pasar.zarghamweb.ir&alpn=h3, h2, http/1.1&fp=chrome&type=ws&host=pasar.zarghamweb.ir&path=/&headers={  "Host": "pasar.zarghamweb.ir"}#Full #3776 @FreeCFGHub
+vless://16423c7c-2c18-435b-8bbd-2bd3d5700628@tus.hemad.qzz.io:2053?alpn=http/1.1&encryption=none&fp=chrome&host=&path=/speed&security=tls&sni=tus.tun257xr.cfd&type=ws#Full #3777 @FreeCFGHub
+vless://8bcdddb3-3154-49e1-ab64-1998e1131c02@t1.valfena.ir:8080?mode=auto&path=%2Fb4920d9c064cfe38c0021723&security=reality&encryption=none&pbk=ZrRUiPYpM3K35z4cTmMoDSBcQu_lk5k5NU4TrftiSEA&fp=chrome&type=http&sni=aparat.com&sid=5ba803414e918143#Full #3779 @FreeCFGHub
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@api.furypay.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=api.furypay.ru&mode=auto&path=%2F&security=tls&sni=api.furypay.ru&type=http#Full #3780 @FreeCFGHub
+vless://2dd1a15d-1426-413a-a3b8-a645788bc844@api.speedload.ru:443?alpn=h2%2Chttp%2F1.1&encryption=none&host=api.speedload.ru&mode=auto&path=%2F&security=tls&sni=api.speedload.ru&type=http#Full #3782 @FreeCFGHub
+vless://3a24f714-5585-4103-9291-6ae21f11c10d@nzidam.zelmuro.ir:437?mode=auto&security=reality&encryption=none&pbk=W_0O5fiA1zi8nXHksSKSTLzwLPyjECWNES5-gDAbQRY&fp=chrome&type=http&sni=play.google.com&sid=197fe3f584bc15f3#Full #3783 @FreeCFGHub
+vless://f234330e-f9df-46e3-8f60-b2af5173c147@p1tun0.greewebservices.ir:38820?security=reality&encryption=none&pbk=xQnXh5EfPDhcEBB7rRiLca33GYrMEeUa35domLL_yA8&headerType=none&fp=chrome&spx=/HesarWeb&type=tcp&sni=play.google.com&sid=66ded2#Full #3785 @FreeCFGHub
+vless://e05cb81b-5288-41d6-ad4a-fb4016cccb27@cdncloudtwo.serverstats.ru:443?security=tls&type=http&host=cdncloudtwo.serverstats.ru&mode=auto&sni=cdncloudtwo.serverstats.ru&fp=chrome&alpn=h2%2Chttp%2F1.1#Full #3790 @FreeCFGHub
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@sg1.zestapp778.com:56984?type=tcp&security=tls&fp=chrome&sni=sg1.zestapp778.com#Full #3792 @FreeCFGHub
+vless://d3957e08-04d5-4275-9eb7-eaec20d65741@ch1.cyphervpn.pro:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ch1.cyphervpn.pro&pbk=USffNprEM08MHiuVy5bj6-kvxugxycuZcgQDFJyz2Wc&sid=8f9d033ad6d2cebf&fp=firefox#Full #3801 @FreeCFGHub
+vless://7c730089-1791-4828-89b2-86e7e1663063@de.privatevip.ir:445?mode=gun&security=reality&encryption=none&pbk=u4H-22awUU-h0nzyKN36r9tkWRXQzJTjeqM8SwX6bVA&fp=chrome&spx=/d9003604c154ca8&type=grpc&sni=microsoft.com&sid=0c69#Full #3803 @FreeCFGHub
+vless://ee39fb11-56a3-4ee7-9e7c-35a4235bd30e@107.181.151.241:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=b27ba098687b&sni=www.tradingview.com#Full #3870 @FreeCFGHub
+vless://317bc783-340f-453c-afb5-b6bf637c0b23@107.181.151.241:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=fc994ae7eb10&sni=www.tradingview.com#Full #3873 @FreeCFGHub
+vless://b310e287-79fa-45e3-887f-9564c0e390f7@31.58.178.7:443?flow=xtls-rprx-vision&fp=firefox&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de3.global-cdn.org&type=raw#Full #3910 @FreeCFGHub
+vless://b310e287-79fa-45e3-887f-9564c0e390f7@31.58.178.4:443?flow=xtls-rprx-vision&fp=firefox&pbk=bg_o5_i-5MSy-t3CB3iyqIeI8Uqyy_wTP2kheJCXngg&security=reality&sid=f7d0420b8ab26060&sni=de3.global-cdn.org&type=raw#Full #3928 @FreeCFGHub
+vless://b310e287-79fa-45e3-887f-9564c0e390f7@31.59.206.121:443?flow=xtls-rprx-vision&fp=firefox&pbk=fz-ncRVRmWnpd2sFb5Q3bR3BQEdpL6N_zbDSD16g5QI&security=reality&sid=7a3f9e2b1c8d4f6a&sni=pl.global-cdn.org&type=raw#Full #3935 @FreeCFGHub
 vless://c98a16e4-0dc5-42f0-b3db-30f04525c123@27.50.48.6:443?security=tls&sni=vless2-8vx.pages.dev&alpn=h3&type=ws&path=%2F&host=vless2-8vx.pages.dev#Full #3939 @FreeCFGHub
 vless://d342d11e-d224-4463-b982-532309285094@172.67.155.148:443?path=%2Ffp&security=tls&host=ccc.010304.xyz&fp=chrome&type=ws&sni=ccc.010304.xyz#Full #3940 @FreeCFGHub
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@31.59.206.117:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=pl.global-cdn.org&pbk=fz-ncRVRmWnpd2sFb5Q3bR3BQEdpL6N_zbDSD16g5QI&sid=7a3f9e2b1c8d4f6a&fp=firefox&spx=%2F#Full #3941 @FreeCFGHub
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@217.60.55.3:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=mk.global-cdn.org&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&sid=b868b87c347a451e&fp=firefox&spx=%2F#Full #3948 @FreeCFGHub
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@217.60.55.2:443?flow=xtls-rprx-vision&fp=firefox&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&security=reality&sid=b868b87c347a451e&sni=mk.global-cdn.org&type=raw#Full #3950 @FreeCFGHub
-vless://3ccba794-1c6d-48a8-acf2-f5caf0e69d86@104.18.0.1:443?security=tls&sni=all.speedtest03.ccwu.cc&fp=chrome&type=ws&host=all.speedtest03.ccwu.cc&path=%2F#Full #3951 @FreeCFGHub
-vless://b310e287-79fa-45e3-887f-9564c0e390f7@217.60.55.6:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=mk.global-cdn.org&pbk=BSPkA0yUFBZ7JS7rD69rLaTn_5QSAaPQZtO7HV_et30&sid=b868b87c347a451e&fp=firefox&spx=%2F#Full #3954 @FreeCFGHub
+vless://f27b6f65-6e59-4f89-b929-afa397ca587f@saas.sin.fan:443?security=tls&sni=n.bitpulse.me&fp=firefox&type=ws&host=n.bitpulse.me&path=%2F019bcbad-3813-7cce-8786-3ac0e418f128%3Fed%3D2560#Full #3955 @FreeCFGHub
 vless://82b279c6-5cba-3a96-f8bd-780a00000035@172.67.155.222:443?host=pi7ews-woj41w-7wx0gk.ho3ein13-3af.workers.dev&path=%2Fsync&security=tls&sni=pi7ews-woj41w-7wx0gk.ho3ein13-3af.workers.dev&type=ws#Full #3959 @FreeCFGHub

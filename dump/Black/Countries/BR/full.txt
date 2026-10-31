@@ -1,23 +1,30 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 14
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 21
 
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws# By EbraSha 🧩
-http://45.168.244.10:9090#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-3
-http://200.251.41.61:8002#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-56
-http://45.233.90.10:443#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-81
-socks4://170.247.43.142:32812
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws# By EbraSha 📼
+http://187.108.238.122:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-86
 https://181.191.209.142:443
-https://201.54.216.54:443
 https://200.133.218.122:443
 https://168.205.255.238:443
 https://179.96.182.182:443
-http://177.20.167.139:8080
-http://168.228.176.12:3139
+socks5://45.179.145.12:6080
+http://131.196.50.128:8080
+http://200.95.192.61:9292
+http://187.19.127.180:4153
 http://186.235.255.22:8080
-http://187.86.161.2:8080
+http://200.215.160.210:5678
+http://131.0.245.82:60606
+socks4://177.131.118.123:5432
+http://177.136.124.46:56113
+http://191.36.128.62:8080
+http://191.240.153.170:53841
+socks4://177.54.239.13:4145
+socks4://179.189.243.245:5432
+socks4://177.66.43.189:4145
+socks4://177.74.141.8:5432

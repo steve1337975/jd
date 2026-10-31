@@ -1,15 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 6
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 9
 
-vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#0950 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7c730089-1791-4828-89b2-86e7e1663063@94.237.28.66:449?type=ws&host=gb.privatevip.ir#0954 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e3c3b722-1264-4cdc-a97c-b0a1bb73cd67@92.242.165.20:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#1221 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7c730089-1791-4828-89b2-86e7e1663063@94.237.28.66:449?type=ws&host=gb.privatevip.ir#1227 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@212.147.234.124:443?type=ws&security=tls&fp=chrome&sni=vp5.1145678.xyz&host=vp5.1145678.xyz#3998 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1106 @FreeCFGHub
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2503 @FreeCFGHub
+vless://7754cb06-ca81-46c0-8d8d-801cf9e9d78c@sw--nn.bntabriz.ir:3389?security=&encryption=mlkem768x25519plus.native.0rtt.wMbkjpTQ8K7hvFfslL6xQ7psBOo_PRckfXbjd91dRDQ&host=b--g.bntabriz.ir&headerType=http&type=tcp#Full #3398 @FreeCFGHub
 vless://7c730089-1791-4828-89b2-86e7e1663063@ae.privatevip.ir:450?path=/&security=none&encryption=none&host=ae.privatevip.ir&type=ws#Full #3538 @FreeCFGHub
+vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?path=/&security=&encryption=none&host=gb.privatevip.ir&type=ws#Full #3678 @FreeCFGHub
 vless://7c730089-1791-4828-89b2-86e7e1663063@de.privatevip.ir:445?mode=gun&security=reality&encryption=none&pbk=u4H-22awUU-h0nzyKN36r9tkWRXQzJTjeqM8SwX6bVA&fp=chrome&spx=/d9003604c154ca8&type=grpc&sni=microsoft.com&sid=0c69#Full #3803 @FreeCFGHub

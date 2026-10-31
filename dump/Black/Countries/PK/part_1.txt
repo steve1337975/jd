@@ -1,18 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 9
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 14
 
-trojan://humanity@103.69.128.221:443?security=tls&sni=www.cordweave.com&insecure=1&allowInsecure=1&type=ws&path=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%2C%20Haarlem%20%7C%20%5BBL%5D
+http://103.4.95.90:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-2
+http://103.4.94.124:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-33
 https://110.38.225.213:443
-http://175.107.30.126:8080
-http://119.159.233.2:8080
-http://202.69.38.82:8080
-socks4://110.38.234.74:1080
-http://103.115.198.39:5678
-http://110.39.135.194:1080
-socks4://103.146.137.65:1081
+http://110.93.227.229:8080
+socks5://58.27.213.133:1080
+socks5://110.93.218.62:1080
+socks5://202.142.153.220:1080
+http://157.10.226.93:8080
+http://119.63.130.153:8080
+http://103.146.137.137:1081
+http://103.158.237.90:8080
+http://125.209.80.146:8080
+http://27.54.121.90:8090
+socks4://58.65.142.254:8125

@@ -1,22 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LV] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825080274
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825095206
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 14:44:34
-# servers-count: 13
+# generated-at: 10/31/2026 18:53:26
+# servers-count: 11
 
 vless://441afe11-a180-4516-bb80-80a8a6b38705@bl3fk52.sysopnova.art:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&security=reality&sid=5ee019e02e6ed99a&sni=yandex.ru&type=tcp#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
 vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=GCCZ1ZZjB_nj7yxqFi22bIIWWr_G6rnWUzDcssN_40o&sni=yandex.ru&fp=chrome&sid=b28db60d77c50b4f#AetrisVPN White list ┃ ✅ SNI: yandex.ru ┃ 🇷🇺 Россия
-vless://46b81618-5d7f-4b65-b95f-7f782b8242be@31.170.22.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&sni=download.max.ru&path=&host=#AetrisVPN White list ┃ ✅ SNI: download.max.ru ┃ 🇫🇮 Финляндия
 vless://441afe11-a180-4516-bb80-80a8a6b38705@193.163.203.253:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=gE8LUmGFXik94SoDXNiAG5KprGyhjoRwDuhGebgAVWk&sid=5ee019e02e6ed99a&sni=yandex.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russian%20Federation%20%7C%20TG%3A%20%40HardVpn_robot
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#🇳🇱 Join+Telegram:@SolVPN 🇳🇱%20t.me%2Frjsxrd
 vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@213.21.237.23:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[319ms Латвия LV 🇱🇻 @vlesstrojan]
-vless://11aabba0-5fd1-4f15-8068-74c1a466cefc@193.163.203.170:443?type=tcp&security=tls&sni=yandex.ru&fp=chrome&flow=xtls-rprx-vision#[359ms Россия RU 🇷🇺 @vlesstrojan]
 vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@213.21.237.109:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[373ms Латвия LV 🇱🇻 @vlesstrojan]
 vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@213.21.237.192:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[373ms Латвия LV 🇱🇻 @vlesstrojan]
 trojan://4_VfP9fKaM-3LpSVvoZuc_WUzLoCdHaA@lv1.dedushka.top:443?allowInsecure=1&sni=lv1.dedushka.top&alpn=http/1.1#[414ms Латвия LV 🇱🇻 @vlesstrojan]
 vless://46b81618-5d7f-4b65-b95f-7f782b8242be@31.170.22.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&sni=ads.x5.ru&path=&host=#[469ms Латвия LV 🇱🇻 @vlesstrojan]
-vless://0d93b787-b66b-4696-a036-a0f549764f69@46.183.216.206:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=9ged75OhdD4P8yzPPXDESnRkdFM4br4I44OwXLWd_iY&security=reality&sid=0a50b13e8fa3a7ef&sni=rblx.fasti.win&type=tcp#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%E2%80%94%20%23442
-trojan://humanity@85.31.102.163:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4732.%20TROJAN%20%7C%20SNI%3A%20www.calmlunch.com%20%7C%20TG%3A%20%40wlrustg
+vless://46b81618-5d7f-4b65-b95f-7f782b8242be@31.170.22.68:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26&sni=download.max.ru&path=&host=#[470ms Латвия LV 🇱🇻 @vlesstrojan]
 vless://9c0bfe28-e791-460d-9d27-62d53bcedf90@31.170.22.67:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=download.max.ru&pbk=nDq00UeDI5TKKFipI6rgdVCqiTO98ncHKn90Qp3EsBE&sid=f2b78452f9233f26#%F0%9F%87%B1%F0%9F%87%BB%20LTE%2036%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
