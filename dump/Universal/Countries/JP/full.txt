@@ -1,24 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825035246
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825057761
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 02:14:06
-# servers-count: 15
+# generated-at: 10/31/2026 08:29:21
+# servers-count: 12
 
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&security=reality&fp=firefox&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sni=144.48.11.97&sid=725e6ea0&flow=xtls-rprx-vision#Full #487 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #2644 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #2646 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Full #2647 @FreeCFGHub
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3657 @FreeCFGHub
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.100:2087?type=ws&security=tls&fp=random&host=proxy-34l.pages.dev&ed=2560#1458 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7b102311-43fd-4e8f-877e-8090623c101d@160.16.109.149:443?type=ws&security=tls&fp=firefox&host=vp10.pages.dev#1843 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#1893 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.100:2087?type=ws&security=tls&fp=firefox&host=proxy-1cu.pages.dev&ed=2560#1926 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&sni=kr002.zestapp778.com#1928 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.43.75.82:443?type=ws&security=tls&fp=android&host=proxy-1cu.pages.dev#2454 | 🇦🇺 Australia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.67:2083?type=ws&security=tls&fp=random&host=proxy-1cu.pages.dev&ed=2560#3121 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#3366 | 🇰🇷 South Korea | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@103.116.7.30:8880?type=ws&host=vms.lifetime35.workers.dev#4419 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.220:2096?type=ws&security=tls&fp=edge&host=proxy-34l.pages.dev&ed=2560#4689 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?encryption=none&type=tcp&security=reality&fp=firefox&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sni=144.48.11.97&sid=725e6ea0&flow=xtls-rprx-vision#Full #574 @FreeCFGHub
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.100:2087?encryption=none&security=tls&type=ws&host=proxy-1cu.pages.dev&path=%2F&sni=proxy-1cu.pages.dev&fp=android#Full #1283 @FreeCFGHub
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.220:2096?type=ws&security=tls&fp=edge&host=proxy-34l.pages.dev&ed=2560#Full #1284 @FreeCFGHub
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.116.7.67:2083?type=ws&security=tls&host=proxy-1cu.pages.dev&ed=2560&fp=android#Full #1285 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #3098 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #3112 @FreeCFGHub
+vless://b85b119a-b8c8-43ea-8a35-7f2140366e39@jp.vpber.info:443?mode=auto&path=%2Fapi_v3%2F&security=reality&encryption=none&pbk=opzTAV_yfzjz3zAWZEpFUoz6VPwvVAx78XvLX9V-ohc&host=jp.vpber.info&fp=chrome&type=http&sni=jp.vpber.info&sid=9be4130078ebed0a#Full #3164 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Full #3313 @FreeCFGHub
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3997 @FreeCFGHub
+vless://4799abf0-d0d9-4a46-9c31-b1f76ae00e1e@144.48.11.97:43000?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=lmT0SFJL1A8_ariRWL65dhShaqFbpitjGanv7EFnoR0&sid=725e6ea0#1175 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&sni=kr002.zestapp778.com#1197 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://5t6i121em5lkmsmk@158.247.255.150:48851?security=tls&fp=firefox&sni=kr002.zestapp778.com#2112 | 🇰🇷 South Korea | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu

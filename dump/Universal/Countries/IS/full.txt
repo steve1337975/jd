@@ -1,10 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IS] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825035246
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825057761
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 02:14:06
-# servers-count: 1
+# generated-at: 10/31/2026 08:29:21
+# servers-count: 4
 
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Full #431 @FreeCFGHub
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Full #519 @FreeCFGHub
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@213.218.160.100:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Full #1267 @FreeCFGHub
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@95.133.166.163:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Full #1268 @FreeCFGHub
+vless://5e610f80-fc6a-479d-8621-b672355b96a1@89.147.111.185:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Full #1316 @FreeCFGHub
