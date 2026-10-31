@@ -1,14 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825023645
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825035246
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/30/2026 23:00:45
-# servers-count: 5
+# generated-at: 10/31/2026 02:14:06
+# servers-count: 6
 
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&security=reality&sid=7be1e9c243451b14&sni=b.fi-1.bnc-gt.co.uk&type=tcp#Full #1134 @FreeCFGHub
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?allowInsecure=1&type=grpc&security=tls&fp=firefox&sni=b.fi-1.bnc-gt.co.uk&serviceName=grpc#0116 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?type=ws&host=vms.lifetime19.workers.dev#0915 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?type=ws&host=vms.lifetime18.workers.dev#2383 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://1d16c6e0-1bbe-435b-b661-90043fee999c@92.53.191.123:443?type=ws&security=tls&fp=chrome&sni=notls.lukongtou.eu.org#4305 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@194.33.34.108:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net&encryption=none#Lite #998 @FreeCFGHub
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&security=tls&serviceName=grpc&sni=b.fi-1.bnc-gt.co.uk&type=grpc&fp=firefox#Full #3353 @FreeCFGHub
+vless://1d16c6e0-1bbe-435b-b661-90043fee999c@92.53.191.123:443?type=ws&security=tls&fp=chrome&sni=notls.lukongtou.eu.org#Бесплатный VPN tg:VLESSFORU 🇺🇸
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14&sni=b.fi-1.bnc-gt.co.uk#0052 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.189.40:8880?type=ws&host=vms.lifetime19.workers.dev#0954 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@92.53.188.30:8880?type=ws&host=vms.lifetime18.workers.dev#2472 | 🇨🇦 Canada | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
