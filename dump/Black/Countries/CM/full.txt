@@ -1,20 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1824917993
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825057761
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/29/2026 17:39:53
-# servers-count: 11
+# generated-at: 10/31/2026 08:29:21
+# servers-count: 12
 
-http://102.244.78.61:8089
-http://102.244.78.61:8084
-http://102.244.78.61:8087
-http://102.244.78.61:8082
-http://102.244.78.61:8086
-http://102.244.78.61:8083
+http://102.244.78.61:8081#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-1
+http://102.244.78.61:8084#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-2
+http://102.244.78.61:8086#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-3
+http://102.244.78.61:8088#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-4
+http://102.244.78.61:8083#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-6
+http://102.244.78.61:8089#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-7
+http://102.244.78.61:8082#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-8
+http://102.244.78.61:8090#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B2CM-9
+socks4://41.216.232.213:4153
 http://102.244.78.61:8085
-http://102.244.78.61:8081
-http://102.244.78.61:8090
+http://102.244.78.61:8087
 http://102.244.78.61:8080
-http://102.244.78.61:8088
