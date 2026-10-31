@@ -1,17 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AL] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825057761
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825064589
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 10/31/2026 08:29:21
-# servers-count: 8
+# generated-at: 10/31/2026 10:23:09
+# servers-count: 11
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443# By EbraSha 🌑
-vless://595a6246-d7b0-48bc-a5f0-17068aec2e88@alb1.keepverify.net:8443?encryption=none&flow=xtls-rprx-vision&security=tls&type=tcp# By EbraSha ⚔️
-vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59# By EbraSha 🔮
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none# By EbraSha 🛡️
-vless://d7801e5a-254d-4dff-a7dd-ef5eb0b30374@91.239.6.47:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http/1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=/ws?ip=91.239.6.47:443# By EbraSha 🦅
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59# By EbraSha 🛡️
+vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=al2.magazinnarubeva.ru&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&sid=8718c58d3d51db59&type=tcp&headerType=none# By EbraSha 🔋
+vless://d7801e5a-254d-4dff-a7dd-ef5eb0b30374@91.239.6.47:443?encryption=none&security=tls&sni=nova-relay-d9g973.pages.dev&fp=chrome&alpn=http/1.1&type=ws&host=nova-relay-d9g973.pages.dev&path=/ws?ip=91.239.6.47:443# By EbraSha 🌑
+http://@31.171.155.210:9443?tls=true#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.155.210-0584
+http://@31.171.154.66:9443?tls=true#%F0%9F%87%A6%F0%9F%87%B1AL-31.171.154.66-0607
+socks4://80.78.74.66:65530
 https://134.0.63.185:443
 https://91.92.250.33:443
+http://37.26.86.206:4145
 socks4://80.78.74.8:65530
