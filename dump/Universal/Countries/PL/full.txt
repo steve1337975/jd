@@ -1,27 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PL] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825234450
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825271427
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/02/2026 09:34:10
-# servers-count: 18
+# generated-at: 11/02/2026 19:50:27
+# servers-count: 14
 
-vless://ad804c2d-7ce7-42e9-bb04-d689d259e484@pl10.sky-vault.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&sni=pl10.sky-vault.top#0011 | 🇱🇹 Lithuania | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&sid=b2baf331493d3de1&sni=c8.qwyak.ru#0694 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.6:443?allowInsecure=1&type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=A0QL_j-ReX7AotEj1w8qX9rHRgN2WycTZ43gUvuvZ00&sid=3cf8d11aa0415d29&sni=c9.qwyak.ru#0831 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&sid=3ba10d9ce34380c9&sni=www.google.com#1272 | 🇩🇪 Germany | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-vless://8007dda2-aed2-4514-8299-6e3edbdb015b@185.16.38.132:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jIq_COD-tIXTvgDn-TslFGtB_a8HVgUOOIlUByv8fkg&sid=8718c58d3d51db59&sni=pl1.magazinnarubeva.ru#1538 | 🇵🇱 Poland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?type=ws&security=tls&fp=chrome&sni=148-253-210-191.sslip.io#3237 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@213.111.148.137:443?type=ws&security=tls&fp=chrome&sni=www.cordweave.com#3755 | 🇺🇦 Ukraine | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://humanity@148.253.212.42:443?type=ws&sni=www.pleadcourt.org#4022 | 🇵🇱 Poland | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=JOIN_BEDE_TELEGRAM@leviconfigs&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#Lite #008 @FreeCFGHub
-vless://953e3703-4ddc-49a7-a087-c96049d22340@185.32.6.81:443?security=reality&encryption=none&pbk=lCCvbwGOEkx6IuK3eFd4RtmBi6UInWoMyt0QtfsOjwk&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=storage.yandex.net&sid=99fe1ec015fde70c#Lite #853 @FreeCFGHub
-vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@212.127.78.105:443?type=tcp&security=reality&sni=ya.ru&fp=randomized&flow=xtls-rprx-vision&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA#Lite #966 @FreeCFGHub
-vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@nl2.h1cloud.net:25452?security=reality&sni=www.ns.nl&fp=chrome&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&type=tcp&packetEncoding=xudp&encryption=none#Full #510 @FreeCFGHub
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@pl1.mycloud1.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl1.mycloud1.org&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&flow=xtls-rprx-vision#Full #550 @FreeCFGHub
-vless://605dea9b-b485-45c9-af9b-cc2b0195023c@80.47.13.138:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl1.mycloud1.org&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&flow=xtls-rprx-vision#Full #1059 @FreeCFGHub
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?type=tcp&security=reality&sni=pl.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=f189d91760bb6663#Full #3140 @FreeCFGHub
-vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#Full #3168 @FreeCFGHub
-vless://e259d3be-0a66-4e80-8d2a-66a82b30c960@prgkofwtqy.liberty-nodes.online:8443?type=tcp&security=reality&sni=n7uh8w2ad6.mail.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nYrWjkzhBoGSNusIv7c-32q9M3-CmUcZRQT7WKURL0Y&sid=99bc67ffe37b513c#Full #3215 @FreeCFGHub
-vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@121.127.37.173:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=#Full #3514 @FreeCFGHub
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.6:443?allowInsecure=1&type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=A0QL_j-ReX7AotEj1w8qX9rHRgN2WycTZ43gUvuvZ00&sid=3cf8d11aa0415d29&sni=c9.qwyak.ru#0874 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&sid=b2baf331493d3de1&sni=c8.qwyak.ru#1048 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.31:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QLh2Y5Ig7pncEIvOYpZlLH2rUHZ3CRuyAo1A_emWZQU&sid=3ba10d9ce34380c9&sni=www.google.com#1847 | 🇩🇪 Germany | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://53f03acd-fec1-6685-fc8f-03baf9550cb8@148.253.210.191:443?type=ws&security=tls&fp=firefox&sni=148-253-210-191.sslip.io&host=148-253-210-191.sslip.io#2343 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://ad804c2d-7ce7-42e9-bb04-d689d259e484@pl10.sky-vault.top:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&sni=pl10.sky-vault.top#3432 | 🇱🇹 Lithuania | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443?security=reality&alpn=http/1.1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=/?BIA_TELEGRAM@MIGAVPNPRO&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2#Lite #015 @FreeCFGHub
+vless://17360870-9c2f-4bfc-9e0c-9aca386606a3@212.127.78.105:443?type=tcp&security=reality&sni=ya.ru&fp=randomized&flow=xtls-rprx-vision&pbk=bkQ2euy5Ls1EELvms1JGr4Bwey673s5CAvSs6b3XzwA#Lite #973 @FreeCFGHub
+vless://68c3d665-b2b5-4ffb-9f37-9f3d8c47324d@nl2.h1cloud.net:25452?security=reality&sni=www.ns.nl&fp=chrome&pbk=zJI16_ywLd4clshY0IQQPxQ_YBbIq2b0XTO_dnTJOy4&sid=fe51f413b9646e97&type=tcp&packetEncoding=xudp&encryption=none#Full #410 @FreeCFGHub
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@pl1.mycloud1.org:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl1.mycloud1.org&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&flow=xtls-rprx-vision#Full #450 @FreeCFGHub
+vless://605dea9b-b485-45c9-af9b-cc2b0195023c@80.47.13.138:443?type=tcp&headerType=none&security=reality&encryption=none&sni=pl1.mycloud1.org&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&sid=afee962d&flow=xtls-rprx-vision#Full #961 @FreeCFGHub
+vless://e259d3be-0a66-4e80-8d2a-66a82b30c960@prgkofwtqy.liberty-nodes.online:8443?type=tcp&security=reality&sni=n7uh8w2ad6.mail.ru&fp=chrome&flow=xtls-rprx-vision&pbk=nYrWjkzhBoGSNusIv7c-32q9M3-CmUcZRQT7WKURL0Y&sid=99bc67ffe37b513c#Full #3301 @FreeCFGHub
+vless://eb071647-72a6-46be-8e89-ff3d228d52f6@195.3.223.6:443?type=tcp&security=reality&sni=pl.jojack.ru&fp=chrome&flow=xtls-rprx-vision&pbk=hSTtlpXKAYVVu5ybX3hQfq8dfsUrO_HoFVgfGGoCHVw&sid=f189d91760bb6663#Full #3349 @FreeCFGHub
+vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?security=reality&encryption=none&pbk=XYkuP_Keu-yL7EQ8xZc4RTmcVAfp06Z1onV2ZNrlsHM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=stable.nullo.pro&sid=c31f187b#Full #3360 @FreeCFGHub
+vless://6cf0f91a-6398-4dfa-941b-3760a8cd58ab@121.127.37.173:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=&pbk=jSx3_X_tBAcNgp7SrKSfZnr5WN0cTN2ShEJv4rHceQU&sid=#Full #3538 @FreeCFGHub

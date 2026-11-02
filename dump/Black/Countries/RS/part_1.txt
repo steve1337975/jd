@@ -1,19 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825234450
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825271427
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/02/2026 09:34:10
-# servers-count: 10
+# generated-at: 11/02/2026 19:50:27
+# servers-count: 8
 
-trojan://humanity@188.255.156.209:443?allowInsecure=0&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment# By EbraSha ♣️
-trojan://humanity@93.86.12.49:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment# By EbraSha 👑
-vless://267b3a79-81f2-42ac-a409-c23b05b6329d@178.253.233.118:443?security=reality&encryption=none&pbk=aRhhdxVu0EiUbVl1Wyq6DLjJMRRJ78YQY2rN5Ne98gg&fp=chrome&type=grpc&serviceName=api.v2.nl7c05e8a3&sni=nl7.bbobr.win&sid=5d3849c8fc1e63b0# By EbraSha 📱
-vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@79.175.102.64:18443?mode=auto&path=/cdn/ingest&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"328-1060"}&pbk=EgXwMBzSh55Cln_g_ElwV9EF8ijDmd9A1ZotQzdKRlw&fp=chrome&type=xhttp&sni=edge-event.cfd&sid=694eb64512caabef# By EbraSha 🔐
-trojan://humanity@188.255.156.209:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#⚡ b2n.ir/v2ray-configs | 510
-trojan://humanity@93.86.12.49:443?security=tls&sni=www.cordweave.com&type=ws&path=/assignment&Host=www.cordweave.com#%F0%9F%87%B7%F0%9F%87%B8RS-93.86.12.49-0668
-trojan://humanity@188.255.156.209:443?type=ws&sni=www.cordweave.com#1919 | 🇺🇸 USA | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://humanity@188.255.156.209:443?allowInsecure=0&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment# By EbraSha 🌃
+trojan://humanity@93.86.12.49:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment# By EbraSha 📱
+vless://267b3a79-81f2-42ac-a409-c23b05b6329d@178.253.233.118:443?security=reality&encryption=none&pbk=aRhhdxVu0EiUbVl1Wyq6DLjJMRRJ78YQY2rN5Ne98gg&fp=chrome&type=grpc&serviceName=api.v2.nl7c05e8a3&sni=nl7.bbobr.win&sid=5d3849c8fc1e63b0# By EbraSha ⌨️
+vless://e9235cad-962d-43fc-a1f1-36bec35d2dc4@79.175.102.64:18443?mode=auto&path=/cdn/ingest&security=reality&encryption=none&extra={"mode":"packet-up","xPaddingBytes":"328-1060"}&pbk=EgXwMBzSh55Cln_g_ElwV9EF8ijDmd9A1ZotQzdKRlw&fp=chrome&type=xhttp&sni=edge-event.cfd&sid=694eb64512caabef# By EbraSha 🧪
 https://212.200.119.174:443
-socks4://95.140.118.34:1080
-http://212.200.223.89:8080
+socks4://109.245.110.145:4145
+http://147.91.22.150:80
+http://109.245.110.145:4145

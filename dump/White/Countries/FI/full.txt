@@ -1,12 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825234450
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825271427
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/02/2026 09:34:10
-# servers-count: 3
+# generated-at: 11/02/2026 19:50:27
+# servers-count: 2
 
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[33ms US US  @vlesstrojan]
-vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?security=reality&encryption=none&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&headerType=none&fp=chrome&spx=/9b60bd12144d6a5&type=tcp&sni=www.microsoft.com&sid=c9c3398e#[439ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://67c35494-76b8-48fc-8aa5-b34968ee71be@aaaa.mymuic.ir:10753?security=tls&encryption=none&insecure=0&host=aaaa.mymuic.ir&headerType=http&type=tcp&allowInsecure=0&sni=aaaa.mymuic.ir#[461ms Финляндия FI 🇫🇮 @vlesstrojan]
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[7ms US US  @vlesstrojan]
+vless://7c730089-1791-4828-89b2-86e7e1663063@nl.privatevip.ir:444?security=reality&encryption=none&pbk=ESmN6Our58LlyvJIWcgfHKkuDVYmO8I2z-0hT4J1iQs&headerType=none&fp=chrome&spx=/9b60bd12144d6a5&type=tcp&sni=www.microsoft.com&sid=c9c3398e#[5287ms Нидерланды NL 🇳🇱 @vlesstrojan]
