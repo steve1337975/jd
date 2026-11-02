@@ -1,13 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825196295
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825208012
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/01/2026 22:58:15
-# servers-count: 4
+# generated-at: 11/02/2026 02:13:32
+# servers-count: 6
 
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.11:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#0889 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1135 @FreeCFGHub
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2774 @FreeCFGHub
-vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.11:2083?security=tls&sni=speedtestmark.com&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fvless-ws#Full #3896 @FreeCFGHub
+vless://75b517db-1f97-4bda-a479-863d988c31a0@92.242.165.11:2083?type=ws&security=tls&fp=firefox&sni=speedtestmark.com#2488 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e8c21d3d-6851-ca48-98ce-ca1138a0d3f1@free.familysharing.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&sni=amp-api-search-edge.apps.apple.com#3999 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1058 @FreeCFGHub
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2505 @FreeCFGHub
+vless://7c730089-1791-4828-89b2-86e7e1663063@ae.privatevip.ir:450?path=/&security=&encryption=none&host=ae.privatevip.ir&type=ws#Full #3629 @FreeCFGHub
+vless://7c730089-1791-4828-89b2-86e7e1663063@gb.privatevip.ir:449?path=/&security=&encryption=none&host=gb.privatevip.ir&type=ws#Full #3641 @FreeCFGHub
