@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CN] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825319437
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825348143
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/03/2026 09:10:37
-# servers-count: 13
+# generated-at: 11/03/2026 17:09:03
+# servers-count: 10
 
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HqvCfh7ogQWV0cmlzVlBOIiwiYWRkIjoiMTEyLjEzMi4yMTUuMTA4IiwicG9ydCI6IjUwMDAyIiwiaWQiOiI0MTgwNDhhZi1hMjkzLTRiOTktOWIwYy05OGNhMzU4MGRkMjQiLCJhaWQiOiI2NCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImNzIjoiIiwiZnAiOiIiLCJpbnNlY3VyZSI6IjAifQ==
 vless://f82332b2-dc8c-4196-ac12-f276e37e278a@103.112.71.83:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=test.bridge.anti-zapret.com&sid=cbb0a5c1dc905505#[260ms Нидерланды NL 🇳🇱 @vlesstrojan]
@@ -15,8 +15,5 @@ vless://362a0364-2b0f-cd11-9c20-ab9dfbeb8b11@122.8.45.6:8443?type=grpc&security=
 vless://5bb82f6f-e5b1-2bcf-6584-1abc8a3ec21f@122.8.46.3:443?type=xhttp&security=reality&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&sni=www.canon.com&encryption=none#🇦🇪 [BL] Сервер 479
 vless://5bb82f6f-e5b1-2bcf-6584-1abc8a3ec21f@122.8.46.6:8443?type=grpc&security=reality&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sni=download.nvidia.com&mode=gun&serviceName=TunService&encryption=none#🇹🇷 [BL] Сервер 484
 vless://362a0364-2b0f-cd11-9c20-ab9dfbeb8b11@122.8.45.7:8443?type=grpc&security=reality&fp=firefox&pbk=wcOBPSgoOKptWa9ZHpFpmbrPfLqobBNpCgLH88Ptjhk&sni=download.nvidia.com&mode=gun&serviceName=TunService&encryption=none#🇨🇳 [BL] Сервер 495
-vless://e37a629f-9558-c70f-abf2-f9555ef54c9e@122.8.46.3:443?encryption=none&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&type=xhttp&path=%2F&mode=auto#325.%20VLESS%20%7C%20SNI%3A%20cdn.steamstatic.com%20%7C%20TG%3A%20%40wlrustg
-vless://26524cce-d514-4014-a426-365fb266a14d@119.28.150.233:443?encryption=none&security=tls&sni=t5pmr.mail-node.gfw.kdns.fr&alpn=http%2F1.1&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=t5pmr.mail-node.gfw.kdns.fr&fp=safari#849.%20%F0%9F%87%A8%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%20t5pmr.mail-node.gfw.kdns.fr%20%7C%20TG%3A%20%40wlrustg
-vless://c924eed3-040a-a4f0-8255-80467b23a7f2@122.8.46.9:443?encryption=none&security=reality&sni=www.canon.com&fp=chrome&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&type=xhttp&mode=auto&path=/#7514.%20%F0%9F%87%A8%F0%9F%87%B3%20VLESS%20%7C%20SNI%3A%20www.canon.com%20%7C%20TG%3A%20%40wlrustg
-vless://c924eed3-040a-a4f0-8255-80467b23a7f2@122.8.47.2:8443?encryption=none&security=reality&sni=download.nvidia.com&fp=chrome&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&type=grpc&mode=gun&authority=&serviceName=TunService#7515.%20VLESS%20%7C%20SNI%3A%20download.nvidia.com%20%7C%20TG%3A%20%40wlrustg
-vmess://eyJhZGQiOiIzOS4xMDguMTEzLjEyNyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJmZGUxMGUzOS00OGJiLTRkY2YtYjNiYS03MWQ3MTEzMjNhNTQiLCJuZXQiOiJ3cyIsInBhdGgiOiIiLCJwb3J0IjoiMTAwODYiLCJwcyI6Ijg1ODIuIFZNRVNTIHwgU05JOiAzOS4xMDguMTEzLjEyNyB8IFRHOiBAd2xydXN0ZyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZX0=
+vless://e37a629f-9558-c70f-abf2-f9555ef54c9e@122.8.46.3:443?encryption=none&security=reality&sni=cdn.steamstatic.com&fp=chrome&pbk=sRTNjrosfFSiuQX7Yt7Ub5DJvFznfHSC3nlzFQ3H2WU&type=xhttp&path=%2F&mode=auto#250.%20VLESS%20%7C%20SNI%3A%20cdn.steamstatic.com%20%7C%20TG%3A%20%40wlrustg
+vless://26524cce-d514-4014-a426-365fb266a14d@119.28.150.233:443?encryption=none&security=tls&sni=t5pmr.mail-node.gfw.kdns.fr&alpn=http%2F1.1&type=ws&path=%2Fdanfeng%3Fed%3D2560&host=t5pmr.mail-node.gfw.kdns.fr&fp=firefox#782.%20%F0%9F%87%B0%F0%9F%87%B7%20VLESS%20%7C%20SNI%3A%20t5pmr.mail-node.gfw.kdns.fr%20%7C%20TG%3A%20%40wlrustg
