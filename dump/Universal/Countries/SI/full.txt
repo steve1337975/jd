@@ -1,13 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825271427
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825293259
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/02/2026 19:50:27
-# servers-count: 4
+# generated-at: 11/03/2026 01:54:19
+# servers-count: 2
 
-vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@194.33.34.108:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net&encryption=none#Lite #959 @FreeCFGHub
-vless://5e610f80-fc6a-479d-8621-b672355b96a1@91.185.215.214:443?encryption=none&security=tls&sni=cf-1rm.pages.dev&fp=chrome&type=ws&path=%2F&host=cf-1rm.pages.dev#Full #1185 @FreeCFGHub
-vless://50414e45-4c5f-5a45-5553-ccc0e8cd3a83@92.53.190.167:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Fccc0e8cd3a83&host=fgzb39ezu86s.ycz7syeeu3is.workers.dev&packetEncoding=xudp&sni=fgzb39ezu86s.ycz7syeeu3is.workers.dev&fp=unsafe&encryption=none#Full #1226 @FreeCFGHub
-vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=b.fi-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#Full #3346 @FreeCFGHub
+vless://3cd95e58-9f0a-47e1-9937-64a58e949aa5@194.33.34.108:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6eN2NciEaZis5J4muRRqpfLQ1OglI3A8lNSTmAGo6Do&sid=3c6fc84d&sni=stats.vk-portal.net&encryption=none#Lite #898 @FreeCFGHub
+vless://7b22dce8-7ebd-425b-8ca4-7b6190321985@45.144.52.187:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&fp=chrome&sni=b.fi-1.bnc-gt.co.uk&pbk=CegqLjzOImUmYD9ZdpOOG65UgNTGeQfRmpIni8iraB0&sid=7be1e9c243451b14#Full #3060 @FreeCFGHub
