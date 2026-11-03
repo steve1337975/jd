@@ -1,22 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SA] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825348143
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825366793
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/03/2026 17:09:03
-# servers-count: 13
+# generated-at: 11/03/2026 22:19:53
+# servers-count: 8
 
 vless://d4001352-dc64-48b8-b786-5860b284ad3d@213.165.56.76:2083?security=reality&type=grpc&mode=gun&serviceName=tjwvrf1q9d0n&packetEncoding=xudp&sni=vk.com&fp=firefox&sid=0ad9fd399087e404&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&encryption=none#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇩🇪 Германия
 vless://13bf9403-22d1-4221-939b-f6606c423139@de.poncheki.xyz:2083?security=reality&type=grpc&mode=gun&serviceName=tjwvrf1q9d0n&packetEncoding=xudp&sni=vk.com&fp=firefox&sid=0ad9fd399087e404&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&encryption=none#AetrisVPN White list ┃ ✅ SNI: vk.com ┃ 🇩🇪 Германия
 vless://0bf8538b-6299-46b0-9775-8b00939dccb5@213.165.54.59:8443?type=xhttp&security=reality&path=%2Fentry-xh&sni=www.kinopoisk.ru&fp=qq&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998#AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇷🇺 Россия
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=http&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#[307ms Россия RU 🇷🇺 @vlesstrojan]
-vless://13bf9403-22d1-4221-939b-f6606c423139@213.165.56.76:2083?type=grpc&security=reality&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404&sni=vk.com&serviceName=tjwvrf1q9d0n#[315ms Германия DE 🇩🇪 @vlesstrojan]
-vless://0bf8538b-6299-46b0-9775-8b00939dccb5@213.165.54.59:8443?type=http&security=reality&path=%2Fentry-xh&sni=www.kinopoisk.ru&fp=qq&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998#[324ms Россия RU 🇷🇺 @vlesstrojan]
-vless://70a43052-8d45-45c1-b9da-ec745890790a@213.165.54.59:8443?path=%2Fentry-xh&security=reality&encryption=none&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&fp=firefox&type=http&sni=www.kinopoisk.ru&sid=2e6d668958829998#[334ms Россия RU 🇷🇺 @vlesstrojan]
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=http&mode=auto&path=%2Fentry-xh#[335ms Россия RU 🇷🇺 @vlesstrojan]
-vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?security=reality&type=grpc&mode=gun&serviceName=tjwvrf1q9d0n&packetEncoding=xudp&sni=vk.com&fp=firefox&sid=0ad9fd399087e404&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&encryption=none#[361ms Германия DE 🇩🇪 @vlesstrojan]
-vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?security=tls&fp=firefox&sni=vk.com&type=grpc&serviceName=&mode=gun#[391ms Германия DE 🇩🇪 @vlesstrojan]
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=xhttp&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#425.%20VLESS%20%7C%20SNI%3A%20www.kinopoisk.ru%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.37.2:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#2854.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20sni.111000.dynv6.net%20%7C%20TG%3A%20%40wlrustg
-vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@213.165.60.235:443?security=reality&encryption=none&pbk=rfehgktZ-XuOYnHhfpPonWMrw9JoQCZawFI-WZ-2KBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloude.shlyapcord.space&sid=ae97223a8f799871#5352.%20VLESS%20%7C%20SNI%3A%20cloude.shlyapcord.space%20%7C%20TG%3A%20%40wlrustg
+vless://13bf9403-22d1-4221-939b-f6606c423139@213.165.56.76:2083?type=grpc&security=reality&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404&sni=vk.com&serviceName=tjwvrf1q9d0n#[297ms Германия DE 🇩🇪 @vlesstrojan]
+vless://d4001352-dc64-48b8-b786-5860b284ad3d@de.poncheki.xyz:2083?type=grpc&security=reality&sni=vk.com&fp=firefox&pbk=NWNI1krUm5rhcIRnP3KVvatf9hNKu_H-93bPUdw4cxw&sid=0ad9fd399087e404#[330ms Германия DE 🇩🇪 @vlesstrojan]
+vless://1fe01c8a-ab37-4e95-bbfc-95d4a608931e@213.165.60.235:443?security=reality&encryption=none&pbk=rfehgktZ-XuOYnHhfpPonWMrw9JoQCZawFI-WZ-2KBw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cloude.shlyapcord.space&sid=ae97223a8f799871#[1500ms Россия RU 🇷🇺 @vlesstrojan]
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=xhttp&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#323.%20VLESS%20%7C%20SNI%3A%20www.kinopoisk.ru%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.37.2:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#1491.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20sni.111000.dynv6.net%20%7C%20TG%3A%20%40wlrustg
