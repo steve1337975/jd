@@ -1,12 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825381751
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825411974
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 02:29:11
-# servers-count: 3
+# generated-at: 11/04/2026 10:52:54
+# servers-count: 2
 
-vless://fdc7d1aa-5360-55d2-8228-074a7d0ebeef@free.familysharing.ir:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=ios&pbk=ZrdPHtBvi7yMRj17SohKaGQEXuDptmCJWCi8gk5HlD8&sid=35938c4e546cd459&sni=amp-api-search-edge.apps.apple.com#3053 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1062 @FreeCFGHub
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2440 @FreeCFGHub
+vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1089 @FreeCFGHub
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2728 @FreeCFGHub
