@@ -38,7 +38,7 @@ namespace NChecker
             var stopwatch = Stopwatch.StartNew();
 
             // Увеличиваем емкость канала до 200 000 для поддержки сотен тысяч серверов
-            var channel = Channel.CreateBounded<ServerData>(new BoundedChannelOptions(200000)
+            var channel = Channel.CreateBounded<ServerData>(new BoundedChannelOptions(1000000) // 200 200
             {
                 FullMode = BoundedChannelFullMode.Wait,
                 SingleWriter = true,

@@ -5,6 +5,7 @@
         Unknown,
         Http,
         Https,
+        Socks,
         Socks4,
         Socks5,
         Vmess,

@@ -196,7 +196,7 @@ namespace NChecker.classes
                         if (client.Connected)
                         {
                             //server.Delay = stopwatch.ElapsedMilliseconds;
-                            server.IsAlive = true;
+                            server.IsAlive = stopwatch.ElapsedMilliseconds < 1000;
                             return;
                         }
                     }

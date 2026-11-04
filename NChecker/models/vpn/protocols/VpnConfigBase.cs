@@ -63,6 +63,7 @@ namespace NChecker.models.vpn.protocols
             {
                 "http" => VpnProtocol.Http,
                 "https" => VpnProtocol.Https,
+                "socks" => VpnProtocol.Socks,
                 "socks4" => VpnProtocol.Socks4,
                 "socks5" => VpnProtocol.Socks5,
                 "vmess" => VpnProtocol.Vmess,
