@@ -1,24 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825366793
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825381750
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/03/2026 22:19:53
-# servers-count: 15
+# generated-at: 11/04/2026 02:29:10
+# servers-count: 11
 
-trojan://humanity@103.69.128.221:443?type=ws&path=%252Fassignment&host=&sni=www.cordweave.com# By EbraSha 🦾
-http://72.255.29.169:1981#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-6
-http://202.142.153.222:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-10
-http://182.176.111.188:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-30
-http://160.30.104.170:1256#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-82
-socks4://202.142.176.130:1080
+trojan://humanity@103.69.128.221:443?type=ws&path=%252Fassignment&host=&sni=www.cordweave.com# By EbraSha 🔋
 https://110.38.225.213:443
-socks4://125.209.110.83:1981
-socks5://72.255.38.180:1080
+socks4://103.125.243.142:1080
+socks5://110.39.151.50:1080
+socks5://103.178.121.234:1080
 http://103.146.137.137:1081
-http://58.27.200.225:1080
-http://202.69.38.82:8080
-http://202.70.156.250:8080
-http://43.251.253.40:8080
-http://202.166.175.205:8080
+http://103.125.243.142:1080
+socks4://103.146.137.229:1081
+socks4://103.115.198.39:5678
+socks4://103.146.137.69:1081
+socks4://103.146.137.249:1081

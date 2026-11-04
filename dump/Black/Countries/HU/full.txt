@@ -1,16 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825366793
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825381750
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/03/2026 22:19:53
-# servers-count: 7
+# generated-at: 11/04/2026 02:29:10
+# servers-count: 10
 
-trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha ⚔️
+trojan://humanity@185.225.68.232:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com# By EbraSha ♣️
 https://193.201.185.68:443
 https://193.201.185.155:443
 https://193.201.185.63:443
 https://46.29.140.237:443
+https://193.226.205.54:443
+socks4://89.132.170.211:4145
+http://89.43.132.197:8080
+socks4://109.61.117.11:1080
 socks4://178.48.13.177:80
-http://128.0.7.11:8080
