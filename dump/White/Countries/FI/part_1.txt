@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825436401
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825455402
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 17:40:01
-# servers-count: 3
+# generated-at: 11/04/2026 22:56:42
+# servers-count: 4
 
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[47ms US US  @vlesstrojan]
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[131ms Дания DK 🇩🇰 @vlesstrojan]
-vless://7a015962-482c-44ce-abd3-3810e324c64c@us.privatevip.ir:454?encryption=none&fp=chrome&pbk=Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg&security=reality&sid=bf&sni=c.s-microsoft.com&spx=/41bc30bd26917fd&support-x25519mlkem768=true&type=tcp#[371ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[52ms US US  @vlesstrojan]
+vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[126ms Дания DK 🇩🇰 @vlesstrojan]
+vless://7a015962-482c-44ce-abd3-3810e324c64c@us.privatevip.ir:454?encryption=none&fp=chrome&pbk=Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg&security=reality&sid=bf&sni=c.s-microsoft.com&spx=/41bc30bd26917fd&support-x25519mlkem768=true&type=tcp#[454ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://03248cf9-cbcb-4718-a11d-35b499978d27@185.188.30.62:443?flow=xtls-rprx-vision&fp=firefox&pbk=lBCt9m_PzWWdm1HvyZtJyCupmcySkfphwArSyPLPKXk&security=reality&sid=bcb91df001bcc257&sni=fi-node.vopn.net&type=raw#🇫🇮71Mb | Cloudflare

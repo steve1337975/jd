@@ -1,17 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825436401
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825455402
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 17:40:01
-# servers-count: 8
+# generated-at: 11/04/2026 22:56:42
+# servers-count: 11
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443# By EbraSha 🎛️
-trojan://humanity@91.239.6.47:443?type=ws&path=%2Fassignment&sni=www.cordweave.com# By EbraSha ♠️
-vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59# By EbraSha 🪬
-vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&security=reality&sid=8718c58d3d51db59&sni=al2.magazinnarubeva.ru&type=tcp&fp=safari# By EbraSha 🌐
-https://134.0.63.185:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443# By EbraSha ♣️
+trojan://humanity@91.239.6.47:443?type=ws&path=%2Fassignment&sni=www.cordweave.com# By EbraSha 📀
+vless://8007dda2-aed2-4514-8299-6e3edbdb015b@103.167.234.179:443?security=reality&encryption=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=al3.magazinnarubeva.ru&sid=8718c58d3d51db59# By EbraSha 🪐
+vless://b24ad12f-f6ce-4f0b-a264-d58a76104026@151.123.187.198:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=trN5x0amt2YuVzF2vZnK294YBAuh_zl5QkZjPyWz-TI&security=reality&sid=8718c58d3d51db59&sni=al2.magazinnarubeva.ru&type=tcp&fp=safari# By EbraSha 🕶️
 https://91.92.250.33:443
+http://188.164.218.209:8080
 http://37.26.86.206:4145
-socks4://80.78.74.66:65530
+socks4://37.26.86.206:4145
+socks4://185.190.90.2:4145
+http://109.236.45.95:8989
+socks4://80.78.78.106:65530
