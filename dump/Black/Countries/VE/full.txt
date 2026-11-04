@@ -1,19 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825411974
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825436401
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 10:52:54
-# servers-count: 10
+# generated-at: 11/04/2026 17:40:01
+# servers-count: 13
 
-http://161.22.33.185:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-40
-http://190.97.231.0:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-45
-http://45.230.170.30:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-50
+http://138.118.203.152:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-29
+http://161.22.33.72:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-46
+http://200.59.191.27:999#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%AAVE-48
 http://181.225.53.141:999
-http://190.8.165.193:999
-http://161.22.33.226:999
-http://161.22.33.93:999
+http://181.225.44.46:999
+http://190.8.164.71:999
+http://190.94.244.30:8080
+http://190.52.97.25:999
+socks4://170.254.173.6:1080
+http://138.59.10.112:999
+http://190.94.212.249:999
 http://200.8.235.10:4145
-http://170.254.173.6:1080
 socks4://200.8.235.10:4145
