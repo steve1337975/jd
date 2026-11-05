@@ -1,29 +1,35 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825527161
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825545294
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 18:52:41
-# servers-count: 20
+# generated-at: 11/05/2026 23:54:54
+# servers-count: 26
 
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.253:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.198:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru&encryption=none#AetrisVPN White list ┃ ✅ SNI: ads.x5.ru ┃ 🇬🇧 Великобритания
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.167:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.178:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.161:8082?security=reality&type=grpc&mode=gun&serviceName=vless-grpc-reality&packetEncoding=xudp&sni=id.vk.com&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇩🇪 Германия
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.174:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.253:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.161:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.198:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://6a9f6c23-2b38-4720-9305-337f494f50a4@138.124.109.158:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&sid=a2eb8d694a5480ff#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇩🇪 Германия
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@195.15.213.66:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
 vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.196.3:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp#[171ms US US  @vlesstrojan]
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[176ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#[179ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780#[187ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@45.148.119.215:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#[207ms Польша PL 🇵🇱 @vlesstrojan]
-vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@138.124.73.200:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[241ms Германия DE 🇩🇪 @vlesstrojan]
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@83.228.197.174:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#[318ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://6a9f6c23-2b38-4720-9305-337f494f50a4@138.124.109.158:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&sid=a2eb8d694a5480ff#[319ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.167:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#[325ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@193.108.52.99:8082?security=reality&sni=id.vk.com&type=grpc&serviceName=vless-grpc-reality&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#AetrisVPN White list ┃ ✅ SNI: id.vk.com ┃ 🇰🇿 Казахстан
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?sni=138-124-86-230.sslip.io&type=grpc&serviceName=138-124-86-230-sslip-io&fp=firefox&security=tls#🇸🇪 Join+Telegram:@SolVPN 🇸🇪%20t.me%2Frjsxrd
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&security=reality&sid=9e5a335de26d1f5a&sni=bol.com&type=tcp#🇳🇱 Нидерланды 131 OC NETWORKS LIMITED%20t.me%2Frjsxrd
+vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp#[179ms US US  @vlesstrojan]
+vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@138.124.79.8:443?type=tcp&security=reality&sni=sun6-21.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc#[180ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com#[183ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780#[190ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@45.148.119.215:443?encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#[208ms Польша PL 🇵🇱 @vlesstrojan]
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@138.124.73.200:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[238ms Германия DE 🇩🇪 @vlesstrojan]
+vless://f4fec1b0-a67e-4967-b9ea-0bd832b57a4d@138.124.74.162:8443?encryption=none&fp=chrome&pbk=upDCW94g-pSYQrmXvOrTVYlwBUrSKhYFF9QwrqObdVo&security=reality&sid=3ca620a7ed5f3196&sni=sun6-21.userapi.com&type=tcp#[261ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://b4bc10bf-80f9-40c9-b4e5-29817c2f0992@l90909l.vip:8082?encryption=none&fp=&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&serviceName=vless-grpc-reality&sni=id.vk.com&type=grpc#[324ms Швейцария CH 🇨🇭 @vlesstrojan]
 trojan://humanity@185.18.250.252:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#🇫🇷 [WL] Сервер 27
 vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&sni=cloudflare.com&encryption=none#🇵🇱 [BL] Сервер 428
 trojan://humanity@185.18.250.245:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&allowinsecure=0&type=ws&sni=www.calmlunch.com#🇫🇷 [BL] Сервер 604
+vless://ca8f1438-9598-4af0-91e9-ad7b728bed67@95.128.157.251:80?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&sni=m.ok.ru&sid=9792f748#[🇩🇪] [vl-re-ra] [260106-103904.251]
+vless://ec2cb378-b18e-4d2e-83f0-57c8a51c6ed0@95.128.157.251:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=J1HIxQSniHBlaSUXTLTWyUUpiaeyE8MWmA2evyFZbFQ&security=reality&sid=628da9aed237&sni=api.mindbox.ru&type=tcp&name=TG%3AYoutubeUnBlockRu#0209 | 🇩🇪 Germany | VLESS | TG: @YoutubeUnBlockRu

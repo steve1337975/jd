@@ -1,17 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825527162
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825545294
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 18:52:42
-# servers-count: 8
+# generated-at: 11/05/2026 23:54:54
+# servers-count: 14
 
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?security=tls&fp=firefox&sni=se3.shtil.io#0531 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://37b3753f-d238-4df3-ad48-917ff9c494d6@se.cdn-games.cc:443?type=tcp&security=reality&fp=firefox&pbk=FRo7aDdc-vrt61C4AHILM0zOlNHz8ZUWMdxwFpP5I2I&sid=d4be0abacebeaa4f&sni=se.cdn-games.cc#1468 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.148.212.172:443?type=xhttp&security=reality&fp=firefox&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&path=/444de120fb2d#1608 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?security=tls&fp=firefox&sni=us3.shtil.io#1950 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?allowInsecure=1&security=tls&fp=chrome&sni=connect-se.mimowhat.online&alpn=h2,http/1.1#2196 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://0c792b9d-73e4-4fd3-bcf5-a153abf409f8@se.cdn-games.cc:443?type=tcp&security=reality&fp=firefox&pbk=FRo7aDdc-vrt61C4AHILM0zOlNHz8ZUWMdxwFpP5I2I&sid=d4be0abacebeaa4f&sni=se.cdn-games.cc#2433 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?type=tcp&security=reality&fp=safari&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&host=www.cloudflare.com#2763 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#3110 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?type=tcp&security=tls&fp=chrome&sni=se3.shtil.io#Бесплатный VPN tg:VLESSFORU 🇸🇪
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?security=tls&sni=se3.shtil.io&alpn=h2%2Chttp%2F1.1&fp=firefox#Бесплатный VPN tg:VLESSFORU 🇸🇪
+vless://37b3753f-d238-4df3-ad48-917ff9c494d6@se.cdn-games.cc:443?type=tcp&security=reality&fp=firefox&pbk=FRo7aDdc-vrt61C4AHILM0zOlNHz8ZUWMdxwFpP5I2I&sid=d4be0abacebeaa4f&sni=se.cdn-games.cc#1541 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://f15a2e25-6859-4bcc-b4c4-a14bb8ae0fbb@136.148.212.172:443?type=xhttp&security=reality&fp=firefox&pbk=LZhuBYUqlo8epvzFF3tOPMZ_vjZPN1sraOYy2CKtcz4&sid=356cc54d885a4036&sni=0ef47cx.se4.h1clayd.click&path=/444de120fb2d#1686 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?security=tls&fp=firefox&sni=us3.shtil.io#2040 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?allowInsecure=1&security=tls&fp=chrome&sni=connect-se.mimowhat.online&alpn=h2,http/1.1#2302 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://0c792b9d-73e4-4fd3-bcf5-a153abf409f8@se.cdn-games.cc:443?type=tcp&security=reality&fp=firefox&pbk=FRo7aDdc-vrt61C4AHILM0zOlNHz8ZUWMdxwFpP5I2I&sid=d4be0abacebeaa4f&sni=se.cdn-games.cc#2551 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?type=tcp&security=reality&fp=safari&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&sni=www.cloudflare.com&host=www.cloudflare.com#2903 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#3267 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#Full #527 @FreeCFGHub
+vmess://ewogICAgInYiOiAiMiIsCiAgICAicHMiOiAi8J+HsPCfh7cgUy4gS29yZWEgLSBNSUZBIiwKICAgICJhZGQiOiAiMjE3LjE0Mi4xMzguNjEiLAogICAgInBvcnQiOiAiODAiLAogICAgImlkIjogImFjMWI5MzNkLWFmZmYtNDQ4Ny05M2VmLWY1NzEzMGE1NWRmZiIsCiAgICAiYWlkIjogIjAiLAogICAgInNjeSI6ICJhdXRvIiwKICAgICJuZXQiOiAidGNwIiwKICAgICJ0eXBlIjogImh0dHAiLAogICAgImhvc3QiOiAiIiwKICAgICJwYXRoIjogIi8iLAogICAgInRscyI6ICIiLAogICAgInNuaSI6ICIiLAogICAgImFscG4iOiAiIiwKICAgICJmcCI6ICIiLAogICAgImluc2VjdXJlIjogIjAiCn0=#Full #543 @FreeCFGHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Full #867 @FreeCFGHub
+vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.OoKTGnQ1ml0_msLXeuPK72_W2FqDaEZmMtS-bwqI8gg&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#Full #2423 @FreeCFGHub
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us3.shtil.io#Full #2926 @FreeCFGHub
