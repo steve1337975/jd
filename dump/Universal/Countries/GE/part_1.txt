@@ -1,14 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GE] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825455402
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825471223
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 22:56:42
-# servers-count: 5
+# generated-at: 11/05/2026 03:20:23
+# servers-count: 4
 
-vless://57197967-f14a-4b5b-8b75-a0c6d19db048@45.65.112.157:2276?security=none&encryption=mlkem768x25519plus.native.0rtt.ipWIhhnRbmnoqJ_KNpG761KcVAdxZLpuh3Hefn53UHU&headerType=none&type=tcp#Full #2607 @FreeCFGHub
-vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@FOP.zqpm.ir:20727?security=none&encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&headerType=none&type=tcp#Full #3348 @FreeCFGHub
-vless://1b63fe02-a77d-4dbb-a48d-fe622e83f050@bigshagy.zqpm.ir:5780?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#Full #3695 @FreeCFGHub
-vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@bigshagy.zqpm.ir:5780?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&type=tcp&headerType=none#Full #3700 @FreeCFGHub
-vless://ae9906c7-3067-45ab-9360-b4b3166be923@CRSeven.zqpm.ir:20727?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&type=tcp&headerType=none#Full #3716 @FreeCFGHub
+vless://ba74edce-f4b0-405d-8dab-f922ba0eb8e4@FOP.zqpm.ir:20727?security=none&encryption=mlkem768x25519plus.native.0rtt.W-TCcFapoIJHekOhsNWkHR0JwuX5ZqXELfq0Dh7zekA&headerType=none&type=tcp#Full #3259 @FreeCFGHub
+vless://ae9906c7-3067-45ab-9360-b4b3166be923@CRSeven.zqpm.ir:20727?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&type=tcp&headerType=none#Full #3471 @FreeCFGHub
+vless://996f6fed-a94e-4e9d-b876-82bc4ad02847@bigshagy.zqpm.ir:5780?encryption=none&security=reality&sni=yahoo.com&fp=chrome&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&sid=2efbb0033df59520&type=tcp&headerType=none#Full #3519 @FreeCFGHub
+vless://1b63fe02-a77d-4dbb-a48d-fe622e83f050@bigshagy.zqpm.ir:5780?security=reality&encryption=none&pbk=PF8LdirtBEOQ_w9-1-i3mhgeFYbIQ1iOu1FPCfxUHQo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2efbb0033df59520#Full #3527 @FreeCFGHub
