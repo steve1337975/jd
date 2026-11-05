@@ -1,15 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SA] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825471223
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825499742
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 03:20:23
-# servers-count: 6
+# generated-at: 11/05/2026 11:15:42
+# servers-count: 8
 
-vless://6a251a93-8eee-43b5-92ed-ecadedcfd0a8@213.165.39.134:443?encryption=none&flow=xtls-rprx-vision&pbk=Gtz3xOdQdWSocdx4NNie6s-bsa9VDiG6thqanJ4h31s&security=reality&sid=6f3332a09b0ab6d1&sni=platform-api.max.ru&type=tcp&fp=firefox#🇳🇱 Нидерланды
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=http&mode=auto&path=%2Fentry-xh#[317ms Россия RU 🇷🇺 @vlesstrojan]
+vless://6a251a93-8eee-43b5-92ed-ecadedcfd0a8@213.165.39.134:443?encryption=none&flow=xtls-rprx-vision&pbk=Gtz3xOdQdWSocdx4NNie6s-bsa9VDiG6thqanJ4h31s&security=reality&sid=6f3332a09b0ab6d1&sni=platform-api.max.ru&type=tcp&fp=chrome#AetrisVPN White list ┃ ✅ SNI: platform-api.max.ru ┃ 🇳🇱 Нидерланды
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=xhttp&mode=auto&path=%2Fentry-xh#AetrisVPN White list ┃ ✅ SNI: www.kinopoisk.ru ┃ 🇩🇪 Германия
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=http&mode=auto&path=%2Fentry-xh#[378ms Россия RU 🇷🇺 @vlesstrojan]
+vless://0bf8538b-6299-46b0-9775-8b00939dccb5@213.165.54.59:8443?type=http&security=reality&path=%2Fentry-xh&sni=www.kinopoisk.ru&fp=qq&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998#[383ms Россия RU 🇷🇺 @vlesstrojan]
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=http&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#[388ms Россия RU 🇷🇺 @vlesstrojan]
 vless://0bf8538b-6299-46b0-9775-8b00939dccb5@213.165.54.59:8443?type=xhttp&security=reality&fp=qq&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&sni=www.kinopoisk.ru&path=%2Fentry-xh&mode=auto&encryption=none#🇩🇪 [WL] Сервер 99
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sid=2e6d668958829998&type=xhttp&mode=auto&path=%2Fentry-xh#XHTTP%2C%20%D0%9A%D0%B8%D0%BD%D0%BE%D0%BF%D0%BE%D0%B8%D1%81%D0%BA%20%5BV.O.I.D%5D
-vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=xhttp&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#327.%20VLESS%20%7C%20SNI%3A%20www.kinopoisk.ru%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.37.2:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#7146.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20sni.111000.dynv6.net%20%7C%20TG%3A%20%40wlrustg
+vless://6da2c981-8c77-4340-bda3-93399b7aea26@213.165.54.59:8443?encryption=none&type=xhttp&security=reality&fp=edge&pbk=CI4hMTvVsem9mloOgRCW9A6WC-srPPwu3jlylwOnd3A&sni=www.kinopoisk.ru&sid=2e6d668958829998#358.%20VLESS%20%7C%20SNI%3A%20www.kinopoisk.ru%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@213.165.37.2:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#1506.%20%F0%9F%87%B3%F0%9F%87%B1%20VLESS%20%7C%20SNI%3A%20sni.111000.dynv6.net%20%7C%20TG%3A%20%40wlrustg

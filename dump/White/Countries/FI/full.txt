@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825471223
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825499742
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 03:20:23
-# servers-count: 4
+# generated-at: 11/05/2026 11:15:42
+# servers-count: 3
 
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[52ms US US  @vlesstrojan]
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[126ms Дания DK 🇩🇰 @vlesstrojan]
-vless://7a015962-482c-44ce-abd3-3810e324c64c@us.privatevip.ir:454?encryption=none&fp=chrome&pbk=Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg&security=reality&sid=bf&sni=c.s-microsoft.com&spx=/41bc30bd26917fd&support-x25519mlkem768=true&type=tcp#[454ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://15125378-ed73-4ee3-4a60-49154961e5c1@212.147.246.0:4436?security=reality&type=tcp&headerType=none&flow=xtls-rprx-vision&encryption=none&path=&sni=play.google.com&fp=chrome&pbk=HFSvpLQaOAhqp5ZTntPRQAY-5NbnzLwbLBLlU3wAoQw&sid=083ab741&spx=/#2824.%20VLESS%20%7C%20SNI%3A%20play.google.com%20%7C%20TG%3A%20%40wlrustg
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[67ms US US  @vlesstrojan]
+vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[147ms Дания DK 🇩🇰 @vlesstrojan]
+vless://7a015962-482c-44ce-abd3-3810e324c64c@us.privatevip.ir:454?encryption=none&fp=chrome&pbk=Dt1H5S9TJtF0ujGbsTC6SdTzjt4Ghr_GdrZBhWHXhBg&security=reality&sid=bf&sni=c.s-microsoft.com&spx=/41bc30bd26917fd&support-x25519mlkem768=true&type=tcp#6742.%20VLESS%20%7C%20SNI%3A%20c.s-microsoft.com%20%7C%20TG%3A%20%40wlrustg
