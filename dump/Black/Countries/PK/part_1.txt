@@ -1,20 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825499742
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825527161
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 11:15:42
-# servers-count: 11
+# generated-at: 11/05/2026 18:52:41
+# servers-count: 9
 
-http://202.125.155.121:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-13
+http://203.99.54.238:8090#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-18
+http://103.225.221.190:3128#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-27
+http://103.158.236.132:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-33
+socks4://160.30.104.170:1080
 https://110.38.225.213:443
-http://43.251.253.40:8080
-socks4://58.27.200.225:1080
-http://125.209.110.83:39617
-http://110.93.218.62:8080
-http://157.10.226.93:8080
-http://58.27.160.253:8080
-socks4://202.142.169.142:1080
-socks4://103.146.137.201:1081
-http://118.103.236.153:8080
+http://202.165.232.238:8080
+http://58.27.200.225:8080
+http://103.4.94.124:8080
+socks4://58.65.142.254:8125
