@@ -1,19 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825565709
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825593398
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/06/2026 05:35:09
-# servers-count: 10
+# generated-at: 11/06/2026 13:16:38
+# servers-count: 7
 
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?type=tcp&sni=kr002.zestapp778.com#2412 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#2835 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-vless://fbc9d7c1-2518-4dd8-a50a-d1d7fa1ec84d@cz.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cso-krokus.su&sid=428ef87fd47a3a32#Full #1745 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@141.164.45.187:9090#Full #2778 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:5001#Full #2780 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#Full #2789 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #2802 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Full #2809 @FreeCFGHub
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#Full #3273 @FreeCFGHub
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3584 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@141.164.45.187:2376#Full #1297 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@141.164.45.187:9090#Full #2900 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6697#Full #2908 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY@141.164.45.187:5498#Full #3343 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@141.164.45.187:6679#Full #3354 @FreeCFGHub
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@142.91.108.25:443?security=reality&encryption=none&pbk=9ZCYjybxMQ7JpE39B8u_Bo-alI1LIbt5ER0E-4yMjiM&host=/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=jp3.nztvpn.com&sid=ea36c03d86f91287#Full #3364 @FreeCFGHub
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3599 @FreeCFGHub
