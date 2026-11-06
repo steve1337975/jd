@@ -1,20 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825593398
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825617780
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/06/2026 13:16:38
-# servers-count: 11
+# generated-at: 11/06/2026 20:03:00
+# servers-count: 9
 
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#AetrisVPN White list ┃ ✅ SNI: video.yandex.ru ┃ 🇺🇸 США
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#[161ms Италия IT 🇮🇹 @vlesstrojan]
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[266ms AZ AZ  @vlesstrojan]
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#[268ms AZ AZ  @vlesstrojan]
-vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@shh-hja-bbw.speedbluepanel.sbs:2053?security=none&encryption=mlkem768x25519plus.native.0rtt.4ABzCb9yeBZzvV-bRT5Tqpb3kejYBGn4Vib4PJiSyUg&host=docs.github.com&headerType=http&type=tcp#[280ms Германия DE 🇩🇪 @vlesstrojan]
-vless://b86451af-4c98-4b7d-96e5-16f2e9df1d46@edition.ativetechnology.ir:46132?security=none&encryption=mlkem768x25519plus.native.0rtt.JOz04Neg9PDWwDsVd4DaTDB63yZZDX2FNbkadsv91gk&host=ssh.webdade.com&headerType=http&type=tcp#[367ms Германия DE 🇩🇪 @vlesstrojan]
-vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?type=grpc&security=reality&fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&sid=e56ea883b092f3&sni=max.ru&serviceName=grpc-82#[386ms Франция FR 🇫🇷 @vlesstrojan]
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#[403ms TR TR  @vlesstrojan]
+vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?type=grpc&security=reality&fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&sid=e56ea883b092f3&sni=max.ru&serviceName=grpc-82#[348ms Франция FR 🇫🇷 @vlesstrojan]
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#[369ms TR TR  @vlesstrojan]
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?packetEncoding=xudp&type=tcp&security=reality&sni=video.yandex.ru&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#[795ms SG SG  @vlesstrojan]
 vless://a90c6d1c-5f63-4f9c-bd9b-cc29705c9689@178.92.205.63:11167?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.tesla.com&pbk=zrwJjaWEAfAZ3QCgnLnLoPE-edB_3wvKCqIz9maP02g&sid=ac&fp=qq#🇧🇷 [WL] Сервер 103
 vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&encryption=none#🇺🇦 [BL] Сервер 558
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#7745.%20VLESS%20%7C%20SNI%3A%20www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#1838.%20%F0%9F%87%AE%F0%9F%87%B9%20SS%20%7C%20TG%3A%20%40wlrustg
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.39:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#4861.%20VLESS%20%7C%20SNI%3A%20luminous-vortex.cdn.cachefleet.com%20%7C%20TG%3A%20%40wlrustg
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#4862.%20%F0%9F%87%A6%F0%9F%87%BF%20VLESS%20%7C%20SNI%3A%20luminous-vortex.cdn.cachefleet.com%20%7C%20TG%3A%20%40wlrustg
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?security=reality&encryption=none&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=d8b58872#5147.%20VLESS%20%7C%20SNI%3A%20www.cloudflare.com%20%7C%20TG%3A%20%40wlrustg
