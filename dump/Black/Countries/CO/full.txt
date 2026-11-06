@@ -1,24 +1,29 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825545294
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825565709
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/05/2026 23:54:54
-# servers-count: 15
+# generated-at: 11/06/2026 05:35:09
+# servers-count: 20
 
-http://45.167.124.251:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-12
-http://186.148.162.155:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-24
-http://45.167.126.43:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-35
-http://190.0.246.211:4040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-51
-http://45.65.137.218:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-52
-http://131.221.40.131:4040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-62
-http://190.0.246.210:4040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-73
-http://45.167.125.63:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-84
-socks4://181.236.221.138:4145
-socks4://181.204.39.202:53740
-http://190.7.138.78:8080
-http://200.110.173.101:8080
-http://24.152.58.22:999
-http://181.204.81.179:999
-http://190.61.46.162:999
+http://186.31.135.204:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-7
+http://179.1.221.26:3128#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-15
+http://186.148.162.155:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-26
+http://181.143.181.35:8080#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-36
+http://45.65.138.48:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-49
+http://190.0.246.211:4040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-55
+http://45.65.137.218:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-56
+http://190.0.246.210:4040#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-77
+http://179.1.196.134:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-97
+http://201.184.60.20:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-104
+http://181.225.107.53:999
+http://190.71.72.85:2525
+http://168.90.13.32:999
+http://148.222.227.186:999
+http://177.93.63.69:999
+http://190.60.62.51:999
+http://131.221.42.49:4040
+socks4://190.61.32.163:5678
+http://181.174.228.46:8080
+http://181.143.145.98:8080
