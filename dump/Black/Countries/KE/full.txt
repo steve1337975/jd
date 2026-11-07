@@ -1,16 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825696506
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825709696
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 17:55:06
-# servers-count: 7
+# generated-at: 11/07/2026 21:34:56
+# servers-count: 5
 
-http://197.248.16.109:8080#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AAKE-4
-http://41.209.57.199:80#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AAKE-14
+http://102.208.166.30:8082#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%AAKE-10
+http://102.0.28.78:8083
+http://197.248.75.221:8103
+http://102.68.77.159:8080
 socks4://102.222.145.8:1080
-http://197.248.193.143:8080
-http://41.139.160.219:8102
-http://102.203.101.155:8080
-http://102.0.25.8:8080
