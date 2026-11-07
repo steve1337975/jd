@@ -1,14 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825653362
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825677656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 05:56:02
-# servers-count: 5
+# generated-at: 11/07/2026 12:40:56
+# servers-count: 1
 
-http://102.23.220.66:8520#%5BOpenRay%5D%20%F0%9F%87%B1%F0%9F%87%BELY-5
-http://102.68.128.212:8080
-http://41.254.48.188:1970
-http://102.38.30.240:8080
-http://102.38.13.9:19000
+http://102.38.21.2:19000

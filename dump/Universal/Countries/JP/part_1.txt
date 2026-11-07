@@ -1,13 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825653362
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825677656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 05:56:02
-# servers-count: 4
+# generated-at: 11/07/2026 12:40:56
+# servers-count: 2
 
-vless://d8cf80f7-e24b-4961-91f6-77d494bcbdab@142.91.109.11:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b6ndQ_P82h5fxP4fQkArf8hxVK3gsOTmwLeIPhLBPh4&sid=9a79ee418c7c1fc3&sni=www.apple.com.cn#0582 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@kr002.zestapp778.com:37095?type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#0811 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?type=tcp&security=tls&fp=firefox&sni=kr002.zestapp778.com#1017 | 🇰🇷 South Korea | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=kr002.zestapp778.com#1309 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://d8cf80f7-e24b-4961-91f6-77d494bcbdab@142.91.109.11:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=b6ndQ_P82h5fxP4fQkArf8hxVK3gsOTmwLeIPhLBPh4&sid=9a79ee418c7c1fc3&sni=www.apple.com.cn#0611 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?type=tcp&security=tls&fp=firefox&sni=kr002.zestapp778.com#1074 | 🇰🇷 South Korea | VLESS | 📺 YT | TG: @YoutubeUnBlockRu

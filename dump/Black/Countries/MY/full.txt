@@ -1,23 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MY] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825653362
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825677656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 05:56:02
-# servers-count: 14
+# generated-at: 11/07/2026 12:40:56
+# servers-count: 10
 
-vmess://eyJhZGQiOiI0NS4xMjcuNS4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjNhN2FlYTEtMGY1YS00ZWQwLThhNTAtZjZlN2E3OGJlZDNjIiwibmFtZSI6Ik1ZIPCfh7Lwn4e+IHwgQFJheWRpa2FseCB8IDRDREZERiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoyMDgzLCJwcyI6IkJ5IEVicmFTaGEg8J+bsO+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiI0NS4xMjcuNS4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjNhN2FlYTEtMGY1YS00ZWQwLThhNTAtZjZlN2E3OGJlZDNjIiwibmFtZSI6Ik1ZIPCfh7Lwn4e+IHwgQFJheWRpa2FseCB8IDRDREZERiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoyMDgzLCJwcyI6IkJ5IEVicmFTaGEg8J+TmyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+socks4://60.54.19.45:1080
+socks4://60.54.19.44:1080
 https://210.48.154.99:443
 https://210.19.96.163:443
 https://43.251.18.20:443
 https://113.23.216.129:9088
-https://113.23.216.128:9088
 https://58.26.247.226:443
 http://175.138.231.145:80
-http://219.93.101.63:80
-http://219.93.101.62:80
-http://219.93.101.60:80
-http://175.138.75.83:8080
-socks4://103.58.16.106:4145
-socks4://60.54.19.44:1080
+http://1.32.48.243:8081
