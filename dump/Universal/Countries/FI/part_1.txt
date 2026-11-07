@@ -1,16 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825617780
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825632417
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/06/2026 20:03:00
-# servers-count: 7
+# generated-at: 11/07/2026 00:06:57
+# servers-count: 6
 
-hysteria2://37b3753f-d238-4df3-ad48-917ff9c494d6@fi.cdn-games.cc:443?sni=fi.cdn-games.cc#2075 | 🇫🇮 Finland | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6bc37e07-e066-495b-bf4f-5bd4a48be053@185.188.30.67:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&sni=fl.vrsvpn.com#3195 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://0c792b9d-73e4-4fd3-bcf5-a153abf409f8@fi.cdn-games.cc:443?sni=fi.cdn-games.cc#3236 | 🇫🇮 Finland | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
-vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1155 @FreeCFGHub
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2783 @FreeCFGHub
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#Full #2954 @FreeCFGHub
-vless://6bc37e07-e066-495b-bf4f-5bd4a48be053@fl.vrsvpn.com:444?type=raw&security=reality&flow=xtls-rprx-vision&fp=edge&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&sni=fl.vrsvpn.com#Full #4087 @FreeCFGHub
+hysteria2://37b3753f-d238-4df3-ad48-917ff9c494d6@fi.cdn-games.cc:443?sni=fi.cdn-games.cc#2184 | 🇫🇮 Finland | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+vless://37b3753f-d238-4df3-ad48-917ff9c494d6@fi.cdn-games.cc:443?type=tcp&security=reality&fp=safari&pbk=_2q1Hta9x7_LYkAKoneMuWPbe4nX0C-b-FirWhAUwG4&sid=9c30199006e675b2&sni=fi.cdn-games.cc#3168 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6bc37e07-e066-495b-bf4f-5bd4a48be053@185.188.30.67:444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=xHgddaRPxBto36gkycD74578Ng4_vjjcUFoVGMk5UC0&sid=14ba51f812ad1f22&sni=fl.vrsvpn.com#3359 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://0c792b9d-73e4-4fd3-bcf5-a153abf409f8@fi.cdn-games.cc:443?sni=fi.cdn-games.cc#3401 | 🇫🇮 Finland | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+vless://0c792b9d-73e4-4fd3-bcf5-a153abf409f8@fi.cdn-games.cc:443?type=tcp&security=reality&fp=safari&pbk=_2q1Hta9x7_LYkAKoneMuWPbe4nX0C-b-FirWhAUwG4&sid=9c30199006e675b2&sni=fi.cdn-games.cc#4080 | 🇫🇮 Finland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b6c67edd-763b-4929-b655-4f328d13a279@185.188.30.137:443?type=tcp&headerType=none&security=reality&encryption=none&sni=seznam.cz&fp=firefox&pbk=D3LM6JIYP6kL--jSCj-BPj-qy-J7rzX0Jp9Z4ygNeV4&sid=7791e189a518d69e&flow=xtls-rprx-vision#Full #1061 @FreeCFGHub
