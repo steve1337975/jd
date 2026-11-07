@@ -1,14 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825677656
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825696506
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 12:40:56
-# servers-count: 5
+# generated-at: 11/07/2026 17:55:06
+# servers-count: 7
 
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?security=reality&type=tcp&packetEncoding=xudp&sni=video.yandex.ru&fp=safari&flow=xtls-rprx-vision&sid=8debcf36f1cc69ff&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo#Lite #344 @FreeCFGHub
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#Lite #879 @FreeCFGHub
-vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#Lite #896 @FreeCFGHub
-vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?type=grpc&security=reality&fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&sid=e56ea883b092f3&sni=max.ru&serviceName=grpc-82#Lite #924 @FreeCFGHub
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Lite #938 @FreeCFGHub
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#Lite #892 @FreeCFGHub
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#Lite #903 @FreeCFGHub
+vless://c6ac29f4-41d5-492a-a3d0-6582d620aba7@195.123.189.129:443?type=grpc&security=reality&fp=firefox&pbk=ijDPaDKzsKkpYj9lEpBatS-FKdmYaGP3aUO2MThuLmU&sid=e56ea883b092f3&sni=max.ru&serviceName=grpc-82#Lite #944 @FreeCFGHub
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Lite #949 @FreeCFGHub
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?packetEncoding=xudp&type=tcp&security=reality&sni=video.yandex.ru&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&flow=xtls-rprx-vision#Lite #999 @FreeCFGHub
+vless://e08d9bc5-6832-4dd4-bd44-d9bbe61e5817@g01tig3hasus3.dnetsolutions.ru:443?mode=gun&security=reality&encryption=none&pbk=4qE0kXmxDvNzsns2jdwd74AN35RptcTD4eKo5REa9w8&fp=chrome&spx=%2F&type=grpc&serviceName=grpc-67&sni=max.ru&sid=04#Lite #1003 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#Full #1200 @FreeCFGHub

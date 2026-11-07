@@ -1,16 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825677656
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825696506
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 12:40:56
-# servers-count: 7
+# generated-at: 11/07/2026 17:55:06
+# servers-count: 8
 
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?type=tcp&security=tls&sni=connect-se.mimowhat.online&fp=chrome#Бесплатный VPN tg:VLESSFORU 🇸🇪
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=se3.shtil.io&fp=firefox#Бесплатный VPN tg:VLESSFORU 🇸🇪
-vless://d8031b46-752f-4152-af1e-ec7d2fe7ad53@192.71.82.14:443?type=ws&security=tls&fp=chrome&sni=15.baklajann.ru&host=15.baklajann.ru#1113 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #107 @FreeCFGHub
-trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#Full #545 @FreeCFGHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Full #891 @FreeCFGHub
-vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&fp=random&type=ws&path=/&packetEncoding=xudp&encryption=none#Full #1085 @FreeCFGHub
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=connect-se.mimowhat.online#Бесплатный VPN tg:VLESSFORU 🇸🇪
+vless://d8031b46-752f-4152-af1e-ec7d2fe7ad53@192.71.82.14:443?type=ws&security=tls&fp=chrome&sni=15.baklajann.ru&host=15.baklajann.ru#1207 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #089 @FreeCFGHub
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?type=tcp&security=tls&fp=chrome&sni=se3.shtil.io#Full #024 @FreeCFGHub
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=se3.shtil.io&fp=firefox#Full #101 @FreeCFGHub
+trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#Full #522 @FreeCFGHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Full #868 @FreeCFGHub
+vless://39947382-3212-41c9-bc3a-589574ac8b23@uae.unixzone.us:22573?security=none&fp=random&type=ws&path=/&packetEncoding=xudp&encryption=none#Full #1062 @FreeCFGHub
