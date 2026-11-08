@@ -1,11 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MN] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825786578
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825800234
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 18:56:18
-# servers-count: 2
+# generated-at: 11/08/2026 22:43:54
+# servers-count: 3
 
-vmess://eyJhZGQiOiIxODAuMTQ5LjkwLjY2IiwiYWlkIjowLCJob3N0IjoidGFieWFuNzc3LnN5dGVzLm5ldCIsImlkIjoiZjVjMTM3ZDEtY2E4OS00MmMwLWI2MDQtZGIzOWFlZjYwYTczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCflK4iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#⚡ b2n.ir/v2ray-configs | 857
+vmess://eyJhZGQiOiIxODAuMTQ5LjkwLjY2IiwiYWlkIjowLCJob3N0IjoidGFieWFuNzc3LnN5dGVzLm5ldCIsImlkIjoiZjVjMTM3ZDEtY2E4OS00MmMwLWI2MDQtZGIzOWFlZjYwYTczIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJCeSBFYnJhU2hhIPCfl78iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byJ9
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls#%F0%9F%87%B2%F0%9F%87%B3MN-103.168.56.77-3358
+socks4://203.174.26.141:4153
