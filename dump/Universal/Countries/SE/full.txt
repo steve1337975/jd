@@ -1,15 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825709696
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825721910
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/07/2026 21:34:56
-# servers-count: 6
+# generated-at: 11/08/2026 00:58:30
+# servers-count: 4
 
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&alpn=h2%2Chttp%2F1.1&fp=qq#Бесплатный VPN tg:VLESSFORU 🇸🇪
 vless://70ae59c1-0f16-4030-9467-b3c38102c821@136.148.223.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se.genafast.xyz&pbk=hJkE2Dd6ND6gH2H2KmtAYa6GhNOiKpAotuOOKcwunyc&sid=95fbcabc662be802&fp=firefox#Бесплатный VPN tg:VLESSFORU 🇸🇪
-vless://d8031b46-752f-4152-af1e-ec7d2fe7ad53@192.71.82.14:443?type=ws&security=tls&fp=chrome&sni=15.baklajann.ru&host=15.baklajann.ru#1274 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #068 @FreeCFGHub
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?security=tls&type=tcp&packetEncoding=xudp&alpn=h2%2Chttp%2F1.1&sni=se3.shtil.io&fp=firefox#Full #073 @FreeCFGHub
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?type=tcp&security=tls&fp=chrome&sni=se3.shtil.io#Full #143 @FreeCFGHub
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&alpn=h2%2Chttp%2F1.1&fp=qq#Бесплатный VPN tg:VLESSFORU 🇸🇪
+vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #243 @FreeCFGHub
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=se3.shtil.io&alpn=h2,http/1.1#Full #526 @FreeCFGHub
