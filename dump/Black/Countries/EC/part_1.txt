@@ -1,22 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [EC] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825769753
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825786578
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 14:15:53
-# servers-count: 13
+# generated-at: 11/08/2026 18:56:18
+# servers-count: 12
 
-http://190.83.15.241:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-3
 http://45.189.57.114:3129#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-10
 http://45.186.6.104:3128#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-12
-http://200.63.104.131:8089#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-16
-http://177.234.217.93:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-20
-http://181.188.203.40:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-23
-http://45.71.185.217:9991
-http://177.234.217.85:999
+http://177.234.217.82:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-18
+http://177.234.217.44:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-30
+http://45.224.22.63:999
+http://177.234.217.45:999
+http://200.24.217.147:999
+http://177.234.217.46:999
 http://181.188.216.3:8080
-http://45.175.167.73:999
-http://45.185.163.235:999
-http://45.190.87.241:999
-http://45.238.57.1:3629
+socks4://45.238.57.1:3629
+http://186.101.251.197:8080
+http://200.24.152.222:999
