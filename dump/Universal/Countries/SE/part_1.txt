@@ -1,13 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825743712
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825769753
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 07:01:52
-# servers-count: 4
+# generated-at: 11/08/2026 14:15:53
+# servers-count: 8
 
 trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?security=tls&sni=connect-se.mimowhat.online&type=tcp#Бесплатный VPN tg:VLESSFORU 🇸🇪
-vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #185 @FreeCFGHub
-vless://70ae59c1-0f16-4030-9467-b3c38102c821@136.148.223.4:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=se.genafast.xyz&pbk=hJkE2Dd6ND6gH2H2KmtAYa6GhNOiKpAotuOOKcwunyc&sid=95fbcabc662be802&fp=firefox#Full #243 @FreeCFGHub
-vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=se3.shtil.io&alpn=h2,http/1.1#Full #579 @FreeCFGHub
+vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #181 @FreeCFGHub
+vless://70ae59c1-0f16-4030-9467-b3c38102c821@136.148.223.4:443?encryption=none&flow=xtls-rprx-vision&pbk=hJkE2Dd6ND6gH2H2KmtAYa6GhNOiKpAotuOOKcwunyc&security=reality&sid=95fbcabc662be802&sni=se.genafast.xyz&type=tcp&fp=firefox#Full #162 @FreeCFGHub
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@194.104.94.141:443?encryption=none&type=tcp&security=tls&fp=chrome&sni=se3.shtil.io&alpn=h2,http/1.1#Full #560 @FreeCFGHub
+vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.OoKTGnQ1ml0_msLXeuPK72_W2FqDaEZmMtS-bwqI8gg&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#Full #2373 @FreeCFGHub
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=us3.shtil.io#Full #3076 @FreeCFGHub
+vless://6ba4ed2e-b42b-4880-8b3b-c7e2df2d02f6@se3.shtil.io:443?security=tls&alpn=h2,http/1.1&encryption=none&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=se3.shtil.io#Full #3432 @FreeCFGHub
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?encryption=none&security=tls&sni=us3.shtil.io&fp=chrome&alpn=h2,http/1.1&type=tcp&headerType=none#Full #3604 @FreeCFGHub

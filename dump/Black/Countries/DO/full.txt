@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825743712
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825769753
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 07:01:52
-# servers-count: 2
+# generated-at: 11/08/2026 14:15:53
+# servers-count: 1
 
-http://190.110.34.22:999
-socks4://190.93.188.195:1080
+http://190.110.36.196:999
