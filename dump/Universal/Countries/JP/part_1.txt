@@ -1,15 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825812462
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825839862
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/09/2026 02:07:42
-# servers-count: 6
+# generated-at: 11/09/2026 09:44:22
+# servers-count: 5
 
-vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?type=ws&security=tls&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev#1339 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@158.247.220.26:37095?type=tcp&security=tls&fp=firefox&sni=kr002.zestapp778.com#1719 | 🇰🇷 South Korea | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851#2709 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@158.247.255.150:48851?allowInsecure=1&type=tcp&security=tls&fp=firefox&sni=kr002.zestapp778.com#3390 | 🇰🇷 South Korea | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.214.224:443?type=ws&security=tls&fp=unsafe&sni=jp3.yohototo.top#3668 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://5t6i121em5lkmsmk@kr002.zestapp778.com:48851?security=tls&insecure=0&headerType=&type=tcp&allowInsecure=0&sni=kr002.zestapp778.com#Full #722 @FreeCFGHub
+vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?security=reality&sni=vextor.win&fp=random&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&flow=xtls-rprx-vision&type=tcp&headerType=none&host=vextor.win&path=%2F&encryption=none#BUNKER Free × 73 ×
+vless://9c7501fb-4e23-44d8-9a9e-973807ae4f35@203.137.165.164:57554?type=ws&security=tls&fp=chrome&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev#1444 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@131.143.214.224:443?type=ws&security=tls&fp=unsafe&sni=jp3.yohototo.top#3969 | 🇯🇵 Japan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://40af9131-d540-448a-bc56-5bba147a1dc3@103.43.75.82:443?encryption=none&security=tls&type=ws&host=proxy-1cu.pages.dev&path=%2F&sni=proxy-1cu.pages.dev&fp=android#Full #1202 @FreeCFGHub
+vless://fbc9d7c1-2518-4dd8-a50a-d1d7fa1ec84d@cz.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cso-krokus.su&sid=428ef87fd47a3a32#Full #1688 @FreeCFGHub

@@ -1,18 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825812462
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825839862
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/09/2026 02:07:42
-# servers-count: 9
+# generated-at: 11/09/2026 09:44:22
+# servers-count: 4
 
-vless://75145a81-e1e5-4112-92a8-e06655703d30@fr.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=qq&sni=fr.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[311ms Франция FR 🇫🇷 @vlesstrojan]
+vless://75145a81-e1e5-4112-92a8-e06655703d30@fr.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=qq&sni=fr.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[320ms Франция FR 🇫🇷 @vlesstrojan]
+vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@92.246.138.184:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&pbk=oZTV3mNyn9tWeA_cTVonIidR6boRj5K9Wo8c1uQtZhk&sid=df6d08#[330ms Россия RU 🇷🇺 @vlesstrojan]
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@92.246.138.68:443?encryption=none&flow=xtls-rprx-vision&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&security=reality&sid=3d41300b11960f87&sni=ru17.oshost.network&type=tcp&fp=chrome#🇸🇪 [BL] Сервер 316
 vless://afbd410e-1663-4f40-9d3b-df5117aa23ca@ru17.oshost.network:443?type=raw&flow=xtls-rprx-vision&security=reality&pbk=g--okRGkuStMgPF1OoFz9xoJEQMEWD6KAKzvUUA2GHI&sni=ru17.oshost.network&fp=firefox&sid=3d41300b11960f87&encryption=none#🇸🇪 [BL] Сервер 317
-vless://a77cedab-f429-40bb-b6d4-fd9dd681e675@92.246.138.184:443?type=raw&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&pbk=oZTV3mNyn9tWeA_cTVonIidR6boRj5K9Wo8c1uQtZhk&sid=df6d08#Reality%2C%20%D0%9F%D1%8F%D1%82%D1%91%D1%80%D0%BE%D1%87%D0%BA%D0%B0%20%5BV.O.I.D%5D
-vless://88fef0d6-116e-4067-8f4b-625ab9cff6fe@al.reus.lol:443?security=reality&encryption=none&pbk=jVNJH18MECOqhciQLa-w7Y7yp3N9IdseIDpgCEu2LhU&headerType=&fp=safari&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=al.reus.lol&sid=81785a5f59d66d7d#273.%20VLESS%20%7C%20SNI%3A%20al.reus.lol%20%7C%20TG%3A%20%40wlrustg
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.64.24:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=QFYzek1TNFeZxhHP3gH-42RUYDGw0ZiigeDcUOFL2Vs&sid=bd44ae7c721b8252&sni=gb1.japancase.site#554.%20VLESS%20%7C%20SNI%3A%20gb1.japancase.site%20%7C%20TG%3A%20%40wlrustg
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@it.x8lab.org:443?sni=eh.vk.com&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=669d7ae5e1611511#2906.%20%F0%9F%87%AE%F0%9F%87%B9%20VLESS%20%7C%20SNI%3A%20eh.vk.com%20%7C%20TG%3A%20%40wlrustg
-vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?security=reality&encryption=none&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&headerType=none&fp=chrome&spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&type=tcp&flow=xtls-rprx-vision&sni=nl1.kids-games.ru#7031.%20VLESS%20%7C%20SNI%3A%20nl1.kids-games.ru%20%7C%20TG%3A%20%40wlrustg
-vless://db80088c-32a1-4cb8-a907-0f3cb7844152@157.228.71.76:443?security=reality&encryption=none&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=it1.japancase.site&sid=41ae8e266bc3346f#7344.%20VLESS%20%7C%20SNI%3A%20it1.japancase.site%20%7C%20TG%3A%20%40wlrustg
