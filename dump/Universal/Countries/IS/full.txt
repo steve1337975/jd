@@ -1,11 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IS] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825800234
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825812462
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 22:43:54
-# servers-count: 2
+# generated-at: 11/09/2026 02:07:42
+# servers-count: 4
 
-vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?type=tcp&security=reality&fp=firefox&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&sid=06&sni=google.com#0635 | 🇮🇸 Iceland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Full #263 @FreeCFGHub
+vless://affb10d4-3835-4b1f-b5a3-3481489911b6@89.147.111.223:2053?encryption=none&fp=firefox&host=cat.ilovezhenjiu.top&path=/cgciws&security=tls&sni=cat.ilovezhenjiu.top&type=ws#Бесплатный VPN tg:VLESSFORU 🇮🇸
+vless://b4e69d67-9d41-417c-b465-ebf1591fb792@93.95.226.159:28150?type=tcp&security=reality&fp=firefox&pbk=KQW_o2BlCjMC8aH5lkNkO_rmMCAUykQIQCCIIehhsAo&sid=06&sni=google.com#0674 | 🇮🇸 Iceland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://affb10d4-3835-4b1f-b5a3-3481489911b6@89.147.111.223:2053?type=ws&security=tls&fp=firefox&sni=cat.ilovezhenjiu.top&host=cat.ilovezhenjiu.top#4149 | 🇮🇸 Iceland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b1c31d36-c6b5-414b-88d2-9e24e7bfcca3@185.146.234.242:443?&security=tls&fp=chrome&sni=www.nihaoyun.top&type=ws&headerType=none&host=www.nihaoyun.top&path=%2F#Full #395 @FreeCFGHub

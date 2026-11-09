@@ -1,58 +1,55 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825800234
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825812462
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/08/2026 22:43:54
-# servers-count: 49
+# generated-at: 11/09/2026 02:07:42
+# servers-count: 46
 
 vless://1589e19a-4ff8-4064-b58a-97f8bfd91b3f@93.190.9.194:3090?type=grpc&mode=multi&serviceName=vless#🇹🇷 Турция
-ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995# By EbraSha 🌌
-vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c# By EbraSha 📟
-vless://08deb45c-182a-4095-b264-9d08b7aad5f4@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🛜
-vless://1589e19a-4ff8-4064-b58a-97f8bfd91b3f@93.190.9.194:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi# By EbraSha 🦅
-vless://1bcdf167-928f-445d-852a-b0b73dc06d7c@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 📼
-vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp# By EbraSha 📶
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?flow=xtls-rprx-vision&fp=random&host=www.datadoghq.com&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&security=reality&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&type=tcp# By EbraSha ✨
-vless://2f5cfa10-43e5-4912-800d-557308a26a29@194.93.63.195:443?security=reality&encryption=none&pbk=xwk6v2Cia-x2zdam-mTeqb5V0iH-FXBOW2h5Pm0HpXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=6wysmlgy3go6.cloudydigital.net&sid=4118d00d2a61b755# By EbraSha 🔌
-vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp# By EbraSha 📱
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com# By EbraSha 🌑
-vless://a68d14a3-e940-4123-bb40-3759011341cd@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🔐
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=9c2378562188c3cb# By EbraSha 🎛️
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb# By EbraSha 🚧
-vless://d24e0961-dd20-4528-8796-2a974e79348e@193.160.141.2:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com# By EbraSha 🥷
-vless://e6ac9b2b-f31b-4539-9079-c752e3f40dbc@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🌐
-vless://f27b3e90-5deb-4135-a1f2-9d53f521049f@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha ♣️
-vmess://eyJhZGQiOiI4NS4xMTEuODkuMjQ1IiwiaWQiOiI4NzUyN2QxOS1kMzAwLTQ3ZTItYjAyOS0xZjMzN2M5NTE0ZWYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozOTM4NSwicHMiOiJCeSBFYnJhU2hhIPCfk4AiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJ0cjQuY2luZW1hZmE5OC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZGV2aWNlSUQiOiIiLCJmcCI6IiIsImhlYWRlclR5cGUiOiJodHRwIiwiaG9zdCI6InBsYXktYXBwcy1mZWF0dXJlcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJpZCI6IjU5YmU2MzViLWZkYzUtNDI1Mi1iMWIwLWFmMWJkMmMxMDUzYSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjU1NDIwIiwicHMiOiJCeSBFYnJhU2hhIPCfkqMiLCJzZWVkIjoiIiwic2VydmljZU5hbWUiOiJub25lIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vless://c2505cc0-a451-49a2-94df-6eaaf0217b0b@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
+ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995# By EbraSha 🦂
+vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c# By EbraSha 🧠
+vless://08deb45c-182a-4095-b264-9d08b7aad5f4@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 💻
+vless://1589e19a-4ff8-4064-b58a-97f8bfd91b3f@93.190.9.194:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi# By EbraSha 🔐
+vless://1bcdf167-928f-445d-852a-b0b73dc06d7c@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha ♠️
+vless://2107ea1e-26fb-4831-8c3f-fb190bea79f7@185.71.219.188:443?security=none&encryption=none&headerType=none&type=tcp# By EbraSha 🔥
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?flow=xtls-rprx-vision&fp=random&host=www.datadoghq.com&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&security=reality&sid=f46cd3ea3d1eb72d&sni=www.datadoghq.com&type=tcp# By EbraSha 🔋
+vless://2f5cfa10-43e5-4912-800d-557308a26a29@194.93.63.195:443?security=reality&encryption=none&pbk=xwk6v2Cia-x2zdam-mTeqb5V0iH-FXBOW2h5Pm0HpXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=6wysmlgy3go6.cloudydigital.net&sid=4118d00d2a61b755# By EbraSha ⚔️
+vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095?alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&encryption=none&headerType=none&type=tcp# By EbraSha 📛
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com# By EbraSha 🧪
+vless://a68d14a3-e940-4123-bb40-3759011341cd@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🧊
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=9c2378562188c3cb# By EbraSha 🃏
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb# By EbraSha 🌪️
+vless://d24e0961-dd20-4528-8796-2a974e79348e@193.160.141.2:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com# By EbraSha 🗿
+vless://e6ac9b2b-f31b-4539-9079-c752e3f40dbc@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🎯
+vless://f27b3e90-5deb-4135-a1f2-9d53f521049f@sfndw7.dlroozane.net:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=LEPvdc6l0Ij1Y5FwYqZHnGUwu9GfGiAaluE0FA1loDA&sid=782dbb704cf2b781&type=tcp&headerType=none# By EbraSha 🔐
+vmess://eyJhZGQiOiI4NS4xMTEuODkuMjQ1IiwiaWQiOiI4NzUyN2QxOS1kMzAwLTQ3ZTItYjAyOS0xZjMzN2M5NTE0ZWYiLCJuZXQiOiJ0Y3AiLCJwb3J0IjozOTM4NSwicHMiOiJCeSBFYnJhU2hhIPCfpogiLCJzY3kiOiJhdXRvIiwidGxzIjoibm9uZSIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vless://8b5f947d-a567-4e86-a08e-39b7a3de7f2b@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
+vless://ebd0fa91-8d2e-4144-9e1b-28ef324c19ad@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://4d8a04a5-908d-4c5e-8cc9-a545e7378c4a@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://ea1dfd55-0ff7-4e42-970b-fb2725b1d7db@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
+vless://c2505cc0-a451-49a2-94df-6eaaf0217b0b@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://232b90ca-1111-4b42-9544-07be1c12d9bb@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
-vless://450b6c85-bd42-45da-abcd-f76e1376e6a4@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
-vless://ebd0fa91-8d2e-4144-9e1b-28ef324c19ad@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://084f73fd-4a2f-4d76-a26a-a51d738f35d6@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
-vless://8b5f947d-a567-4e86-a08e-39b7a3de7f2b@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
+vless://450b6c85-bd42-45da-abcd-f76e1376e6a4@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://626c164d-f1d9-4f93-82e6-f4bfd7658a83@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#🔥Join+Telegram:@Farah_VPN🟣
 vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-7
-http://109.224.242.26:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-17
-http://195.142.250.34:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-19
-http://185.146.138.151:8080#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%BESY-3
-http://109.224.242.98:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-48
-http://78.186.146.140:3310#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-54
-http://212.252.73.66:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-55
-http://176.88.168.109:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-63
-http://185.195.254.72:5432#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-74
-http://188.132.249.98:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-80
-vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl2.balancer.vbuste-bot.com&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&type=tcp&headerType=none#@meliproxyy
-http://176.88.65.164:8080
-http://88.248.250.76:8080
+http://193.164.7.235:8082#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-32
+http://188.132.249.157:8080#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-68
+http://185.195.254.72:5432#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-71
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@203.202.232.110:443?sni=vlso5.1d.mom&type=ws&host=vlso5.1d.mom&path=/socks5=888:888@hkip.1d.mom:1080fp=chromefp=chromesecurity=tls#%F0%9F%87%A7%F0%9F%87%AC%5Bwww.v2nodes.com%5D%20vless-BG-1...
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?sni=www.datadoghq.com&flow=xtls-rprx-vision&fp=firefox&security=tls#%F0%9F%87%B9%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20vless-TR-1...%20%232
+http://195.142.250.53:8080
 socks5://193.164.5.59:11080
 socks5://37.221.76.225:1080
-http://88.247.31.164:4153
+http://109.224.242.133:8585
+http://89.45.94.130:3128
 http://95.183.140.89:80
-http://31.223.16.134:8888
-http://212.175.50.76:8085
-socks4://88.245.138.87:1080
+http://176.236.37.132:1080
+http://176.235.182.90:1080
+http://94.78.67.171:80
+http://88.245.138.87:1080
+http://176.88.166.219:8080
 socks4://176.235.182.90:1080
+http://195.62.50.239:8080
