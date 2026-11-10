@@ -1,107 +1,118 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825877741
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825901463
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/09/2026 20:15:41
-# servers-count: 98
+# generated-at: 11/10/2026 02:51:03
+# servers-count: 109
 
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 🖥️
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha 🦾
-vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&security=reality&sni=nl-modx-prime.storagedirectguide.com&type=tcp# By EbraSha ♠️
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=unsafe&host=138.124.70.41&path=%2Fvless&security=none&sni=138.124.70.41&type=ws# By EbraSha ⚡
-vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🎯
-vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha 🦅
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=login.sakhweb.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none# By EbraSha 📼
-vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# By EbraSha ♦️
-vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# By EbraSha ⚙️
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 🌐
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&fp=chrome&security=tls&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io&type=grpc# By EbraSha 🪐
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha 📼
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F# By EbraSha 📶
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780# By EbraSha 🕹️
-vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6aCIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.119.229:8443?security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#%F0%9F%87%A9%F0%9F%87%AA%20AetrisVPN
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&host=fs.qicai99.com&path=%2F#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 🤖
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha 🪖
+vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&security=reality&sni=nl-modx-prime.storagedirectguide.com&type=tcp# By EbraSha 🐉
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=unsafe&host=138.124.70.41&path=%2Fvless&security=none&sni=138.124.70.41&type=ws# By EbraSha 🔮
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🪬
+vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha 💻
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F# By EbraSha 🚨
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=login.sakhweb.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none# By EbraSha 🚬
+vless://Masir_Sefid@37.156.44.205:443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# By EbraSha 🚬
+vless://Masir_Sefid@37.156.44.205:8443?security=reality&encryption=none&pbk=mK5Qt9W3gFxKZZpyc2lnDGxSSpdiE-0bFI4dqJXyEVI&headerType=none&fp=chrome&spx=/x9v13tGqXqfOiWp&type=tcp&sni=store.steampowered.com&sid=082b5cbbd0d4f2fa# By EbraSha 👑
+vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 🔐
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?encryption=none&fp=chrome&security=tls&serviceName=138-124-86-230-sslip-io&sni=138-124-86-230.sslip.io&type=grpc# By EbraSha 💎
+vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha 🐉
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F# By EbraSha 👑
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780# By EbraSha 🎯
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6qWIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@185.18.250.252:443?insecure=0&type=ws&sni=www.calmlunch.com&fp=chrome&path=/assignment&allowInsecure=0&security=tls#🔥Join+Telegram:@Farah_VPN🟣
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
-http://147.161.246.246:11680#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-8
-http://147.161.246.246:11826#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-12
-http://147.161.246.246:10819#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-14
-http://147.161.246.246:10926#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-16
-http://147.161.246.39:11314#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-17
-http://147.161.246.246:10005#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-18
-http://147.161.246.246:10433#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-19
-http://147.161.246.37:11345#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-21
-http://147.161.246.246:10803#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-22
-http://147.161.246.35:11394#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-23
-http://147.161.246.246:10903#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-24
-http://147.161.246.246:11703#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-25
-http://147.161.246.246:10483#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-26
-http://147.161.246.39:12555#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-28
-http://147.161.246.246:11480#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-33
-http://147.161.246.246:11273#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-35
-http://147.161.246.39:11908#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-38
-http://147.161.246.246:10289#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-40
-http://147.161.246.246:11477#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-41
-http://147.161.246.246:11484#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-42
-http://147.161.246.246:10081#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-43
-http://147.161.246.35:10381#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-45
-http://147.161.246.246:11452#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-46
-http://147.161.246.246:10767#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-47
-http://147.161.246.39:10230#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-49
-http://147.161.246.246:12128#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-52
-http://147.161.246.246:18080#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-54
-http://147.161.246.246:10220#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-55
-http://147.161.246.246:11706#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-57
-http://147.161.246.246:11592#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-58
-http://147.161.246.246:11143#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-60
-http://147.161.246.246:10347#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-62
-http://147.161.246.246:10130#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-63
-http://147.161.246.246:10572#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-64
-http://147.161.246.35:11692#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-65
-http://147.161.246.246:12597#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-66
-http://147.161.246.39:10833#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-67
-http://147.161.246.246:11111#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-68
-http://147.161.246.246:10757#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-70
-http://147.161.246.246:12331#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-73
-http://147.161.246.246:12323#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-74
-http://147.161.246.246:11065#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-77
-http://147.161.246.246:10284#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-78
-http://147.161.246.246:11211#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-81
-http://147.161.246.246:12070#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-83
-http://147.161.246.246:10688#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-84
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-85
-http://147.161.246.246:11407#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-87
-http://147.161.246.246:33333#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-88
-http://147.161.246.246:11017#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-90
-http://147.161.246.246:11083#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-92
-http://147.161.246.246:10755#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-94
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-96
-http://147.161.246.246:12417#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-97
-http://147.161.246.39:11826#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-99
-http://147.161.246.246:11515#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-102
-http://147.161.246.246:11745#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-108
-http://147.161.246.246:10924#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-114
-http://147.161.246.246:10811#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-118
-http://147.161.246.246:11776#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-120
-http://147.161.246.39:10771#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-123
-http://147.161.246.39:11336#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-124
-http://147.161.246.39:12298#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-125
-http://147.161.246.246:11011#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-126
-http://147.161.246.246:22222#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-127
-http://147.161.246.246:11794#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-129
-http://147.161.246.39:12232#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-132
-http://147.161.246.246:12248#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-136
+http://147.161.246.246:11680#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-5
+http://147.161.246.246:11826#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-8
+http://147.161.246.246:10819#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-10
+http://147.161.246.246:10926#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-11
+http://147.161.246.39:11314#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-12
+http://147.161.246.246:10005#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-13
+http://147.161.246.246:10433#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-14
+http://147.161.246.37:11345#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-15
+http://147.161.246.246:10803#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-16
+http://147.161.246.246:10903#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-17
+http://147.161.246.246:11703#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-18
+http://147.161.246.246:10483#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-19
+http://147.161.246.39:12555#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-20
+http://147.161.246.246:11480#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-21
+http://147.161.246.246:11273#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-23
+http://147.161.246.39:11908#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-24
+http://147.161.246.246:10289#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-26
+http://147.161.246.246:11477#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-27
+http://147.161.246.246:11484#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-28
+http://147.161.246.246:10081#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-29
+http://147.161.246.35:10381#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-30
+http://147.161.246.246:11452#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-31
+http://147.161.246.246:10767#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-32
+http://147.161.246.39:10230#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-34
+http://147.161.246.246:12128#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-35
+http://147.161.246.246:18080#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-36
+http://147.161.246.246:10220#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-37
+http://147.161.246.246:11706#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-39
+http://147.161.246.246:11592#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-40
+http://147.161.246.246:11143#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-41
+http://147.161.246.246:10347#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-42
+http://147.161.246.246:10130#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-43
+http://147.161.246.246:10572#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-44
+http://147.161.246.35:11692#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-45
+http://147.161.246.246:12597#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-46
+http://147.161.246.39:10833#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-47
+http://147.161.246.246:11111#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-48
+http://147.161.246.246:10757#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-49
+http://147.161.246.246:12331#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-51
+http://147.161.246.246:12323#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-52
+http://147.161.246.246:11065#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-54
+http://147.161.246.246:10284#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-55
+http://147.161.246.246:11211#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-58
+http://147.161.246.246:12070#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-60
+http://147.161.246.246:10688#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-61
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-62
+http://147.161.246.246:11407#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-64
+http://147.161.246.246:33333#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-65
+http://147.161.246.246:11017#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-67
+http://147.161.246.246:11083#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-69
+http://147.161.246.246:10755#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-71
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-72
+http://147.161.246.246:12417#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-73
+http://147.161.246.39:11826#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-75
+http://147.161.246.246:11515#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-76
+http://147.161.246.246:11745#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-82
+http://147.161.246.246:10924#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-86
+http://147.161.246.246:10811#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-90
+http://147.161.246.246:11776#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-91
+http://147.161.246.39:10771#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-93
+http://147.161.246.39:11336#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-94
+http://147.161.246.39:12298#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-95
+http://147.161.246.246:11011#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-96
+http://147.161.246.246:22222#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-97
+http://147.161.246.246:11794#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-99
+http://147.161.246.39:12232#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-102
+http://147.161.246.246:12248#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-105
+socks5://194.182.178.90:1080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%ACBG-83
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-185.18.250.245-0917
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&sni=138.124.70.41&host=138.124.70.41#0198 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://70ae59c1-0f16-4030-9467-b3c38102c821@138.124.89.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=hJkE2Dd6ND6gH2H2KmtAYa6GhNOiKpAotuOOKcwunyc&sid=95fbcabc662be802&sni=nl.genafast.xyz#0674 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://a6f5d58f-a04f-45dd-bf17-555d3a1e2069@138.124.252.26:443?type=xhttp&security=reality&fp=firefox&pbk=dQadA8TP5tRVF_SxqNRexInmD_oGuEGopGJ-YdG_Z24&sid=c9154b81e0169400&sni=maxiii.qiksme.com&path=/assets/js/app.9fb7bae4.js&host=maxiii.qiksme.com#1439 | 🇲🇰 North Macedonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://461a5e99-c932-449c-9516-853fd0fade7a@138.124.252.26:443?type=xhttp&security=reality&fp=firefox&pbk=dQadA8TP5tRVF_SxqNRexInmD_oGuEGopGJ-YdG_Z24&sid=c9154b81e0169400&sni=maxiii.qiksme.com&path=/assets/js/app.9fb7bae4.js&host=maxiii.qiksme.com&mode=stream-one#2722 | 🇲🇰 North Macedonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#3098 | 🇫🇷 France | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&sni=138.124.70.41&host=138.124.70.41#0220 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://70ae59c1-0f16-4030-9467-b3c38102c821@138.124.89.239:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=hJkE2Dd6ND6gH2H2KmtAYa6GhNOiKpAotuOOKcwunyc&sid=95fbcabc662be802&sni=nl.genafast.xyz#0760 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://c1208c5a-2350-4506-affd-fc41b4319286@freshoutlet.cleanfoodshop.org:443?type=ws&security=tls&fp=chrome&sni=freshoutlet.cleanfoodshop.org&host=freshoutlet.cleanfoodshop.org#1321 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://a6f5d58f-a04f-45dd-bf17-555d3a1e2069@138.124.252.26:443?type=xhttp&security=reality&fp=firefox&pbk=dQadA8TP5tRVF_SxqNRexInmD_oGuEGopGJ-YdG_Z24&sid=c9154b81e0169400&sni=maxiii.qiksme.com&path=/assets/js/app.9fb7bae4.js&host=maxiii.qiksme.com#1618 | 🇲🇰 North Macedonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://461a5e99-c932-449c-9516-853fd0fade7a@138.124.252.26:443?type=xhttp&security=reality&fp=firefox&pbk=dQadA8TP5tRVF_SxqNRexInmD_oGuEGopGJ-YdG_Z24&sid=c9154b81e0169400&sni=maxiii.qiksme.com&path=/assets/js/app.9fb7bae4.js&host=maxiii.qiksme.com&mode=stream-one#3043 | 🇲🇰 North Macedonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#3485 | 🇫🇷 France | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 https://84.72.72.153:443
 https://212.243.240.120:443
 https://194.50.94.20:8443
+http://185.191.239.248:3128
+socks5://194.182.187.78:1080
+socks5://138.124.125.198:1080
+socks5://194.182.163.117:1080
 socks5://179.237.106.243:443
+http://138.124.125.198:3128
 http://217.162.8.134:80
-http://194.182.187.78:3128
+http://185.85.111.18:80
+socks4://195.225.116.14:4145
+http://138.124.125.198:1080

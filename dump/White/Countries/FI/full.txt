@@ -1,14 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825877741
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825901463
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/09/2026 20:15:41
+# generated-at: 11/10/2026 02:51:03
 # servers-count: 5
 
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[62ms Норвегия NO 🇳🇴 @vlesstrojan]
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[144ms Норвегия NO 🇳🇴 @vlesstrojan]
-ss://V2XNET@94.237.83.139:443#[164ms UNKNOWN  @vlesstrojan]
-vless://V2XNET@94.237.83.139:443?mode=auto&path=%2Fuser&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=http#[346ms Швейцария CH 🇨🇭 @vlesstrojan]
-vless://V2XNET@94.237.83.139:443?mode=auto&path=/user&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=xhttp&allow…#6621.%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@194.113.74.166:443?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[31ms US US  @vlesstrojan]
+ss://V2XNET@94.237.83.139:443#[118ms Германия DE 🇩🇪 @vlesstrojan]
+vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[122ms Дания DK 🇩🇰 @vlesstrojan]
+vless://V2XNET@94.237.83.139:443?mode=auto&path=%2Fuser&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=http#[249ms Германия DE 🇩🇪 @vlesstrojan]
+vless://@V2XNET@94.237.83.139:443?mode=auto&path=/user&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=xhttp&allowInsecure=0&sni=3x-ui-upgrade2.seenode.app#6800.%20VLESS%20%7C%20SNI%3A%203x-ui-upgrade2.seenode.app%20%7C%20TG%3A%20%40wlrustg

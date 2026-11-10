@@ -1,17 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [EC] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825877741
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825901463
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/09/2026 20:15:41
-# servers-count: 8
+# generated-at: 11/10/2026 02:51:03
+# servers-count: 10
 
+http://177.234.217.42:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-4
 http://45.189.57.114:3129#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-12
 http://45.186.6.104:3128#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-14
-http://177.234.217.83:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-15
-http://181.188.203.40:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-25
+http://181.188.203.40:999#%5BOpenRay%5D%20%F0%9F%87%AA%F0%9F%87%A8EC-24
 http://177.234.217.85:999
-http://177.234.217.45:999
 http://45.238.57.1:3629
+http://45.175.167.65:999
 socks4://45.238.57.1:3629
+http://190.57.131.158:1080
+http://177.53.215.196:1812
