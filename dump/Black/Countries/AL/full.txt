@@ -1,14 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AL] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825901463
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825929229
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/10/2026 02:51:03
-# servers-count: 5
+# generated-at: 11/10/2026 10:33:49
+# servers-count: 9
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443# By EbraSha 🧨
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3VUVDbXo4T29jNUhseGhkdTNoNWJ3@103.167.234.75:8443# By EbraSha ♣️
+vless://d6fdf70c-2a7d-4551-8648-d3df2882cd6d@151.123.187.48:443?security=tls&flow=xtls-rprx-vision&fp=firefox&sni=mebel.dombyt.uk#1884 | 🇦🇱 Albania | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 https://134.0.63.185:443
 https://91.92.250.33:443
-http://37.26.86.206:4145
-socks4://37.26.86.206:4145
+socks4://80.78.74.8:65530
+http://185.196.182.22:8080
+http://79.106.165.246:8989
+socks4://80.78.74.66:65530
+http://79.106.44.66:2095

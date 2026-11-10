@@ -1,11 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GR] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825901463
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825929229
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/10/2026 02:51:03
-# servers-count: 2
+# generated-at: 11/10/2026 10:33:49
+# servers-count: 3
 
-vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?fp=chrome&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&security=reality&serviceName=openway_ndrl&sid=af86f23452bf025a&sni=ya.ru&type=grpc#Lite #862 @FreeCFGHub
-vless://affb10d4-3835-4b1f-b5a3-3481489911b6@83.147.255.116:443?security=tls&sni=cat.ilovezhenjiu.top&type=ws&host=cat.ilovezhenjiu.top&path=%2Fcgciws&fp=ios#Full #011 @FreeCFGHub
+vless://affb10d4-3835-4b1f-b5a3-3481489911b6@83.147.255.116:443?security=tls&sni=cat.ilovezhenjiu.top&type=ws&host=cat.ilovezhenjiu.top&path=%2Fcgciws&fp=ios#Lite #812 @FreeCFGHub
+vless://55ad002b-6cdf-4d76-81bb-91f3f605afc5@83.147.232.69:10459?fp=chrome&pbk=DrVzuibwnFFd6HX9duNcyG65JPMCiUqoJFgxkktishg&security=reality&serviceName=openway_ndrl&sid=af86f23452bf025a&sni=ya.ru&type=grpc#Lite #857 @FreeCFGHub
+vless://566f2431-4c98-484a-abaa-e29adc3b30c4@ru-m-usa1.linkey36.ru:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=www.vk.com&fp=edge&pbk=WIChHpn4hT5L-O75eF6dDuw7RtWaKlJIWx8esPraPUM&sid=#Full #3304 @FreeCFGHub
