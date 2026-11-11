@@ -1,18 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AU] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825976080
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825988609
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/10/2026 23:34:40
-# servers-count: 11
+# generated-at: 11/11/2026 03:03:29
+# servers-count: 12
 
 vless://38009570-f150-4ebd-9517-cdcb8a1e7cff@gpt-plus.vepene.site:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=BgH8ba_xaAeLa5pyvwwJp6HT7i09aNoiAsE1HgTXXkU&sid=3275b9d98d3b69fc#AetrisVPN White list ┃ ✅ SNI: api-maps.yandex.ru ┃ 🇺🇸 США
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#[60ms US US  @vlesstrojan]
-vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@178.173.248.184:443?encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#[199ms Нидерланды NL 🇳🇱 @vlesstrojan]
-vless://ded88bf9-b5f9-4e6e-8ae7-4f47f59b2c22@159.255.39.72:8443?sni=cloudflare.com&security=reality&pbk=MtMU754McD7_5uC3Ek07wCDQBVJiP1YBtWRMVDo2-x4&sid=94047b6dbce28604&fp=chrome#[200ms Франция FR 🇫🇷 @vlesstrojan]
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@82.97.248.39:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=pl-serv.maxleshax.icu&fp=firefox&pbk=FY18xudAle-yl6Z-K9DDgDzWFWdP4SkoEGYX5Uhoow0&sid=ce74a66bfa511548&serviceName=platina&mode=gun#[363ms Россия RU 🇷🇺 @vlesstrojan]
-vless://50414e45-4c5f-5a45-5553-49055dd7a227@188.253.27.191:443?encryption=none&type=ws&security=tls&sni=70zia4elut7s.tersg587ga2min.workers.Dev&fp=chrome&path=%2Fstream%2FPANEL_ZEUS%2F49055dd7a227#🇫🇷 [BL/CF] Сервер 481
+vless://ded88bf9-b5f9-4e6e-8ae7-4f47f59b2c22@159.255.39.72:8443?sni=cloudflare.com&security=reality&pbk=MtMU754McD7_5uC3Ek07wCDQBVJiP1YBtWRMVDo2-x4&sid=94047b6dbce28604&fp=chrome#[194ms Франция FR 🇫🇷 @vlesstrojan]
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@178.173.248.184:443?encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#[195ms Нидерланды NL 🇳🇱 @vlesstrojan]
+vless://0894db40-59c1-41b7-baa5-173c16f5c70d@82.97.248.39:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=pl-serv.maxleshax.icu&fp=firefox&pbk=FY18xudAle-yl6Z-K9DDgDzWFWdP4SkoEGYX5Uhoow0&sid=ce74a66bfa511548&serviceName=platina&mode=gun#[377ms Россия RU 🇷🇺 @vlesstrojan]
+vless://50414e45-4c5f-5a45-5553-38441c0ef0f0@159.255.32.80:443?security=tls&sni=lizufueiu7hs.gameworgame2.workers.Dev&alpn=http%2F1.1&fp=firefox&type=ws&path=%2Fstream%2FPANEL_ZEUS%2F38441c0ef0f0&encryption=none#🇫🇷 [BL/CF] Сервер 354
+vless://50414e45-4c5f-5a45-5553-49055dd7a227@188.253.27.191:443?encryption=none&type=ws&security=tls&sni=70zia4elut7s.tersg587ga2min.workers.Dev&fp=chrome&path=%2Fstream%2FPANEL_ZEUS%2F49055dd7a227#🇫🇷 [BL/CF] Сервер 484
 vless://247a22e1-0795-4852-9bdd-a65ac1078034@188.253.21.106:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=firefox&pbk=4JvLKnuuAs4h0cQ1j_S4SAuXQQ579D7Wr1sGBjmH-Ws&sid=73d3fec4&type=tcp&headerType=none#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@188.253.23.98:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=1&allowInsecure=1&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2%3D#1553.%20%F0%9F%87%B1%F0%9F%87%BB%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&alpn=h2%2Chttp%2F1.1&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#1569.%20%F0%9F%87%B2%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
