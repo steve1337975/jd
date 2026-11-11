@@ -1,17 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SE] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825988609
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 03:03:29
-# servers-count: 8
+# generated-at: 11/11/2026 10:45:48
+# servers-count: 12
 
-vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?type=tcp&security=tls&fp=firefox&sni=us3.shtil.io#0408 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?type=grpc&security=reality&fp=random&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&sni=www.ebay.com#0822 | 🇸🇦 Saudi Arabia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://16f3d526-8cf8-4af5-a86f-b023c5b52085@3fb2b6t.se2.h1clayd.click:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=XQWaIMBPo0mpWs3MooxxkjWNSgxnkIESd_2PnR8_2HA&sid=1061f1b1cdaad3ad&sni=3fb2b6t.se2.h1clayd.click#1271 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=connect-se.mimowhat.online#3302 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
-hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#3382 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
-vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #153 @FreeCFGHub
-vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.OoKTGnQ1ml0_msLXeuPK72_W2FqDaEZmMtS-bwqI8gg&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#Full #1969 @FreeCFGHub
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Full #2433 @FreeCFGHub
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.32:443?type=tcp&security=tls&fp=chrome&sni=connect-se.mimowhat.online&alpn=h2,http/1.1#0336 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@85.155.179.206:443?type=tcp&security=tls&fp=firefox&sni=us3.shtil.io&host=/?telegram---marambashi---marambashi---marambashi---marambashi#0392 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://f46182d1-e13b-47d3-97e2-fa5426a93e7c@45.132.75.213:2053?type=raw&security=reality&fp=qq&pbk=TpWeZocgNOygOhMo0l7oJawPu7STkn9D-SOa0UppcyY&sid=cd7e85995ae2afc9&sni=www.cloudflare.com#0657 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e332f028-d343-5b44-8016-b3130f39e133@81.208.170.142:1500?type=grpc&security=reality&fp=random&pbk=VQxVgczORkbSNdDrkNOYs6zMBINpViztTKDuWCeQsVE&sid=775eb6408888248e&sni=www.ebay.com#0799 | 🇸🇦 Saudi Arabia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://86a83d11-d751-4b60-aa4e-1dca5cff7028@us3.shtil.io:443?type=tcp&security=tls&fp=firefox&sni=us3.shtil.io&packetEncoding=none#1238 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://c82031be-e90f-4b15-ab4f-7ccef236d3ca@136.148.213.144:443?type=grpc&security=reality&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&sid=bee802ae4ab66496&sni=362c1eg.se1.h1clayd.click#1517 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+hysteria2://769f34f0-1500-488f-b414-03bc90666502@95.143.196.97:443?sni=se.mimowhat.online#2936 | 🇸🇪 Sweden | HYSTERIA2 | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://FkQH0Q5EFneySv20Qj3yoArD2GSb2XZF@95.143.196.97:443?allowInsecure=1&type=tcp&security=tls&fp=chrome&sni=connect-se.mimowhat.online#3174 | 🇸🇪 Sweden | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
+vless://---DIGIV2RAY--@185.146.173.68:2095?type=ws&host=QUENTIN--_--DiG.rad…#Lite #052 @FreeCFGHub
+vless://1c293216-de4c-42bb-8af4-711be19f94f2@136.148.213.138:443?encryption=none&fp=firefox&pbk=BLhS7fE4Yh6kAADw7yRIn2PzKun-JDagJHJNOePYRSY&security=reality&sid=bee802ae4ab66496&sni=362c1eg.se2.h1clayd.click&type=grpc#Full #1116 @FreeCFGHub
+vless://fa2406f0-e820-4954-b24e-df52012ef4a6@185.146.173.206:2095?type=httpupgrade&encryption=mlkem768x25519plus.native.0rtt.OoKTGnQ1ml0_msLXeuPK72_W2FqDaEZmMtS-bwqI8gg&path=/@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala-@cephalon_ala?ed=1024&host=war.does.not.determine.who.is.right_only.who.is.left.2.0.2.6.cEphAlon.BeauTy&security=none#Full #2143 @FreeCFGHub
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVODN1OU9HcHZTYXRJVVc3THNXZmZy@194.68.44.42:64546#Full #2630 @FreeCFGHub

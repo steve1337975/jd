@@ -1,16 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825988609
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 03:03:29
-# servers-count: 7
+# generated-at: 11/11/2026 10:45:48
+# servers-count: 9
 
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #280 @FreeCFGHub
-vless://69b578b6-6167-447d-a82c-033928da5e03@212.233.122.244:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=static.rutube.ru&pbk=1BAG3ZcDThZ_tEFyPAaxh5EfY5RyK8D8CIHplP-qXmc&sid=9a62a7103e3791eb&spx=%2F#Lite #956 @FreeCFGHub
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#Lite #1018 @FreeCFGHub
-vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1390 @FreeCFGHub
-vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1693 @FreeCFGHub
-vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#Full #3080 @FreeCFGHub
-vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#Full #3232 @FreeCFGHub
+vless://4401b8f7-4209-431b-8871-3763301987ae@kz1.sky-vault.top:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top#0538 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4401b8f7-4209-431b-8871-3763301987ae@95.57.50.157:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&sid=ae64c9b46bff174a&sni=kz1.sky-vault.top#1503 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #146 @FreeCFGHub
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#Lite #1012 @FreeCFGHub
+vless://48ec09b9-17c4-4cbb-b261-ba8423871a81@shipper.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sbrf-cdn342.ru&sid=111111#Full #1560 @FreeCFGHub
+vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1561 @FreeCFGHub
+vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1864 @FreeCFGHub
+vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#Full #3335 @FreeCFGHub
+vless://392fcc7e-b995-11f1-a6b7-1b2272a86bd5@89.218.15.90:10002?path=/vpnjantit&security=tls&encryption=none&insecure=0&host=kz1.vpnjantit.com&type=ws&allowInsecure=0&sni=kz1.vpnjantit.com#Full #3483 @FreeCFGHub

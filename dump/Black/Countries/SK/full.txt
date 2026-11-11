@@ -1,15 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825988609
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 03:03:29
-# servers-count: 6
+# generated-at: 11/11/2026 10:45:48
+# servers-count: 5
 
 https://195.146.134.204:443
 https://193.87.1.47:443
 https://193.87.1.71:443
 https://195.80.165.154:443
-http://91.217.33.161:8080
-socks4://185.98.208.98:28000
+socks4://217.145.199.45:56746

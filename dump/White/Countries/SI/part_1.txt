@@ -1,16 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SI] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825988609
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 03:03:29
-# servers-count: 7
+# generated-at: 11/11/2026 10:45:48
+# servers-count: 3
 
-vless://26dc9926-efd0-47c3-bd6c-44f9eec194b8@45.144.55.224:443?type=http&security=reality&encryption=none&pbk=9pVPjpnzx4wyhF0Fes5zDlwv5OKhLcTax4UbOQGYyDA&fp=firefox&sni=www.tradingview.com&sid=c8a03f7e51bd2496&path=%2Fapi%2Fv2%2Fsync&mode=auto#[285ms Германия DE 🇩🇪 @vlesstrojan]
-vless://50414e45-4c5f-5a45-5553-ccc0e8cd3a83@92.53.190.167:443?security=tls&type=ws&path=%2Fstream%2FPANEL_ZEUS%2Fccc0e8cd3a83&host=fgzb39ezu86s.ycz7syeeu3is.workers.dev&packetEncoding=xudp&sni=fgzb39ezu86s.ycz7syeeu3is.workers.dev&fp=unsafe&encryption=none#🇫🇷 [BL/CF] Сервер 387
+vless://26dc9926-efd0-47c3-bd6c-44f9eec194b8@45.144.55.224:443?type=http&security=reality&encryption=none&pbk=9pVPjpnzx4wyhF0Fes5zDlwv5OKhLcTax4UbOQGYyDA&fp=firefox&sni=www.tradingview.com&sid=c8a03f7e51bd2496&path=%2Fapi%2Fv2%2Fsync&mode=auto#[379ms Норвегия NO 🇳🇴 @vlesstrojan]
 vless://6897c181-24b1-4880-8660-e6c5c7ee13c7@92.60.78.221:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=pkIWxbuPAasjatPaHnAaTnCxVj1RkDFsJEWpLUTOcWY&sni=www.tradingview.com&sid=9917d2350096#[🇫🇮] [vl-re-ra] [260106-103543.225]
 vless://21f8d9aa-8ec7-4340-aa0a-7ce19f244adc@45.144.53.229:443?encryption=none&security=tls&sni=ficdn16.suio.me&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%E2%80%94%20%23261
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.188.140:80?encryption=none&security=none&fp=chrome&type=ws&host=s5.868001.xyz&path=/Telegram🇨🇳+@WangCai2#8037.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.189.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=/Telegram🇨🇳+@WangCai2#8038.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://f9255507-1b65-433f-bfd8-193b35e068e2@92.53.190.140:80?encryption=none&security=none&type=ws&host=s5.868001.xyz&path=/Telegram+@WangCai2#8039.%20VLESS%20%7C%20TG%3A%20%40wlrustg
