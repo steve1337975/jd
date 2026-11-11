@@ -1,24 +1,30 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826043063
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 10:45:48
-# servers-count: 15
+# generated-at: 11/11/2026 18:11:03
+# servers-count: 21
 
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha ♦️
-http://103.66.148.86:9999#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-8
-http://103.225.221.190:3128#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-14
-http://103.205.178.226:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-17
-http://103.158.236.132:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-22
-http://160.30.104.170:1256#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%B7KR-75
-https://110.38.225.213:443
-socks4://203.6.208.186:1080
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha 🎯
+http://203.99.54.238:8090#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-7
+socks5://182.176.111.188:1080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-12
+http://58.65.202.159:808#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-18
+http://103.162.136.23:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-23
+socks4://202.142.170.115:1080
+http://110.93.227.229:8080
+http://110.38.234.74:1256
+http://202.69.38.146:8080
+socks4://103.146.137.229:1081
+socks5://137.59.195.198:1080
+socks5://110.93.205.254:1080
+socks5://103.178.121.234:1080
+socks5://110.39.129.90:1080
+http://103.146.137.61:1081
+http://58.27.200.225:1080
+http://157.10.226.93:8080
+socks4://103.178.120.53:1080
+socks4://103.146.137.13:1081
+socks4://103.146.137.69:1081
 socks4://58.27.200.225:1080
-http://139.135.63.90:8080
-http://125.209.80.146:8080
-http://203.6.208.186:1080
-socks4://103.146.137.233:1081
-socks4://103.146.137.113:1081
-http://103.198.154.196:8080

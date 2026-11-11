@@ -1,80 +1,48 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826016348
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826043063
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 10:45:48
-# servers-count: 71
+# generated-at: 11/11/2026 18:11:03
+# servers-count: 39
 
-vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?encryption=none&fp=firefox&security=tls&serviceName=connect-pl&sni=pl2-edge.gacvpn.site&type=grpc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%2C%20Warsaw%20%7C%20%5BBL%5D
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?type=ws&security=tls&fp=chrome&sni=fs.qicai99.com&host=fs.qicai99.com#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
+vless://3f5e89d5-591f-4ac9-b071-b05680b573c3@138.124.242.46:8443?security=tls&sni=pl2-edge.gacvpn.site&type=grpc&serviceName=connect-pl#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?type=ws&security=tls&fp=chrome&sni=fs.qicai99.com&host=fs.qicai99.com#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
-vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@138.124.251.98:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09# By EbraSha ♠️
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 👑
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha ⚙️
-vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-modx-prime.storagedirectguide.com&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&type=tcp&headerType=none# By EbraSha 🔮
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=chrome&host=138.124.70.41&path=/vless&security=false&type=ws# By EbraSha 🌀
-vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🔮
-vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha 🧩
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.119.229:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F# By EbraSha ⌨️
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=login.sakhweb.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none# By EbraSha 🧊
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 🔌
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io# By EbraSha 🧩
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha 🌀
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F# By EbraSha ⚙️
-vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780# By EbraSha 🧪
-vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn5al77iPIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://1d1eda2e-0bd7-4478-877b-1c5425c6c4dd@138.124.251.98:443?security=reality&encryption=none&pbk=yr_opKG6DGTppNDXkk-DhGSYJZXbb9o-caexk2FZO38&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=tradingview.com&sid=8f3c6e2a1b5d4f09# By EbraSha 💻
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 🛜
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha ⚔️
+vless://5254c281-3bc1-40ee-ba89-1aaf8c251402@138.124.39.251:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=nl-modx-prime.storagedirectguide.com&fp=firefox&pbk=node0aB_7yyVADkeieiBBpxqIlxNLQcvgotRClh0QXQ&type=tcp&headerType=none# By EbraSha ⌨️
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=chrome&host=138.124.70.41&path=/vless&security=false&type=ws# By EbraSha 💻
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🐉
+vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha ♠️
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.119.229:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F# By EbraSha ⚙️
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=login.sakhweb.fyi&fp=chrome&pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&sid=7271129440ade8fa&type=tcp&headerType=none# By EbraSha 🔥
+vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 📶
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io# By EbraSha 🦾
+vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha 🧬
+vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F# By EbraSha 🧠
+vless://ee18d188-14cc-417e-beb1-70e4add6d023@138.124.79.6:443?security=reality&encryption=none&pbk=ydN3DRKjNC6q7JI_Zegj3hhvdHussmralsnSQGQVdws&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=node-nl-1.nztpro.com&sid=25f4a40b9fdd9780# By EbraSha 🚧
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn5ObIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#⚡ b2n.ir/v2ray-configs | 7
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
-http://147.161.246.246:10819#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-4
-http://147.161.246.39:11314#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-5
-http://147.161.246.246:10005#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-6
-http://147.161.246.246:10433#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-7
-http://147.161.246.246:10903#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-9
-http://147.161.246.39:12555#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-10
-http://147.161.246.39:11908#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-11
-http://147.161.246.246:11484#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-14
-http://147.161.246.246:10081#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-15
-http://147.161.246.39:10230#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-17
-http://147.161.246.246:12128#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-18
-http://147.161.246.246:10220#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-19
-http://147.161.246.246:10347#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-20
-http://147.161.246.246:10130#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-21
-http://147.161.246.246:10572#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-22
-http://147.161.246.246:12597#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-23
-http://147.161.246.39:10833#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-24
-http://147.161.246.246:11111#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-25
-http://147.161.246.246:12323#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-27
-http://147.161.246.246:11065#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-29
-http://147.161.246.246:11211#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-31
-http://147.161.246.246:12070#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-33
-http://147.161.246.246:10688#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-34
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-35
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-38
-http://147.161.246.246:12417#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-39
-http://147.161.246.39:11826#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-41
-http://147.161.246.246:11515#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-42
-http://147.161.246.246:10924#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-49
-http://147.161.246.246:11776#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-52
-http://147.161.246.39:10771#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-54
-http://147.161.246.39:11336#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-55
-http://147.161.246.39:12298#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-56
-http://147.161.246.39:12232#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-59
-http://147.161.246.246:12248#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-62
-trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-185.18.250.245-1029
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&sni=138.124.70.41&host=138.124.70.41#0197 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?type=ws&security=tls&fp=firefox&sni=freshoutlet.cleanfoodshop.org&host=freshoutlet.cleanfoodshop.org#1163 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#3041 | 🇫🇷 France | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
-socks4://195.225.116.15:4145
+trojan://humanity@185.18.250.252:443?insecure=0&type=ws&sni=www.calmlunch.com&fp=chrome&path=/assignment&allowInsecure=0&security=tls#🔥Join+Telegram:@Farah_VPN🟣
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?path=/fp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=138-124-86-230-sslip-io&amp;allowInsecure=0&amp;sni=138-124-86-230.sslip.io#🔥Join+Telegram:@Farah_VPN🟣
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-16
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-20
+http://@147.161.246.39:10230?tls=false#%F0%9F%87%A8%F0%9F%87%ADCH-147.161.246.39-0615
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&sni=138.124.70.41&host=138.124.70.41#0212 | 🇫🇷 France | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://c1208c5a-2350-4506-affd-fc41b4319286@138.124.63.65:443?type=ws&security=tls&fp=firefox&sni=freshoutlet.cleanfoodshop.org&host=freshoutlet.cleanfoodshop.org#1230 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&host=138.124.70.41#3229 | 🇫🇷 France | VLESS | 📺 YT | 🔐 Stable | TG: @YoutubeUnBlockRu
 https://84.72.72.153:443
 https://212.243.240.120:443
 https://194.50.94.20:8443
 http://185.191.239.248:3128
 socks5://138.124.66.203:1080
 socks5://179.237.106.243:443
-http://194.182.187.78:3128
 http://217.162.8.134:80
-http://194.182.163.117:3128
+http://138.124.66.203:1080
