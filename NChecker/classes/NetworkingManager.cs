@@ -18,8 +18,6 @@ namespace NChecker.classes
         private string[] sni_domains;
         private DatabaseReader reader;
         private MemoryStream dbMemoryStream;
-
-        // Три независимых HashSet для каждого типа подписки
         private readonly HashSet<string> _blackHashes = new HashSet<string>(StringComparer.Ordinal);
         private readonly HashSet<string> _whiteHashes = new HashSet<string>(StringComparer.Ordinal);
         private readonly HashSet<string> _universalHashes = new HashSet<string>(StringComparer.Ordinal);
