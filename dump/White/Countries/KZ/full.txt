@@ -1,15 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826043063
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826066694
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/11/2026 18:11:03
-# servers-count: 8
+# generated-at: 11/12/2026 00:44:54
+# servers-count: 10
 
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#[271ms Россия RU 🇷🇺 @vlesstrojan]
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=io.ozone.ru&security=reality&sid=d78674aac58fe1f7&fp=firefox#[289ms Россия RU 🇷🇺 @vlesstrojan]
-vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#[454ms Россия RU 🇷🇺 @vlesstrojan]
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#[372ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=io.ozone.ru&security=reality&sid=d78674aac58fe1f7&fp=firefox#[382ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#[478ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#[1206ms Швеция SE 🇸🇪 @vlesstrojan]
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@kz.vrsvpn.com:443?security=reality&encryption=none&pbk=Cfi8a4Pk4645E8ZNKIp14GW9DeNivoXYYBG2CHr6wm4&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=45ba18f116ad1f81#[1356ms Швеция SE 🇸🇪 @vlesstrojan]
 vless://5c90ba85-fa28-4437-8561-4fab86beccaa@194.110.55.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23405
 vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@82.115.43.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23406
 vless://5c90ba85-fa28-4437-8561-4fab86beccaa@77.240.39.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23410
