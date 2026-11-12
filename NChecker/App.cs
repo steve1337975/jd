@@ -15,7 +15,6 @@ namespace NChecker
         private readonly NetworkingManager networkingManager = new NetworkingManager();
         private readonly FilesManager filesManager = new FilesManager();
         private SubscriptionData[] subscriptions;
-
         internal App() { }
 
         internal async Task Start()

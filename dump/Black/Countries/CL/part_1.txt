@@ -1,17 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825381750
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826123015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 02:29:10
-# servers-count: 8
+# generated-at: 11/12/2026 16:23:35
+# servers-count: 9
 
-http://45.232.210.97:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B1CL-14
 https://200.75.11.94:443
 https://198.41.43.116:443
 https://152.230.28.131:8081
-http://45.225.206.248:999
+http://45.191.100.217:999
+http://167.249.28.73:999
 http://146.83.118.9:80
-http://45.162.132.1:999
-socks4://190.54.100.74:5678
+http://200.111.104.59:3128
+http://200.111.104.59:3129
+http://45.225.205.240:999
