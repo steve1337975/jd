@@ -1,16 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826123015
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826133453
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/12/2026 16:23:35
-# servers-count: 7
+# generated-at: 11/12/2026 19:17:33
+# servers-count: 5
 
 vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?encryption=none&flow=xtls-rprx-vision&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&security=reality&sni=nl1.kids-games.ru&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
-http://45.133.107.246:81#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B2AM-2
 https://80.86.231.109:443
 https://91.221.229.86:443
-socks4://130.193.123.34:5678
 socks5://46.226.165.82:8443
-socks5://77.105.163.11:10808
+socks4://212.34.230.102:4153
