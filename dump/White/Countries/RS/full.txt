@@ -1,10 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [RS] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826066694
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826092239
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/12/2026 00:44:54
-# servers-count: 1
+# generated-at: 11/12/2026 07:50:39
+# servers-count: 2
 
-vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@nld3.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[732ms Россия RU 🇷🇺 @vlesstrojan]
+vless://0f5c4655-aaee-4ea5-8a49-ea56516d2a60@nld3.pink-service.ru:443?type=tcp&security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&fp=chrome&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad&flow=xtls-rprx-vision#[516ms RS RS  @vlesstrojan]
+vless://26524cce-d514-4014-a426-365fb266a14d@188.255.157.136:443?encryption=none&security=tls&sni=xy1ej.stream-node-us.danfeng.qzz.io&fp=chrome&type=ws&host=xy1ej.stream-node-us.danfeng.qzz.io&path=/danfeng?ed=2560#3022.%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20%7C%20SNI%3A%20xy1ej.stream-node-us.danfeng.qzz.io%20%7C%20TG%3A%20%40wlrustg
