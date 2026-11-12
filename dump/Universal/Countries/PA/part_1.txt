@@ -1,10 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PA] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1825381751
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826123015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/04/2026 02:29:11
-# servers-count: 1
+# generated-at: 11/12/2026 16:23:35
+# servers-count: 3
 
-vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?type=tcp&security=tls&fp=chrome&sni=portal.mavexa.ir#2766 | 🇨🇭 Switzerland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://90157e25-cee1-4217-921e-91f300bc1a24@81.17.18.106:443?encryption=none&flow=xtls-rprx-vision&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&security=reality&sid=428ef87fd47a3a32&sni=81.17.18.106&type=tcp#Бесплатный VPN tg:VLESSFORU 🇨🇭
+vless://0cd42995-80ef-4f72-a4f2-104eaee82fd2@prvtch.adrtun.ru:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=firefox&spx=/&type=tcp&flow=xtls-rprx-vision&sni=multi-net.su&sid=428ef87fd47a3a32#Full #604 @FreeCFGHub
+vless://e69fd81c-c6f4-4998-afb8-42e771f2d978@179.43.138.70:443?encryption=none&fp=chrome&pbk=U682Pn1N94W72DLrimGwWyePnEeeceKC7LojBtvFgSs&security=reality&sid=82ae&sni=ethz.ch&spx=/0587890b43a7765&support-x25519mlkem768=true&type=tcp#Full #2699 @FreeCFGHub
