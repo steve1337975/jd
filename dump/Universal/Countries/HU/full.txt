@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [HU] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826092239
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826123015
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/12/2026 07:50:39
-# servers-count: 29
+# generated-at: 11/12/2026 16:23:35
+# servers-count: 28
 
 vless://6416708c-eaa5-4ec5-b652-a2db2feab875@217.13.104.154:443?type=tcp&security=reality&sni=travel.yandex.ru&fp=chrome&flow=xtls-rprx-vision&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=f85b0cdd7d20c84c#Lite #114 @FreeCFGHub
 vless://74b6eee7-898d-4f32-9987-a035210ec5e2@217.13.104.149:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&security=reality&sid=33554379411b3219&sni=travel.yandex.ru&type=tcp#Lite #144 @FreeCFGHub
@@ -35,4 +35,3 @@ vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@hu.fixcore.top:443?flow=xtls-rprx-v
 vless://00bc53ff-c447-42fd-8b85-1843985e729a@hu.fixcore.top:443?flow=xtls-rprx-vision&sni=hu.fixcore.top&security=reality&pbk=v2QTubJwfdgVG_BPLuuTyU26rOIGzNN3DuCQ_rAqR3Y&sid=d2f076a31bd9723a&spx=/&fp=chrome#Full #3061 @FreeCFGHub
 vless://163731d3-8466-4405-acdb-ccd45d971254@hu.chocolatemango.live:443?flow=xtls-rprx-vision&fp=chrome&security=tls&sni=hu.chocolatemango.live&type=tcp#Full #3122 @FreeCFGHub
 vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@cz-prg.dontblockmepls.com:2063?security=reality&encryption=none&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rusbid.de#Full #3153 @FreeCFGHub
-vless://cf1a37bc-140b-4a3a-a18c-10c9f87eaad6@hu.jojack.ru:443?security=reality&type=tcp&flow=xtls-rprx-vision&sni=hu.jojack.ru&fp=qq&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&spx=%2F&sid=4b523a98e1bbd15b#Full #3170 @FreeCFGHub
