@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826144874
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826160774
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/12/2026 22:27:54
-# servers-count: 20
+# generated-at: 11/13/2026 02:52:54
+# servers-count: 21
 
+vless://c059d2b8-d7d6-4873-b5e8-2c5f6cd908bb@138.124.14.209:443?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=X5QCQAU6PhQ0ZYdMfsOD8SzK2tAcKqGbqHcGKOCkHg0&sid=3e70d4cbb01bddfd&sni=cdn.savesafe.space&fp=firefox#Lite #052 @FreeCFGHub
 vless://6a9f6c23-2b38-4720-9305-337f494f50a4@138.124.109.158:443?type=tcp&security=reality&sni=api-maps.yandex.ru&fp=firefox&flow=xtls-rprx-vision&pbk=cttKOS1BlF-u-mvX63PWNPJK6W_RXfx1wo8yjBEt1hI&sid=a2eb8d694a5480ff#Lite #164 @FreeCFGHub
 vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=random&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=ads.x5.ru&host=ads.x5.ru#Full #115 @FreeCFGHub
 vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?type=grpc&security=tls&fp=firefox&sni=138-124-86-230.sslip.io&mode=gun&serviceName=138-124-86-230-sslip-io#Full #673 @FreeCFGHub
