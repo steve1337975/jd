@@ -1,38 +1,39 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PL] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826214366
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826233139
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 17:46:06
-# servers-count: 59
+# generated-at: 11/13/2026 22:58:59
+# servers-count: 51
 
-vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@201.4.73.21:443?encryption=none&flow=xtls-rprx-vision&headerType=none&pbk=ql7l6Vw5DFt5ZJeGE6ZxsM1kcIvZabxQVr8zkoPJoUE&security=reality&sid=8691df964f0bebcb&sni=granite-orchard.cdn.cachefleet.com&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
-vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@80.47.11.123:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=pl8.lazeroe.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?allowInsecure=1&sni=orbylume.my.to&type=ws&path=%2Ftvpn-trojan%2Fbg# By EbraSha 🧨
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&sni=orbylume.my.to&type=ws&host=orbylume.my.to&path=/tvpn-trojan/bg# By EbraSha 🎛️
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.200:443?security=reality&sni=ads.x5.ru&type=tcp&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&alpn=channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1%D0%A9%D2%96# By EbraSha 🤖
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.222:443?flow=xtls-rprx-vision&security=reality&sni=lk.vkimages.io&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&encryption=none&type=tcp# By EbraSha 🛜
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🧠
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&alpn=channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🖥️
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&amp;encryption=none&amp;pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=ads.x5.ru&amp;sid=2f49bccf11150ef2# By EbraSha 🖥️
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🧨
-vless://ad804c2d-7ce7-42e9-bb04-d689d259e484@pl10.sky-vault.top:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl10.sky-vault.top&sid=ae64c9b46bff174a# By EbraSha 🧬
-vmess://eyJhZGQiOiIxOTQuMTUuMTk2LjE3MiIsImFpZCI6NjQsImhvc3QiOiJ3d3cuODc0MTYxMzIueHl6IiwiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6eKIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiYWlkIjowLCJob3N0IjoiY2cxYzA3LndhaW1hb2pkLmNvbSIsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg8J+SuyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjZzFjMDcud2FpbWFvamQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-vmess://eyJhZGQiOiI5MS4xNDkuMjM5LjE2NSIsImFpZCI6IjAiLCJob3N0IjoiY2cxYzE0LndhaW1hb2pkLmNvbSIsImlkIjoiNTk4Mzk1ZTYtZjRlMy00NmZhLWJhODUtMGE4ZTQ4YzlkNjc3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDimaDvuI8iLCJzY3kiOiJhdXRvIiwic25pIjoiY2cxYzE0LndhaW1hb2pkLmNvbSIsInRscyI6InRscyIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJhZGQiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiaWQiOiJiZThlMzEzNi1iODc0LTQwODUtYmQyMy1lYzM2OTkzMDA0OTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCfg48iLCJzY3kiOiJhdXRvIiwic25pIjoiY2cxYzA3LndhaW1hb2pkLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?sni=orbylume.my.to&type=ws&allowInsecure=1&path=/tvpn-trojan/bg&host=orbylume.my.to#🔥Join+Telegram:@Farah_VPN🟣
+vless://fa081e9f-7574-4e18-8928-31aa5ac923c7@195.3.223.124:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=tcppl6.lazeroe.com#%F0%9F%87%B5%F0%9F%87%B1%20AetrisVPN
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?allowInsecure=1&sni=orbylume.my.to&type=ws&path=%2Ftvpn-trojan%2Fbg# By EbraSha 🚬
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&sni=orbylume.my.to&type=ws&host=orbylume.my.to&path=/tvpn-trojan/bg# By EbraSha 🚧
+vless://664f65f4-33b3-43a3-b9e5-68192d1d428e@201.4.73.21:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=ql7l6Vw5DFt5ZJeGE6ZxsM1kcIvZabxQVr8zkoPJoUE&security=reality&sid=8691df964f0bebcb&sni=granite-orchard.cdn.cachefleet.com&type=tcp# By EbraSha ♦️
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.200:443?security=reality&sni=ads.x5.ru&type=tcp&fp=chrome&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&alpn=channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1-channel%40VPNine1%D0%A9%D2%96# By EbraSha 🪖
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.222:443?flow=xtls-rprx-vision&security=reality&sni=lk.vkimages.io&fp=firefox&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2&encryption=none&type=tcp# By EbraSha 👾
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@185.32.6.47:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🛡️
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&alpn=channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1-channel@VPNine1&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🧠
+vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443?security=reality&encryption=none&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&sni=ads.x5.ru&sid=2f49bccf11150ef2# By EbraSha 🧪
+vless://ad804c2d-7ce7-42e9-bb04-d689d259e484@pl10.sky-vault.top:443?security=reality&encryption=none&pbk=_KTsOFhGnC0W28ZqO8_FApozMp7tJ9cVBTLKLAA_OR0&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=pl10.sky-vault.top&sid=ae64c9b46bff174a# By EbraSha ⌨️
+vmess://eyJhZGQiOiIxOTQuMTUuMTk2LjE3MiIsImFpZCI6NjQsImhvc3QiOiJ3d3cuODc0MTYxMzIueHl6IiwiaWQiOiI0ZDAyNDdlMC1kMWRhLTQ0NGMtOWNkYS04Y2MyMGU0ZTQ0MzUiLCJuZXQiOiJ3cyIsInBhdGgiOiIvcGF0aC8xOTEwMTkwNzI5MjciLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn5ObIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiYWlkIjowLCJob3N0IjoiY2cxYzA3LndhaW1hb2pkLmNvbSIsImlkIjoiYmU4ZTMxMzYtYjg3NC00MDg1LWJkMjMtZWMzNjk5MzAwNDkwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6NDQzLCJwcyI6IkJ5IEVicmFTaGEg8J+niiIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJjZzFjMDcud2FpbWFvamQuY29tIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vmess://eyJhZGQiOiI5MS4xNDkuMjM5LjE2NSIsImFpZCI6IjAiLCJob3N0IjoiY2cxYzE0LndhaW1hb2pkLmNvbSIsImlkIjoiNTk4Mzk1ZTYtZjRlMy00NmZhLWJhODUtMGE4ZTQ4YzlkNjc3IiwibmV0Ijoid3MiLCJwYXRoIjoiL2FwaS92MS9ncmFwaHFsIiwicG9ydCI6IjQ0MyIsInBzIjoiQnkgRWJyYVNoYSDwn6m4Iiwic2N5IjoiYXV0byIsInNuaSI6ImNnMWMxNC53YWltYW9qZC5jb20iLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJjZzFjMDcud2FpbWFvamQuY29tIiwiaWQiOiJiZThlMzEzNi1iODc0LTQwODUtYmQyMy1lYzM2OTkzMDA0OTAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXBpL3YxL2dyYXBocWwiLCJwb3J0IjoiNDQzIiwicHMiOiJCeSBFYnJhU2hhIPCflIwiLCJzY3kiOiJhdXRvIiwic25pIjoiY2cxYzA3LndhaW1hb2pkLmNvbSIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiJ9
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&encryption=none&pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=c8.qwyak.ru&sid=b2baf331493d3de1#🔥Join+Telegram:@Farah_VPN🟣
 vless://558b26f6-061b-4079-9b84-ca13b3e90ae3@191.44.108.30:443?security=reality&amp;encryption=none&amp;pbk=3pBHfffYFRPpe8Lt47cLSSgCgwNR-70blFzpEbm11AE&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=c8.qwyak.ru&amp;sid=b2baf331493d3de1#🔥Join+Telegram:@Farah_VPN🟣
-vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&type=ws&path=%2Ftvpn-tor%2Fis&host=orbylume.my.to&sni=orbylume.my.to&fp=firefox&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-363
-http://201.4.69.110:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-23
-http://201.4.64.79:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-107
+vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?security=tls&type=ws&path=%2Ftvpn-tor%2Fis&host=orbylume.my.to&sni=orbylume.my.to&fp=firefox&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-344
+http://201.4.64.226:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-122
+http://191.44.91.59:8080#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%B8US-2303
+http://185.238.238.141:58080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1PL-90
 http://@31.186.220.204:443?tls=true#%F0%9F%87%B5%F0%9F%87%B1PL-31.186.220.204-0633
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?sni=orbylume.my.to&type=ws&allowInsecure=1&path=/tvpn-trojan/bg&host=orbylume.my.to#🇩🇪213568 | ⚡️Telegram = t.me/SOSkeyNET
 vless://9cb8d71c-fe06-4402-a591-eaa1f173b890@83.168.91.16:443?security=tls&sni=pl-exit-02.10media.top&alpn=h2&fp=firefox&type=grpc&serviceName=framefeed&encryption=none#BUNKER 🤍 PREMIUM × 26 ×
-vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?type=ws&security=tls&fp=firefox&sni=orbylume.my.to&host=orbylume.my.to#0994 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?type=ws&security=tls&fp=chrome&sni=orbylume.my.to&host=orbylume.my.to#1022 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
-trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?allowInsecure=1&type=ws&sni=orbylume.my.to&host=orbylume.my.to#1644 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?allowInsecure=1&type=ws&sni=orbylume.my.to&host=orbylume.my.to#0372 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170.sslip.io:443?type=ws&security=tls&fp=chrome&sni=orbylume.my.to&host=orbylume.my.to#2417 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?type=ws&security=tls&fp=firefox&sni=orbylume.my.to&host=orbylume.my.to#3381 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://46d221fa-e9b4-748c-4eae-019a88e42991@191.44.112.170:443?sni=orbylume.my.to&peer=orbylume.my.to&security=tls#US   TROJAN-TCP-TLS  191.44.112.170
 https://94.246.130.82:443
 https://79.188.239.47:8443
 https://79.188.239.40:8443
@@ -42,6 +43,7 @@ https://79.133.217.237:443
 https://79.133.217.233:443
 https://94.246.130.82:5443
 https://213.241.124.228:443
+https://79.188.239.46:8443
 https://79.133.217.236:443
 https://79.188.239.41:8443
 https://185.96.121.243:9443
@@ -53,16 +55,6 @@ https://83.13.36.250:443
 https://178.248.73.58:443
 https://46.170.93.122:443
 https://193.25.2.239:443
-socks5://91.202.5.45:1080
-http://201.7.31.60:8080
-http://201.4.69.46:8080
-http://217.113.235.181:443
-http://185.32.4.110:4153
-http://185.32.4.126:4153
-socks4://77.65.50.118:34159
-socks4://185.79.243.153:38431
-socks4://31.42.2.113:5678
+http://79.110.200.27:8000
+http://185.49.31.205:8080
 socks4://91.150.189.122:1080
-socks4://46.171.28.162:59311
-http://185.32.4.102:4153
-http://82.139.141.206:8080

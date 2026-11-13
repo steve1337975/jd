@@ -1,19 +1,21 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CO] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826214366
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826233139
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 17:46:06
-# servers-count: 10
+# generated-at: 11/13/2026 22:58:59
+# servers-count: 12
 
-http://186.31.135.203:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-50
-http://45.65.137.218:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-62
-http://179.1.196.134:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-104
-http://201.184.60.20:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-109
+http://190.14.238.172:999#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-6
+http://131.100.50.158:3128#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%B4CO-17
 http://190.71.72.85:2525
-http://45.167.125.4:999
-http://191.102.109.18:999
-http://45.173.7.10:999
-socks4://181.57.178.146:1080
-http://181.143.59.140:4153
+http://200.118.238.71:8080
+http://181.205.207.66:1080
+http://181.49.100.190:8080
+http://191.102.82.83:4153
+http://201.184.239.75:5678
+socks4://181.143.59.140:4153
+http://181.48.243.194:4153
+http://181.204.81.179:999
+socks4://181.205.207.66:1080

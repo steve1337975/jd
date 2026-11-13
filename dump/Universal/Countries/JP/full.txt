@@ -1,14 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [JP] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826214366
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826233139
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 17:46:06
-# servers-count: 5
+# generated-at: 11/13/2026 22:58:59
+# servers-count: 3
 
 vless://258d8fc5-206c-48fd-88df-169dbbe44d3f@103.24.207.39:444?security=reality&sni=vextor.win&fp=random&pbk=P7F65GjTQGZju-N8CVHtlKNaWebVe_76Xt7Lm00RuH0&flow=xtls-rprx-vision&type=tcp&headerType=none&host=vextor.win&path=%2F&encryption=none#BUNKER Free × 73 ×
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@103.201.131.202:2053?security=tls&type=ws&sni=jp3.yohototo.top&path=%2Ftyxyws&host=jp3.yohototo.top#Full #886 @FreeCFGHub
-vless://fbc9d7c1-2518-4dd8-a50a-d1d7fa1ec84d@cz.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=cso-krokus.su&sid=428ef87fd47a3a32#Full #1548 @FreeCFGHub
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#Full #2762 @FreeCFGHub
-vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3552 @FreeCFGHub
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@158.247.253.243:443?security=tls&sni=connectgraduateswithjobopeningsandgrowprofessionally.com#Full #3183 @FreeCFGHub
+vless://7b5c04b1-3434-4074-86c0-542e8f41b609@kr-1.vpnd.io:54989?encryption=none&flow=xtls-rprx-vision&security=reality&sni=yahoo.com&fp=chrome&pbk=LLES0IAfo_RVa9zzX8oVqe-M_D4iBHYk2jG-2IcClxU&sid=82ac&type=tcp&headerType=none#Full #3326 @FreeCFGHub
