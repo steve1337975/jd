@@ -1,17 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826160773
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826187039
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 02:52:53
-# servers-count: 8
+# generated-at: 11/13/2026 10:10:39
+# servers-count: 13
 
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha 🧬
-http://110.39.41.11:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-11
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha 📱
+http://163.61.129.192:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-15
+socks4://103.225.221.18:5678
 https://110.38.225.213:443
-socks5://110.93.199.114:1080
-socks5://182.184.30.96:1080
-socks5://175.107.30.126:1080
+http://103.253.18.6:8080
+socks5://203.99.54.238:1080
+socks5://110.38.233.122:1080
 http://202.141.230.146:8080
-http://125.209.110.83:1981
+http://58.27.200.225:1080
+http://209.150.151.90:1080
+http://103.146.137.157:1081
+socks4://119.73.125.55:1080
+socks4://58.27.200.225:1080

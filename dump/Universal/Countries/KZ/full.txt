@@ -1,14 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826160774
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826187039
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 02:52:54
-# servers-count: 5
+# generated-at: 11/13/2026 10:10:39
+# servers-count: 7
 
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #277 @FreeCFGHub
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#Lite #1012 @FreeCFGHub
-vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1228 @FreeCFGHub
-vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1531 @FreeCFGHub
-vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#Full #3068 @FreeCFGHub
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #094 @FreeCFGHub
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#Lite #1029 @FreeCFGHub
+vless://c059d2b8-d7d6-4873-b5e8-2c5f6cd908bb@213.155.23.228:443?encryption=none&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&fp=firefox&host=static.savesafe.kz&pbk=tHojxb7q7TpXTh2YebrSpAZ2a1_N8GUh1L-pWnSR_RE&security=reality&sid=f3ae2acc13964946&sni=static.savesafe.kz&type=xhttp#Full #959 @FreeCFGHub
+vless://48ec09b9-17c4-4cbb-b261-ba8423871a81@shipper.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sbrf-cdn342.ru&sid=111111#Full #1375 @FreeCFGHub
+vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1376 @FreeCFGHub
+vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1679 @FreeCFGHub
+vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#Full #3178 @FreeCFGHub
