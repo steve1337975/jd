@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TR] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826233139
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826247582
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 22:58:59
-# servers-count: 25
+# generated-at: 11/14/2026 02:59:42
+# servers-count: 27
 
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?flow=xtls-rprx-vision&fp=chrome&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&security=reality&sid=4be4110078ebed4a&sni=nl2.balancer.vbuste-bot.com&type=tcp#t.me%2Ffreekesha21 - 230 %F0%9F%87%B3%F0%9F%87%B1
 vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#[150ms TR TR  @vlesstrojan]
@@ -26,9 +26,11 @@ vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=realit
 vless://450b6c85-bd42-45da-abcd-f76e1376e6a4@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#[394ms TR TR  @vlesstrojan]
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=9c2378562188c3cb#[431ms Польша PL 🇵🇱 @vlesstrojan]
 vless://00bc53ff-c447-42fd-8b85-1843985e729a@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=03VFV2maO6b4nfYp-iVym8Ywm5d9YgIEU_5S_jXlHm0&sid=cc4da971c2d1c6e8&spx=/&fp=chrome#[1302ms Польша PL 🇵🇱 @vlesstrojan]
+vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#[1416ms TR TR  @vlesstrojan]
 vless://00bc53ff-c447-42fd-8b85-1843985e729a@plx1.fixpr.top:443?sni=plx1.fixpr.top&alpn=h3%2Ch2%2Chttp/1.1&security=tls&fp=chrome#[1595ms Польша PL 🇵🇱 @vlesstrojan]
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#1333.%20%F0%9F%87%B8%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%20www.datadoghq.com%20%7C%20TG%3A%20%40wlrustg
-trojan://humanity@213.238.182.13:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#2962.%20TROJAN%20%7C%20SNI%3A%20www.cordweave.com%20%7C%20TG%3A%20%40wlrustg
-vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#3213.%20VLESS%20%7C%20SNI%3A%20amp-api-edge.apps.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#3454.%20VLESS%20%7C%20SNI%3A%20www.datadoghq.com%20%7C%20TG%3A%20%40wlrustg
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#6036.%20VLESS%20%7C%20SNI%3A%20abuse.ozon.ru%20%7C%20TG%3A%20%40wlrustg
+vless://25e16692-d097-4e69-9e2d-8415609c1968@78.135.73.47:443?security=reality&encryption=none&pbk=sZAJkAu23wp1WKY-qeaeiwR38izP5OyfhumoE9xhbB8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision-udp443&sni=www.datadoghq.com&sid=f46cd3ea3d1eb72d#4015.%20%F0%9F%87%B8%F0%9F%87%A6%20VLESS%20%7C%20SNI%3A%20www.datadoghq.com%20%7C%20TG%3A%20%40wlrustg
+trojan://humanity@213.238.182.13:443?sni=www.cordweave.com&type=ws&path=/assignment&host=www.cordweave.com#5627.%20TROJAN%20%7C%20SNI%3A%20www.cordweave.com%20%7C%20TG%3A%20%40wlrustg
+vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#5876.%20VLESS%20%7C%20SNI%3A%20amp-api-edge.apps.apple.com%20%7C%20TG%3A%20%40wlrustg
+vless://272873a7-b0aa-47b0-81a3-c78c60d78dde@93.190.9.142:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#6132.%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://272873a7-b0aa-47b0-81a3-c78c60d78dde@93.190.9.149:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#6133.%20%F0%9F%87%AC%F0%9F%87%AA%20VLESS%20%7C%20TG%3A%20%40wlrustg
+vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#8737.%20VLESS%20%7C%20SNI%3A%20abuse.ozon.ru%20%7C%20TG%3A%20%40wlrustg

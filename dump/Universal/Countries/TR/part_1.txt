@@ -1,30 +1,29 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TR] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826233139
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826247582
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/13/2026 22:58:59
-# servers-count: 21
+# generated-at: 11/14/2026 02:59:42
+# servers-count: 20
 
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@nl2.balancer.vbuste-bot.com:443?security=reality&sni=nl2.balancer.vbuste-bot.com&fp=firefox&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a&flow=xtls-rprx-vision&type=tcp&headerType=none&encryption=none#BUNKER Free × 36 ×
-vless://8ed234a6-e129-442c-a482-aae569c3834f@93.190.9.97:3090?encryption=none&security=none&type=grpc&serviceName=vless&mode=multi#Full #2358 @FreeCFGHub
-vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2488 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995#Full #2516 @FreeCFGHub
-vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Full #2625 @FreeCFGHub
-vless://2f5cfa10-43e5-4912-800d-557308a26a29@194.93.63.195:443?security=reality&encryption=none&pbk=xwk6v2Cia-x2zdam-mTeqb5V0iH-FXBOW2h5Pm0HpXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=6wysmlgy3go6.cloudydigital.net&sid=4118d00d2a61b755#Full #2871 @FreeCFGHub
-vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb#Full #2902 @FreeCFGHub
-vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=dJdp55YwY9Gnb3fp8IbjFkvomIEV1HXtrXc-AJIGOx8&sid=ac4c53a3ff6613e1&spx=/&fp=chrome#Full #2927 @FreeCFGHub
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=03VFV2maO6b4nfYp-iVym8Ywm5d9YgIEU_5S_jXlHm0&sid=cc4da971c2d1c6e8&spx=/&fp=chrome#Full #2931 @FreeCFGHub
-vless://00bc53ff-c447-42fd-8b85-1843985e729a@plx1.fixpr.top:443?sni=plx1.fixpr.top&alpn=h3%2Ch2%2Chttp/1.1&security=tls&fp=chrome#Full #2934 @FreeCFGHub
-vless://626c164d-f1d9-4f93-82e6-f4bfd7658a83@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2952 @FreeCFGHub
-vless://c2505cc0-a451-49a2-94df-6eaaf0217b0b@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#Full #2955 @FreeCFGHub
-vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2956 @FreeCFGHub
-vless://084f73fd-4a2f-4d76-a26a-a51d738f35d6@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2957 @FreeCFGHub
-vless://450b6c85-bd42-45da-abcd-f76e1376e6a4@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2958 @FreeCFGHub
-vless://4d8a04a5-908d-4c5e-8cc9-a545e7378c4a@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#Full #2959 @FreeCFGHub
-vless://232b90ca-1111-4b42-9544-07be1c12d9bb@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2964 @FreeCFGHub
-vless://ea1dfd55-0ff7-4e42-970b-fb2725b1d7db@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2966 @FreeCFGHub
-vless://ebd0fa91-8d2e-4144-9e1b-28ef324c19ad@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2975 @FreeCFGHub
-vless://8b5f947d-a567-4e86-a08e-39b7a3de7f2b@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #2983 @FreeCFGHub
-vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#Full #3358 @FreeCFGHub
+vless://7d5cdbb1-9632-483a-9b50-27932cfa9390@188.132.174.14:24?security=none&encryption=mlkem768x25519plus.native.0rtt.ANymG3pbNTc9XneprZhNvxHRz5_PxHksy0egsbnZXFA&host=play.google.com&headerType=http&type=tcp#Full #2736 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206T1dKak1UVXdOVE5tWmpobFpqazJPRE5qWWpCaVpqUmlOelJsTTJaag@istanbul07.npvnot.com:995#Full #2761 @FreeCFGHub
+vless://6845a59f-970b-4e1e-8e26-06a34ee663d6@185.98.63.6:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com#Full #2920 @FreeCFGHub
+vless://2f5cfa10-43e5-4912-800d-557308a26a29@194.93.63.195:443?security=reality&encryption=none&pbk=xwk6v2Cia-x2zdam-mTeqb5V0iH-FXBOW2h5Pm0HpXM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=6wysmlgy3go6.cloudydigital.net&sid=4118d00d2a61b755#Full #3058 @FreeCFGHub
+vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=dJdp55YwY9Gnb3fp8IbjFkvomIEV1HXtrXc-AJIGOx8&sid=ac4c53a3ff6613e1&spx=/&fp=chrome#Full #3112 @FreeCFGHub
+vless://4d8a04a5-908d-4c5e-8cc9-a545e7378c4a@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#Full #3231 @FreeCFGHub
+vless://ea1dfd55-0ff7-4e42-970b-fb2725b1d7db@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3243 @FreeCFGHub
+vless://011d2d7b-621c-4640-ac85-4bbe626d8db0@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3262 @FreeCFGHub
+vless://c2505cc0-a451-49a2-94df-6eaaf0217b0b@185.227.137.69:443?security=reality&encryption=none&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.digiturunc.com&sid=d211e464747fdf2c#Full #3277 @FreeCFGHub
+vless://232b90ca-1111-4b42-9544-07be1c12d9bb@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3282 @FreeCFGHub
+vless://626c164d-f1d9-4f93-82e6-f4bfd7658a83@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3283 @FreeCFGHub
+vless://ebd0fa91-8d2e-4144-9e1b-28ef324c19ad@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3292 @FreeCFGHub
+vless://8b5f947d-a567-4e86-a08e-39b7a3de7f2b@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3307 @FreeCFGHub
+vless://084f73fd-4a2f-4d76-a26a-a51d738f35d6@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3318 @FreeCFGHub
+vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pl.bubahero.com&sid=9c2378562188c3cb#Full #3319 @FreeCFGHub
+vless://450b6c85-bd42-45da-abcd-f76e1376e6a4@185.227.137.69:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.digiturunc.com&fp=chrome&pbk=D0XU_vaxhJewIPzWLbXIVHfoq68Jcu48HUp9I4r30xU&sid=d211e464747fdf2c#Full #3379 @FreeCFGHub
+vless://00bc53ff-c447-42fd-8b85-1843985e729a@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=03VFV2maO6b4nfYp-iVym8Ywm5d9YgIEU_5S_jXlHm0&sid=cc4da971c2d1c6e8&spx=/&fp=chrome#Full #3664 @FreeCFGHub
+vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#Full #3671 @FreeCFGHub
+vless://00bc53ff-c447-42fd-8b85-1843985e729a@plx1.fixpr.top:443?sni=plx1.fixpr.top&alpn=h3%2Ch2%2Chttp/1.1&security=tls&fp=chrome#Full #3681 @FreeCFGHub
