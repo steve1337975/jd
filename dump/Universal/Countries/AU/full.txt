@@ -1,13 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AU] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826296186
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826312180
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 16:29:46
-# servers-count: 4
+# generated-at: 11/14/2026 20:56:20
+# servers-count: 2
 
-vless://38009570-f150-4ebd-9517-cdcb8a1e7cff@gpt-plus.vepene.site:443?security=reality&type=tcp&headerType=&path=&host=&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&pbk=BgH8ba_xaAeLa5pyvwwJp6HT7i09aNoiAsE1HgTXXkU&sid=3275b9d98d3b69fc#Lite #106 @FreeCFGHub
-vless://ded88bf9-b5f9-4e6e-8ae7-4f47f59b2c22@159.255.39.72:8443?sni=cloudflare.com&security=reality&pbk=MtMU754McD7_5uC3Ek07wCDQBVJiP1YBtWRMVDo2-x4&sid=94047b6dbce28604&fp=chrome#Full #3145 @FreeCFGHub
-vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@178.173.248.184:443?encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#Full #3151 @FreeCFGHub
-vless://0894db40-59c1-41b7-baa5-173c16f5c70d@82.97.248.39:8443?type=grpc&headerType=none&security=reality&encryption=none&sni=pl-serv.maxleshax.icu&fp=firefox&pbk=FY18xudAle-yl6Z-K9DDgDzWFWdP4SkoEGYX5Uhoow0&sid=ce74a66bfa511548&serviceName=platina&mode=gun#Full #3637 @FreeCFGHub
+vless://beab408c-6aa3-43b9-a1ca-e6fabba5d8e7@178.173.248.184:443?encryption=none&flow=xtls-rprx-vision&pbk=rTp9PEn36FtQFu32jWAPO3r-e1W2px3RGSuhR-L1DVM&security=reality&sni=yahoo.com&type=tcp#Full #3107 @FreeCFGHub
+vless://ded88bf9-b5f9-4e6e-8ae7-4f47f59b2c22@159.255.39.72:8443?sni=cloudflare.com&security=reality&pbk=MtMU754McD7_5uC3Ek07wCDQBVJiP1YBtWRMVDo2-x4&sid=94047b6dbce28604&fp=chrome#Full #3124 @FreeCFGHub

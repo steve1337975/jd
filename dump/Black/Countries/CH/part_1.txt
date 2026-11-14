@@ -1,46 +1,49 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CH] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826296186
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826312179
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 16:29:46
-# servers-count: 37
+# generated-at: 11/14/2026 20:56:19
+# servers-count: 40
 
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?security=tls&fp=firefox&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome&encryption=none#%F0%9F%87%AB%F0%9F%87%AE%20AetrisVPN
-vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
 vless://db80088c-32a1-4cb8-a907-0f3cb7844152@se1.japancase.site:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=qq&pbk=zEntiD6D81wY__YHPvIw78e09CBIgYkyQ5meIo7c_hg&sid=41ae8e266bc3346f&sni=se1.japancase.site#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
-vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 🛰️
-vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha 🧲
-vless://4b50270b-5caf-4c34-b3da-17b4525604a6@83.228.207.179:443?path=%2Fapi%2Fde3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cryptoventura.online&fp=firefox&type=ws&allowInsecure=0&sni=cryptoventura.online# By EbraSha 🛰️
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=unsafe&host=138.124.70.41&path=%2Fvless&security=none&sni=138.124.70.41&type=ws# By EbraSha 🚨
-vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🤖
-vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha ⛓️
+vless://b2fe1fa4-6a79-4938-a3f4-63b54ae7f16b@138.124.86.230:48115?mode=gun&security=tls&encryption=none&insecure=0&fp=chrome&type=grpc&serviceName=138-124-86-230-sslip-io&allowInsecure=0&sni=138-124-86-230.sslip.io#%F0%9F%87%B8%F0%9F%87%AA%20AetrisVPN
+vless://2ee26119-94e5-40b4-ba3a-16354021b600@185.18.250.127:2096?encryption=none&type=ws&security=tls&path=%2Fgraphql&host=69565ce3109804e7813f98ee.mmdbay.blog&sni=69565ce3109804e7813f98ee.mmdbay.blog&alpn=h2%2Chttp%2F1.1&fp=chrome&allowInsecure=0# By EbraSha 🖥️
+vless://329e13e4-ee7c-4802-ac72-5fcab79c2402@45.148.119.127:443?type=tcp&headerType=none&security=reality&encryption=none&sni=cloudflare.com&fp=firefox&pbk=pOHbbyo_PlUwH4DjC6bKvC3jB8RPnCdu-nL8trAP8CI&sid=50&flow=xtls-rprx-vision# By EbraSha 📶
+vless://4b50270b-5caf-4c34-b3da-17b4525604a6@83.228.207.179:443?path=%2Fapi%2Fde3%2Flive&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=cryptoventura.online&fp=firefox&type=ws&allowInsecure=0&sni=cryptoventura.online# By EbraSha 📛
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?fp=unsafe&host=138.124.70.41&path=%2Fvless&security=none&sni=138.124.70.41&type=ws# By EbraSha 📟
+vless://727a9178-d7f0-4142-8205-b0d19959ded0@138.124.245.102:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=bol.com&pbk=yyXZsa238GRW90w5DweXAdRTtVSuK9oZF_dihKQ41So&sid=9e5a335de26d1f5a&fp=edge# By EbraSha 🧩
+vless://81684c3f-2b47-4ba1-a327-870b0aab8f1c@Xn--Om2b20CM8CL2dp0Cc0tqLA.logoSETi.iR:2087?path=%2F%40vilyshco%2Fed%3D1024&security=tls&alpn=h2%2Chttp%2F1.1&encryption=mlkem768x25519plus.native.0rtt.sqSgXr7QG1hLNkFvy0Z2TNmYcvncg3s3SMOTdcqn-SI&insecure=0&host=D1.loGoSeti.iR&fp=firefox&type=ws&allowInsecure=0&sni=D1.loGoSeti.iR# By EbraSha 🕶️
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.124.157:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome# By EbraSha 🕷️
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2F# By EbraSha 🛜
-vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&type=tcp&sid=7271129440ade8fa&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&headerType=none&encryption=none# By EbraSha 🧩
-vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@i9opm01r3dlmnajh.customer.velacdn.com:2053?mode=auto&path=/api/v1/video/chunk&security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&fp=chrome&spx=/api/v1/video/chunk&type=xhttp&sni=i9opm01r3dlmnajh.customer.velacdn.com&sid=8096b8ec0b504d8f# By EbraSha ♠️
-vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@lywd3zccl0w7a4ih.customer.velacdn.com:443?security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=%2F%3FTelegram---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP---%40pirozi_ArGaP&headerType=none&fp=firefox&spx=%2Fapi%2Fv1%2Fvideo%2Finit&type=tcp&flow=xtls-rprx-vision&sni=lywd3zccl0w7a4ih.customer.velacdn.com&sid=f3bc3272312b46e9# By EbraSha 🗿
-vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:2053?mode=auto&path=/api/v1/video/chunk&security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&fp=chrome&spx=/api/v1/video/chunk&type=xhttp&sni=i9opm01r3dlmnajh.customer.velacdn.com&sid=8096b8ec0b504d8f# By EbraSha 🌃
-vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 🌃
-vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha ⚡
-vless://e57ce64d-5a1a-4a90-96df-9e1bd3ad26e4@138.124.125.193:10444?&security=reality&flow=xtls-rprx-vision&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&fp=chrome&sni=ads.x5.ru&type=tcp&headerType=none&path=%2F# By EbraSha ⚙️
-vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn6eyIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
-trojan://humanity@185.18.250.252:443?insecure=0&type=ws&sni=www.calmlunch.com&fp=chrome&path=/assignment&allowInsecure=0&security=tls#🔥Join+Telegram:@Farah_VPN🟣
-vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://9c794bb7-54fe-4acd-844a-a26209af36c3@138.124.4.224:443?pbk=13nLTYkdBEFR-A4CfK2beOx-5LKEsXh1QHPq8Kt52BQ&type=tcp&sid=7271129440ade8fa&security=reality&fp=firefox&flow=xtls-rprx-vision&sni=login.sakhweb.fyi&headerType=none&encryption=none# By EbraSha 🌀
+vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@i9opm01r3dlmnajh.customer.velacdn.com:2053?mode=auto&path=/api/v1/video/chunk&security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&fp=chrome&spx=/api/v1/video/chunk&type=xhttp&sni=i9opm01r3dlmnajh.customer.velacdn.com&sid=8096b8ec0b504d8f# By EbraSha 🃏
+vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@lywd3zccl0w7a4ih.customer.velacdn.com:443?security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@VPNine1---@VPNine1---@VPNine1---@VPNine1&headerType=none&fp=chrome&spx=/api/v1/video/init&type=tcp&flow=xtls-rprx-vision&sni=lywd3zccl0w7a4ih.customer.velacdn.com&sid=f3bc3272312b46e9# By EbraSha 👑
+vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:2053?mode=auto&path=/api/v1/video/chunk&security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24---@iranping24//&fp=chrome&spx=/api/v1/video/chunk&type=xhttp&sni=i9opm01r3dlmnajh.customer.velacdn.com&sid=8096b8ec0b504d8f# By EbraSha 🐉
+vless://a5a8ffd9-17b9-000b-840d-bb69289f94fc@138.124.254.181:443?security=reality&encryption=none&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&host=/?Telegram---@VPNine1---@VPNine1---@VPNine1---@VPNine1&headerType=none&fp=chrome&spx=/api/v1/video/init&type=tcp&flow=xtls-rprx-vision&sni=lywd3zccl0w7a4ih.customer.velacdn.com&sid=f3bc3272312b46e9# By EbraSha 🔮
+vless://a74099c6-2d46-42f7-b117-cc7ffaf09e63@139.28.98.115:443?security=reality&encryption=none&pbk=uMDJI4EuoKDaY6cCu26RACdCtBnN9DFq0JyhEZMdGhg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com# By EbraSha 📱
+vless://bbfd1f68-ec64-452f-8404-9e2bcf1df951@138.124.60.146:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=mJ-0fJDvKp0rhuyUvs1bw4RasRRM-BEOAl9iAZ8gXy0&security=reality&sni=usa.oblaco.bet&type=tcp# By EbraSha 🔮
+vmess://eyJhZGQiOiIxODUuMTguMjUwLjcwIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJiM2EyMWRlZi01ZmNjLTQ3YTgtYTZhMC1hMzRlMjlkNTI4OGEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzNTEwNjgiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn4yQIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
 vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.252:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
+trojan://humanity@185.18.250.252:443?path=/assignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🔥Join+Telegram:@Farah_VPN🟣
+vless://17540a16-a0dd-5694-7e1e-14e281ccc032@185.18.250.245:443?path=/@JavidnamanIran/Javid-SHAH-KingRezaPahlavi/&security=tls&encryption=none&insecure=0&host=crm.lotussec.com&type=ws&allowInsecure=0&sni=crm.lotussec.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&type=ws&allowInsecure=0&sni=fs.qicai99.com#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AASE-1
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-26
-vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-29
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?security=none&type=ws&path=%2Fvless&host=138.124.70.41&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-27
+vless://6cc745e3-4eb9-46c8-a4a1-85dee7b87edc@138.124.70.41:14430?type=ws&security=none&path=%2Fvless#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%ADCH-30
 trojan://humanity@185.18.250.245:443?security=tls&sni=www.calmlunch.com&type=ws&path=/assignment&Host=www.calmlunch.com#%F0%9F%8F%81RELAY-185.18.250.245-0977
-vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@138.124.254.116:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9&sni=lywd3zccl0w7a4ih.customer.velacdn.com#0644 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://a5a8ffd9-17b9-0009-840d-bb69289f94fc@138.124.254.116:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9&sni=lywd3zccl0w7a4ih.customer.velacdn.com#0925 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://a5a8ffd9-17b9-000a-840d-bb69289f94fc@138.124.254.116:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9&sni=lywd3zccl0w7a4ih.customer.velacdn.com#0689 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://a5a8ffd9-17b9-0009-840d-bb69289f94fc@138.124.254.116:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=iKYXOJoOvOk71UnjIzyEj502_nBalSNLJRWjKTf1fQc&sid=f3bc3272312b46e9&sni=lywd3zccl0w7a4ih.customer.velacdn.com#0984 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@138.124.49.108:8443?#%F0%9F%87%AB%F0%9F%87%AE%5Bwww.v2nodes.com%5D%20vless-FI-1...%20%238
 https://84.72.72.153:443
 https://212.243.240.120:443
 https://217.192.241.88:443
 http://185.85.111.18:80
-http://147.161.138.13:11724
 socks5://194.182.187.78:1080
 socks5://138.124.125.198:1080
+socks5://194.182.163.117:1080
 socks5://179.237.106.243:443
-http://194.182.187.78:1080
+http://138.124.125.198:1080
 http://194.182.178.90:3128
+http://217.162.8.134:80
+http://185.191.239.248:3128
