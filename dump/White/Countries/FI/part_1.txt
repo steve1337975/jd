@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [FI] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826247582
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826272649
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 02:59:42
-# servers-count: 4
+# generated-at: 11/14/2026 09:57:29
+# servers-count: 3
 
-vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[120ms Дания DK 🇩🇰 @vlesstrojan]
-vless://V2XNET-V2XNET@94.237.83.139:443?mode=auto&path=%2Fuser&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=http&allowInsecure=0&sni=3x-ui-upgrade2.seenode.app#[242ms Германия DE 🇩🇪 @vlesstrojan]
-vless://510e8bc2-020c-412a-9caa-b036031268e8@80.47.229.187:443?encryption=none&fp=firefox&host=5674-4.seenode.app&path=%2Fapi%2Fv1%2Flive&security=tls&sni=5674-4.seenode.app&type=ws#🇩🇪 [BL] Сервер 495
-vless://V2XNET-V2XNET@94.237.83.139:443?mode=auto&path=/user&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=xhttp&allowInsecure=0&sni=3x-ui-upgrade2.seenode.app#7612.%20VLESS%20%7C%20SNI%3A%203x-ui-upgrade2.seenode.app%20%7C%20TG%3A%20%40wlrustg
+vless://awlix_ir@87.58.159.20:443?encryption=mlkem768x25519plus.native.0rtt.CCIZgZeeCX8na60UXi9II-iduj3OFxtj-fuh_4AWiUU&security=none&type=tcp#[105ms Дания DK 🇩🇰 @vlesstrojan]
+vless://V2XNET-V2XNET@94.237.83.139:443?mode=auto&path=%2Fuser&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=http&allowInsecure=0&sni=3x-ui-upgrade2.seenode.app#[218ms Германия DE 🇩🇪 @vlesstrojan]
+vless://V2XNET-V2XNET@94.237.83.139:443?mode=auto&path=/user&security=tls&alpn=h3,h2,http/1.1&encryption=none&extra={"mode":"auto","xPaddingBytes":"100-1000"}&insecure=0&host=3x-ui-upgrade2.seenode.app&fp=chrome&type=xhttp&allowInsecure=0&sni=3x-ui-upgrade2.seenode.app#5154.%20VLESS%20%7C%20SNI%3A%203x-ui-upgrade2.seenode.app%20%7C%20TG%3A%20%40wlrustg

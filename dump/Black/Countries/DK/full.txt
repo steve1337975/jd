@@ -1,13 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [DK] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826247582
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826272649
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 02:59:42
-# servers-count: 4
+# generated-at: 11/14/2026 09:57:29
+# servers-count: 5
 
-vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp# By EbraSha 🧠
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?encryption=none&fp=&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&security=reality&sid=a1b2c3d4&sni=www.samsung.com&type=tcp# By EbraSha ⚙️
+vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@2.59.183.167:443?sni=www.samsung.com&fp=chrome&security=tls#%F0%9F%8F%B3%5Bwww.v2nodes.com%5D%20vless-%20%2315
 https://87.238.253.66:443
-socks5://185.147.72.168:1081
 http://194.150.110.134:80
+socks5://185.147.72.168:1081

@@ -1,19 +1,15 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826247582
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826272649
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 02:59:42
-# servers-count: 10
+# generated-at: 11/14/2026 09:57:29
+# servers-count: 6
 
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#[316ms Россия RU 🇷🇺 @vlesstrojan]
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=io.ozone.ru&security=reality&sid=d78674aac58fe1f7&fp=firefox#[319ms Россия RU 🇷🇺 @vlesstrojan]
-vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#[428ms Россия RU 🇷🇺 @vlesstrojan]
-vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#[847ms KZ KZ  @vlesstrojan]
-vless://20d56ff9-359e-4983-9b04-6402e9ebce08@213.155.23.228:443?encryption=none&type=xhttp&security=reality&pbk=tHojxb7q7TpXTh2YebrSpAZ2a1_N8GUh1L-pWnSR_RE&sid=f3ae2acc13964946&sni=static.savesafe.kz&fp=firefox&path=%2F&mode=auto&host=static.savesafe.kz&extra=%7B%22xmux%22%3A%7B%22cMaxReuseTimes%22%3A0%2C%22maxConcurrency%22%3A%2216-32%22%2C%22maxConnections%22%3A0%2C%22hKeepAlivePeriod%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%7D%2C%22noGRPCHeader%22%3Afalse%2C%22xPaddingBytes%22%3A%22100-1000%22%2C%22scMaxEachPostBytes%22%3A1000000%2C%22scMinPostsIntervalMs%22%3A30%2C%22scStreamUpServerSecs%22%3A%2220-80%22%7D#🇰🇿 [BL/AI] Сервер 466
-vless://5c90ba85-fa28-4437-8561-4fab86beccaa@194.110.55.21:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23405
-vless://94e25e2b-ffc8-453d-a08c-1f5c3c249755@82.115.43.76:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=llaiqC-oIhL_bjc236FPq26LSn7IVhIa4cIC6OVytws&security=reality&sid=8453e5fd9af927&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23406
-vless://5c90ba85-fa28-4437-8561-4fab86beccaa@77.240.39.112:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23410
-vless://5c90ba85-fa28-4437-8561-4fab86beccaa@194.32.142.55:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=48720c&sni=hls-svod.itunes.apple.com&type=tcp#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%E2%80%94%20%23411
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=io.ozone.ru&security=reality&sid=d78674aac58fe1f7&fp=firefox#[285ms Россия RU 🇷🇺 @vlesstrojan]
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#[290ms Россия RU 🇷🇺 @vlesstrojan]
+vless://455d8875-c118-028e-8afd-627645545387@212.233.97.251:443?flow=xtls-rprx-vision&sni=ads.x5media.ru&security=reality&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&sid=111111&fp=qq#[387ms Россия RU 🇷🇺 @vlesstrojan]
+vless://c6af0348-6835-0007-88a5-7e77bc56458f@ru.x8lab.org:443?flow=xtls-rprx-vision&sni=rutube.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=chrome#[464ms Россия RU 🇷🇺 @vlesstrojan]
+vless://c6af0348-6835-4bf0-88a5-7e77bc56458f@kz.x8lab.org:443?flow=xtls-rprx-vision&sni=api.gosuslugi.ru&security=reality&pbk=k9BuzZPnzofDcPTaa7ROHNIc9ww2jy3tLAJ04GuKvAQ&sid=c44bcdb731f12c41&fp=randomized#[576ms KZ KZ  @vlesstrojan]
 vless://3a20247f-4c3d-4a43-b2a7-8fa70b970cf8@212.111.87.225:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=random&sni=max.ru&pbk=WWA4FL9fWO0sy41E-fciX6ZTKUL4U2MxhpXJs9jPQ2I&sid=b2a6e3d42f05c3d1&spx=/#%F0%9F%87%B0%F0%9F%87%BF%20LTE%2021%20%7C%20%D1%82%D0%B3%D0%BA%3A%20%40rostunnel
