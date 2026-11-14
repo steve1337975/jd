@@ -1,23 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826272649
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826296186
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/14/2026 09:57:29
-# servers-count: 14
+# generated-at: 11/14/2026 16:29:46
+# servers-count: 9
 
-vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha 🪖
-socks5://202.142.153.220:1080
-socks4://160.30.104.170:1080
+vless://cfcfd0bb-7e8c-4f2b-9cc2-505c983fb8f1@103.175.79.5:443?security=reality&type=xhttp&path=%2F&sni=download.autodesk.com&fp=chrome&pbk=92KJ-ibs1qTy8nODGrHTW8T0b_trG7McLYv8My9o2EE# By EbraSha 🌀
+http://110.39.41.11:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-10
 socks4://58.65.142.254:8125
-socks4://202.142.170.115:1080
-socks4://103.225.221.18:5678
-socks4://103.125.243.142:1080
-socks4://103.146.137.233:1081
-socks4://103.146.137.81:1081
-socks4://103.146.137.61:1081
-http://175.107.30.110:8080
-http://202.142.153.220:1080
-socks4://103.178.120.53:1080
-socks4://103.146.137.169:1081
+socks4://202.142.176.130:1080
+socks4://103.146.137.101:1081
+http://58.27.200.225:8080
+socks5://58.27.213.133:1080
+http://103.146.137.157:1081
+http://209.150.151.90:1080
