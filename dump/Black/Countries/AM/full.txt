@@ -1,14 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826376899
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826392017
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/15/2026 14:54:59
-# servers-count: 5
+# generated-at: 11/15/2026 19:06:57
+# servers-count: 7
 
 vless://c1fdf1e6-6370-4bad-a866-f80f27f5e785@213.108.21.173:443?encryption=none&flow=xtls-rprx-vision&pbk=oSbyJBoI2JTEva2ks51kmUCA7z-iFUcoGYCk-ciEaDU&security=reality&sni=nl1.kids-games.ru&type=tcp&fp=firefox#%F0%9F%87%B3%F0%9F%87%B1%20AetrisVPN
-vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@178.160.228.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&security=reality&sid=a7df9e0cde3e1d79&sni=base.syoknew.online&type=tcp# By EbraSha 🥷
+vless://5b1fa588-bf1b-473d-a575-e8ca8e9651c5@213.108.23.226:46312?encryption=none&security=reality&sni=it.nvidia.com&fp=chrome&pbk=rRh6YFSm_4hS7P9DLkih1skbLCnXaHB87HW7Y6V4-2o&sid=a9&spx=%2F2c6ec05805bdf34&type=grpc&mode=gun# By EbraSha 📀
+vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@178.160.228.139:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&security=reality&sid=a7df9e0cde3e1d79&sni=base.syoknew.online&type=tcp# By EbraSha 🖥️
 https://80.86.231.109:443
 https://91.221.229.86:443
 socks5://46.226.165.82:8443
+http://195.250.92.58:8080
