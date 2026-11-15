@@ -1,22 +1,23 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826392017
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826396180
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/15/2026 19:06:57
-# servers-count: 13
+# generated-at: 11/15/2026 20:16:20
+# servers-count: 14
 
-socks5://203.189.152.79:1080#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%ADKH-3
-http://49.156.44.116:8080#%5BOpenRay%5D%20%F0%9F%87%B0%F0%9F%87%ADKH-7
-socks4://103.197.242.106:1080
+socks5://220.158.232.118:1080
 socks4://96.9.77.71:51080
+socks4://175.100.37.171:1080
 socks5://110.235.248.81:1080
+socks4://203.189.136.174:1080
+socks5://110.235.240.223:1080
 socks5://110.235.252.74:1080
 socks5://110.235.246.62:1080
 socks5://202.79.27.12:1080
 socks5://202.79.26.242:1080
-http://203.189.152.79:1080
 http://203.95.199.159:8080
-socks4://36.37.203.215:4153
+http://220.158.232.118:1080
 http://110.235.248.81:1080
+http://203.189.136.174:1080
