@@ -9,6 +9,7 @@ namespace NChecker
             Logger.Info("Hello, World!");
 
 
+
             await App.Instance.Start();
         }
     }
