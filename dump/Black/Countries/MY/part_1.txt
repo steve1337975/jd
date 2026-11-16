@@ -1,20 +1,22 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [MY] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826432081
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826467695
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/16/2026 06:14:41
-# servers-count: 11
+# generated-at: 11/16/2026 16:08:15
+# servers-count: 13
 
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@202.61.73.243:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=MoMijL7xMkbBJJra5F-RLeZ3fSM4HA8XbQ7CBYfieRk&security=reality&sid=07d1d1bf4769be&sni=br1.gofizz.in&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
 vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gTWFsYXlzaWEsIEt1YWxhIEx1bXB1ciB8IFtCTF0iLCJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJwb3J0IjoiMTAwODYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYjgzMTM4MWQtNjMyNC00ZDUzLWFkNGYtOGNkYTQ4YjMwODExIiwiYWlkIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwiaG9zdCI6IiIsInRscyI6IiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJhbHBuIjoiIiwiZnAiOiIifQ==
-vmess://eyJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsInBvcnQiOiIxMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoi8J+HsvCfh74gQWV0cmlzVlBOIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJwYXRoIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0=
-vmess://eyJhZGQiOiI0NS4xMjcuNS4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjNhN2FlYTEtMGY1YS00ZWQwLThhNTAtZjZlN2E3OGJlZDNjIiwibmFtZSI6Ik1ZIPCfh7Lwn4e+IHwgQFJheWRpa2FseCB8IDRDREZERiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoyMDgzLCJwcyI6IkJ5IEVicmFTaGEg8J+Vtu+4jyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@101.99.76.88:2053?sni=likejennie.pages.dev&fp=firefox&type=ws&path=%2F&host=likejennie.pages.dev# By EbraSha 🧪
+vmess://eyJhZGQiOiI0NS4xMjcuNS4xMzIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiZjNhN2FlYTEtMGY1YS00ZWQwLThhNTAtZjZlN2E3OGJlZDNjIiwibmFtZSI6Ik1ZIPCfh7Lwn4e+IHwgQFJheWRpa2FseCB8IDRDREZERiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoyMDgzLCJwcyI6IkJ5IEVicmFTaGEg4pqU77iPIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxOTIuMjI4LjE0NS4xMTgiLCJpZCI6ImI4MzEzODFkLTYzMjQtNGQ1My1hZDRmLThjZGE0OGIzMDgxMSIsInBvcnQiOiIxMDA4NiIsInNjeSI6ImF1dG8iLCJ2IjoiMiIsIm5ldCI6InJhdyIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsInBzIjoiW/Cfh7Lwn4e+XSBbdm0tbm8tcmFdIFsyNjExMTYtMTA0OTI4LjExMV0ifQo=
 https://210.48.154.99:443
-https://210.19.96.163:443
 https://43.251.18.20:443
 https://113.23.216.129:9088
 https://113.23.216.128:9088
 https://58.26.247.226:443
 http://175.138.231.145:80
+http://219.93.101.60:80
+http://219.93.101.62:80
+http://103.1.105.10:4153

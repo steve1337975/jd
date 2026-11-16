@@ -1,18 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PA] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826432081
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826467696
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/16/2026 06:14:41
-# servers-count: 9
+# generated-at: 11/16/2026 16:08:16
+# servers-count: 5
 
-vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=portal.mavexa.ir#🇨🇭 [BL] Сервер 190
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.187.19:443?encryption=none&type=grpc&security=reality&sni=claude.ai&pbk=8DvFATJSO5Rp-CglhKDOFKR8Mt4TGI2cMFyZIn5XtGM&sid=19ab12d0f0ce5167&fp=firefox&serviceName=s488b2d205d9be425583f#🇨🇭 [BL/AI] Сервер 239
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.187.18:443?encryption=none&type=grpc&security=reality&sni=api.openai.com&pbk=659Fu5_n4Vq58ZBdLCGbZqFRjhznGRonhTqN-ctC9i0&sid=7f34211a1db26412&fp=chrome&serviceName=s9d8c0a4b24dfc7d63774#🇨🇭 [BL/AI] Сервер 243
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.138.144:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.perplexity.ai&pbk=wl1ARE6kNcaMafWfjS5Wb7X8gr0vuVDtwdTfqKtrZnI&sid=6f132a95d2842aa0&fp=firefox#🇨🇭 [BL/AI] Сервер 310
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.138.147:443?encryption=none&type=grpc&security=reality&sni=claude.ai&pbk=k_R-Vs8S-kBNpZmutqC7OVSO9p2ZuLB4AKPi8z5Xqjc&sid=8eaf2e317d86a0a6&fp=firefox&serviceName=s764bdc2f3a313a1806ce#🇨🇭 [BL/AI] Сервер 344
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.138.146:443?security=reality&sni=chat.deepseek.com&fp=firefox&pbk=NHkASezjpfX7xOQ1hBJzrziILeW8Tbi7Y49072LPunw&sid=d897d06cd65ef494&type=grpc&serviceName=s6c67504ac5acd8919e0c&encryption=none#🇨🇭 [BL/AI] Сервер 694
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.187.16:443?security=reality&sni=chat.deepseek.com&fp=firefox&pbk=-xRQ097EP_10oRhOU6tuwRwRBBiDqRsPjB0IHIW0xhI&sid=1aea40c56a2b92b2&type=grpc&serviceName=s3b8c5f214f5cf1ba482e&encryption=none#🇨🇭 [BL/AI] Сервер 695
-vless://e3453410-191b-48b5-b37f-aac745bbfa6b@179.43.187.17:443?security=reality&sni=chat.deepseek.com&fp=firefox&pbk=xsNWxje0_1edRJQrX74RdIuxgeFIW2bh9CsbGjihexE&sid=46cd0658d9dc70ba&type=grpc&serviceName=s3df015a48a64b37019c5&encryption=none#🇨🇭 [BL/AI] Сервер 696
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#6438.%20VLESS%20%7C%20SNI%3A%20perevodchiki.su%20%7C%20TG%3A%20%40wlrustg
+vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#[453ms Швейцария CH 🇨🇭 @vlesstrojan]
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@179.43.170.72:443?type=grpc&security=reality&fp=firefox&pbk=oI8uBtOZSUZ6paMGUrKhdMOuvQ08EyPfWpCfnveBjV8&sid=1a56811c&sni=dell.pinewharf.top&mode=gun&serviceName=grpc#0683%20|%20%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&fp=chrome&type=tcp&sni=portal.mavexa.ir#🇨🇭 [BL] Сервер 182
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@179.43.170.67:443?type=grpc&security=reality&fp=firefox&pbk=oI8uBtOZSUZ6paMGUrKhdMOuvQ08EyPfWpCfnveBjV8&sid=a16cb62c&sni=crag.quaystone.top&serviceName=grpc&encryption=none#🇨🇭 [BL] Сервер 247
+vless://49db4ce7-ad48-41a3-9b6f-4c6dabd94504@179.43.170.73:443?type=xhttp&security=reality&fp=firefox&pbk=oI8uBtOZSUZ6paMGUrKhdMOuvQ08EyPfWpCfnveBjV8&sid=80e81a0a&sni=forge.lakemont.top&mode=auto&encryption=none#🇨🇭 [BL] Сервер 248
