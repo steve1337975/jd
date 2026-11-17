@@ -1,21 +1,19 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IN] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826467695
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826497024
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/16/2026 16:08:15
-# servers-count: 38
+# generated-at: 11/17/2026 00:17:04
+# servers-count: 44
 
-trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd# By EbraSha 🤖
-vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome# By EbraSha 💻
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@161.118.200.170:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome# By EbraSha ⌨️
-http://103.103.3.6:8080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-1
-http://114.69.225.6:82#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-41
+trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@161.118.213.45:443?security=tls&sni=hhcm.hhxaf.cc.cd&type=ws&path=/&Host=hhcm.hhxaf.cc.cd# By EbraSha 🌀
+vless://16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88@122.176.216.52:443?encryption=none&host=app-6ada5023.deploy.meerasolution.com&path=%2Fws%2F16ae3ea5-cf3e-6973-7bf3-2b4b28d0ea88&security=tls&sni=app-6ada5023.deploy.meerasolution.com&type=ws&fp=chrome# By EbraSha 👾
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@160.250.225.125:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dxn64xOdehUxUEkdfVwkQEk3D3hzzcFaHGH8FBH92WM&security=reality&sid=66d7936a&sni=in1.gofizz.in&type=tcp# By EbraSha 📟
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@161.118.200.170:443?&security=tls&fp=chrome&sni=fs.qicai99.com&type=ws&headerType=none&host=fs.qicai99.com&path=%2Ffp%3Dchrome# By EbraSha 💻
 vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@161.118.200.170:443?security=tls&sni=fs.qicai99.com&type=ws&path=%2Ffp#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%ACSG-129
-http://182.95.79.172:3128#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-82
-http://45.64.10.9:8080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-84
-socks4://103.76.190.37:31756
+http://182.95.79.172:3128#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-80
+http://59.145.185.162:8080#%5BOpenRay%5D%20%F0%9F%87%AE%F0%9F%87%B3IN-106
 https://45.114.142.178:443
 https://103.104.73.130:443
 https://210.89.42.108:443
@@ -25,23 +23,31 @@ https://103.251.94.10:443
 https://182.156.203.41:443
 https://202.162.232.76:443
 https://49.50.72.246:443
-https://103.26.207.103:9443
 https://103.142.225.37:443
 https://110.173.188.221:443
 https://117.252.95.60:443
+http://103.137.84.17:83
+socks4://103.137.148.253:1080
+socks5://103.26.10.23:2080
+socks5://122.176.19.155:1080
+socks5://103.253.208.14:1080
 socks5://103.58.251.74:1080
 socks5://103.72.101.51:1020
-http://103.231.78.36:80
-http://103.168.211.172:80
+http://103.48.68.29:83
+http://103.60.186.21:52195
+http://103.224.48.38:31433
+http://103.143.214.77:5678
+http://103.76.190.37:31756
+http://202.179.88.233:51951
+http://103.161.31.249:83
+http://123.253.124.28:5678
+http://103.51.223.133:8080
+socks4://103.105.40.9:4145
+socks4://103.38.183.18:1088
+socks4://103.143.8.126:51951
+http://103.146.170.233:5678
 http://103.146.170.65:5678
-http://151.185.58.17:80
-http://59.145.184.190:80
-http://103.48.71.54:83
-socks4://103.146.170.233:5678
-socks4://210.16.86.105:5678
-socks4://103.53.110.45:10801
-http://103.143.168.177:83
+http://45.116.230.79:4673
 http://103.146.170.244:5678
-http://103.48.68.85:83
-http://103.179.228.42:80
-http://103.155.130.134:8082
+http://103.48.71.30:83
+socks4://119.235.50.78:4153
