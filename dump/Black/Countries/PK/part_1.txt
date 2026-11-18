@@ -1,22 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PK] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826632656
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826641067
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 13:57:36
-# servers-count: 13
+# generated-at: 11/18/2026 16:17:47
+# servers-count: 8
 
-http://101.53.238.37:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-9
-http://72.255.29.169:1973#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B0PK-19
-socks4://160.30.104.170:1080
-http://202.125.155.121:8080
-socks5://103.4.95.90:1080
-socks5://58.27.207.253:1080
-http://43.251.253.40:8080
-http://103.125.243.142:1080
-http://202.142.176.130:1080
-http://58.27.200.225:1080
-http://103.253.18.6:8080
-socks4://103.115.198.39:5678
-socks4://103.125.243.142:1080
+socks4://202.142.170.115:1080
+socks4://103.225.221.18:5678
+https://110.38.225.213:443
+http://27.54.121.90:8090
+socks5://103.178.121.234:1080
+http://110.93.236.171:8080
+http://119.73.109.210:8080
+socks4://103.146.137.101:1081
