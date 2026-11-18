@@ -1,16 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [NP] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826559563
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826582603
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/17/2026 17:39:23
-# servers-count: 7
+# generated-at: 11/18/2026 00:03:23
+# servers-count: 8
 
-http://36.253.25.11:8181#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B5NP-1
-http://45.115.217.237:80#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B5NP-2
-http://103.114.25.33:8088#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B5NP-5
-socks4://110.34.1.212:1080
-http://110.34.1.212:1080
+http://45.115.217.237:80#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B5NP-1
+socks4://110.34.8.100:1080
+socks5://124.41.225.101:1080
+socks4://103.167.187.4:1080
+socks4://202.70.80.153:5678
+http://202.166.219.80:4153
 socks4://202.166.219.80:4153
-socks4://124.41.196.3:1080
+socks4://202.79.35.143:4153
