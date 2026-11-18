@@ -1,11 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TR] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826607525
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826632656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 06:58:45
-# servers-count: 36
+# generated-at: 11/18/2026 13:57:36
+# servers-count: 28
 
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.46:443?encryption=none&fp=chrome&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=tr1b.galioncc.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
 vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@45.141.148.48:443?encryption=none&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&security=reality&sid=868419504747f6de&sni=net-svc-mgr.galioncc.com&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
@@ -28,18 +28,10 @@ vless://00bc53ff-c447-42fd-8b85-1843985e729a@plx1.fixpr.top:443?sni=plx1.fixpr.t
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@pl.bubahero.com:443?security=reality&encryption=none&pbk=GmZv3anSeAeHr_cMFKr-6MPLli-nyKNatnY6P3AFK00&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sid=9c2378562188c3cb#[399ms Польша PL 🇵🇱 @vlesstrojan]
 vless://0aedd22f-7763-4c64-a92d-4f5188595dc5@pl1.fixpr.top:443?flow=xtls-rprx-vision&sni=pl1.fixpr.top&security=reality&pbk=dJdp55YwY9Gnb3fp8IbjFkvomIEV1HXtrXc-AJIGOx8&sid=ac4c53a3ff6613e1&spx=/&fp=chrome#[441ms Польша PL 🇵🇱 @vlesstrojan]
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:35468?security=none&encryption=none&host=play-apps-features.googleusercontent.com&headerType=http&type=tcp#[540ms TR TR  @vlesstrojan]
-vless://9654f1a9-8dbc-4897-85ea-c077a52b3857@185.71.216.94:2195?security=reality&encryption=none&pbk=OKksVHWL5JepTv7if7Ta_L_7vn8OxW0INwV71HJM1jI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=3869d49a9a79e06a#[711ms TR TR  @vlesstrojan]
+vless://9654f1a9-8dbc-4897-85ea-c077a52b3857@185.71.216.177:2195?security=reality&encryption=none&pbk=OKksVHWL5JepTv7if7Ta_L_7vn8OxW0INwV71HJM1jI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=3869d49a9a79e06a#[634ms TR TR  @vlesstrojan]
+vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.177:2093?security=reality&encryption=none&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8a9725533854a7e8#[684ms TR TR  @vlesstrojan]
 vless://122b8a33-d923-48a6-8f1b-e721cf842864@m2.daltoon-server.ir:330?security=reality&encryption=mlkem768x25519plus.native.0rtt.X0T35qBzCwxVDx5oRhPb26SJGDrcpw_-jWzDs-3tORk&pbk=x8U_rnyU2FP0EmB7YJ7tbpJOT5JF1f0L6pPUbTnFljg&headerType=none&fp=chrome&spx=/8ac5f1907f28212&type=tcp&sni=amp-api-edge.apps.apple.com&sid=45#[842ms TR TR  @vlesstrojan]
 vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.94:2093?security=reality&encryption=none&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=8a9725533854a7e8#[965ms TR TR  @vlesstrojan]
 vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.177:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#[1124ms TR TR  @vlesstrojan]
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.177:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#[4716ms TR TR  @vlesstrojan]
-vless://128bd8ad-4f6c-4d70-af13-15a2cec331d2@185.71.216.95:2194?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791&sni=www.apple.com&encryption=none#🇩🇪 [BL] Сервер 231
-vless://034c3011-c422-45bf-ad79-987ba3aa559e@93.190.9.85:3090?encryption=none&type=grpc&security=none&serviceName=vless#346.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://034c3011-c422-45bf-ad79-987ba3aa559e@93.190.9.142:3090?encryption=none&type=grpc&security=none&serviceName=vless#357.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://034c3011-c422-45bf-ad79-987ba3aa559e@93.190.9.115:3090?encryption=none&type=grpc&security=none&serviceName=vless#445.%20VLESS%20%7C%20TG%3A%20%40wlrustg
-vless://128bd8ad-4f6c-4d70-af13-15a2cec331d2@37.221.76.116:2194?security=reality&encryption=none&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=55986a94e2228791#3648.%20VLESS%20%7C%20SNI%3A%20www.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@212.98.224.35:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr1.gofizzin.com&fp=chrome&pbk=9_UhwEt_9pf8WahM1K9O6-_0vAK6q0uiNGFoHBO7s3A&sid=0e3e4d96&type=tcp&headerType=none&host=tr1.gofizzin.com/?TELEGRAM---MARAMBASHI---MARAMBASHI---MARAMBASHI---MARAMBASHI#4965.%20VLESS%20%7C%20SNI%3A%20tr1.gofizzin.com%20%7C%20TG%3A%20%40wlrustg
-vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.116:2092?security=reality&encryption=none&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=716b7eba38125f3a#5834.%20VLESS%20%7C%20SNI%3A%20www.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@37.221.76.116:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#6328.%20VLESS%20%7C%20SNI%3A%20www.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@37.221.76.117:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#6329.%20VLESS%20%7C%20SNI%3A%20www.apple.com%20%7C%20TG%3A%20%40wlrustg
-vless://fd0a5c32-afc0-4d57-b95a-ca6ec8f93e87@193.160.141.27:443?flow=xtls-rprx-vision&encryption=none&security=reality&sni=abuse.ozon.ru&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp&headerType=none#6454.%20VLESS%20%7C%20SNI%3A%20abuse.ozon.ru%20%7C%20TG%3A%20%40wlrustg
+vless://128bd8ad-4f6c-4d70-af13-15a2cec331d2@185.71.216.95:2194?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791&sni=www.apple.com&encryption=none#🇩🇪 [BL] Сервер 296
+vless://128bd8ad-4f6c-4d70-af13-15a2cec331d2@185.71.216.94:2194?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&sid=55986a94e2228791&type=tcp#🇩🇪 [BL] Сервер 297

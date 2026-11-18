@@ -1,13 +1,14 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [SG] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826607525
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826632656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 06:58:45
-# servers-count: 23
+# generated-at: 11/18/2026 13:57:36
+# servers-count: 14
 
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@8.209.119.13:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.106.54:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
+ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.209.72.224:443#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20TG%3A%20%40HardVpn_robot
 ss://2022-blake3-chacha20-poly1305:8yO3ANWefuuGs1lRKXECQA1FEhxlWFV2ppQMcBaZo5Y=@8.220.81.25:443#[133ms Германия DE 🇩🇪 @vlesstrojan]
 ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.38.49:443#[133ms Германия DE 🇩🇪 @vlesstrojan]
 vless://7c63f43f-f526-49bb-b5c8-2be26e11ef00@109.120.138.47:443?encryption=none&security=tls&sni=statue.lnmarketplace.net&insecure=0&allowInsecure=0&type=http&path=%2F#[305ms Германия DE 🇩🇪 @vlesstrojan]
@@ -16,17 +17,7 @@ vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.binodes.com:443?path=/msn&secur
 vless://1af5253b-75e6-4e2c-8b9e-2b7b92dbb845@www.thevicinityapp.cn:443?path=/msn&security=tls&encryption=mlkem768x25519plus.native.0rtt._qY1MWcrBsC4vR5V1hzkHjMTNsnMIRvvkwWc_FBCUCI&insecure=0&host=ded2http.samcdn.shop&fp=chrome&type=httpupgrade&allowInsecure=0&sni=www.thevicinityapp.cn#[445ms SG SG  @vlesstrojan]
 vless://13ab7444-2956-46a4-acf1-7f1d9d099381@ru-msk-tmw-50.sssrvpn.pro:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=5post-gate.x5.ru&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&type=tcp#[489ms Россия RU 🇷🇺 @vlesstrojan]
 ss://Y2hhY2hhMjAtaWV0Zjphc2QxMjM0NTY@103.36.91.32:8388#[2266ms SG SG  @vlesstrojan]
-vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@172.255.210.24:443?type=tcp&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=net-cfg-api.galioncc.com&encryption=none#🇸🇬 [BL] Сервер 434
+vless://a30903dc-1bf0-4be5-8b1b-603a3a56211c@172.255.210.24:443?type=tcp&security=reality&fp=firefox&pbk=drl7nndYdfzZY1aQ0eUAWmNV0nsHig2uDnu9siy9biQ&sid=868419504747f6de&sni=net-cfg-api.galioncc.com&encryption=none#🇸🇬 [BL] Сервер 383
+vless://b2744db0-1c64-4218-a93b-9eba0e5f811f@77.221.150.215:443?flow=xtls-rprx-vision&security=reality&sni=at-25-31bv.wave-inside.online&fp=firefox&pbk=D5iMYCRwFa3Wj3rGjTsoHOPEs-ipOok_O0SSrlEPqjo&sid=83b4d1fd08314289&encryption=none&type=tcp#🇬🇧 [BL] Сервер 448
 vless://08be5d08-de17-4bac-939d-d57a91028a60@139.59.168.171:443?encryption=none&security=tls&sni=api.avito.ru&insecure=0&allowInsecure=0&type=ws&path=%2Fuirexwws#WS, Avito [V.O.I.D]
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0@8.211.57.86:443#1753.%20SS%20%7C%20TG%3A%20%40wlrustg
-trojan://mitivpn@27.50.48.49:443?path=/index.html/ed=mitivpn&security=tls&alpn=http/1.1&insecure=0&host=gamingdll.ir&fp=chrome&type=ws&allowInsecure=0&sni=gamingdll.ir#3426.%20TROJAN%20%7C%20SNI%3A%20gamingdll.ir%20%7C%20TG%3A%20%40wlrustg
-vless://024cf4e8-fa64-44ea-b22f-c28437120563@43.174.247.63:443?path=/51544/ws&security=tls&encryption=mlkem768x25519plus.native.0rtt.HgOBFNZBsI-IbLuV7IeOJbMRNb9CodLXi3YDHVWPWQU&insecure=0&host=ded1ws.samcdn.shop&fp=chrome&type=ws&allowInsecure=0&sni=msydjt.com#3474.%20VLESS%20%7C%20SNI%3A%20msydjt.com%20%7C%20TG%3A%20%40wlrustg
-vless://4e4f1f70-5e56-4a76-bb9d-db087f4690c4@43.156.62.218:443?path=/tyxyws&security=tls&encryption=none&fm={"tcp":[{"type":"fragment","settings":{"packets":"tlshello","lengths":["0","104","1"],"delays":["0"],"maxSplit":"0"}},{"type":"fragment","settings":{"packets":"1-1","lengths":["114","1"],"delays":["1"],"maxSplit":"11"}}]}&insecure=0&host=jp3.yohototo.top&fp=unsafe&type=ws&allowInsecure=0&sni=jp3.yohototo.top#4428.%20VLESS%20%7C%20SNI%3A%20jp3.yohototo.top%20%7C%20TG%3A%20%40wlrustg
-vless://690ad3be-991b-4a2c-b351-42dd06789d03@162.128.71.118:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=3ZKNZEktRaPxt-XoWmx68EGsFwglnICVkvIl96973iA&security=reality&sid=4014ce9b0d82ad9d&sni=www.bing.com&type=tcp#4729.%20VLESS%20%7C%20SNI%3A%20www.bing.com%20%7C%20TG%3A%20%40wlrustg
-vless://7ad63b26-bf70-4872-8fab-ebaf73a1e19d@176.98.176.60:443?sni=mosaic.topp-con.xyz&alpn=h2,http/1.1&flow=xtls-rprx-vision&fp=chrome&security=tls#4886.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20mosaic.topp-con.xyz%20%7C%20TG%3A%20%40wlrustg
-vmess://eyJhZGQiOiI4LjIwOS4xMDQuMjMwIiwiYWlkIjowLCJob3N0IjoibGczMC5jZmNkbjMueHl6IiwiaWQiOiI5MTY0NmY5YS1iNGU5LTRhY2EtYmZlMy04ODkyYjNlNThmZTciLCJuZXQiOiJ3cyIsInBhdGgiOiIvcmF5IiwicG9ydCI6NDQzLCJwcyI6IjY3MjYuIFZNRVNTIHwgU05JOiBsZzMwLmNmY2RuMy54eXogfCBURzogQHdscnVzdGciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-vless://14b02e2a-8930-4afb-8412-ea4a4954ca5b@43.162.120.155:443?encryption=none&security=tls&sni=zgtwylnhh.cc.cd&insecure=0&allowInsecure=0&type=ws&host=zgtwylnhh.cc.cd&path=Telegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2#7391.%20VLESS%20%7C%20SNI%3A%20zgtwylnhh.cc.cd%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.179.99:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#7543.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@27.50.48.138:2096?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#7956.%20%F0%9F%87%AA%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@43.130.105.166:65002?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F#7987.%20%F0%9F%87%B2%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20TG%3A%20%40wlrustg
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@77.221.143.154:443?encryption=none&security=tls&sni=sni.111000.dynv6.net&insecure=0&allowInsecure=0&type=ws&host=sni.111000.dynv6.net&path=%2F#8210.%20%F0%9F%87%B8%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.dynv6.net%20%7C%20TG%3A%20%40wlrustg
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@109.120.179.99:443?encryption=none&security=tls&sni=sni.111000.indevs.in&insecure=0&allowInsecure=0&type=ws&host=sni.111000.indevs.in&path=%2F%3FTelegram%F0%9F%87%A8%F0%9F%87%B3%40WangCai2%3D#123.%20%F0%9F%87%A9%F0%9F%87%AA%20VLESS%20%7C%20SNI%3A%20sni.111000.indevs.in%20%7C%20CIDR%3A%20VK%20%7C%20TG%3A%20%40wlrustg

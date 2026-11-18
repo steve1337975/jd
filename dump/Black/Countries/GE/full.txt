@@ -1,13 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826607525
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826632656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 06:58:45
-# servers-count: 4
+# generated-at: 11/18/2026 13:57:36
+# servers-count: 2
 
-http://178.134.242.26:8080#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%AAGE-5
-https://91.212.213.135:443
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@94.43.238.112:2053?security=tls&sni=likejennie.pages.dev&fp=chrome&type=ws&host=likejennie.pages.dev&path=/# By EbraSha 🌪️
 http://85.117.32.166:4153
-socks4://85.117.32.166:4153

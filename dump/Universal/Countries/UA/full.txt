@@ -1,15 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826607525
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826632656
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 06:58:45
-# servers-count: 6
+# generated-at: 11/18/2026 13:57:36
+# servers-count: 11
 
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#Lite #154 @FreeCFGHub
-vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Lite #964 @FreeCFGHub
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#Full #2515 @FreeCFGHub
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#Full #2758 @FreeCFGHub
-vless://3679077b-cbcf-40f9-9318-b71199643b80@46.202.82.82:8443?security=reality&encryption=none&pbk=MMtQZAfeoLdRLaV_tOQwdkU3haA7OjEAjxkDKQkgfls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=745948e442d1db44#Full #3494 @FreeCFGHub
-vless://077d9a9a-621a-4978-905f-5f88e6952a2f@46.202.82.82:443?mode=auto&path=%2Fc50da55f4375&security=reality&encryption=none&pbk=Yak8TYzfsV4XdJUO5l2VcRuzmIss-Kdu0uYcgCyqonc&fp=chrome&type=http&sni=www.apple.com&sid=8644c0e04173d8e1#Full #3496 @FreeCFGHub
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0329 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0682 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#1914 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&sid=dcb858da&sni=metrika.yandex.ru#Lite #907 @FreeCFGHub
+vless://408c51e8-9246-483d-ba73-34ab4e202eb9@fr.song69.fun:28150?security=reality&encryption=none&pbk=HRmmr0Ii4Tr9jPLwratvLhee3_VWFNK47T8AAo7kzww&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=metrika.yandex.ru&sid=dcb858da#Lite #921 @FreeCFGHub
+vless://acc50200-7f21-4f90-9cca-0057efcbf042@91.124.63.229:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=rNBFVzV18kAj_ei4AqsgZywzmvD36WK9hcRdVnpHPAM&security=reality&sid=c0573c8280a0c019&sni=www.ya.ru&type=tcp#Lite #973 @FreeCFGHub
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0@185.164.175.81:19999#Full #2207 @FreeCFGHub
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#Full #2387 @FreeCFGHub
+vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@45.144.214.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.trustsvpn.com&fp=chrome&pbk=W_6kEDko_-O5JHaIigz6YqXJTm4SLrS0_3lCp5B4CWE&sid=aa2cd28cccee4f45&type=tcp&headerType=none#Full #2753 @FreeCFGHub
+vless://3679077b-cbcf-40f9-9318-b71199643b80@46.202.82.82:8443?security=reality&encryption=none&pbk=MMtQZAfeoLdRLaV_tOQwdkU3haA7OjEAjxkDKQkgfls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=745948e442d1db44#Full #3145 @FreeCFGHub
+vless://077d9a9a-621a-4978-905f-5f88e6952a2f@46.202.82.82:443?mode=auto&path=%2Fc50da55f4375&security=reality&encryption=none&pbk=Yak8TYzfsV4XdJUO5l2VcRuzmIss-Kdu0uYcgCyqonc&fp=chrome&type=http&sni=www.apple.com&sid=8644c0e04173d8e1#Full #3146 @FreeCFGHub
