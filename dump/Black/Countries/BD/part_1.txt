@@ -1,23 +1,20 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BD] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 04:06:41
-# servers-count: 30
+# generated-at: 11/19/2026 12:58:39
+# servers-count: 28
 
+vless://31e407b3-6e1e-425f-98ea-fcf8f494c6a0@163.52.57.12:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yDLpNGQCt1s8neJIqj77glhomdvApz7eM8SGCYQy1l0&sid=4e17ada10ab69656&sni=s3-eu-west.livemusic.ac#%F0%9F%87%AE%F0%9F%87%B3%20AetrisVPN
+vless://31e407b3-6e1e-425f-98ea-fcf8f494c6a0@s3-eu-west.livemusic.ac:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=yDLpNGQCt1s8neJIqj77glhomdvApz7eM8SGCYQy1l0&sid=4e17ada10ab69656&sni=s3-eu-west.livemusic.ac#%F0%9F%87%AE%F0%9F%87%B3%20AetrisVPN
+socks5://202.44.106.141:1080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-3
 http://27.147.155.206:12051#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-10
-http://210.4.73.190:8585#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-11
-http://103.136.200.129:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-18
-http://103.157.135.199:443#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-26
-http://202.40.186.222:27202#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%A9BD-27
-socks4://118.179.135.69:9090
+socks4://103.120.165.132:1080
 http://115.127.31.66:8080
-socks4://103.115.255.225:36331
-http://203.18.159.164:80
-socks5://103.118.85.75:1080
-socks5://101.2.166.73:1080
+socks5://103.136.106.5:1081
+socks5://103.81.70.71:1080
 socks5://103.125.253.112:1080
 socks5://103.155.184.51:9898
 socks5://118.179.144.113:9090
@@ -31,9 +28,10 @@ socks5://202.4.119.226:9090
 socks5://202.4.117.245:9090
 socks5://202.4.116.140:9090
 socks5://118.179.195.140:9090
-http://115.127.190.42:6979
+http://118.179.191.167:81
 http://113.212.111.4:8090
+http://103.117.108.59:8080
 http://103.170.185.226:80
-socks4://203.188.245.98:52837
-http://43.248.254.130:83
-http://203.188.245.98:52837
+http://202.44.106.141:1080
+socks4://180.148.210.77:1080
+http://124.6.225.124:1088

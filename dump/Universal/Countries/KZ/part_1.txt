@@ -1,15 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [KZ] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 04:06:41
-# servers-count: 6
+# generated-at: 11/19/2026 12:58:39
+# servers-count: 7
 
 vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?type=ws&security=tls&fp=firefox&host=worker3.xomoh98816.workers.dev&headers={
-vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #303 @FreeCFGHub
-vless://9548ef84-b54d-41dc-b17c-9da21d52ba82@212.233.90.78:443?encryption=none&flow=xtls-rprx-vision&pbk=FwPphm8xGAKY6u74WDRVrcVye3A7GdLDfJoNSDWFsFQ&security=reality&sid=2c6df23e&sni=birch-ledger.justext.space&spx=%2F&type=tcp&fp=safari#Full #150 @FreeCFGHub
-vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?encryption=none&security=tls&sni=worker3.xomoh98816.workers.dev&fp=firefox&type=ws&host=worker3.xomoh98816.workers.dev&path=%2FLF5LdoZelHLG07nl&headers=%7B%0A%20%20%22Host%22%3A%20%22worker3.xomoh98816.workers.dev%22%0A%7D#Full #479 @FreeCFGHub
-vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1563 @FreeCFGHub
-vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1866 @FreeCFGHub
+vless://54cc54b2-77ad-4541-b7b6-7ac2053b60d4@212.233.96.194:443?sni=max.ru&security=reality&sid=2e7d1b83b4235977&fp=chrome#Lite #095 @FreeCFGHub
+vless://9548ef84-b54d-41dc-b17c-9da21d52ba82@212.233.90.78:443?security=reality&flow=xtls-rprx-vision&pbk=FwPphm8xGAKY6u74WDRVrcVye3A7GdLDfJoNSDWFsFQ&sid=2c6df23e&fp=chrome&sni=birch-ledger.justext.space&type=tcp&headerType=none&host=birch-ledger.justext.space&path=%2F&encryption=none#Lite #160 @FreeCFGHub
+vless://1bc29b34-0a7d-4252-97bb-1cc3514e7d42@31.43.179.0:443?encryption=none&security=tls&sni=worker3.xomoh98816.workers.dev&fp=firefox&type=ws&host=worker3.xomoh98816.workers.dev&path=%2FLF5LdoZelHLG07nl&headers=%7B%0A%20%20%22Host%22%3A%20%22worker3.xomoh98816.workers.dev%22%0A%7D#Full #409 @FreeCFGHub
+vless://48ec09b9-17c4-4cbb-b261-ba8423871a81@shipper.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=OCRYYq4e92sQ-wWFRX6WX9pdvuFBWOqybLhpSiv3nFA&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sbrf-cdn342.ru&sid=111111#Full #908 @FreeCFGHub
+vless://48ec09b9-17c4-028e-b261-ba8423871a81@first.keen.sbrf-cdn342.ru:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #909 @FreeCFGHub
+vless://0e9b3f30-41d1-028e-9083-39975112ef8f@212.233.97.161:443?security=reality&encryption=none&pbk=XguLRlc-hWqFhf8-KTxtCE434F6e4Hiqoc5cTBpLxnE&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=5post-gate.x5.ru&sid=111111#Full #1212 @FreeCFGHub

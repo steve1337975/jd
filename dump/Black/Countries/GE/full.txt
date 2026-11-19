@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [GE] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 04:06:41
-# servers-count: 4
+# generated-at: 11/19/2026 12:58:39
+# servers-count: 3
 
-trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@94.43.238.112:2053?security=tls&sni=likejennie.pages.dev&fp=firefox&type=ws&host=likejennie.pages.dev&path=%2F#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AC%F0%9F%87%AA%20%7C%20%5BBL%5D
+trojan://f426d3c9-fb43-43c0-868b-898dfa451a74@94.43.238.112:2083?type=ws&security=tls&fp=firefox&host=likejennie.pages.dev#2497 | 🇬🇪 Georgia | TROJAN | 📺 YT | TG: @YoutubeUnBlockRu
 https://91.212.213.135:443
-socks4://85.117.32.166:4153
-http://85.117.56.41:8080
+https://91.212.213.135:9443

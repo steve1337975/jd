@@ -1,21 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PH] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 04:06:41
-# servers-count: 12
+# generated-at: 11/19/2026 12:58:39
+# servers-count: 16
 
-http://119.93.139.196:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-27
 vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@120.89.61.213:443?&security=reality&flow=xtls-rprx-vision&pbk=wAh4gvnTR3NRk0SFrkBRkX3tNeybFNodcmg7piumxiM&sid=87395f88&fp=firefox&sni=ph1.gofizz.in&type=tcp&headerType=none&host=ph1.gofizz.in&path=%2F#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-32
-http://126.209.75.83:5050#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-37
-http://119.93.207.214:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-44
-vmess://ewogICAgImFkZCI6ICIxMjAuMjguMTAuNDYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICJzYXpnYXIuc2VydmVpcmMuY29tIiwKICAgICJpZCI6ICJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+HtfCfh61QSC0xMjAuMjguMTAuNDYtMTAyNiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwKICAgICJzbmkiOiAiIgp9
-socks4://119.93.123.229:4145
+http://49.149.24.144:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-38
+http://203.177.217.222:8082#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-47
+http://103.25.220.18:8085#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-66
+http://112.198.52.194:8080#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%ADPH-69
+vmess://eyJhZGQiOiIxMjAuMjguMTAuNDYiLCJhaWQiOjAsImhvc3QiOiJzYXpnYXIuc2VydmVpcmMuY29tIiwiaWQiOiJlY2JhNWIzMy1mNzY4LTRkOGEtYjAwNC1iMjllOGU1YzY3NmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6esIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
 https://202.183.37.129:443
 https://202.183.37.188:443
 https://202.183.37.189:443
-http://27.49.68.66:9999
-http://112.198.22.122:80
+http://124.105.108.131:8080
+http://180.191.124.188:5555
+http://180.190.24.163:9999
+http://157.20.142.34:9595
 http://202.57.46.138:4145
+http://119.94.185.43:8082
+socks4://119.93.123.229:4145

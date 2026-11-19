@@ -1,14 +1,11 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [IL] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 04:06:41
-# servers-count: 5
+# generated-at: 11/19/2026 12:58:39
+# servers-count: 2
 
-vless://0c492b73-98de-4ad2-bbe9-eb25661d17ac@185.241.7.178:443?encryption=none&security=tls&sni=byyzz.pages.dev&type=ws&host=byyzz.pages.dev&path=%2F%3Fproxyip%3Dproxyip.oracle.cmliussss.net&insecure=0#🇺🇸 [WL/CF] Сервер 133
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.70.199:443?type=grpc&security=reality&fp=edge&pbk=xn7KVKS5MOnsFrYrEeRS04JssBCOxh12rxegaDFyGkA&sid=6d289ff0f47c0aac&sni=961ec0g.nl17.h1clayd.click&serviceName=7d5abcd7d8a1&encryption=none#🇳🇱 [BL] Сервер 239
-vless://cda0862a-0f87-4be9-8ed8-1d0c9e382839@79.182.39.131:443?type=grpc&security=reality&fp=chrome&pbk=PD8Jdlg3xB9QY--jwQjp8PFPzCS8-Oryw6-HWBcHMFU&sid=d3bd772514c87d28&sni=717252g.nl8.h1clayd.click&serviceName=204adda7e3da&encryption=none#🇳🇱 [BL] Сервер 257
-vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?type=tcp&security=reality&fp=chrome&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&encryption=none#🇳🇱 [BL] Сервер 384
-vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?type=tcp&security=reality&sni=sun1-19.userapi.com&fp=chrome&flow=xtls-rprx-vision&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY#TCP, VK [V.O.I.D]
+vless://26843758-24de-4f76-b5d0-624038e353c4@79.182.70.192:443?type=tcp&security=reality&fp=chrome&pbk=xv6OUZcyzEHXFMTfumuJH-1Rd4NQ0cdmWikek4mm0m4&sid=c71118d9399fb8c2&sni=15d7fft.nl11.h1clayd.click&encryption=none#🇳🇱 [BL] Сервер 349
+vless://b1da2601-ff93-46d6-af87-04af3f541fde@5.180.181.113:443?security=reality&encryption=none&pbk=wY_MYPJUx849su3BlowuxnwnUaj25iLfRw2LooQfPAY&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun1-19.userapi.com#TCP, VK [V.O.I.D]
