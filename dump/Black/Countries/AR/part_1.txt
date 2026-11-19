@@ -1,28 +1,25 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AR] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826715519
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826745537
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 12:58:39
-# servers-count: 19
+# generated-at: 11/19/2026 21:18:57
+# servers-count: 16
 
-http://45.65.226.169:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-5
-http://138.117.14.250:8090#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-12
-vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@186.122.177.79:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pBEW9XYZQsXxjgt44pCQcxoEOe-B1CdxaTdTnL2QhAA&sid=a5d67406&sni=ar1.gofizz.in#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-13
-http://45.65.226.172:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-17
-http://187.102.219.42:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-18
-http://186.22.246.60:3128#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-27
-http://45.65.224.74:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-30
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.142.80:990# By EbraSha 🪖
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.142.81:990# By EbraSha 🕹️
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@138.186.143.32:990# By EbraSha 🌐
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@190.103.176.32:990# By EbraSha 🛸
-socks4://200.0.227.220:4153
+http://190.216.163.198:999#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%AAPE-1
+vless://8197b9b9-8945-460f-99c9-325ef8a8a7c3@186.122.177.79:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=pBEW9XYZQsXxjgt44pCQcxoEOe-B1CdxaTdTnL2QhAA&sid=a5d67406&sni=ar1.gofizz.in#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-12
+http://187.102.219.42:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-17
+http://200.26.184.32:999#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%B4DO-19
+http://190.123.83.137:999#%5BOpenRay%5D%20%F0%9F%87%A6%F0%9F%87%B7AR-29
 https://170.210.44.231:443
-socks4://190.182.137.250:1085
+https://170.80.111.178:9443
+https://45.228.67.130:9443
+socks4://200.70.56.84:1080
+http://201.217.244.115:80
+http://181.78.174.14:8080
 socks5://190.229.64.252:443
 http://181.119.224.25:8080
-http://200.0.227.220:4153
-http://181.78.95.59:999
-http://200.122.92.211:5678
+http://181.114.225.226:8080
+socks4://190.18.170.230:5678
+http://201.234.24.89:4153
