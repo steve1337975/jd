@@ -1,11 +1,10 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [PA] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826665305
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 23:01:45
-# servers-count: 2
+# generated-at: 11/19/2026 04:06:41
+# servers-count: 1
 
-vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&headerType=none&type=tcp&sni=portal.mavexa.ir#🇨🇭 [BL] Сервер 147
-vless://90157e25-cee1-4217-921e-91f300bc1a24@prvtch.titun.su:443?security=reality&encryption=none&pbk=1vSZjvhZO01oAEH3b7eebR1qF5dLU1Dq2E7xu8pwGSs&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=perevodchiki.su&sid=428ef87fd47a3a32#5284.%20VLESS%20%7C%20SNI%3A%20perevodchiki.su%20%7C%20TG%3A%20%40wlrustg
+vless://9dd38d60-e683-47c6-bd53-d71bdfee78f3@179.43.187.67:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=portal.mavexa.ir#🇨🇭 [BL] Сервер 162

@@ -1,22 +1,17 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CZ] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826665305
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 23:01:45
-# servers-count: 13
+# generated-at: 11/19/2026 04:06:41
+# servers-count: 8
 
-vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?type=raw&security=reality&fp=chrome&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&sni=yahoo.com#0206 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?type=grpc&security=tls&fp=firefox&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&serviceName=67h2o3erm0t9imsj#0213 | 🇪🇪 Estonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://bab61ae8-b04f-474a-9268-d6becc3ca487@194.87.242.27:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ub1PHBkdqrCahRc4rgavIBm9EvIDWrZi0ff_OvEv8FU&sid=b0f839d2a5c7e146&sni=stream.selectus.ru#0354 | 🇨🇿 Czechia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://9721ae68-fc60-4349-8519-1d513b06d044@194.87.45.177:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-67392.sosnas.site#0581 | 🇪🇸 Spain | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://bab61ae8-b04f-474a-9268-d6becc3ca487@193.124.94.136:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=lxTQST37knG1eCPA0UscdPHzTmSnMgito5r4o0vZils&sid=4e9b7a1c5f3d2e68&sni=promo-digital.wb.ru#0685 | 🇨🇿 Czechia | 🏳️ SNI-Wildberries | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4655b290-d165-4d9e-988b-461e00cb26e1@193.124.46.111:443?type=tcp&security=tls&flow=xtls-rprx-vision&fp=firefox&sni=api-91643.sosnas.site#1161 | 🇹🇷 Turkey | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://a9a6a972-6394-4e4b-9d84-b0abe68a1ef5@194.135.22.186:443?type=grpc&security=tls&fp=firefox&sni=videohosting.cliphub.forum&serviceName=videohosting.Stream#1171 | 🇨🇭 Switzerland | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://de56df45-938c-4bc2-a344-8f06796e6c9c@109.248.59.59:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=ylQh0dHOsyfa-O-i3qFqtg_cHN0qdw27yimnKrRvHk4&sid=30fae026&sni=f431f.tornadonext.com#1722 | 🇷🇺 Russia | VLESS | TG: @YoutubeUnBlockRu
-vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#Lite #273 @FreeCFGHub
-vless://399c36ff-f5b3-4b74-ac33-d85abe8024e7@195.133.25.155:443?security=reality&encryption=none&pbk=O1CjrUbYq3bcGp5oTe-a8OSaxkCr2-h-MgN4bWFwtSQ&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd6b3888c517bfab#Lite #776 @FreeCFGHub
-vless://3b6cedc4-34fd-4306-b1cb-00983eb7fbf2@212.193.27.178:443?security=reality&encryption=none&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e28dc4552e6d2005#Lite #780 @FreeCFGHub
-vless://aa456b46-2f1b-4a8f-96d0-e8c3bca5b634@46.8.197.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yUsrKhsrPI0wHavNqCy0b7nb2fKyGF7GH8JneNARfmU&security=reality&sid=8f887409fa2f8a9b&sni=ru.florida-project.fun&type=tcp#Full #125 @FreeCFGHub
-vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?security=reality&encryption=none&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cze.katanavpn.ru&sid=82978722b1a42ddb#Full #1007 @FreeCFGHub
+vless://d86e6fda-e519-46ab-98eb-9ff9a9da5984@87.232.116.22:443?type=grpc&security=tls&fp=firefox&sni=fafeqdhlett2p5la6d.cdn.cachefleet.com&serviceName=67h2o3erm0t9imsj#0163 | 🇪🇪 Estonia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://6dd8fd0f-987b-49e0-a87e-7619045bdde0@109.248.148.142:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=RFZXfsd3WfxOKRcdO4Q7RoElfE8JbMpR6bG3jYLV_Uc&sni=www.apple.com#0775 | 🇱🇻 Latvia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://b573cefb-7bc7-4a42-b407-b8b534e66773@109.248.170.119:13447?type=tcp&security=reality&fp=firefox&pbk=_0wM2ep44eAcrgf5PflKaBivknCWT6kMvQBQUoScCkE&sid=83&sni=yahoo.com#1513 | 🇰🇿 Kazakhstan | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://e1299012-3d27-4b7f-99d5-25ccb7c63220@194.58.41.39:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=www.google.com&fp=firefox&pbk=sJTPQLMDCyPAbRcaJM-P8Y3_xRVpEEGrvv-kkIuIuQE&path=%2F&host=www.google.com#Lite #181 @FreeCFGHub
+vless://399c36ff-f5b3-4b74-ac33-d85abe8024e7@195.133.25.155:443?security=reality&encryption=none&pbk=O1CjrUbYq3bcGp5oTe-a8OSaxkCr2-h-MgN4bWFwtSQ&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=fd6b3888c517bfab#Lite #777 @FreeCFGHub
+vless://3b6cedc4-34fd-4306-b1cb-00983eb7fbf2@212.193.27.178:443?security=reality&encryption=none&pbk=-EgJBfNxBY0UyLwDdOKDzHIjzCLJyMpUP9A9by65Zz0&headerType=&fp=random&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=e28dc4552e6d2005#Lite #781 @FreeCFGHub
+vless://aa456b46-2f1b-4a8f-96d0-e8c3bca5b634@46.8.197.177:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=yUsrKhsrPI0wHavNqCy0b7nb2fKyGF7GH8JneNARfmU&security=reality&sid=8f887409fa2f8a9b&sni=ru.florida-project.fun&type=tcp#Full #055 @FreeCFGHub
+vless://b620c3fc-c684-4442-bf57-80a4dc5bb955@cze.katanavpn.ru:443?security=reality&encryption=none&pbk=gGnBn3VWyNgN7fhQ7WrxgWsfmdkrodPZ1_pf2BdQnlw&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cze.katanavpn.ru&sid=82978722b1a42ddb#Full #1604 @FreeCFGHub

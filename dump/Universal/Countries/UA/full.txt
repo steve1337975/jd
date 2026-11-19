@@ -1,14 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826665305
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826683601
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/18/2026 23:01:45
-# servers-count: 5
+# generated-at: 11/19/2026 04:06:41
+# servers-count: 7
 
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0359 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws#0388 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0747 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1518 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#2089 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://04261321-8725-4d03-a502-704656b0cb8a@89.251.22.59:20721?encryption=mlkem768x25519plus.xorpub.0rtt.100-111-1111.75-0-111.50-0-3333.jfghkcunve2d1e-wmp_yfybk8wxtigqy9xzgcpqmani#0097 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0298 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws#0322 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0607 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://04261321-8725-4d03-a502-704656b0cb8a@89.251.22.59:2052?type=ws&encryption=mlkem768x25519plus.xorpub.0rtt.14zibqtzov6pusw4s56mh1foceookxq621fhmrqptkq#0968 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=safari&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#1305 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?type=tcp#1827 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
