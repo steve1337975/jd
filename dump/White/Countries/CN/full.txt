@@ -1,12 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CN] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826764029
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 02:27:09
-# servers-count: 3
+# generated-at: 11/20/2026 10:21:30
+# servers-count: 4
 
-vless://e1be6941-0667-469c-9224-6f34adb549ba@119.28.90.128:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=dl.google.com&fp=chrome&pbk=qzoG-cG8dG_C1T2tsWnWgooE9eekntARY0fVGIyg4Fg&sid=c11a9913&udp=1&tfo=1#AetrisVPN White list ┃ ✅ SNI: dl.google.com ┃ 🇪🇸 Испания
 ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cXJ5bDZ4VkxrV1habHFEN0NjY3BRdz09@103.238.140.162:10002#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
-vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#🇫🇮 Финляндия 6 Fast Servers Pty Ltd%20t.me%2Frjsxrd
+vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?type=xhttp&security=reality&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&sni=www.philips.com#🇫🇷227Mb | Fast Servers (Pty)
+vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:8443?type=grpc&security=reality&fp=firefox&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&sni=cdn.steamstatic.com&serviceName=TunService#🇫🇷93Mb | Fast Servers (Pty)
+vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?type=grpc&security=reality&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&sni=www.canon.com&mode=gun&serviceName=TunService#1370%20|%20%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20|%20VLESS%20|%20%F0%9F%93%BA%20YT%20|%20TG:%20@YoutubeUnBlockRu

@@ -1,17 +1,13 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [TR] — WHITE
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826764029
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 02:27:09
-# servers-count: 8
+# generated-at: 11/20/2026 10:21:30
+# servers-count: 4
 
-vless://f131d292-d3c2-42b3-bcea-f9712c31b303@185.71.216.177:2090?security=reality&encryption=none&pbk=qBobe6KSNkFLqTPCffcJo0nXgxy-3JKru9WRqY9rkjk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=bb472a184677af64#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇩🇪 Германия
-vless://ca21222b-caf1-4418-b404-345ea713daa4@185.71.216.94:2092?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇹🇷 Турция
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@37.221.76.117:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none#%F0%9F%87%AA%F0%9F%87%BA%20AetrisVPN
-vless://128bd8ad-4f6c-4d70-af13-15a2cec331d2@37.221.76.116:2194?security=reality&encryption=none&pbk=jHtC6ayzhkd_GVNF5TIGPu9iVpqUltBAQj1dpGJHwxs&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=55986a94e2228791#%E5%9C%9F%E8%80%B3%E5%85%B6_112002035%20t.me%2Frjsxrd
-vless://8b7a8f61-74c0-491f-bbba-ea153edb1a4b@185.71.216.94:2093?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=C_GA8wVjeLmyqLK6em5OHn4WPlsbndA-RyvyNU1aGFM&sid=8a9725533854a7e8&type=tcp&headerType=none#%F0%9F%87%B9%F0%9F%87%B7_%E5%9C%9F%E8%80%B3%E5%85%B6%20%282%29%20t.me%2Frjsxrd
-vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@178.210.168.254:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=dN1aRcsFNHiFHw9E6YVSOF1SR2H-ahW4gEuXdLvZeFw&security=reality&sid=e01f&sni=urk35.dendi.best&type=tcp#🇹🇷 Турция 2 Niobe Bilisim Ltd. Sti.%20t.me%2Frjsxrd
-vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.117:2092?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&sid=716b7eba38125f3a&sni=www.apple.com&encryption=none#🇫🇷 [BL] Сервер 296
-vless://7b102311-43fd-4e8f-877e-8090623c101d@185.200.36.36:443?encryption=none&security=tls&sni=vp58.cc.cd&fp=chrome&type=ws&host=vp58.cc.cd#🇧🇬 [BL/CF] Сервер 518
+vless://9654f1a9-8dbc-4897-85ea-c077a52b3857@37.221.76.117:2195?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=chrome&pbk=OKksVHWL5JepTv7if7Ta_L_7vn8OxW0INwV71HJM1jI&sid=3869d49a9a79e06a&type=tcp&headerType=none#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇹🇷 Турция
+vless://ca21222b-caf1-4418-b404-345ea713daa4@37.221.76.116:2092?security=reality&type=tcp&packetEncoding=xudp&sni=www.apple.com&fp=chrome&flow=xtls-rprx-vision&sid=716b7eba38125f3a&pbk=zeyIqmHylDrPbbtdG9BleBt0-fqKCHpZ0OZ9OY2_WUI&encryption=none#AetrisVPN White list ┃ ✅ SNI: www.apple.com ┃ 🇫🇷 Франция
+vless://a6142d9d-3f9f-47b7-b7e9-1245dd6a15d6@178.210.168.254:443?&security=reality&flow=xtls-rprx-vision&pbk=dN1aRcsFNHiFHw9E6YVSOF1SR2H-ahW4gEuXdLvZeFw&sid=e01f&fp=firefox&sni=urk35.dendi.best&type=tcp&headerType=none&host=urk35.dendi.best&path=%2F#%F0%9F%87%B9%F0%9F%87%B7%20T%C3%BCrkiye%20%7C%20TG%3A%20%40HardVpn_robot
+vless://43f3c1a1-22f4-435d-9e5f-012c0a4ec493@31.210.52.149:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=W58BNG-2mtSvQYg7Id1yuW2-XqtLj0zoutETNsQuWkA&sid=211b&sni=tr-ist-3.koolb.org#🇹🇷229Mb | Sh Online Iletisim Anonim Sirketi
