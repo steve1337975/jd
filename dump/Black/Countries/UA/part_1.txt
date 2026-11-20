@@ -1,37 +1,52 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826822602
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 10:21:30
-# servers-count: 28
+# generated-at: 11/20/2026 18:43:22
+# servers-count: 43
 
+vless://39397ce8-51f5-4780-957f-942b4dfd75f7@edition.ativetechnology.ir:46132?security=none&type=tcp&headerType=http&path=%2F&host=ssh.webdade.com&packetEncoding=xudp&encryption=mlkem768x25519plus.native.0rtt.JOz04Neg9PDWwDsVd4DaTDB63yZZDX2FNbkadsv91gk#%5BOpenRay%5D%20%F0%9F%8C%90XX-79
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?security=none&type=ws&path=%2Fvless&host=178.94.25.73&packetEncoding=xudp&sni=178.94.25.73#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-4
+http://159.224.243.185:37793#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-7
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?security=none&type=tcp&packetEncoding=xudp&sni=178.94.25.73#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-11
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?fp=random&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&security=reality&sid=d8b58872&sni=www.cloudflare.com&type=tcp#%5BOpenRay%5D%20%F0%9F%8C%90XX-695
+vless://c34a41b6-598f-46ac-bea3-8b39a906f922@87.76.154.28:57231?security=none&type=tcp&packetEncoding=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-16
+vless://50d10e6c-37e1-4512-b35a-2d4e0adfd079@0cf703b86ea5a239.RaVEnlO.iR:8080?&security=false&fp=chrome&type=ws&headerType=none&host=0cf703b86ea5a239.RaVEnlO.iR&path=%2F#%5BOpenRay%5D%20%F0%9F%8C%90XX-1119
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?security=none&type=ws&path=%2Fvless&packetEncoding=xudp#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-17
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-19
+vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@45.144.214.102:443?flow=xtls-rprx-vision&sid=aa2cd28cccee4f45&security=reality&type=tcp&pbk=W_6kEDko_-O5JHaIigz6YqXJTm4SLrS0_3lCp5B4CWE&fp=chrome&headerType=none&sni=tr.trustsvpn.com&encryption=none#%5BOpenRay%5D%20%F0%9F%87%B9%F0%9F%87%B7TR-53
+vless://1fba2b1d-21c7-4110-80b6-5ddfd5407cf8@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none#%5BOpenRay%5D%20%F0%9F%8C%90XX-1487
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?security=reality&type=tcp&packetEncoding=xudp&sni=www.cloudflare.com&fp=chrome&sid=d8b58872&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-27
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.164.175.81:19999#🇮🇹[openproxylist.com] ss-IT
-vmess://ewogICAgImFkZCI6ICI0NS45NC4xNjkuMTQyIiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvd3NzMTM4ODkiLAogICAgInBvcnQiOiA0NDMsCiAgICAicHMiOiAi8J+HufCfh7dUUi00NS45NC4xNjkuMTQyLTc4NjkiLAogICAgInRscyI6ICJ0bHMiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com#🔥Join+Telegram:@Farah_VPN🟣
-vless://a6cfc07b-964a-4737-a089-69abefcdb509@de.g-boot.ir:443?security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=9a597f16c2171bab#🔥Join+Telegram:@Farah_VPN🟣
-vless://128ce9ab-63bc-48dc-92ca-1b5426a9eb46@45.144.214.102:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tr.trustsvpn.com&fp=chrome&pbk=W_6kEDko_-O5JHaIigz6YqXJTm4SLrS0_3lCp5B4CWE&sid=aa2cd28cccee4f45&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-vless://3679077b-cbcf-40f9-9318-b71199643b80@46.202.82.82:8443?security=reality&encryption=none&pbk=MMtQZAfeoLdRLaV_tOQwdkU3haA7OjEAjxkDKQkgfls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=745948e442d1db44#🔥Join+Telegram:@Farah_VPN🟣
-vless://a6cfc07b-964a-4737-a089-69abefcdb509@de.g-boot.ir:443?mode=auto&path=/8802c2c55be0&security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&fp=chrome&type=xhttp&sni=www.amd.com&sid=9a597f16c2171bab#🔥Join+Telegram:@Farah_VPN🟣
-vless://c34a41b6-598f-46ac-bea3-8b39a906f922@leviko-tr8060.shopingggg.ir:57231?security=none&encryption=none&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-vless://6d6c46cd-9041-4c38-ac2e-b24aebaed007@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
-trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com#%F0%9F%87%BA%F0%9F%87%A6UA-173.242.51.189-5732
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0583 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws#0616 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom&host=vlso5.1d.mom#0919 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#1170 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#3318 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#2991 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990# By EbraSha 🔋
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ@45.154.204.7:990# By EbraSha 🚧
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@45.154.206.192:990# By EbraSha 💣
+ss://YWVzLTI1Ni1nY206TXpSbFl6QTBaR1kwTmpjMlpqUTJZVFJpTVRnMllUa3pOak00T0dJMQ@kyiv02.npvnot.com:443# By EbraSha 🌀
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0%3D@185.164.175.81:19999# By EbraSha 📼
+trojan://humanity@173.242.51.189:443?security=tls&sni=www.cordweave.com# By EbraSha 🧩
+vless://20fb2c96-e0c5-47ee-b495-7140c5870024@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none# By EbraSha ⚡
+vless://3679077b-cbcf-40f9-9318-b71199643b80@46.202.82.82:8443?security=reality&encryption=none&pbk=MMtQZAfeoLdRLaV_tOQwdkU3haA7OjEAjxkDKQkgfls&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=745948e442d1db44# By EbraSha 💣
+vless://6d6c46cd-9041-4c38-ac2e-b24aebaed007@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.nvidia.com&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&type=tcp&headerType=none# By EbraSha 🕶️
+vless://a6cfc07b-964a-4737-a089-69abefcdb509@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none# By EbraSha 🦈
+vless://a6cfc07b-964a-4737-a089-69abefcdb509@de.g-boot.ir:443?mode=auto&path=%2F8802c2c55be0&security=reality&encryption=none&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&fp=chrome&type=xhttp&sni=www.amd.com&sid=9a597f16c2171bab# By EbraSha 🦂
+vless://c28ee61d-0d43-4e69-8e6a-6397ed0ffc03@31.43.191.99:443?security=reality&encryption=none&pbk=SHDdd617KLHHb0qlQFOHepeHFl_Ch2i-K7o891uyo2M&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=luminous-vortex.cdn.cachefleet.com# By EbraSha 🧪
+vless://db80088c-32a1-4cb8-a907-0f3cb7844152@194.150.220.179:443?security=reality&encryption=none&pbk=lXCVb-MY5dJqMUw6xvkuPbi0idyfF-OkSY_6GpOovVI&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=nl4.japancase.site&sid=9f05c35b73b47d53# By EbraSha 🚨
+vless://e66f1c31-95d1-45eb-a36a-56f79a6fa9d4@de.g-boot.ir:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=KaVqOudPdBy9TIEDxGMN_fcOGlKJmNg2e2grikDJ2lE&sid=9a597f16c2171bab&sni=www.nvidia.com&type=tcp&headerType=none# By EbraSha 🌪️
+vmess://eyJhZGQiOiI0NS45NC4xNjkuMTQyIiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MjRjNThiMS02NWJhLTQ2ODAtYTYwOS02NjNhMDAwZGJiOTIiLCJuZXQiOiJ3cyIsInBhdGgiOiIvd3NzMTM4ODkiLCJwb3J0Ijo0NDMsInBzIjoiQnkgRWJyYVNoYSDwn4yNIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8ifQ==
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom#0641 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws&host=178.94.25.73#0833 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#2241 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?sni=www.cloudflare.com&fp=chrome&security=tls#%F0%9F%87%BA%F0%9F%87%A6%5Bwww.v2nodes.com%5D%20vless-UA-1...
 socks5://31.202.119.250:44869
-socks4://159.224.243.185:61303
 https://185.254.199.113:443
-http://195.226.213.254:8888
-socks4://193.105.62.11:58973
-socks5://87.76.138.46:1080
+socks5://178.92.72.205:1080
+http://195.34.91.67:8080
+http://45.149.24.140:8080
 http://81.162.249.129:4153
-http://31.43.33.56:4153
-socks4://5.58.97.86:41641
+http://45.149.24.147:8080
+socks4://159.224.243.185:61303
 http://31.202.119.250:44869
-http://195.78.100.162:3629
-http://159.224.243.185:61303
+http://178.92.72.205:1080
+socks4://5.58.97.86:41641

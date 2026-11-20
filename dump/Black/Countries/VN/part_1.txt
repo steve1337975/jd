@@ -1,42 +1,47 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [VN] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826822602
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 10:21:30
-# servers-count: 55
+# generated-at: 11/20/2026 18:43:22
+# servers-count: 64
 
-vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?type=tcp#🇻🇳 Вьетнам
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?encryption=none&type=raw&headerType=none&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sni=www.cloudflare.com&sid=99676967e6867063#[🇻🇳] [vl-re-ra] [261120-060848.478]
-vless://f592a058-bfb6-447e-b849-fd169b65b301@kir4.crackerbinam.org:25272?encryption=none&security=reality&type=tcp&sni=www.cloudflare.com&fp=chrome&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&sid=f3a10622fe#⚡ b2n.ir/v2ray-configs | 77
-vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#🔥Join+Telegram:@Farah_VPN🟣
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@leviko-vn7739.shopingggg.ir:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&spx=/&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#🔥Join+Telegram:@Farah_VPN🟣
-vmess://ewogICAgImFkZCI6ICIxMDMuMTY2LjE4My4yMjYiLAogICAgImFpZCI6IDAsCiAgICAiaG9zdCI6ICIiLAogICAgImlkIjogImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsCiAgICAibmV0IjogIndzIiwKICAgICJwYXRoIjogIi90YW5kdW5nMjg4LmNsaWNrIiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hu/Cfh7NWTi0xMDMuMTY2LjE4My4yMjYtMDMyMiIsCiAgICAidGxzIjogIiIsCiAgICAidHlwZSI6ICJhdXRvIiwKICAgICJzZWN1cml0eSI6ICJhdXRvIiwKICAgICJza2lwLWNlcnQtdmVyaWZ5IjogZmFsc2UsCiAgICAic25pIjogImRsLmtndm4uZ2FyZW5hbm93LmNvbSIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDMuNTYuMTYwLjE4NCIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3RhbmR1bmcyODguY2xpY2siLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e78J+Hs1ZOLTEwMy41Ni4xNjAuMTg0LTAzODUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDMuNzUuMTg2LjE1MyIsCiAgICAiYWlkIjogMCwKICAgICJob3N0IjogIiIsCiAgICAiaWQiOiAiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwKICAgICJuZXQiOiAid3MiLAogICAgInBhdGgiOiAiL3RhbmR1bmcyODguY2xpY2siLAogICAgInBvcnQiOiA4MCwKICAgICJwcyI6ICLwn4e78J+Hs1ZOLTEwMy43NS4xODYuMTUzLTAzODYiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vmess://ewogICAgImFkZCI6ICIxMDMuODIuMjUuMTA2IiwKICAgICJhaWQiOiAwLAogICAgImhvc3QiOiAiIiwKICAgICJpZCI6ICJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLAogICAgIm5ldCI6ICJ3cyIsCiAgICAicGF0aCI6ICIvZnV6enluZz9lZD0yMDQ4IiwKICAgICJwb3J0IjogODAsCiAgICAicHMiOiAi8J+Hu/Cfh7NWTi0xMDMuODIuMjUuMTA2LTg2ODUiLAogICAgInRscyI6ICIiLAogICAgInR5cGUiOiAiYXV0byIsCiAgICAic2VjdXJpdHkiOiAiYXV0byIsCiAgICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgICAic25pIjogIiIKfQ==
-vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&fp=firefox&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#0006 | 🇻🇳 Vietnam | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-socks4://123.25.116.228:1080
+vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&encryption=none&pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&headerType=http&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=f3a10622fe#%F0%9F%87%BB%F0%9F%87%B3%20AetrisVPN
+http://42.96.15.210:60000#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-1
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@kir3.crackerbinam.org:56026?type=tcp&security=reality&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063&sni=www.cloudflare.com#%5BOpenRay%5D%20%F0%9F%8C%90XX-268
+http://42.96.15.210:60001#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-8
+http://42.96.12.16:55555#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-13
+socks5://160.30.204.24:50001#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-14
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@leviko-vn7739.shopingggg.ir:56026?security=reality&encryption=none&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=99676967e6867063#%5BOpenRay%5D%20%F0%9F%8C%90XX-678
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@160.30.54.63:443?security=tls&type=ws&path=%2Fchannel%3Fed%3D2560&host=cdn8848.776676.xyz&packetEncoding=none&allowInsecure=0&ech=cloudflare-ech.com%2Bhttps%3A%2F%2Fdns.alidns.com%2Fdns-query&sni=cdn8848.776676.xyz&fp=chrome#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-28
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@103.163.24.22:56026?security=reality&sni=www.cloudflare.com&type=tcp&fp=chrome&pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&sid=99676967e6867063#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-29
+http://160.30.204.24:50001#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-36
+http://103.82.39.87:5004#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-41
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086?security=none&type=tcp&packetEncoding=xudp&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-53
+http://160.191.47.102:3128#%5BOpenRay%5D%20%F0%9F%87%BB%F0%9F%87%B3VN-60
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@103.163.218.2:990# By EbraSha 🗿
+ss://YWVzLTI1Ni1jZmI6WG44aktkbURNMDBJZU8lIyQjZkpBTXRzRUFFVU9wSC9ZV1l0WXFERm5UMFNW@221.132.29.208:38388# By EbraSha 🧲
+vless://a1f0cbb8-c74a-4c27-b881-7b14d96aece1@leviko-vn7739.shopingggg.ir:56026?security=reality&amp;encryption=none&amp;pbk=gjOKbmRb5cGDPbdz3x8xkBFL43pn3xqL-I6sALHO7ls&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=99676967e6867063# By EbraSha 🔌
+vless://b83faafc-cbb7-4655-99d4-2c4c39a49d1b@150.95.109.109:2086# By EbraSha 🌑
+vmess://eyJhZGQiOiIxMDMuMTY2LjE4My4yMjYiLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6ImVmOTE5YzY3LTY2MzgtNDQxNi05MWFmLTlhMTNmZmU1YjljYSIsIm5ldCI6IndzIiwicGF0aCI6Ii90YW5kdW5nMjg4LmNsaWNrIiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn6aCIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6ZmFsc2UsInNuaSI6ImRsLmtndm4uZ2FyZW5hbm93LmNvbSIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0=
+vmess://eyJhZGQiOiIxMDMuNTYuMTYwLjE4NCIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfjIMiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxMDMuNzUuMTg2LjE1MyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZWY5MTljNjctNjYzOC00NDE2LTkxYWYtOWExM2ZmZTViOWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL3RhbmR1bmcyODguY2xpY2siLCJwb3J0Ijo4MCwicHMiOiJCeSBFYnJhU2hhIPCfkLoiLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byJ9
+vmess://eyJhZGQiOiIxMDMuODIuMjUuMTA2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJlYzdjOTRiNS02Y2E2LTQyODktYjQ0Yi1jNjU4M2YyYzVmNmMiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZnV6enluZz9lZD0yMDQ4IiwicG9ydCI6ODAsInBzIjoiQnkgRWJyYVNoYSDwn5SMIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6ImF1dG8ifQ==
+vless://f592a058-bfb6-447e-b849-fd169b65b301@103.162.14.250:25272?security=reality&amp;encryption=none&amp;pbk=G5fbtso9OktJfpHqg7demmUt8zfjnnEAL_QDRqvOzEU&amp;headerType=http&amp;fp=firefox&amp;type=tcp&amp;sni=www.cloudflare.com&amp;sid=f3a10622fe#🔥Join+Telegram:@Farah_VPN🟣
+socks4://171.247.247.254:1080
+socks4://171.247.241.186:1080
 https://14.225.19.28:8443
 https://14.225.71.128:8443
 https://14.225.71.128:443
 https://157.66.81.25:8443
-socks4://27.68.168.76:1080
-socks4://171.248.218.239:1080
-http://103.82.20.76:8080
-socks4://27.65.119.168:1080
-socks4://171.248.217.220:1080
-socks4://171.248.213.115:1080
+http://171.252.33.109:3128
+socks4://27.68.171.93:1080
+socks4://116.100.218.113:1080
+http://113.167.180.120:3128
 socks5://103.82.193.105:9191
-http://160.191.47.102:3128
-socks5://115.74.200.4:1080
 socks5://160.187.1.225:9050
 socks5://180.93.102.159:40002
-socks5://103.179.172.167:18888
-socks5://180.93.102.159:40007
-socks5://180.93.102.159:40016
-socks5://160.30.204.24:50001
 socks5://103.179.189.64:9191
 socks5://221.132.21.115:10808
 socks5://14.225.205.152:1081
@@ -46,19 +51,23 @@ socks5://14.225.68.207:1337
 socks5://103.82.23.118:6323
 socks5://171.244.199.151:1337
 socks5://103.200.22.28:1080
-http://116.100.222.233:1080
+http://14.225.240.23:8562
+http://103.82.20.76:8080
+http://103.28.37.131:3128
+http://27.67.54.178:8080
 http://171.248.217.220:1080
 http://103.179.189.64:9191
-http://116.100.218.113:1080
-http://160.187.1.225:9050
-http://113.160.130.82:443
-socks4://116.100.220.185:1080
-socks4://116.106.111.202:1080
-http://171.238.156.104:3128
-socks4://14.241.241.185:4145
-socks4://27.72.122.228:51067
+http://113.160.241.196:19132
+http://27.72.244.228:8080
+http://180.93.102.159:40008
+socks4://171.248.222.178:1080
+socks4://14.232.166.150:5678
+socks4://171.248.217.220:1080
+socks4://171.238.62.144:1080
+socks4://171.247.243.125:1080
+http://103.82.193.105:9191
 http://180.93.102.159:40002
 http://180.93.102.159:40007
-http://180.93.102.159:40016
-http://160.30.204.24:50001
+http://171.248.218.63:1080
 http://171.247.246.204:1080
+socks5://180.93.102.159:40007

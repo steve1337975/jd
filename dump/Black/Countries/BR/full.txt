@@ -1,33 +1,47 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [BR] — BLACK
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826822602
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 10:21:30
-# servers-count: 24
+# generated-at: 11/20/2026 18:43:22
+# servers-count: 38
 
+http://167.250.23.189:9090#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-1
+vless://f9255507-1b65-433f-bfd8-193b35e068e2@185.133.35.140:80?path=%2FTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2&amp;security=none&amp;encryption=none&amp;host=s5.868001.xyz&amp;type=ws#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-14
+http://177.37.167.172:3900#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-99
+http://186.227.119.91:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-153
+socks5://186.233.119.183:1080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-181
+http://45.165.216.25:9191#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-214
+vless://cc99c57d-6c93-4031-9153-73f510636533@185.133.35.86:443?encryption=none&security=tls&sni=mama511.baklajann.ru&fp=chrome&type=xhttp&path=/&host=mama511.baklajann.ru&mode=auto&extra=%7B%22mode%22%3A%22packet-up%22%2C%22path%22%3A%22%2F%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A4%2C%22maxConcurrency%22%3A0%2C%22cMaxReuseTimes%22%3A0%2C%22hMaxRequestTimes%22%3A%22600-900%22%2C%22hMaxReusableSecs%22%3A%221800-3000%22%2C%22hKeepAlivePeriod%22%3A0%7D%7D#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-217
+http://201.76.9.115:8080#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-222
+socks5://uwrgfkwg:0mvrt5jb@191.7.129.133:62000#%5BOpenRay%5D%20%F0%9F%87%A7%F0%9F%87%B7BR-259
 https://200.133.218.122:443
 https://168.205.255.238:443
+https://201.55.8.55:443
+https://177.71.177.240:443
 https://200.144.254.235:443
+http://201.62.125.142:8080
+http://179.48.8.9:8088
 http://45.225.18.240:8080
-http://177.131.125.144:5432
-http://177.12.140.108:8080
-http://170.80.221.192:4153
-http://186.226.167.191:3128
-http://170.81.131.70:3128
-http://167.250.23.189:9090
-http://168.228.176.12:3139
-http://189.90.248.95:8080
-socks4://177.55.191.22:60606
-socks4://177.74.141.8:5432
-socks4://177.54.239.13:4145
-socks4://201.131.214.1:5678
-http://167.250.56.81:8080
-socks4://179.189.248.109:5432
-socks4://189.90.118.105:4153
+http://177.70.8.202:3128
+http://179.48.8.1:8088
+http://45.161.128.36:8080
+http://187.110.232.118:8080
+http://191.5.126.28:8080
+http://181.191.14.5:8080
+http://168.181.151.168:8081
+http://190.89.104.48:5432
+http://170.84.93.122:8080
+http://138.204.95.193:8989
+socks4://190.89.104.88:5432
 http://170.81.102.168:6666
+socks4://179.189.249.130:5432
+socks4://179.189.245.173:5432
+socks4://177.85.65.177:4153
+socks4://200.188.246.122:60606
+socks4://131.108.112.222:4153
+http://177.91.35.202:4153
+http://186.216.195.1:4153
 http://177.55.191.22:60606
-http://45.175.59.2:61950
 http://177.73.248.26:55290
-http://170.244.0.179:4145

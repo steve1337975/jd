@@ -1,15 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [UA] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826792490
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826822602
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/20/2026 10:21:30
-# servers-count: 6
+# generated-at: 11/20/2026 18:43:22
+# servers-count: 7
 
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0583 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws#0616 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom&host=vlso5.1d.mom#0919 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#1170 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#2991 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#3318 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@31.222.235.81:443?type=tcp&security=reality&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&sni=www.cloudflare.com#0341 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://a1de0630-5786-48a0-84f6-dc6f2de10d6d@185.153.198.86:443?type=ws&security=tls&fp=chrome&sni=vlso5.1d.mom#0641 | 🇲🇩 Moldova | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:14430?type=ws&host=178.94.25.73#0833 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10444?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0oTkcqwLTUNLnSOP-VUWErmy6usAIg-biBE6ioZO-Vo&sid=8debcf36f1cc69ff&sni=video.yandex.ru#2165 | 🇸🇬 Singapore | 🏳️ SNI-Yandex | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://2dacc738-5720-4824-b8bc-e3db57596ba7@178.94.25.73:10443?sni=178.94.25.73#2241 | 🇸🇬 Singapore | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4dc44e58-b265-49c0-8b01-87d613f9bebb@178.92.205.63:11167?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=www.mercadolivre.com.br&pbk=zrwJjaWEAfAZ3QCgnLnLoPE-edB_3wvKCqIz9maP02g&sid=ac&fp=firefox#Lite #307 @FreeCFGHub
+vless://d8b58872-cc25-4bb2-badb-b86399c075fa@netx.smrtai.top:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=L9IllZt5vcjYVY_6rmCJ_9ypmJsBK8dSWkNVCStrZjk&sid=d8b58872&type=tcp&headerType=none#Full #1859 @FreeCFGHub
