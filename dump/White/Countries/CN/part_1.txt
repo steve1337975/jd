@@ -1,13 +1,12 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CN] — WHITE #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826745537
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826764029
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 21:18:57
-# servers-count: 4
+# generated-at: 11/20/2026 02:27:09
+# servers-count: 3
 
-vless://e1be6941-0667-469c-9224-6f34adb549ba@119.28.90.128:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=dl.google.com&fp=chrome&pbk=qzoG-cG8dG_C1T2tsWnWgooE9eekntARY0fVGIyg4Fg&sid=c11a9913&udp=1&tfo=1
-vless://80edbcfe-a5dd-4efc-b494-dc1b7aa5b9a3@103.115.18.22:8443?security=reality&sni=ign.dev&fp=qq&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&type=tcp&flow=xtls-rprx-vision&packetEncoding=xudp&encryption=none#2257.%20%F0%9F%87%B8%F0%9F%87%AC%20VLESS%20%7C%20SNI%3A%20ign.dev%20%7C%20TG%3A%20%40wlrustg
-vless://3dbd9377-43cc-46c3-b32c-2605908024eb@103.118.211.38:443?encryption=none&security=reality&sni=czechia.richforever.ru&fp=chrome&pbk=PA1xWXjxZLn68I-6cjWVdqc0dYhWbu9W5c1GpjEOZgE&sid=8a9442353eebbe0f&type=xhttp&host=czechia.richforever.ru&path=/49b9f446&mode=auto&extra={"xPaddingBytes":"100-300","scMaxBufferedPosts":100,"scMinPostsIntervalMs":"5-10"}#5696.%20VLESS%20%7C%20SNI%3A%20czechia.richforever.ru%20%7C%20TG%3A%20%40wlrustg
-vless://f82332b2-dc8c-4196-ac12-f276e37e278a@103.112.71.83:443?security=reality&encryption=none&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&host=/?BIA_TELEGRAM@leviconfigs_leviconfigs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=test.bridge.anti-zapret.com&sid=cbb0a5c1dc905505#8021.%20VLESS%20%7C%20SNI%3A%20test.bridge.anti-zapret.com%20%7C%20TG%3A%20%40wlrustg
+vless://e1be6941-0667-469c-9224-6f34adb549ba@119.28.90.128:443?flow=xtls-rprx-vision&type=raw&security=reality&sni=dl.google.com&fp=chrome&pbk=qzoG-cG8dG_C1T2tsWnWgooE9eekntARY0fVGIyg4Fg&sid=c11a9913&udp=1&tfo=1#AetrisVPN White list ┃ ✅ SNI: dl.google.com ┃ 🇪🇸 Испания
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206cXJ5bDZ4VkxrV1habHFEN0NjY3BRdz09@103.238.140.162:10002#%F0%9F%87%BA%F0%9F%87%B8%20AetrisVPN
+vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?encryption=none&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&security=reality&serviceName=TunService&sni=www.canon.com&type=grpc#🇫🇮 Финляндия 6 Fast Servers Pty Ltd%20t.me%2Frjsxrd

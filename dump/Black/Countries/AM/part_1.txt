@@ -1,23 +1,24 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [AM] — BLACK #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826745537
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826764029
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/19/2026 21:18:57
-# servers-count: 14
+# generated-at: 11/20/2026 02:27:09
+# servers-count: 15
 
 vless://02655447-4659-41df-8d0e-d23a3035b7cb@157.228.66.102:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=PpnL3gRYVIKa1-k_dUWhVmW3JC3iDkxhuMvCxzdyOlk&security=reality&sid=7a50f761409be3e0&sni=al.nebulaguard.org&type=tcp#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-32
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r4.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&fp=firefox&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#%5BOpenRay%5D%20%F0%9F%8C%90XX-311
-vless://02655447-4659-41df-8d0e-d23a3035b7cb@157.228.66.102:32425?encryption=none&fp=firefox&pbk=PpnL3gRYVIKa1-k_dUWhVmW3JC3iDkxhuMvCxzdyOlk&security=reality&serviceName=eb8bcfdd&sid=dfdbc8945a9c72b9&sni=al.nebulaguard.org&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-142
-socks5://46.226.167.214:1080#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7FR-138
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r4.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&fp=firefox&spx=%2F&path=%2F&mode=packet-up&extra=%7B%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%7D#%5BOpenRay%5D%20%F0%9F%8C%90XX-309
+vless://02655447-4659-41df-8d0e-d23a3035b7cb@157.228.66.102:32425?encryption=none&fp=firefox&pbk=PpnL3gRYVIKa1-k_dUWhVmW3JC3iDkxhuMvCxzdyOlk&security=reality&serviceName=eb8bcfdd&sid=dfdbc8945a9c72b9&sni=al.nebulaguard.org&type=grpc#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7GB-144
+socks5://46.226.167.214:1080#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%B7FR-137
 vless://f8d52ece-fad4-478d-875d-df6eed3befa7@193.111.204.84:8443?type=xhttp&security=reality&fp=firefox&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sid=40a4b9403abe554c&sni=assets.study.golangwikito.cfd&mode=packet-up&extra=%7B%22scMaxBufferedPosts%22%3A10%2C%22scMaxEachPostBytes%22%3A%22500000-1000000%22%2C%22scMinPostsIntervalMs%22%3A%2220-40%22%2C%22xPaddingBytes%22%3A%22100-500%22%2C%22xmux%22%3A%7B%22maxConnections%22%3A3%7D%7D&encryption=none#%5BOpenRay%5D%20%F0%9F%87%BA%F0%9F%87%A6UA-30
-vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r4.pythonmakemigreat.wiki:8443?type=xhttp&security=reality&fp=firefox&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&sni=assets.study.golangwikito.cfd&mode=packet-up&extra={"xmux":{"maxConnections":3},"xPaddingBytes":"100-500","scMaxBufferedPosts":10,"scMaxEachPostBytes":"500000-1000000","scMinPostsIntervalMs":"20-40"}#2391 | 🇦🇹 Austria | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@178.160.228.139:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&sid=a7df9e0cde3e1d79&sni=base.syoknew.online#2529 | 🇦🇲 Armenia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://f8d52ece-fad4-478d-875d-df6eed3befa7@r4.pythonmakemigreat.wiki:8443?encryption=none&type=xhttp&security=reality&sni=assets.study.golangwikito.cfd&pbk=QrNs0ew7snHqLfpVXS9RAhlRzgAzzGZK9fXmDcx9xHI&fp=chrome&spx=/&path=/&mode=packet-up&extra={# By EbraSha 🔐
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@193.106.220.103:8444?type=xhttp&security=tls&fp=firefox&sni=at-40-xckh.wave-inside.online&path=/xh&host=at-40-xckh.wave-inside.online&mode=auto#0526 | 🇺🇦 Ukraine | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://7af8ad56-33ce-4f3d-ad15-ef32a71d67f7@178.160.228.139:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=1DFPjPAr5meUaXBdTX2WMZu9BWV39TXV5N36Ske6_A0&sid=a7df9e0cde3e1d79&sni=base.syoknew.online#2743 | 🇦🇲 Armenia | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://0f2dc4af-951f-4690-922e-07c6e8bab26a@at-40-xckh.wave-inside.online:8444?type=xhttp&security=tls&fp=firefox&sni=at-40-xckh.wave-inside.online&path=/xh&host=at-40-xckh.wave-inside.online&mode=auto#2993 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 https://80.86.231.109:443
 https://91.221.229.86:443
 socks5://89.169.34.80:1080
 socks5://46.226.165.82:8443
 http://46.226.167.214:1080
-socks4://81.16.9.222:3629
-socks4://46.226.167.214:1080
+socks4://130.193.123.34:5678
