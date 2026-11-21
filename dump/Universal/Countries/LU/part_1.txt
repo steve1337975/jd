@@ -1,16 +1,18 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [LU] — UNIVERSAL #1
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826842801
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826868514
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/21/2026 00:20:01
-# servers-count: 7
+# generated-at: 11/21/2026 07:28:34
+# servers-count: 9
 
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?type=ws&security=tls&fp=chrome&sni=subgift.gcorecdn.com&host=subgift.gcorecdn.com#0263 | 🇱🇺 Luxembourg | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://cc99c57d-6c93-4031-9153-73f510636533@188.42.89.118:443?type=xhttp&security=tls&fp=chrome&sni=mama1455.baklajann.ru&host=mama1455.baklajann.ru&mode=auto#1494 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://dd3286ae-2e6a-4e7c-83b3-fe20c9af4e96@176.126.122.236:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&sni=worldoftanks.eu#1616 | 🇺🇸 USA | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://dcf1bc78-2922-4b77-a7b1-ea9c65354b49@crewmen-grittier.freevideochats.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&sni=blog.worldoftanks.eu#2574 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&fp=chrome#Lite #032 @FreeCFGHub
-vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&alpn=http%2F1.1&type=ws&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift#Lite #253 @FreeCFGHub
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?security=tls&sni=85.90.217.42&type=tcp#Full #808 @FreeCFGHub
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?type=ws&security=tls&fp=chrome&sni=subgift.gcorecdn.com&host=subgift.gcorecdn.com#0195 | 🇱🇺 Luxembourg | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://10e60745-9685-4b7e-8539-a1fd06ce0d4e@92.223.124.62:443?type=xhttp&security=tls&fp=chrome&sni=api.gcore.com&path=/sakeneko&host=srv-m98h.gcorecdn.net&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"10","xmux":{"cMaxReuseTimes":"64-128","hKeepAlivePeriod":10,"hMaxRequestTimes":"800-900","maxConcurrency":"8-16"}}#0596 | 🇩🇪 Germany | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://dcf1bc78-2922-4b77-a7b1-ea9c65354b49@brooded-plod.sports-streams.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&sni=samoanews.com#1319 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://654ba40a-0522-4fc3-8328-08099482c201@188.42.89.118:443?type=xhttp&security=tls&fp=chrome&sni=mama1455.baklajann.ru&host=mama1455.baklajann.ru&mode=auto&extra={"mode":"packet-up","path":"/","xmux":{"maxConnections":4,"maxConcurrency":0,"cMaxReuseTimes":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000","hKeepAlivePeriod":0}}&fragment=3,1,tlshello,0-5&fm={"tcp":[{"settings":{"delay":"1","length":"3","packets":"tlshello","maxSplit":"0-5"},"type":"fragment"}]}#1974 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?type=tcp&security=tls&fp=qq&sni=kuruish.org&host=kuruish.org#2106 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://dcf1bc78-2922-4b77-a7b1-ea9c65354b49@crewmen-grittier.freevideochats.org:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=6dc3iKXilOQpA_JFrKlk5-CsFjSmOm_5p0kSQcO9qi4&sni=blog.worldoftanks.eu#2446 | 🌐 Unknown | VLESS | TG: @YoutubeUnBlockRu
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@92.223.84.254:443?encryption=none&fp=chrome&host=subgift.gcorecdn.com&path=%2Ft.me-SubGift&security=tls&sni=subgift.gcorecdn.com&type=ws#Lite #319 @FreeCFGHub
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@85.90.217.42:443?security=tls&sni=85.90.217.42&type=tcp#Full #1225 @FreeCFGHub
+vless://740b2630-b42d-425c-bacd-37e7e30d78f1@subgift.gcorecdn.com:443?encryption=none&security=tls&sni=subgift.gcorecdn.com&insecure=0&allowInsecure=0&type=ws&path=%2Ft.me-SubGift#Full #2305 @FreeCFGHub

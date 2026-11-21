@@ -1,15 +1,16 @@
 # announce: ⚡ Проверяйте сервер кнопкой скорости или молнией. Чем меньше задержка (ms), тем лучше отклик; n/a означает, что проверка не удалась.
 # profile-title: 🌍 GEO [CN] — UNIVERSAL
 # profile-update-interval: 1
-# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826842801
+# subscription-userinfo: upload=0; download=0; total=1000000000000; expire=1826868514
 # sort-order: ping
 # generated-by: NChecker
-# generated-at: 11/21/2026 00:20:01
-# servers-count: 6
+# generated-at: 11/21/2026 07:28:34
+# servers-count: 7
 
-vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:8443?type=grpc&security=reality&fp=firefox&pbk=3DYkxUg9fBA6cONioJOPrsklcMQEImEsurR6air4swo&sni=cdn.steamstatic.com&serviceName=TunService#0052 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.7:8443?type=grpc&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com&mode=gun&serviceName=TunService#0851 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://f90baf22-0690-e2ea-c014-e5f536503ac6@122.8.45.5:8443?type=grpc&security=reality&fp=firefox&pbk=iVDh09Vm2DqZMNQoUdf-LCZ6TqVGb9mLXnClAK2LRj4&sni=www.canon.com&mode=gun&serviceName=TunService#1003 | 🇩🇰 Denmark | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.7:443?type=xhttp&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com&mode=auto#1613 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://d236da5f-198e-72dc-5a24-f37b5e90a159@122.8.92.8:443?type=xhttp&security=reality&fp=firefox&pbk=Sq7mtLmaanwsTVNBR9gU7ECU87ftrb_wFGRLLNRBlmQ&sni=www.philips.com#2430 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
-vless://21d0929a-ba27-4822-9b50-bda9ee54a494@103.119.18.253:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_nU9BYxVl5MS4bDnRPnxIDqF341tJXKo0ZmUSktIrnE&sid=cc8e0ee0b70492fa&sni=n37.himoy.space#Full #442 @FreeCFGHub
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.7:8443?type=grpc&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com&serviceName=TunService#0351 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4531bc17-f52d-47de-b5d3-0397945337d1@103.118.211.214:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=58fbcddfaae3ade9&sni=b.anzgopronet.com#0407 | 🇵🇭 Philippines | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+vless://4531bc17-f52d-47de-b5d3-0397945337d1@103.112.71.109:443?security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=0AVsyS7udTbxKRdSyQ2rtFC63icDQOVWq8FvAhhU-WY&sid=cbb0a5c1dc905505&sni=az-medi.anti-zapret.com#0803 | 🇳🇱 Netherlands | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://002023c45d18bca3eba2757bb683309a@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp#0912 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://4fabeed0-790e-9724-8f12-138ed31ac60e@122.8.92.7:443?type=xhttp&security=reality&fp=firefox&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sni=download.nvidia.com&mode=auto#1176 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
+trojan://a0d94e10446eef0e1eebb4f6c177512d@ja262.magiclampcloud.cn:59443?allowInsecure=1&type=tcp&sni=ja262.magiclampcloud.cn#1849 | 🌐 Unknown | TROJAN | TG: @YoutubeUnBlockRu
+vless://21d0929a-ba27-4822-9b50-bda9ee54a494@103.119.18.253:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=firefox&pbk=_nU9BYxVl5MS4bDnRPnxIDqF341tJXKo0ZmUSktIrnE&sid=cc8e0ee0b70492fa&sni=n37.himoy.space#Full #579 @FreeCFGHub
